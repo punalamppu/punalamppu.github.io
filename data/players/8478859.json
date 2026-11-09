@@ -48,11 +48,11 @@
    "career": {
     "assists": 58,
     "gameWinningGoals": 1,
-    "gamesPlayed": 413,
+    "gamesPlayed": 414,
     "goals": 19,
     "otGoals": 0,
     "pim": 326,
-    "plusMinus": 19,
+    "plusMinus": 16,
     "points": 77,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
@@ -68,11 +68,11 @@
    "assists": 58,
    "avgToi": "18:43",
    "gameWinningGoals": 1,
-   "gamesPlayed": 413,
+   "gamesPlayed": 414,
    "goals": 19,
    "otGoals": 0,
    "pim": 326,
-   "plusMinus": 19,
+   "plusMinus": 16,
    "points": 77,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
@@ -656,7 +656,7 @@
    }
   }
  ],
- "_fetched": "2026-11-09",
+ "_fetched": "2026-11-10",
  "gameLog": [
   [
    "2026-09-29",

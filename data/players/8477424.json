@@ -33,7 +33,7 @@
     "goalsAgainstAvg": 2.621757,
     "losses": 3,
     "otLosses": 4,
-    "savePctg": 0.911602,
+    "savePctg": 0.911357,
     "shutouts": 0,
     "wins": 5
    },
@@ -42,7 +42,7 @@
     "goalsAgainstAvg": 2.737908,
     "losses": 175,
     "otLosses": 50,
-    "savePctg": 0.911709,
+    "savePctg": 0.911703,
     "shutouts": 27,
     "wins": 235
    }
@@ -59,8 +59,8 @@
    "losses": 175,
    "otLosses": 50,
    "pim": 10,
-   "savePctg": 0.911709,
-   "shotsAgainst": 14237,
+   "savePctg": 0.911703,
+   "shotsAgainst": 14236,
    "shutouts": 27,
    "timeOnIce": "27568:28",
    "wins": 235
@@ -93,8 +93,8 @@
    "homeRoadFlag": "H",
    "opponentAbbrev": "STL",
    "penaltyMins": 0,
-   "savePctg": 0.961538,
-   "shotsAgainst": 26,
+   "savePctg": 0.96,
+   "shotsAgainst": 25,
    "teamAbbrev": "NSH",
    "toi": "60:00"
   },
@@ -679,10 +679,10 @@
    "losses": 3,
    "otLosses": 4,
    "pim": 0,
-   "savePctg": 0.911602,
+   "savePctg": 0.911357,
    "season": 20262027,
    "sequence": 1,
-   "shotsAgainst": 362,
+   "shotsAgainst": 361,
    "shutouts": 0,
    "teamCommonName": {
     "default": "Predators"
@@ -699,7 +699,7 @@
    "wins": 5
   }
  ],
- "_fetched": "2026-11-09",
+ "_fetched": "2026-11-10",
  "gameLog": [
   [
    "2026-10-01",
