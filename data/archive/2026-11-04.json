@@ -1,0 +1,914 @@
+{
+ "gameDate": "2026-11-04",
+ "games": {
+  "2026020247": {
+   "id": 2026020247,
+   "away": "OTT",
+   "home": "BUF",
+   "awayScore": 2,
+   "homeScore": 1,
+   "start": "2026-11-05T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "14:00",
+     "team": "BUF",
+     "who": "Peyton Krebs",
+     "tag": "",
+     "ast": [
+      "Tage Thompson",
+      "Zach Benson"
+     ],
+     "fin": false,
+     "clip": "6407934105112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "11:33",
+     "team": "OTT",
+     "who": "Shane Pinto",
+     "tag": "",
+     "ast": [
+      "Philip Tomasino",
+      "Thomas Chabot"
+     ],
+     "fin": false,
+     "clip": "6407935445112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "16:51",
+     "team": "OTT",
+     "who": "Michael Amadio",
+     "tag": "",
+     "ast": [
+      "Tim Stützle",
+      "Fabian Zetterlund"
+     ],
+     "fin": false,
+     "clip": "6407935169112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Samuel Ersson (OTT) 24 torjuntaa · Colten Ellis (BUF) 28 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Samuel Ersson",
+     "team": "OTT",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.96
+    },
+    {
+     "star": 2,
+     "name": "Michael Amadio",
+     "team": "OTT",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Colten Ellis",
+     "team": "BUF",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.933
+    }
+   ],
+   "venue": "KeyBank Center",
+   "finStats": [
+    {
+     "name": "Nikolas Matinpalo",
+     "team": "OTT",
+     "opp": "BUF",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "12:15"
+    }
+   ],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/ott-at-buf-recap-6407936357112",
+   "videoId": "",
+   "details": {
+    "goalies": "Samuel Ersson (OTT) 24 torjuntaa · Colten Ellis (BUF) 28 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Samuel Ersson",
+      "team": "OTT",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.96
+     },
+     {
+      "star": 2,
+      "name": "Michael Amadio",
+      "team": "OTT",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Colten Ellis",
+      "team": "BUF",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.933
+     }
+    ],
+    "venue": "KeyBank Center",
+    "finStats": [
+     {
+      "name": "Nikolas Matinpalo",
+      "team": "OTT",
+      "opp": "BUF",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "12:15"
+     }
+    ]
+   }
+  },
+  "2026020248": {
+   "id": 2026020248,
+   "away": "CHI",
+   "home": "FLA",
+   "awayScore": 3,
+   "homeScore": 5,
+   "start": "2026-11-05T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "04:43",
+     "team": "FLA",
+     "who": "Sandis Vilmanis",
+     "tag": "",
+     "ast": [
+      "Sam Reinhart",
+      "Carter Verhaeghe"
+     ],
+     "fin": false,
+     "clip": "6407930392112",
+     "gtd": 2
+    },
+    {
+     "p": "1",
+     "t": "12:29",
+     "team": "FLA",
+     "who": "Carter Verhaeghe",
+     "tag": "YV",
+     "ast": [
+      "Brady Tkachuk",
+      "Matthew Tkachuk"
+     ],
+     "fin": false,
+     "clip": "6407932300112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "13:20",
+     "team": "FLA",
+     "who": "Seth Jones",
+     "tag": "",
+     "ast": [
+      "Sandis Vilmanis",
+      "Sam Reinhart"
+     ],
+     "fin": false,
+     "clip": "6407930657112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "16:48",
+     "team": "CHI",
+     "who": "Roman Kantserov",
+     "tag": "",
+     "ast": [
+      "Ethan Del Mastro",
+      "Connor Bedard"
+     ],
+     "fin": false,
+     "clip": "6407934727112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "09:31",
+     "team": "CHI",
+     "who": "Frank Nazar",
+     "tag": "AV",
+     "ast": [
+      "Cole Smith",
+      "Ethan Del Mastro"
+     ],
+     "fin": false,
+     "clip": "6407934350112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "11:01",
+     "team": "FLA",
+     "who": "Sandis Vilmanis",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6407935155112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "16:09",
+     "team": "CHI",
+     "who": "Frank Nazar",
+     "tag": "",
+     "ast": [
+      "Sam Rinzel",
+      "Connor Bedard"
+     ],
+     "fin": false,
+     "clip": "6407934969112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "18:33",
+     "team": "FLA",
+     "who": "Sam Reinhart",
+     "tag": "TM",
+     "ast": [
+      "Sandis Vilmanis"
+     ],
+     "fin": false,
+     "clip": "6407935868112",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Spencer Knight (CHI) 24 torjuntaa · Jacob Markstrom (FLA) 17 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Sandis Vilmanis",
+     "team": "FLA",
+     "pos": "L",
+     "goals": 2,
+     "assists": 2,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Carter Verhaeghe",
+     "team": "FLA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Sam Reinhart",
+     "team": "FLA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Amerant Bank Arena",
+   "finStats": [
+    {
+     "name": "Teuvo Teräväinen",
+     "team": "CHI",
+     "opp": "FLA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 0,
+     "toi": "09:43"
+    },
+    {
+     "name": "Anton Lundell",
+     "team": "FLA",
+     "opp": "CHI",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 0,
+     "toi": "16:54"
+    },
+    {
+     "name": "Eetu Luostarinen",
+     "team": "FLA",
+     "opp": "CHI",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 0,
+     "toi": "16:10"
+    },
+    {
+     "name": "Niko Mikkola",
+     "team": "FLA",
+     "opp": "CHI",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 2,
+     "sog": 1,
+     "toi": "14:02"
+    }
+   ],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/chi-at-fla-recap-6407937129112",
+   "videoId": "",
+   "details": {
+    "goalies": "Spencer Knight (CHI) 24 torjuntaa · Jacob Markstrom (FLA) 17 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Sandis Vilmanis",
+      "team": "FLA",
+      "pos": "L",
+      "goals": 2,
+      "assists": 2,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Carter Verhaeghe",
+      "team": "FLA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Sam Reinhart",
+      "team": "FLA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Amerant Bank Arena",
+    "finStats": [
+     {
+      "name": "Teuvo Teräväinen",
+      "team": "CHI",
+      "opp": "FLA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 0,
+      "toi": "09:43"
+     },
+     {
+      "name": "Anton Lundell",
+      "team": "FLA",
+      "opp": "CHI",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 0,
+      "toi": "16:54"
+     },
+     {
+      "name": "Eetu Luostarinen",
+      "team": "FLA",
+      "opp": "CHI",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 0,
+      "toi": "16:10"
+     },
+     {
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "opp": "CHI",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 2,
+      "sog": 1,
+      "toi": "14:02"
+     }
+    ]
+   }
+  },
+  "2026020249": {
+   "id": 2026020249,
+   "away": "SJS",
+   "home": "LAK",
+   "awayScore": 2,
+   "homeScore": 7,
+   "start": "2026-11-05T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "01:23",
+     "team": "LAK",
+     "who": "Adrian Kempe",
+     "tag": "",
+     "ast": [
+      "Artemi Panarin",
+      "Drew Doughty"
+     ],
+     "fin": false,
+     "clip": "6407935879112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "16:09",
+     "team": "LAK",
+     "who": "Adrian Kempe",
+     "tag": "",
+     "ast": [
+      "Erik Gustafsson",
+      "Brandt Clarke"
+     ],
+     "fin": false,
+     "clip": "6407937454112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "18:38",
+     "team": "LAK",
+     "who": "Quinton Byfield",
+     "tag": "YV",
+     "ast": [
+      "Artemi Panarin",
+      "Adrian Kempe"
+     ],
+     "fin": false,
+     "clip": "6407938258112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "05:07",
+     "team": "SJS",
+     "who": "Macklin Celebrini",
+     "tag": "YV",
+     "ast": [
+      "Dmitry Orlov",
+      "Michael Misa"
+     ],
+     "fin": false,
+     "clip": "6407939080112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "11:10",
+     "team": "LAK",
+     "who": "Erik Haula",
+     "tag": "",
+     "ast": [
+      "Kenny Connors",
+      "Brian Dumoulin"
+     ],
+     "fin": true,
+     "clip": "6407938212112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "15:51",
+     "team": "LAK",
+     "who": "Adrian Kempe",
+     "tag": "YV",
+     "ast": [
+      "Alex Laferriere",
+      "Artemi Panarin"
+     ],
+     "fin": false,
+     "clip": "6407939970112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "02:12",
+     "team": "LAK",
+     "who": "Joel Armia",
+     "tag": "",
+     "ast": [
+      "Erik Haula"
+     ],
+     "fin": true,
+     "clip": "6407939941112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "09:41",
+     "team": "SJS",
+     "who": "Ivar Stenberg",
+     "tag": "YV",
+     "ast": [
+      "Dmitry Orlov",
+      "Michael Misa"
+     ],
+     "fin": false,
+     "clip": "6407940608112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "14:28",
+     "team": "LAK",
+     "who": "Quinton Byfield",
+     "tag": "YV",
+     "ast": [
+      "Artemi Panarin",
+      "Erik Gustafsson"
+     ],
+     "fin": false,
+     "clip": "6407940234112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Yaroslav Askarov (SJS) 19 torjuntaa · Darcy Kuemper (LAK) 30 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Adrian Kempe",
+     "team": "LAK",
+     "pos": "R",
+     "goals": 3,
+     "assists": 1,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Artemi Panarin",
+     "team": "LAK",
+     "pos": "L",
+     "goals": 0,
+     "assists": 4,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Quinton Byfield",
+     "team": "LAK",
+     "pos": "R",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Crypto.com Arena",
+   "finStats": [
+    {
+     "name": "Joel Armia",
+     "team": "LAK",
+     "opp": "SJS",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 2,
+     "sog": 1,
+     "toi": "12:51"
+    },
+    {
+     "name": "Erik Haula",
+     "team": "LAK",
+     "opp": "SJS",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 2,
+     "sog": 2,
+     "toi": "14:29"
+    }
+   ],
+   "note": "Adrian Kempe hattutemppu · Suomalaiset: Haula 1+1, Armia 1+0",
+   "recapUrl": "https://www.nhl.com/video/sjs-at-lak-recap-6407941444112",
+   "videoId": "",
+   "details": {
+    "goalies": "Yaroslav Askarov (SJS) 19 torjuntaa · Darcy Kuemper (LAK) 30 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Adrian Kempe",
+      "team": "LAK",
+      "pos": "R",
+      "goals": 3,
+      "assists": 1,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Artemi Panarin",
+      "team": "LAK",
+      "pos": "L",
+      "goals": 0,
+      "assists": 4,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Quinton Byfield",
+      "team": "LAK",
+      "pos": "R",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Crypto.com Arena",
+    "finStats": [
+     {
+      "name": "Joel Armia",
+      "team": "LAK",
+      "opp": "SJS",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 2,
+      "sog": 1,
+      "toi": "12:51"
+     },
+     {
+      "name": "Erik Haula",
+      "team": "LAK",
+      "opp": "SJS",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 2,
+      "sog": 2,
+      "toi": "14:29"
+     }
+    ]
+   }
+  },
+  "2026020250": {
+   "id": 2026020250,
+   "away": "CGY",
+   "home": "SEA",
+   "awayScore": 1,
+   "homeScore": 2,
+   "start": "2026-11-05T03:00:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "1",
+     "t": "12:45",
+     "team": "CGY",
+     "who": "Yegor Sharangovich",
+     "tag": "",
+     "ast": [
+      "Zach Whitecloud",
+      "Morgan Frost"
+     ],
+     "fin": false,
+     "clip": "6407936843112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "13:09",
+     "team": "SEA",
+     "who": "Berkly Catton",
+     "tag": "",
+     "ast": [
+      "Mackie Samoskevich",
+      "Kaapo Kakko"
+     ],
+     "fin": false,
+     "clip": "6407941953112",
+     "gtd": 5
+    },
+    {
+     "p": "JA",
+     "t": "00:55",
+     "team": "SEA",
+     "who": "Matty Beniers",
+     "tag": "",
+     "ast": [
+      "Brandon Montour"
+     ],
+     "fin": false,
+     "clip": "6407941436112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Dustin Wolf (CGY) 27 torjuntaa · Joey Daccord (SEA) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Matty Beniers",
+     "team": "SEA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Berkly Catton",
+     "team": "SEA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Joey Daccord",
+     "team": "SEA",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.962
+    }
+   ],
+   "venue": "Climate Pledge Arena",
+   "finStats": [
+    {
+     "name": "Jani Nyman",
+     "team": "SEA",
+     "opp": "CGY",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 2,
+     "toi": "09:16"
+    },
+    {
+     "name": "Kaapo Kakko",
+     "team": "SEA",
+     "opp": "CGY",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 2,
+     "toi": "13:24"
+    },
+    {
+     "name": "Ville Ottavainen",
+     "team": "SEA",
+     "opp": "CGY",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 0,
+     "toi": "10:56"
+    }
+   ],
+   "note": "Suomalaiset: Kakko 0+1",
+   "recapUrl": "https://www.nhl.com/video/cgy-at-sea-recap-6407942016112",
+   "videoId": "",
+   "details": {
+    "goalies": "Dustin Wolf (CGY) 27 torjuntaa · Joey Daccord (SEA) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Matty Beniers",
+      "team": "SEA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Berkly Catton",
+      "team": "SEA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Joey Daccord",
+      "team": "SEA",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.962
+     }
+    ],
+    "venue": "Climate Pledge Arena",
+    "finStats": [
+     {
+      "name": "Jani Nyman",
+      "team": "SEA",
+      "opp": "CGY",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 2,
+      "toi": "09:16"
+     },
+     {
+      "name": "Kaapo Kakko",
+      "team": "SEA",
+      "opp": "CGY",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 2,
+      "toi": "13:24"
+     },
+     {
+      "name": "Ville Ottavainen",
+      "team": "SEA",
+      "opp": "CGY",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 0,
+      "toi": "10:56"
+     }
+    ]
+   }
+  }
+ },
+ "clipTries": 1
+}

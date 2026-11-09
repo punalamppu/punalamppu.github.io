@@ -1,0 +1,134 @@
+/* Punalamppu – teemat: tumma "Areena" (oletus) ja vaalea "Jää". Ladataan muiden tyylien jälkeen. */
+:root,[data-theme="dark"]{
+  --bg:#07090c; --panel:#0d1117; --panel2:#121821; --line:#1b232d;
+  --ink:#e8edf2; --ink2:#c3cfdb; --mute:#8593a3; --ice:#9cc8ff;
+  --hl:#ff5c57; --win:#ffffff; --onink:#07090c;
+  --accent:#e8262e; --lamp:#ff3b30; --fi:#2f6fe0; --fi2:#173a78;
+  --rink-red:rgba(214,40,40,.16); --rink-blue:rgba(70,130,230,.16);
+  --glow:none;
+  color-scheme:dark;
+}
+[data-theme="light"]{
+  --bg:#f2f6f9; --panel:#ffffff; --panel2:#f5f8fb; --line:#dbe4ec;
+  --ink:#0d1b2a; --ink2:#2f4256; --mute:#5c6d7e; --ice:#1e5ac8;
+  --hl:#c8102e; --win:#0d1b2a; --onink:#ffffff;
+  --accent:#d62828; --lamp:#d62828; --fi:#1e5ac8; --fi2:#dce8fb;
+  --rink-red:rgba(214,40,40,.10); --rink-blue:rgba(30,90,200,.10);
+  --glow:none;
+  color-scheme:light;
+}
+
+/* kaukalon viivat taustalla: keskiviiva ja aloitusympyrä yläosassa */
+body{background-color:var(--bg);
+  background-image:radial-gradient(circle at 50% 260px,transparent 118px,var(--rink-blue) 119px,var(--rink-blue) 121px,transparent 122px),
+                   linear-gradient(90deg,transparent calc(50% - 1px),var(--rink-red) calc(50% - 1px),var(--rink-red) calc(50% + 1px),transparent calc(50% + 1px));
+  background-size:100% 560px,100% 560px;background-repeat:no-repeat}
+
+/* typografia: kapea urheilufontti otsikoihin */
+.brand{font-family:"Barlow Condensed",Inter,sans-serif!important;font-weight:700!important;letter-spacing:.3em!important;font-size:22px}
+h1{font-family:"Barlow Condensed",Inter,sans-serif!important;font-weight:700!important;text-transform:uppercase;letter-spacing:.005em!important;line-height:1!important}
+.ghero h1{font-family:Inter,sans-serif!important;text-transform:none;font-weight:500!important;line-height:1.4!important}
+h2{color:var(--ink)}
+.box>h2,section.box>h2,.box h2:first-child,.fold>summary h2{font-family:"Barlow Condensed",Inter,sans-serif;font-weight:700;font-size:15px;letter-spacing:.14em;color:var(--ink);display:flex;align-items:center;gap:9px}
+.box>h2::before,section.box>h2::before,.fold>summary h2::before{content:"";width:4px;height:15px;border-radius:2px;background:var(--hl);flex:0 0 auto}
+.wrap>h2,main>h2{font-family:"Barlow Condensed",Inter,sans-serif;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.kdate,.gt{font-variant-numeric:tabular-nums}
+.ingressi{font-weight:600}
+
+/* kortit ja laatikot: suorempi, tulostaulumainen */
+.box,.card,.fistat,.calbox,.recapc,.newsc{border-radius:6px!important}
+.box,.card{background:var(--panel);border-color:var(--line)}
+
+/* navigaatio */
+nav.pills a,body>.wrap>nav a,nav#nav a{border-radius:3px!important;font-family:"Barlow Condensed",Inter,sans-serif!important;font-weight:700!important;letter-spacing:.1em;text-transform:uppercase;font-size:14px!important}
+nav.pills a.on,nav#nav a.on{background:var(--ink)!important;color:var(--onink)!important;border-color:var(--ink)!important}
+nav#nav a.fi-tab.on{background:var(--ink)!important;color:var(--onink)!important}
+
+/* tulokset: voittajan numero hehkuu */
+.nums{color:var(--win);text-shadow:var(--glow)}
+.nums .l{color:var(--mute);text-shadow:none}
+.fsc,.mrow b{font-variant-numeric:tabular-nums}
+
+/* pehmeät tekstit, jotka olivat kiinteitä vaaleita värejä */
+.fins2.sc,.recapc p,.rnotes li,.chip{color:var(--ink2)!important}
+
+/* suomalaiskortti: tummassa sinivalkoinen reunus, vaaleassa valkoinen */
+.fin-now,.fihero{background:var(--panel)!important;color:var(--ink)!important;border:1px solid var(--line);border-top:3px solid var(--fi)}
+.fin-now *{border-color:var(--line)}
+.fin-now a,.fihero a{color:var(--ink)}
+[data-theme="light"] .fin-now .more,[data-theme="light"] .fin-now a.more{color:var(--fi)}
+
+/* teemanvaihto */
+.themebtn{display:inline-grid;place-items:center;width:36px;height:36px;border-radius:6px;border:1px solid var(--line);background:var(--panel);color:var(--ink);cursor:pointer;flex:0 0 auto}
+.themebtn:hover{border-color:var(--mute)}
+.themebtn svg{width:18px;height:18px}
+.themebtn .sun{display:none}
+[data-theme="light"] .themebtn .sun{display:block}
+[data-theme="light"] .themebtn .moon{display:none}
+
+/* vaalean teeman hienosäädöt */
+[data-theme="light"] .badge,[data-theme="light"] .mini{box-shadow:none}
+[data-theme="light"] .tag{background:#e6eef8;color:var(--ice)}
+[data-theme="light"] .clipb{background:#fdeceb;border-color:#f6c9c6;color:#b3201b}
+[data-theme="light"] .vpill{background:#fdeceb;color:#b3201b;border-color:#f6c9c6}
+[data-theme="light"] .wl{background:#fde3e3;color:#a11c1c}[data-theme="light"] .wl.w{background:#dcf3e6;color:#11643a}
+[data-theme="light"] .bar{background:#e6edf3}
+[data-theme="light"] .notice{background:#e8f0fd!important;border-color:#bcd0f3!important;color:var(--ink)}
+[data-theme="light"] .notice small{color:var(--ink2)!important}
+[data-theme="light"] .sres{box-shadow:0 14px 40px rgba(13,27,42,.15)}
+[data-theme="light"] tr.me td{background:#e6eefb}
+[data-theme="light"] .tchip:hover{background:#eef3f8}
+[data-theme="light"] .alert{border-left-color:var(--hl)}
+.hdr-r{display:flex;align-items:center;gap:10px}
+header.top .themebtn{order:3}
+
+/* --- v2: kovakoodattujen värien korjaukset ja alasivujen otsake --- */
+header.top .brand{order:1}
+header.top>.themebtn{order:2;margin-left:auto}
+header.top>form.q{order:3;flex-basis:100%;max-width:none}
+@media(min-width:760px){header.top>form.q{order:2;flex:1;flex-basis:auto;max-width:340px;margin-left:auto}header.top>.themebtn{order:3;margin-left:0}}
+.lead{color:var(--ink2)}
+.phero .sub,.ghero .gnote,.tvlist li span,.ftop .gt,.fins2.sc{color:var(--ink2)}
+.t td b,.tile b,.mrow:hover{color:var(--ink)}
+.fin-now .hd small,.fin-now .r .vs,.fin-now .r .pt small{color:var(--mute)!important}
+.fin-now .r a{color:var(--ink)!important}
+.fin-now .r{border-top-color:var(--line)!important}
+.fin-now .more{background:transparent!important;border-top:1px solid var(--line);color:var(--hl)!important}
+[data-theme="light"] .fin-now .more{color:var(--fi)!important}
+[data-theme="light"] .offtag{color:#8a5a00;background:#fff3d6;border-color:#f0d08a}
+[data-theme="light"] .fi-n{color:var(--fi)}
+[data-theme="light"] .clipb:hover{background:#f9d9d6;color:#8f1813}
+[data-theme="light"] .phero{background:linear-gradient(120deg,color-mix(in srgb,var(--tc) 16%,#fff) 0%,#fff 70%)}
+
+/* v4: yksi korostusväri (logon punainen) + sininen linkeille ja Suomelle; värisokeusystävälliset voitto/tappio-merkit */
+.wl{background:rgba(255,92,87,.14)!important;color:#ff9a96!important}
+.wl.w{background:rgba(120,170,255,.16)!important;color:#b9d3ff!important}
+[data-theme="light"] .wl{background:#fde7e7!important;color:#a3121f!important}
+[data-theme="light"] .wl.w{background:#e3ecfb!important;color:#16449a!important}
+.bar i{background:linear-gradient(90deg,var(--fi2),var(--fi))!important}
+[data-theme="light"] .bar i{background:#b9cff3!important}[data-theme="light"] .bar b{color:var(--ink)!important}
+.calc-out b.v-ok{color:var(--ice)!important}.calc-out b.v-mid{color:var(--ink)!important}.calc-out b.v-no{color:var(--hl)!important}
+.offtag{color:var(--ink2)!important;background:transparent!important;border-color:var(--line)!important}
+.chan,.freech{background:var(--fi)!important;color:#fff!important}
+.venue,.offs{color:var(--mute)!important}
+.card.fav{border-color:var(--hl)!important;box-shadow:0 0 0 1px var(--hl) inset!important}
+.star{color:var(--hl)!important}.pend .fin{color:var(--ice)!important}
+.alert{border-left-color:var(--hl)!important}
+.fin-now .more{color:var(--ice)!important}
+[data-theme="light"] .fin-now .more{color:var(--fi)!important}
+
+/* taitettavat osiot ja "Tällä sivulla" -pikalinkit */
+.toc{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;margin:4px -16px 12px;padding:2px 16px}
+.toc::-webkit-scrollbar{display:none}
+.toc a{flex:0 0 auto;max-width:210px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px;font-weight:600;color:var(--ink2);background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:7px 12px;text-decoration:none}
+.toc a:hover{border-color:var(--mute);color:var(--ink)}
+details.fold{padding:0!important;overflow:hidden}
+details.fold>summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:52px;padding:4px 16px;-webkit-tap-highlight-color:transparent}
+details.fold>summary::-webkit-details-marker{display:none}
+details.fold>summary h2{margin:0!important}
+details.fold>summary .fchev{width:18px;height:18px;flex:0 0 auto;color:var(--mute);transition:transform .2s}
+details.fold[open]>summary .fchev{transform:rotate(180deg)}
+details.fold[open]>summary{border-bottom:1px solid var(--line)}
+details.fold>.fb{padding:12px 16px 16px}
+details.fold>.fb>:first-child{margin-top:0}
+[data-theme="light"] .vpill{color:#a3121f}

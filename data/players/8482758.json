@@ -1,0 +1,389 @@
+{
+ "playerId": 8482758,
+ "firstName": {
+  "default": "Ville"
+ },
+ "lastName": {
+  "default": "Koivunen"
+ },
+ "currentTeamAbbrev": "PIT",
+ "position": "R",
+ "sweaterNumber": 41,
+ "birthDate": "2003-06-13",
+ "birthCity": {
+  "default": "Oulu",
+  "sv": "Uleåborg"
+ },
+ "birthStateProvince": null,
+ "birthCountry": "FIN",
+ "heightInCentimeters": 183,
+ "weightInKilograms": 84,
+ "shootsCatches": "L",
+ "draftDetails": {
+  "year": 2021,
+  "teamAbbrev": "CAR",
+  "round": 2,
+  "pickInRound": 19,
+  "overallPick": 51
+ },
+ "featuredStats": {
+  "season": 20262027,
+  "regularSeason": {
+   "subSeason": {
+    "assists": 4,
+    "gameWinningGoals": 1,
+    "gamesPlayed": 15,
+    "goals": 2,
+    "otGoals": 1,
+    "pim": 8,
+    "plusMinus": 0,
+    "points": 6,
+    "powerPlayGoals": 0,
+    "powerPlayPoints": 1,
+    "shootingPctg": 0.166667,
+    "shorthandedGoals": 0,
+    "shorthandedPoints": 0,
+    "shots": 12
+   },
+   "career": {
+    "assists": 16,
+    "gameWinningGoals": 1,
+    "gamesPlayed": 62,
+    "goals": 4,
+    "otGoals": 1,
+    "pim": 22,
+    "plusMinus": -10,
+    "points": 20,
+    "powerPlayGoals": 1,
+    "powerPlayPoints": 8,
+    "shootingPctg": 0.0634,
+    "shorthandedGoals": 0,
+    "shorthandedPoints": 0,
+    "shots": 63
+   }
+  }
+ },
+ "careerTotals": {
+  "regularSeason": {
+   "assists": 16,
+   "avgToi": "13:43",
+   "faceoffWinningPctg": 0.8332999999999999,
+   "gameWinningGoals": 1,
+   "gamesPlayed": 62,
+   "goals": 4,
+   "otGoals": 1,
+   "pim": 22,
+   "plusMinus": -10,
+   "points": 20,
+   "powerPlayGoals": 1,
+   "powerPlayPoints": 8,
+   "shootingPctg": 0.0634,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 63
+  }
+ },
+ "last5Games": [
+  {
+   "assists": 1,
+   "gameDate": "2026-11-07",
+   "gameId": 2026020275,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "LAK",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 15,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "PIT",
+   "toi": "12:50"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-11-05",
+   "gameId": 2026020257,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "BOS",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 13,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "PIT",
+   "toi": "8:57"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-11-03",
+   "gameId": 2026020242,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "VGK",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 14,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "PIT",
+   "toi": "18:50"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-10-31",
+   "gameId": 2026020223,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "MTL",
+   "pim": 2,
+   "plusMinus": -2,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 15,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "PIT",
+   "toi": "13:16"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-10-29",
+   "gameId": 2026020205,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "UTA",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 17,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "PIT",
+   "toi": "16:43"
+  }
+ ],
+ "isActive": true,
+ "seasonTotals": [
+  {
+   "assists": 7,
+   "avgToi": "18:07",
+   "faceoffWinningPctg": 1.0,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 8,
+   "goals": 0,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 4,
+   "plusMinus": 0,
+   "points": 7,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 3,
+   "season": 20242025,
+   "sequence": 1,
+   "shootingPctg": 0.0,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 15,
+   "teamCommonName": {
+    "default": "Penguins"
+   },
+   "teamName": {
+    "default": "Pittsburgh Penguins",
+    "fr": "Penguins de Pittsburgh"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Pittsburgh",
+    "fr": "de Pittsburgh"
+   }
+  },
+  {
+   "assists": 5,
+   "avgToi": "12:44",
+   "faceoffWinningPctg": 1.0,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 39,
+   "goals": 2,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 10,
+   "plusMinus": -10,
+   "points": 7,
+   "powerPlayGoals": 1,
+   "powerPlayPoints": 4,
+   "season": 20252026,
+   "sequence": 1,
+   "shootingPctg": 0.055556,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 36,
+   "teamCommonName": {
+    "default": "Penguins"
+   },
+   "teamName": {
+    "default": "Pittsburgh Penguins",
+    "fr": "Penguins de Pittsburgh"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Pittsburgh",
+    "fr": "de Pittsburgh"
+   }
+  },
+  {
+   "assists": 4,
+   "avgToi": "13:54",
+   "faceoffWinningPctg": 0.666667,
+   "gameTypeId": 2,
+   "gameWinningGoals": 1,
+   "gamesPlayed": 15,
+   "goals": 2,
+   "leagueAbbrev": "NHL",
+   "otGoals": 1,
+   "pim": 8,
+   "plusMinus": 0,
+   "points": 6,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 1,
+   "season": 20262027,
+   "sequence": 1,
+   "shootingPctg": 0.166667,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 12,
+   "teamCommonName": {
+    "default": "Penguins"
+   },
+   "teamName": {
+    "default": "Pittsburgh Penguins",
+    "fr": "Penguins de Pittsburgh"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Pittsburgh",
+    "fr": "de Pittsburgh"
+   }
+  }
+ ],
+ "_fetched": "2026-11-09",
+ "gameLog": [
+  [
+   "2026-09-30",
+   "PHI",
+   1,
+   0,
+   3
+  ],
+  [
+   "2026-10-05",
+   "WPG",
+   0,
+   1,
+   1
+  ],
+  [
+   "2026-10-07",
+   "WSH",
+   0,
+   0,
+   1
+  ],
+  [
+   "2026-10-09",
+   "CBJ",
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-13",
+   "CHI",
+   0,
+   0,
+   -2
+  ],
+  [
+   "2026-10-16",
+   "COL",
+   0,
+   1,
+   0
+  ],
+  [
+   "2026-10-17",
+   "VGK",
+   0,
+   0,
+   -1
+  ],
+  [
+   "2026-10-19",
+   "UTA",
+   0,
+   0,
+   -1
+  ],
+  [
+   "2026-10-22",
+   "FLA",
+   0,
+   1,
+   2
+  ],
+  [
+   "2026-10-24",
+   "NSH",
+   1,
+   0,
+   2
+  ],
+  [
+   "2026-10-29",
+   "UTA",
+   0,
+   0,
+   -1
+  ],
+  [
+   "2026-10-31",
+   "MTL",
+   0,
+   0,
+   -2
+  ],
+  [
+   "2026-11-03",
+   "VGK",
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-11-05",
+   "BOS",
+   0,
+   0,
+   -1
+  ],
+  [
+   "2026-11-07",
+   "LAK",
+   0,
+   1,
+   -1
+  ]
+ ],
+ "_glFetched": "2026-11-08:15"
+}

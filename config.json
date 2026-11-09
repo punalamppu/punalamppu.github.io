@@ -1,0 +1,275 @@
+{
+  "siteName": "Punalamppu",
+  "tagline": "Yön NHL-tulokset, maalikoosteet ja suomalaiset – suomeksi",
+  "baseUrl": "https://punalamppu.com",
+  "userAgent": "Punalamppu/1.0 (harrastussivusto; https://punalamppu.com)",
+  "notices": [
+    {
+      "from": "2026-11-05",
+      "to": "2026-11-14",
+      "title": "NHL Global Series Helsingissä",
+      "text": "Carolina Hurricanes – Seattle Kraken Veikkaus Arenalla to 12.11. ja la 14.11. Ajat, tv ja suomalaiset →",
+      "url": "/nhl-helsinki-2026/"
+    }
+  ],
+  "youtubeChannelId": "UCqFMzb-4AUf6WAIbl132QKA",
+  "nameFixes": {
+    "Teravainen": "Teräväinen",
+    "Maatta": "Määttä",
+    "Merilainen": "Meriläinen",
+    "Valimaki": "Välimäki",
+    "Kaskimaki": "Kaskimäki",
+    "Hameenaho": "Hämeenaho",
+    "Parssinen": "Pärssinen",
+    "Jarventie": "Järventie",
+    "Pyyhtia": "Pyyhtiä",
+    "Hakanpaa": "Hakanpää",
+    "Raty": "Räty",
+    "Lekkerimaki": "Lekkerimäki",
+    "Kahkonen": "Kähkönen",
+    "Vehvilainen": "Vehviläinen",
+    "Kemppainen": "Kemppainen",
+    "Lehtera": "Lehterä",
+    "Jaaskelainen": "Jääskeläinen",
+    "Makinen": "Mäkinen",
+    "Rasanen": "Räsänen",
+    "Heikkila": "Heikkilä",
+    "Hamalainen": "Hämäläinen",
+    "Selanne": "Selänne",
+    "Vaananen": "Väänänen",
+    "Niittymaki": "Niittymäki",
+    "Maenalanen": "Mäenalanen",
+    "Jarvinen": "Järvinen",
+    "Hannikainen": "Hännikäinen",
+    "Saarijarvi": "Saarijärvi",
+    "Paakkonen": "Pääkkönen",
+    "Mantyla": "Mäntylä",
+    "Kiikkila": "Kiikkilä",
+    "Jarvenpaa": "Järvenpää",
+    "Lahteenmaki": "Lähteenmäki",
+    "Lehtimaki": "Lehtimäki",
+    "Kekalainen": "Kekäläinen",
+    "Ojamaki": "Ojamäki",
+    "Ylonen": "Ylönen",
+    "Hyvonen": "Hyvönen",
+    "Kivela": "Kivelä",
+    "Nattinen": "Nättinen",
+    "Vaisanen": "Väisänen",
+    "Hakkinen": "Häkkinen"
+  },
+  "extraFinns": [
+    {
+      "name": "Patrik Laine",
+      "id": 8479339,
+      "pos": "H"
+    }
+  ],
+  "contactFormKey": "d2471d0f-02dc-43ec-a0ac-a18728053afa",
+  "tvInfo": {
+    "season": "2026–27",
+    "items": [
+      [
+        "Viaplay",
+        "Suurin osa otteluista, noin 1 150 runkosarjaottelua (pääosin yksinoikeudella) sekä konferenssifinaalit ja Stanley Cupin finaali. Suoratoisto ja Viaplay Urheilu -kanavat, myös V sport / V premium -kanavapaketeissa."
+      ],
+      [
+        "Disney+ (ESPN)",
+        "160 runkosarjaottelua yksinoikeudella sekä 20 pudotuspeliottelua kahdelta ensimmäiseltä kierrokselta. Osa otteluista suomeksi selostettuna."
+      ],
+      [
+        "MTV Sub (ilmainen)",
+        "Yksi ottelu viikossa, yleensä sunnuntaisin. Myös MTV Katsomossa."
+      ],
+      [
+        "Star Channel (ilmainen)",
+        "Valikoituja Disney+:n otteluita, noin yksi viikossa (mm. Monday Night Hockey)."
+      ],
+      [
+        "Viaplay TV (ilmainen)",
+        "Yksittäisiä NHL-otteluita."
+      ]
+    ],
+    "note": "Kaikkia otteluita ei välttämättä näytetä Suomessa. Kanavat ja ohjelmisto voivat muuttua.",
+    "more": [
+      "NHLsuomi.com: NHL-lähetykset ja hinnat",
+      "https://www.nhlsuomi.com/nhl-viaplay-mtv-tv/"
+    ]
+  },
+  "freeGames": [
+    {
+      "ch": "Star Channel",
+      "date": "2026-10-03",
+      "teams": [
+        "CAR",
+        "WSH"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-10-04",
+      "teams": [
+        "DET",
+        "WPG"
+      ]
+    },
+    {
+      "ch": "Star Channel",
+      "date": "2026-10-10",
+      "teams": [
+        "SJS",
+        "EDM"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-10-11",
+      "teams": [
+        "SEA",
+        "WSH"
+      ]
+    },
+    {
+      "ch": "Star Channel",
+      "date": "2026-10-12",
+      "teams": [
+        "BUF",
+        "FLA"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-10-17",
+      "teams": [
+        "VAN",
+        "TBL"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-10-25",
+      "teams": [
+        "CHI",
+        "FLA"
+      ]
+    },
+    {
+      "ch": "Star Channel",
+      "date": "2026-10-26",
+      "teams": [
+        "DAL",
+        "NYI"
+      ]
+    },
+    {
+      "ch": "Star Channel",
+      "date": "2026-10-31",
+      "teams": [
+        "BOS",
+        "CHI"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-11-01",
+      "teams": [
+        "CAR",
+        "WPG"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-11-08",
+      "teams": [
+        "BOS",
+        "FLA"
+      ]
+    },
+    {
+      "ch": "Viaplay TV",
+      "date": "2026-11-08",
+      "teams": [
+        "CHI",
+        "CAR"
+      ]
+    },
+    {
+      "ch": "Viaplay TV",
+      "date": "2026-11-12",
+      "teams": [
+        "SEA",
+        "CAR"
+      ]
+    },
+    {
+      "ch": "Viaplay TV",
+      "date": "2026-11-14",
+      "teams": [
+        "CAR",
+        "SEA"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-11-22",
+      "teams": [
+        "NYR",
+        "CAR"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-11-29",
+      "teams": [
+        "CHI",
+        "MIN"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-12-06",
+      "teams": [
+        "PIT",
+        "SJS"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-12-13",
+      "teams": [
+        "CAR",
+        "BOS"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-12-20",
+      "teams": [
+        "BOS",
+        "PHI"
+      ]
+    },
+    {
+      "ch": "MTV Sub",
+      "date": "2026-12-27",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    }
+  ],
+  "freeGamesNote": "Star Channelin marraskuusta eteenpäin sekä MTV:n ja Viaplay TV:n joulukuun jälkeen näytettävät ottelut lisätään, kun kanavat julkaisevat ne.",
+  "freeGamesSources": [
+    [
+      "MTV (STT Info)",
+      "https://www.sttinfo.fi/tiedote/72358886/nhl-jatkaa-mtv-katsomon-ja-mtv-subin-sunnuntai-illoissa-uudella-viisivuotisella-sopimuksella"
+    ],
+    [
+      "NHL.com/fi",
+      "https://www.nhl.com/fi/news/nhl-laehetykset-kaudella-2026-27"
+    ],
+    [
+      "NHLsuomi.com",
+      "https://www.nhlsuomi.com/nhl-viaplay-mtv-tv/"
+    ]
+  ]
+}

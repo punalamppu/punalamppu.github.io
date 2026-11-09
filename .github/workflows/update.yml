@@ -1,0 +1,122 @@
+name: Päivitä ja julkaise
+
+on:
+  schedule:
+    # GitHubin ajat ovat UTC-aikaa. Suomen talviaika = UTC+2, kesäaika = UTC+3.
+    # Otteluiden aikaan (n. klo 0–9 Suomen aikaa) 10 minuutin välein:
+    - cron: "*/10 22,23 * * *"
+    - cron: "*/10 0-7 * * *"
+    # Muulloin kerran tunnissa (otteluohjelma, tilastot):
+    - cron: "17 8-21 * * *"
+  workflow_dispatch:
+    inputs:
+      bsky_force:
+        description: "Julkaise aamukatsaus someen heti (testi)"
+        type: boolean
+        default: false
+      bsky_avatar:
+        description: "Päivitä Bluesky-profiilikuva (assets/avatar.png)"
+        type: boolean
+        default: false
+      social_only:
+        description: "Vain nämä palvelut (esim. telegram tai bsky,threads); tyhjä = kaikki"
+        type: string
+        default: ""
+  push:
+    branches: [main]
+    paths-ignore: ["data/**"]
+
+permissions:
+  contents: write
+  pages: write
+  deployments: read
+  id-token: write
+
+concurrency:
+  group: punalamppu
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Asenna kuvakirjasto (jakokuvat)
+        run: pip install --quiet pillow
+
+      - name: Hae tiedot ja rakenna sivusto
+        run: python scripts/build.py
+
+      - name: Tallenna arkisto ja historia
+        run: |
+          git config user.name "punalamppu-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "Päivitä data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash || git rebase --abort || true
+            git push || echo "data-push ohitettiin (päällekkäinen ajo), tallennetaan seuraavalla kerralla"
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Peru jumiin jääneet Pages-julkaisut
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for sha in $(gh api "repos/${GITHUB_REPOSITORY}/deployments?environment=github-pages&per_page=8" --jq '.[].sha' | sort -u); do
+            [ "$sha" = "$GITHUB_SHA" ] && continue
+            gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/deployments/${sha}/cancel" >/dev/null 2>&1 && echo "peruttu $sha" || true
+          done
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Julkaise aamukatsaus someen (Bluesky, Telegram, Threads)
+        continue-on-error: true
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          SOCIAL_FORCE: ${{ inputs.bsky_force }}
+          SOCIAL_ONLY: ${{ inputs.social_only }}
+          BSKY_AVATAR: ${{ inputs.bsky_avatar }}
+        run: |
+          python scripts/social.py
+          if [ -n "$(git status --porcelain data/social.json data/threads.enc)" ]; then
+            git add data/social.json data/threads.enc 2>/dev/null || git add data/social.json
+            git commit -m "Some-julkaisu $(date -u +%Y-%m-%d)" && (git pull --rebase --autostash || git rebase --abort || true) && git push || true
+          fi
+
+      - name: Ilmoita hakukoneille (IndexNow, kerran päivässä)
+        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '17 8-21 * * *')
+        continue-on-error: true
+        run: |
+          H=$(date -u +%H)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$H" != "08" ]; then exit 0; fi
+          python3 - <<'PY'
+          import json, re, urllib.request
+          urls = re.findall(r"<loc>([^<]+)</loc>", open("_site/sitemap.xml", encoding="utf-8").read())
+          body = json.dumps({"host": "punalamppu.com", "key": "0fb8e0f8d03566e609802e230c9cc404", "keyLocation": "https://punalamppu.com/0fb8e0f8d03566e609802e230c9cc404.txt", "urlList": urls[:10000]}).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type": "application/json; charset=utf-8"})
+          try:
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  print("IndexNow:", r.status, len(urls), "osoitetta")
+          except Exception as e:
+              print("IndexNow epäonnistui:", e)
+          PY

@@ -1,0 +1,1102 @@
+{
+ "gameDate": "2026-11-08",
+ "games": {
+  "2026020277": {
+   "id": 2026020277,
+   "away": "FLA",
+   "home": "BOS",
+   "awayScore": 1,
+   "homeScore": 4,
+   "start": "2026-11-08T18:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "04:50",
+     "team": "BOS",
+     "who": "Elias Lindholm",
+     "tag": "",
+     "ast": [
+      "Casey Mittelstadt",
+      "Charlie McAvoy"
+     ],
+     "fin": false,
+     "clip": "6408108626112",
+     "gtd": 7
+    },
+    {
+     "p": "1",
+     "t": "06:11",
+     "team": "BOS",
+     "who": "Michael Eyssimont",
+     "tag": "",
+     "ast": [
+      "Fraser Minten"
+     ],
+     "fin": false,
+     "clip": "6408107263112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "15:59",
+     "team": "BOS",
+     "who": "Morgan Geekie",
+     "tag": "YV",
+     "ast": [
+      "David Pastrnak",
+      "Pavel Zacha"
+     ],
+     "fin": false,
+     "clip": "6408107557112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "18:05",
+     "team": "FLA",
+     "who": "Carter Verhaeghe",
+     "tag": "YV",
+     "ast": [
+      "Brady Tkachuk",
+      "Matthew Tkachuk"
+     ],
+     "fin": false,
+     "clip": "6408109232112",
+     "gtd": 10
+    },
+    {
+     "p": "3",
+     "t": "00:58",
+     "team": "BOS",
+     "who": "JJ Peterka",
+     "tag": "",
+     "ast": [
+      "David Pastrnak",
+      "Pavel Zacha"
+     ],
+     "fin": false,
+     "clip": "6408109093112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Jacob Markström (FLA) 32 torjuntaa · Jeremy Swayman (BOS) 40 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Jeremy Swayman",
+     "team": "BOS",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.976
+    },
+    {
+     "star": 2,
+     "name": "David Pastrnak",
+     "team": "BOS",
+     "pos": "R",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Elias Lindholm",
+     "team": "BOS",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "TD Garden",
+   "finStats": [
+    {
+     "name": "Anton Lundell",
+     "team": "FLA",
+     "opp": "BOS",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 5,
+     "toi": "16:33"
+    },
+    {
+     "name": "Eetu Luostarinen",
+     "team": "FLA",
+     "opp": "BOS",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "11:21"
+    },
+    {
+     "name": "Niko Mikkola",
+     "team": "FLA",
+     "opp": "BOS",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -3,
+     "sog": 0,
+     "toi": "18:19"
+    }
+   ],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/fla-at-bos-recap-6408110867112",
+   "videoId": "",
+   "details": {
+    "goalies": "Jacob Markström (FLA) 32 torjuntaa · Jeremy Swayman (BOS) 40 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Jeremy Swayman",
+      "team": "BOS",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.976
+     },
+     {
+      "star": 2,
+      "name": "David Pastrnak",
+      "team": "BOS",
+      "pos": "R",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Elias Lindholm",
+      "team": "BOS",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "TD Garden",
+    "finStats": [
+     {
+      "name": "Anton Lundell",
+      "team": "FLA",
+      "opp": "BOS",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 5,
+      "toi": "16:33"
+     },
+     {
+      "name": "Eetu Luostarinen",
+      "team": "FLA",
+      "opp": "BOS",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "11:21"
+     },
+     {
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "opp": "BOS",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -3,
+      "sog": 0,
+      "toi": "18:19"
+     }
+    ]
+   }
+  },
+  "2026020278": {
+   "id": 2026020278,
+   "away": "VGK",
+   "home": "BUF",
+   "awayScore": 4,
+   "homeScore": 1,
+   "start": "2026-11-08T20:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "12:17",
+     "team": "VGK",
+     "who": "Mitchell Marner",
+     "tag": "AV",
+     "ast": [],
+     "fin": false,
+     "clip": "6408112466112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "13:43",
+     "team": "VGK",
+     "who": "Jack Eichel",
+     "tag": "",
+     "ast": [
+      "Ivan Barbašov"
+     ],
+     "fin": false,
+     "clip": "6408112569112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "04:26",
+     "team": "BUF",
+     "who": "Beck Malenstyn",
+     "tag": "",
+     "ast": [
+      "Tyson Kozak",
+      "Mattias Samuelsson"
+     ],
+     "fin": false,
+     "clip": "6408111900112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "05:43",
+     "team": "VGK",
+     "who": "Tomas Hertl",
+     "tag": "",
+     "ast": [
+      "Mitchell Marner"
+     ],
+     "fin": false,
+     "clip": "6408113476112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "10:00",
+     "team": "VGK",
+     "who": "Tomas Hertl",
+     "tag": "",
+     "ast": [
+      "Ivan Barbašov",
+      "Shea Theodore"
+     ],
+     "fin": false,
+     "clip": "6408112902112",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Adin Hill (VGK) 28 torjuntaa · Colten Ellis (BUF) 22 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Tomas Hertl",
+     "team": "VGK",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Mitchell Marner",
+     "team": "VGK",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Adin Hill",
+     "team": "VGK",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.966
+    }
+   ],
+   "venue": "KeyBank Center",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/vgk-at-buf-recap-6408113695112",
+   "videoId": "",
+   "details": {
+    "goalies": "Adin Hill (VGK) 28 torjuntaa · Colten Ellis (BUF) 22 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Tomas Hertl",
+      "team": "VGK",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Mitchell Marner",
+      "team": "VGK",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Adin Hill",
+      "team": "VGK",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.966
+     }
+    ],
+    "venue": "KeyBank Center",
+    "finStats": []
+   }
+  },
+  "2026020280": {
+   "id": 2026020280,
+   "away": "TBL",
+   "home": "WPG",
+   "awayScore": 3,
+   "homeScore": 4,
+   "start": "2026-11-08T23:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "01:53",
+     "team": "WPG",
+     "who": "Cole Perfetti",
+     "tag": "YV",
+     "ast": [
+      "Mark Scheifele",
+      "Haydn Fleury"
+     ],
+     "fin": false,
+     "clip": "6408113827112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "12:38",
+     "team": "WPG",
+     "who": "Morgan Barron",
+     "tag": "",
+     "ast": [
+      "Neal Pionk",
+      "Viggo Björck"
+     ],
+     "fin": false,
+     "clip": "6408114723112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "08:10",
+     "team": "WPG",
+     "who": "Brayden Yager",
+     "tag": "YV",
+     "ast": [
+      "Viggo Björck",
+      "Alex Iafallo"
+     ],
+     "fin": false,
+     "clip": "6408117007112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "10:22",
+     "team": "TBL",
+     "who": "Brandon Hagel",
+     "tag": "",
+     "ast": [
+      "Anthony Cirelli"
+     ],
+     "fin": false,
+     "clip": "6408114769112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "14:01",
+     "team": "TBL",
+     "who": "Pontus Holmberg",
+     "tag": "",
+     "ast": [
+      "Erik Cernak",
+      "Zemgus Girgensons"
+     ],
+     "fin": false,
+     "clip": "6408115175112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "14:27",
+     "team": "TBL",
+     "who": "Pontus Holmberg",
+     "tag": "",
+     "ast": [
+      "Erik Cernak",
+      "Ilja Mihejev"
+     ],
+     "fin": false,
+     "clip": "6408116069112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "19:58",
+     "team": "WPG",
+     "who": "Mark Scheifele",
+     "tag": "YV",
+     "ast": [
+      "Cole Perfetti",
+      "Gabriel Vilardi"
+     ],
+     "fin": false,
+     "clip": "6408115384112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Andrei Vasilevski (TBL) 21 torjuntaa · Stuart Skinner (WPG) 18 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Mark Scheifele",
+     "team": "WPG",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Brayden Yager",
+     "team": "WPG",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Pontus Holmberg",
+     "team": "TBL",
+     "pos": "R",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Canada Life Centre",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/tbl-at-wpg-recap-6408117827112",
+   "videoId": "",
+   "details": {
+    "goalies": "Andrei Vasilevski (TBL) 21 torjuntaa · Stuart Skinner (WPG) 18 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Mark Scheifele",
+      "team": "WPG",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Brayden Yager",
+      "team": "WPG",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Pontus Holmberg",
+      "team": "TBL",
+      "pos": "R",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Canada Life Centre",
+    "finStats": []
+   }
+  },
+  "2026020279": {
+   "id": 2026020279,
+   "away": "NJD",
+   "home": "TOR",
+   "awayScore": 4,
+   "homeScore": 0,
+   "start": "2026-11-09T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "08:28",
+     "team": "NJD",
+     "who": "Timo Meier",
+     "tag": "",
+     "ast": [
+      "Declan Chisholm",
+      "Nico Hischier"
+     ],
+     "fin": false,
+     "clip": "6408116630112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "12:44",
+     "team": "NJD",
+     "who": "Timo Meier",
+     "tag": "",
+     "ast": [
+      "Jack Hughes",
+      "Jesper Bratt"
+     ],
+     "fin": false,
+     "clip": "6408117340112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "09:49",
+     "team": "NJD",
+     "who": "Nico Hischier",
+     "tag": "YV",
+     "ast": [
+      "Jack Hughes",
+      "Jesper Bratt"
+     ],
+     "fin": false,
+     "clip": "6408117374112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "17:23",
+     "team": "NJD",
+     "who": "Connor Brown",
+     "tag": "TM",
+     "ast": [
+      "Cody Glass"
+     ],
+     "fin": false,
+     "clip": "6408118187112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Connor Hellebuyck (NJD) 23 torjuntaa · Anthony Stolarz (TOR) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Timo Meier",
+     "team": "NJD",
+     "pos": "R",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Connor Hellebuyck",
+     "team": "NJD",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 1.0
+    },
+    {
+     "star": 3,
+     "name": "Nico Hischier",
+     "team": "NJD",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Scotiabank Arena",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/njd-at-tor-recap-6408118574112",
+   "videoId": "",
+   "details": {
+    "goalies": "Connor Hellebuyck (NJD) 23 torjuntaa · Anthony Stolarz (TOR) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Timo Meier",
+      "team": "NJD",
+      "pos": "R",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Connor Hellebuyck",
+      "team": "NJD",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 1.0
+     },
+     {
+      "star": 3,
+      "name": "Nico Hischier",
+      "team": "NJD",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Scotiabank Arena",
+    "finStats": []
+   }
+  },
+  "2026020281": {
+   "id": 2026020281,
+   "away": "PHI",
+   "home": "CGY",
+   "awayScore": 3,
+   "homeScore": 4,
+   "start": "2026-11-09T00:00:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "1",
+     "t": "12:46",
+     "team": "PHI",
+     "who": "Denver Barkey",
+     "tag": "",
+     "ast": [
+      "Sean Couturier",
+      "Jamie Drysdale"
+     ],
+     "fin": false,
+     "clip": "6408116112112",
+     "gtd": 2
+    },
+    {
+     "p": "1",
+     "t": "15:26",
+     "team": "CGY",
+     "who": "Zayne Parekh",
+     "tag": "",
+     "ast": [
+      "Yan Kuznetsov",
+      "Jahor Šaranhovitš"
+     ],
+     "fin": false,
+     "clip": "6408116397112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "02:16",
+     "team": "PHI",
+     "who": "Noel Acciari",
+     "tag": "",
+     "ast": [
+      "Nick Seeler",
+      "Sean Couturier"
+     ],
+     "fin": false,
+     "clip": "6408116330112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "05:59",
+     "team": "CGY",
+     "who": "Zach Whitecloud",
+     "tag": "",
+     "ast": [
+      "Aydar Suniev",
+      "Jahor Šaranhovitš"
+     ],
+     "fin": false,
+     "clip": "6408115158112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "15:07",
+     "team": "PHI",
+     "who": "Owen Tippett",
+     "tag": "YV",
+     "ast": [
+      "Christian Dvorak",
+      "Oliver Bonk"
+     ],
+     "fin": false,
+     "clip": "6408117728112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "08:27",
+     "team": "CGY",
+     "who": "Joel Farabee",
+     "tag": "AV",
+     "ast": [
+      "Martin Pospisil"
+     ],
+     "fin": false,
+     "clip": "6408117451112",
+     "gtd": 7
+    },
+    {
+     "p": "JA",
+     "t": "04:08",
+     "team": "CGY",
+     "who": "Matt Coronato",
+     "tag": "",
+     "ast": [
+      "Matvei Gridin",
+      "Simon Nemec"
+     ],
+     "fin": false,
+     "clip": "6408118477112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Dan Vladar (PHI) 22 torjuntaa · Devin Cooley (CGY) 32 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Joel Farabee",
+     "team": "CGY",
+     "pos": "L",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Owen Tippett",
+     "team": "PHI",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Matt Coronato",
+     "team": "CGY",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Scotiabank Saddledome",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/phi-at-cgy-recap-6408119835112",
+   "videoId": "",
+   "details": {
+    "goalies": "Dan Vladar (PHI) 22 torjuntaa · Devin Cooley (CGY) 32 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Joel Farabee",
+      "team": "CGY",
+      "pos": "L",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Owen Tippett",
+      "team": "PHI",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Matt Coronato",
+      "team": "CGY",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Scotiabank Saddledome",
+    "finStats": []
+   }
+  },
+  "2026020282": {
+   "id": 2026020282,
+   "away": "PIT",
+   "home": "ANA",
+   "awayScore": 2,
+   "homeScore": 5,
+   "start": "2026-11-09T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "08:26",
+     "team": "ANA",
+     "who": "Mikael Granlund",
+     "tag": "YV",
+     "ast": [
+      "Cutter Gauthier",
+      "Jackson LaCombe"
+     ],
+     "fin": true,
+     "clip": "6408115947112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "06:28",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "YV",
+     "ast": [
+      "Mikael Granlund",
+      "Jackson LaCombe"
+     ],
+     "fin": false,
+     "clip": "6408117446112",
+     "gtd": 13
+    },
+    {
+     "p": "2",
+     "t": "09:11",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "",
+     "ast": [
+      "Mikael Granlund",
+      "Beckett Sennecke"
+     ],
+     "fin": false,
+     "clip": "6408118446112",
+     "gtd": 14
+    },
+    {
+     "p": "3",
+     "t": "05:12",
+     "team": "ANA",
+     "who": "Tristan Luneau",
+     "tag": "YV",
+     "ast": [
+      "Alex Killorn",
+      "Roger McQueen"
+     ],
+     "fin": false,
+     "clip": "6408119082112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "08:05",
+     "team": "PIT",
+     "who": "Kris Letang",
+     "tag": "YV",
+     "ast": [
+      "Jevgeni Malkin",
+      "Erik Karlsson"
+     ],
+     "fin": false,
+     "clip": "6408119955112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "13:42",
+     "team": "PIT",
+     "who": "Rickard Rakell",
+     "tag": "YV",
+     "ast": [
+      "Sidney Crosby",
+      "Jevgeni Malkin"
+     ],
+     "fin": false,
+     "clip": "6408119178112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "19:26",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "TM",
+     "ast": [
+      "Jackson LaCombe",
+      "Mikael Granlund"
+     ],
+     "fin": false,
+     "clip": "6408120462112",
+     "gtd": 15
+    }
+   ],
+   "goalies": "Arturs Silovs (PIT) 20 torjuntaa · Laurent Brossoit (ANA) 31 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Cutter Gauthier",
+     "team": "ANA",
+     "pos": "L",
+     "goals": 3,
+     "assists": 1,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Mikael Granlund",
+     "team": "ANA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 3,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Jackson LaCombe",
+     "team": "ANA",
+     "pos": "D",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Honda Center",
+   "finStats": [
+    {
+     "name": "Mikael Granlund",
+     "team": "ANA",
+     "opp": "PIT",
+     "pos": "H",
+     "g": 1,
+     "a": 3,
+     "p": 4,
+     "pm": 2,
+     "sog": 3,
+     "toi": "21:51"
+    }
+   ],
+   "note": "Cutter Gauthier hattutemppu · Suomalaiset: Granlund 1+3",
+   "recapUrl": "https://www.nhl.com/video/pit-at-ana-recap-6408119980112",
+   "videoId": "",
+   "details": {
+    "goalies": "Arturs Silovs (PIT) 20 torjuntaa · Laurent Brossoit (ANA) 31 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Cutter Gauthier",
+      "team": "ANA",
+      "pos": "L",
+      "goals": 3,
+      "assists": 1,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Mikael Granlund",
+      "team": "ANA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 3,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Jackson LaCombe",
+      "team": "ANA",
+      "pos": "D",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Honda Center",
+    "finStats": [
+     {
+      "name": "Mikael Granlund",
+      "team": "ANA",
+      "opp": "PIT",
+      "pos": "H",
+      "g": 1,
+      "a": 3,
+      "p": 4,
+      "pm": 2,
+      "sog": 3,
+      "toi": "21:51"
+     }
+    ]
+   }
+  }
+ }
+}

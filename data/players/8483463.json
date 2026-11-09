@@ -1,0 +1,307 @@
+{
+ "playerId": 8483463,
+ "firstName": {
+  "default": "Aleksanteri"
+ },
+ "lastName": {
+  "default": "Kaskimaki"
+ },
+ "currentTeamAbbrev": "STL",
+ "position": "C",
+ "sweaterNumber": 41,
+ "birthDate": "2004-02-06",
+ "birthCity": {
+  "default": "Espoo",
+  "sv": "Esbo"
+ },
+ "birthStateProvince": null,
+ "birthCountry": "FIN",
+ "heightInCentimeters": 185,
+ "weightInKilograms": 89,
+ "shootsCatches": "L",
+ "draftDetails": {
+  "year": 2022,
+  "teamAbbrev": "STL",
+  "round": 3,
+  "pickInRound": 8,
+  "overallPick": 73
+ },
+ "featuredStats": {
+  "season": 20262027,
+  "regularSeason": {
+   "subSeason": {
+    "assists": 1,
+    "gameWinningGoals": 1,
+    "gamesPlayed": 8,
+    "goals": 1,
+    "otGoals": 0,
+    "pim": 0,
+    "plusMinus": 0,
+    "points": 2,
+    "powerPlayGoals": 0,
+    "powerPlayPoints": 0,
+    "shootingPctg": 0.111111,
+    "shorthandedGoals": 0,
+    "shorthandedPoints": 0,
+    "shots": 9
+   },
+   "career": {
+    "assists": 1,
+    "gameWinningGoals": 1,
+    "gamesPlayed": 13,
+    "goals": 1,
+    "otGoals": 0,
+    "pim": 0,
+    "plusMinus": -6,
+    "points": 2,
+    "powerPlayGoals": 0,
+    "powerPlayPoints": 0,
+    "shootingPctg": 0.0666,
+    "shorthandedGoals": 0,
+    "shorthandedPoints": 0,
+    "shots": 15
+   }
+  }
+ },
+ "careerTotals": {
+  "regularSeason": {
+   "assists": 1,
+   "avgToi": "11:27",
+   "faceoffWinningPctg": 0.5,
+   "gameWinningGoals": 1,
+   "gamesPlayed": 13,
+   "goals": 1,
+   "otGoals": 0,
+   "pim": 0,
+   "plusMinus": -6,
+   "points": 2,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "shootingPctg": 0.0666,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 15
+  }
+ },
+ "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-07",
+   "gameId": 2026020266,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "NSH",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 17,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "STL",
+   "toi": "11:43"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-11-05",
+   "gameId": 2026020254,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "NJD",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 21,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "STL",
+   "toi": "14:26"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-10-31",
+   "gameId": 2026020218,
+   "gameTypeId": 2,
+   "goals": 1,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "DET",
+   "pim": 0,
+   "plusMinus": 1,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 19,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "STL",
+   "toi": "10:40"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-10-29",
+   "gameId": 2026020207,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "BOS",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 18,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "STL",
+   "toi": "13:10"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-10-27",
+   "gameId": 2026020191,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "MTL",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 14,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "STL",
+   "toi": "8:58"
+  }
+ ],
+ "isActive": true,
+ "seasonTotals": [
+  {
+   "assists": 0,
+   "avgToi": "10:24",
+   "faceoffWinningPctg": 0.5,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 5,
+   "goals": 0,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 0,
+   "plusMinus": -6,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20252026,
+   "sequence": 1,
+   "shootingPctg": 0.0,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 6,
+   "teamCommonName": {
+    "default": "Blues"
+   },
+   "teamName": {
+    "default": "St. Louis Blues",
+    "fr": "Blues de St. Louis"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "St. Louis",
+    "fr": "de St. Louis"
+   }
+  },
+  {
+   "assists": 1,
+   "avgToi": "12:07",
+   "faceoffWinningPctg": 0.0,
+   "gameTypeId": 2,
+   "gameWinningGoals": 1,
+   "gamesPlayed": 8,
+   "goals": 1,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 2,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20262027,
+   "sequence": 1,
+   "shootingPctg": 0.111111,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 9,
+   "teamCommonName": {
+    "default": "Blues"
+   },
+   "teamName": {
+    "default": "St. Louis Blues",
+    "fr": "Blues de St. Louis"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "St. Louis",
+    "fr": "de St. Louis"
+   }
+  }
+ ],
+ "_fetched": "2026-11-09",
+ "gameLog": [
+  [
+   "2026-10-20",
+   "WPG",
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-22",
+   "VGK",
+   0,
+   1,
+   1
+  ],
+  [
+   "2026-10-24",
+   "CAR",
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-27",
+   "MTL",
+   0,
+   0,
+   -1
+  ],
+  [
+   "2026-10-29",
+   "BOS",
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-10-31",
+   "DET",
+   1,
+   0,
+   1
+  ],
+  [
+   "2026-11-05",
+   "NJD",
+   0,
+   0,
+   0
+  ],
+  [
+   "2026-11-07",
+   "NSH",
+   0,
+   0,
+   -1
+  ]
+ ],
+ "_glFetched": "2026-11-08:8"
+}
