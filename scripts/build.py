@@ -1951,7 +1951,11 @@ def build_day_pages(data, arch_days, urls):
                  "publisher": {"@type": "Organization", "name": CFG["siteName"], "logo": {"@type": "ImageObject", "url": CFG["baseUrl"].rstrip("/") + "/icon-512.png"}},
                  "mainEntityOfPage": CFG["baseUrl"].rstrip("/") + f"/koosteet/{d}/", "image": CFG["baseUrl"].rstrip("/") + "/og.png"},
                 crumbs([("Punalamppu", "/"), ("Koosteet", "/koosteet/"), (nice, f"/koosteet/{d}/")])]}
-            write_page(f"/koosteet/{d}/", f"{htitle} – suomalaiset NHL:ssä {nice} | {CFG['siteName']}" if htitle != f"Suomalaiset yön NHL-kierroksella {nice}" else f"{htitle} | {CFG['siteName']}", kdesc, kbody, kjl, urls=urls)
+            hp = headline_pick(gl)
+            kog = star_og(data, hp[2]["name"]) if hp else None
+            if kog:
+                kjl["@graph"][0]["image"] = CFG["baseUrl"].rstrip("/") + kog
+            write_page(f"/koosteet/{d}/", f"{htitle} – suomalaiset NHL:ssä {nice} | {CFG['siteName']}" if htitle != f"Suomalaiset yön NHL-kierroksella {nice}" else f"{htitle} | {CFG['siteName']}", kdesc, kbody, kjl, og=kog, urls=urls)
             KOOSTEET.append((d, nice, htitle, alead))
             FEED[-1]["title"] = htitle
             FEED[-1]["lead"] = alead
@@ -2402,30 +2406,73 @@ def toi_fi(t):
     return (t or "").replace(":", ".").lstrip("0") or "–"
 
 
-def headline_for(gl, data):
+MILE_PRIO = {"points": 0, "goals": 1, "wins": 2, "shutouts": 3, "assists": 4, "gamesPlayed": 5}
+
+
+def star_og(data, name):
+    """Pelaajan oma 1200x630-jakokuva (Discover/some), jos se on rakennettu."""
+    slug = (data.get("finnSlugs") or {}).get(name)
+    p_ = f"/og/suomalaiset/{slug}.png" if slug else None
+    return p_ if p_ and os.path.isfile(os.path.join(OUT, p_.lstrip("/"))) else None
+
+
+def headline_pick(gl):
+    """Valitsee yön suomalaisuutisen kärjen: (laji, ottelu, pelaajarivi) tai None."""
     rows = [(g, f) for g in gl for f in g.get("finStats") or []]
     sk = sorted([(g, f) for g, f in rows if f.get("pos") != "MV" and (f.get("p") or 0) > 0],
                 key=lambda x: (-(x[1].get("p") or 0), -(x[1].get("g") or 0)))
     gk = [(g, f) for g, f in rows if f.get("pos") == "MV" and f.get("shots")]
     shut = [(g, f) for g, f in gk if f.get("saves") == f.get("shots") and f.get("dec") == "W"]
+    shut = [(g, f) for g, f in shut if min(g["awayScore"], g["homeScore"]) == 0]
     if shut:
-        g, f = shut[0]
-        return f"{f['name']} pelasi nollapelin {GEN.get(f['team'], place(f['team']))} voitossa"
+        return ("nolla",) + shut[0]
     if sk:
         g, f = sk[0]
-        gg, aa, pp = f.get("g") or 0, f.get("a") or 0, f.get("p") or 0
-        win, _ = team_result(g, f["team"])
-        tgen = GEN.get(f["team"], place(f["team"]))
-        if gg and gwg_scorer(g) == f["name"] and g.get("final") == "JA":
-            return f"{f['name']} ratkaisi {tgen} voiton jatkoajalla"
-        if pp >= 2 or gg >= 1:
-            return f"{f['name']} {_act(gg, aa)} {tgen} {'voitossa' if win else 'tappiossa'}"
+        if (f.get("g") or 0) >= 3:
+            return ("hattu", g, f)
+        if (f.get("p") or 0) >= 2 or (f.get("g") or 0) >= 1:
+            return ("piste", g, f)
     big = sorted(gk, key=lambda x: -(x[1].get("saves") or 0))
     if big and (big[0][1].get("saves") or 0) >= 30:
-        g, f = big[0]
-        win, _ = team_result(g, f["team"])
-        return f"{f['name']} torjui {f['saves']} kertaa {GEN.get(f['team'], place(f['team']))} {'voitossa' if win else 'tappiossa'}"
-    return ""
+        return ("torjunta",) + big[0]
+    return None
+
+
+def headline_for(gl, data):
+    """Iltapäivälehtimäinen mutta tosiasioihin perustuva otsikko. Ei kysymyksiä, ei arvioita joita tilastot eivät tue."""
+    pick = headline_pick(gl)
+    if not pick:
+        return ""
+    kind, g, f = pick
+    n = f["name"]
+    tgen = GEN.get(f["team"], place(f["team"]))
+    tnom = place(f["team"])
+    win, res = team_result(g, f["team"])
+    my, th = res.split()[-1].split("–")
+    score = f"{my}–{th}"
+    if kind == "nolla":
+        return f"Nollapeli! {n} torjui kaikki {f['saves']} laukausta – {tnom} voitti {score}"
+    gg, aa, pp = f.get("g") or 0, f.get("a") or 0, f.get("p") or 0
+    if gg and gwg_scorer(g) == n and g.get("final") == "JA":
+        return f"Jatkoaikasankari {n}! Iski {tgen} voittomaalin"
+    if kind == "hattu":
+        return f"Hattutemppu! {n} iski {nw(gg)} maalia" + (f" – {tnom} voitti {score}" if win else "")
+    if pp >= 4:
+        return f"Huikea yö: {n} takoi {nw(pp)} pistettä ({gg}+{aa})" + (f" – {tnom} voitti {score}" if win else "")
+    if gg and gwg_scorer(g) == n:
+        return f"{n} ratkaisi! Iski {tgen} voittomaalin" + (f" – lisäksi {nw(pp - 1)} pistettä" if pp >= 3 else "")
+    if pp == 3:
+        return f"{n} liekeissä: kolme pistettä ({gg}+{aa})" + (f" – {tnom} voitti {score}" if win else "")
+    if gg == 2:
+        return f"{n} iski kahdesti" + (f" – {tnom} voitti {score}" if win else f", mutta {tnom} hävisi {score}")
+    if gg == 1:
+        return (f"{n} osui, {tnom} voitti {score}" if win else f"{n} osui, mutta {tnom} hävisi {score}")
+    if kind == "piste":
+        return f"{n} syötti {nw(aa)} kertaa" + (f" – {tnom} voitti {score}" if win else "")
+    sv = f.get("saves") or 0
+    if win:
+        return f"{n} oli muuri: {sv} torjuntaa {tgen} voitossa"
+    return f"{n} torjui {sv} kertaa, mutta {tnom} hävisi {score}"
 
 
 def build_article(d, gl, data, latest):
@@ -2914,16 +2961,30 @@ def preview_article(data, D, now, arch_days=None):
     fo = []
     for t, u, fa, fh, ch, extra in fin_games:
         if fa and fh:
-            fo.append((100 if ch else 0) + len(fa) + len(fh), u, fa, fh, ch)
-    if fo:
+            fo.append(((100 if ch else 0) + len(fa) + len(fh), u, fa, fh, ch))
+    likely_now = {n for _, _, fa, fh, _, _ in fin_games for n in fa + fh}
+    near = sorted([m for m in (MILES.get("upcoming") or []) if m["name"] in likely_now and m.get("need") == 1],
+                  key=lambda m: (MILE_PRIO.get(m["stat"], 9), -m["value"]))
+    if near:
+        m = near[0]
+        w = STAT_FI[m["stat"]]
+        if m["stat"] == "gamesPlayed":
+            title = f"Merkkipaalu tänä yönä: {m['name']} pelaa {m['value']}. NHL-ottelunsa"
+        else:
+            title = f"Enää yksi! {m['name']} jahtaa {m['value']} {w[1]} rajaa tänä yönä"
+    elif fo:
         fo.sort(key=lambda x: -x[0])
         _, u, fa, fh, ch = fo[0]
-        title = f"NHL tänä yönä {dd}: {best(fa)} ja {best(fh)} vastakkain" + (f" – ilmaiseksi {ch}" if ch else "")
+        title = f"Suomalaisten kaksintaistelu yöllä: {best(fa)} vastaan {best(fh)}" + (f" – näet ilmaiseksi ({ch})" if ch else "")
     elif frees:
         t, u, ch = frees[0]
-        title = f"NHL tänä yönä {dd}: {tname(u['away'])} – {tname(u['home'])} ilmaiseksi ({ch})"
+        title = f"Ilmaista NHL:ää tänä yönä: {tname(u['away'])} – {tname(u['home'])} ({ch})"
+    elif fin_games:
+        top = sorted({n for _, _, fa, fh, _, _ in fin_games for n in fa + fh}, key=lambda n: -(sk[n][6] if n in sk else 0))
+        title = (f"NHL-yö {dd}: {top[0]} ja {nw(len(top) - 1)} muuta suomalaista jäällä" if len(top) > 1
+                 else f"NHL-yö {dd}: {top[0]} ainoana suomalaisena jäällä") if top else f"NHL-yö {dd}: suomalaisia {nwi(len(fin_games))} ottelussa"
     else:
-        title = f"NHL tänä yönä {dd}: suomalaiset ja ottelut" if not fin_games else f"NHL tänä yönä {dd}: suomalaisia {nwi(len(fin_games))} ottelussa"
+        title = f"NHL-yö {dd}: ottelut ja lähetykset"
     lead = (f"NHL:ssä pelataan tänä yönä {nw(len(games)) if len(games) <= 10 else len(games)} ottelua. "
             + (f"Suomalaisia on joukkueiden kokoonpanoissa {nwi(len(fin_games))} ottelussa. " if fin_games else "Yhdessäkään illan ottelussa ei ole suomalaisia kokoonpanoissa. ")
             + ("Ilmaiseksi näkyy yksi ottelu." if len(frees) == 1 else f"Ilmaiseksi näkyy {nw(len(frees))} ottelua." if frees else ""))
@@ -2958,7 +3019,7 @@ def preview_article(data, D, now, arch_days=None):
 def milestone_article(m, data):
     slugs = data["finnSlugs"]
     w = STAT_FI[m["stat"]]
-    title = mile_txt(m, True)
+    title = "Merkkipaalu! " + mile_txt(m, True)
     pr = PROFILES.get(FINN_PID.get(m["name"])) or {}
     ct = ((pr.get("careerTotals") or {}).get("regularSeason")) or {}
     parts = []
@@ -2971,7 +3032,7 @@ def milestone_article(m, data):
     if rank:
         parts.append(f"Suomalaisten kaikkien aikojen NHL-pistepörssissä hän on sijalla {rank}.")
     team = tname(m["team"]) if m.get("team") else ""
-    lead = f"{title}." + (f" Hän edustaa {team} -joukkuetta." if team else "")
+    lead = f"{mile_txt(m, True)}." + (f" Hän edustaa {team} -joukkuetta." if team else "")
     link = f"<a href='/suomalaiset/{slugs[m['name']]}.html'>{esc(m['name'])}</a>" if m["name"] in slugs else esc(m["name"])
     body = (f"<p class='ingressi'>{esc(lead)}</p><p>{link} saavutti merkkipaalun {esc(fi_date(m['date']))} päivitetyissä tilastoissa. {esc(' '.join(parts))}</p>"
             "<p class='small'><a href='/virstanpylvaat/'>Lähestyvät virstanpylväät</a> · <a href='/kaikkien-aikojen-suomalaiset/'>Kaikkien aikojen suomalaiset</a></p>")
@@ -3008,11 +3069,11 @@ def roster_articles(st, data, D):
         for pid, p in now_map.items():
             o = prev.get(pid)
             if not o:
-                title = f"{p['name']} mukana {tname(p['team'])} -joukkueen NHL-kokoonpanossa"
+                title = f"{p['name']} mukaan {tname(p['team'])} -joukkueen NHL-kokoonpanoon"
                 lead = f"{p['name']} on lisätty {tname(p['team'])} -joukkueen NHL-kokoonpanoon."
                 kind = "nousu"
             elif o["team"] != p["team"]:
-                title = f"{p['name']} siirtyi {tname(o['team'])} -joukkueesta {tname(p['team'])} -joukkueeseen"
+                title = f"Uusi joukkue! {p['name']} siirtyi {tname(o['team'])} -joukkueesta {tname(p['team'])} -joukkueeseen"
                 lead = f"{p['name']} kuuluu nyt {tname(p['team'])} -joukkueen NHL-kokoonpanoon. Aiemmin hän oli {tname(o['team'])} -joukkueen kokoonpanossa."
                 kind = "siirto"
             else:
@@ -3025,7 +3086,7 @@ def roster_articles(st, data, D):
                         "title": title, "lead": lead, "html": body, "frozen": True})
         for pid, o in prev.items():
             if pid not in now_map:
-                title = f"{o['name']} ei ole enää {tname(o['team'])} -joukkueen NHL-kokoonpanossa"
+                title = f"{o['name']} putosi {tname(o['team'])} -joukkueen NHL-kokoonpanosta"
                 lead = f"{o['name']} on poistunut {tname(o['team'])} -joukkueen NHL-kokoonpanosta."
                 body = (f"<p class='ingressi'>{esc(lead)}</p><p>Tieto perustuu NHL:n julkaisemiin joukkueiden kokoonpanoihin ({esc(fi_date(D.isoformat()))}). "
                         "Muutoksen syy, esimerkiksi siirto farmiin, kauppa tai loukkaantuminen, ei käy ilmi kokoonpanotiedoista.</p>")
@@ -3061,7 +3122,7 @@ def weekly_article(data, arch_days, D):
     a, b = dt.date.fromisoformat(days[0]), dt.date.fromisoformat(days[-1])
     rng = f"{a.day}.{a.month}.–{b.day}.{b.month}."
     best = top[0]
-    title = f"Suomalaisten NHL-viikko {wk}: {best[0]} keräsi {best[1][4]} pistettä"
+    title = f"Viikon kovin suomalainen: {best[0]} takoi {best[1][4]} pistettä {best[1][1]} ottelussa"
     lead = f"Viikolla {rng} pelattiin {games} NHL-ottelua. Suomalaisista eniten pisteitä keräsi {best[0]}: {best[1][2]}+{best[1][3]}={best[1][4]} {best[1][1]} ottelussa."
     slugs = data["finnSlugs"]
     def nm(n):
@@ -3122,6 +3183,7 @@ def build_news(data, arch_days, urls):
     for a in arts:
         url = _art_slug(a)
         pub = dt.datetime.fromisoformat(a["published"])
+        aog = next((star_og(data, n) for n in sorted(data.get("finnSlugs") or {}, key=len, reverse=True) if n in a["title"] and star_og(data, n)), None)
         body = (f"<p class='kdate'>{esc(TYPE_FI.get(a['type'], 'Uutinen'))} · Julkaistu {esc(fi_date(pub.date().isoformat()))} klo {pub:%H.%M}</p>"
                 f"<h1>{esc(a['title'])}</h1><p class='byline'>Punalamppu · Automaattinen uutinen NHL:n tilastoista · tekoälyn avulla tehty, ihmisen tarkastamat tekstipohjat</p>"
                 f"<div class='art'>{a['html']}</div>"
@@ -3135,9 +3197,9 @@ def build_news(data, arch_days, urls):
             {"@type": "NewsArticle", "headline": a["title"][:110], "datePublished": a["published"], "dateModified": a["published"] if a.get("frozen") else now.isoformat(timespec="minutes"),
              "inLanguage": "fi", "description": a["lead"][:300], "author": {"@type": "Organization", "name": CFG["siteName"], "url": CFG["baseUrl"]},
              "publisher": {"@type": "Organization", "name": CFG["siteName"], "logo": {"@type": "ImageObject", "url": base + "/icon-512.png"}},
-             "mainEntityOfPage": base + url, "image": base + "/og.png"},
+             "mainEntityOfPage": base + url, "image": base + (aog or "/og.png")},
             crumbs([("Punalamppu", "/"), ("Uutiset", "/uutiset/"), (a["title"][:60], url)])]}
-        write_page(url, f"{a['title']} | {CFG['siteName']}", a["lead"][:300], body, jl, urls=urls)
+        write_page(url, f"{a['title']} | {CFG['siteName']}", a["lead"][:300], body, jl, og=aog, urls=urls)
     # hakemisto: uutiset ja koosteet yhdessä
     items = [(a["published"], a["title"], _art_slug(a), TYPE_FI.get(a["type"], "Uutinen"), a["lead"]) for a in arts]
     for d, nice, h, ld in KOOSTEET:
