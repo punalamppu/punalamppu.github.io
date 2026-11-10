@@ -185,6 +185,167 @@
      }
     ]
    }
+  },
+  "2026020284": {
+   "id": 2026020284,
+   "away": "PHI",
+   "home": "VAN",
+   "awayScore": 3,
+   "homeScore": 1,
+   "start": "2026-11-10T02:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "02:03",
+     "team": "PHI",
+     "who": "Michael Bunting",
+     "tag": "",
+     "ast": [
+      "Christian Dvorak",
+      "Nick Seeler"
+     ],
+     "fin": false,
+     "clip": "6408164927112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "03:05",
+     "team": "PHI",
+     "who": "Travis Konecny",
+     "tag": "YV",
+     "ast": [
+      "Matvei Mitškov",
+      "Christian Dvorak"
+     ],
+     "fin": false,
+     "clip": "6408167122112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "12:44",
+     "team": "VAN",
+     "who": "Jonathan Lekkerimäki",
+     "tag": "YV",
+     "ast": [
+      "Brock Boeser",
+      "Elias Pettersson"
+     ],
+     "fin": false,
+     "clip": "6408169342112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "19:01",
+     "team": "PHI",
+     "who": "Travis Sanheim",
+     "tag": "TM",
+     "ast": [],
+     "fin": false,
+     "clip": "",
+     "gtd": 2
+    }
+   ],
+   "goalies": "Joseph Woll (PHI) 18 torjuntaa · Leevi Meriläinen (VAN) 14 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Matvei Mitškov",
+     "team": "PHI",
+     "pos": "R",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Christian Dvorak",
+     "team": "PHI",
+     "pos": "C",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Jonathan Lekkerimäki",
+     "team": "VAN",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Rogers Arena",
+   "finStats": [
+    {
+     "name": "Leevi Meriläinen",
+     "team": "VAN",
+     "opp": "PHI",
+     "pos": "MV",
+     "saves": 14,
+     "shots": 16,
+     "dec": "L",
+     "toi": "58:34"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Joseph Woll (PHI) 18 torjuntaa · Leevi Meriläinen (VAN) 14 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Matvei Mitškov",
+      "team": "PHI",
+      "pos": "R",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Christian Dvorak",
+      "team": "PHI",
+      "pos": "C",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Jonathan Lekkerimäki",
+      "team": "VAN",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Rogers Arena",
+    "finStats": [
+     {
+      "name": "Leevi Meriläinen",
+      "team": "VAN",
+      "opp": "PHI",
+      "pos": "MV",
+      "saves": 14,
+      "shots": 16,
+      "dec": "L",
+      "toi": "58:34"
+     }
+    ]
+   }
   }
  }
 }
