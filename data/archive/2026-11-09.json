@@ -1,0 +1,190 @@
+{
+ "gameDate": "2026-11-09",
+ "games": {
+  "2026020283": {
+   "id": 2026020283,
+   "away": "NYR",
+   "home": "EDM",
+   "awayScore": 1,
+   "homeScore": 3,
+   "start": "2026-11-10T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "06:42",
+     "team": "EDM",
+     "who": "Connor McDavid",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408161912112",
+     "gtd": 11
+    },
+    {
+     "p": "2",
+     "t": "02:59",
+     "team": "EDM",
+     "who": "Leon Draisaitl",
+     "tag": "",
+     "ast": [
+      "Vasili Podkolzin",
+      "Mattias Ekholm"
+     ],
+     "fin": false,
+     "clip": "6408162532112",
+     "gtd": 17
+    },
+    {
+     "p": "2",
+     "t": "05:05",
+     "team": "NYR",
+     "who": "Jaroslav Chmelar",
+     "tag": "AV",
+     "ast": [
+      "Mika Zibanejad"
+     ],
+     "fin": false,
+     "clip": "6408163322112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "18:47",
+     "team": "EDM",
+     "who": "Leon Draisaitl",
+     "tag": "TM",
+     "ast": [],
+     "fin": false,
+     "clip": "6408164868112",
+     "gtd": 18
+    }
+   ],
+   "goalies": "Dylan Garand (NYR) 17 torjuntaa · Devon Levi (EDM) 28 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Devon Levi",
+     "team": "EDM",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.966
+    },
+    {
+     "star": 2,
+     "name": "Leon Draisaitl",
+     "team": "EDM",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Adam Fox",
+     "team": "NYR",
+     "pos": "D",
+     "goals": 0,
+     "assists": 0,
+     "points": 0,
+     "svp": null
+    }
+   ],
+   "venue": "Rogers Place",
+   "finStats": [
+    {
+     "name": "Eeli Tolvanen",
+     "team": "NYR",
+     "opp": "EDM",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "06:31"
+    },
+    {
+     "name": "Kasperi Kapanen",
+     "team": "EDM",
+     "opp": "NYR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "17:22"
+    }
+   ],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/nyr-at-edm-recap-6408167927112",
+   "videoId": "",
+   "details": {
+    "goalies": "Dylan Garand (NYR) 17 torjuntaa · Devon Levi (EDM) 28 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Devon Levi",
+      "team": "EDM",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.966
+     },
+     {
+      "star": 2,
+      "name": "Leon Draisaitl",
+      "team": "EDM",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Adam Fox",
+      "team": "NYR",
+      "pos": "D",
+      "goals": 0,
+      "assists": 0,
+      "points": 0,
+      "svp": null
+     }
+    ],
+    "venue": "Rogers Place",
+    "finStats": [
+     {
+      "name": "Eeli Tolvanen",
+      "team": "NYR",
+      "opp": "EDM",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "06:31"
+     },
+     {
+      "name": "Kasperi Kapanen",
+      "team": "EDM",
+      "opp": "NYR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "17:22"
+     }
+    ]
+   }
+  }
+ }
+}
