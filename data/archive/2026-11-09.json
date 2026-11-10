@@ -245,7 +245,7 @@
      "tag": "TM",
      "ast": [],
      "fin": false,
-     "clip": "",
+     "clip": "6408170141112",
      "gtd": 2
     }
    ],
@@ -296,7 +296,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/phi-at-van-recap-6408169654112",
    "videoId": "",
    "details": {
     "goalies": "Joseph Woll (PHI) 18 torjuntaa · Leevi Meriläinen (VAN) 14 torjuntaa",
@@ -345,6 +345,148 @@
       "toi": "58:34"
      }
     ]
+   }
+  },
+  "2026020285": {
+   "id": 2026020285,
+   "away": "NYI",
+   "home": "SJS",
+   "awayScore": 2,
+   "homeScore": 3,
+   "start": "2026-11-10T03:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "06:14",
+     "team": "NYI",
+     "who": "Ben Hutton",
+     "tag": "",
+     "ast": [
+      "Simon Holmström",
+      "Bo Horvat"
+     ],
+     "fin": false,
+     "clip": "6408166005112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "16:41",
+     "team": "SJS",
+     "who": "Ivar Stenberg",
+     "tag": "",
+     "ast": [
+      "Tyler Toffoli",
+      "Ty Dellandrea"
+     ],
+     "fin": false,
+     "clip": "6408165559112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "01:11",
+     "team": "NYI",
+     "who": "Victor Eklund",
+     "tag": "YV",
+     "ast": [
+      "Brayden Schenn",
+      "Matthew Schaefer"
+     ],
+     "fin": false,
+     "clip": "6408166831112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "12:12",
+     "team": "SJS",
+     "who": "Tyler Toffoli",
+     "tag": "",
+     "ast": [
+      "Dmitri Orlov",
+      "Eric Pohlkamp"
+     ],
+     "fin": false,
+     "clip": "6408167860112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Ilja Sorokin (NYI) 37 torjuntaa · Yaroslav Askarov (SJS) 30 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Yaroslav Askarov",
+     "team": "SJS",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.938
+    },
+    {
+     "star": 2,
+     "name": "Ilja Sorokin",
+     "team": "NYI",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.949
+    },
+    {
+     "star": 3,
+     "name": "Tyler Toffoli",
+     "team": "SJS",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "SAP Center at San Jose",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Ilja Sorokin (NYI) 37 torjuntaa · Yaroslav Askarov (SJS) 30 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Yaroslav Askarov",
+      "team": "SJS",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.938
+     },
+     {
+      "star": 2,
+      "name": "Ilja Sorokin",
+      "team": "NYI",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.949
+     },
+     {
+      "star": 3,
+      "name": "Tyler Toffoli",
+      "team": "SJS",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "SAP Center at San Jose",
+    "finStats": []
    }
   }
  }
