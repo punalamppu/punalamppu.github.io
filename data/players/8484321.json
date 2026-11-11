@@ -26,7 +26,7 @@
    "subSeason": {
     "assists": 3,
     "gameWinningGoals": 0,
-    "gamesPlayed": 16,
+    "gamesPlayed": 17,
     "goals": 0,
     "otGoals": 0,
     "pim": 12,
@@ -37,12 +37,12 @@
     "shootingPctg": 0.0,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 13
+    "shots": 15
    },
    "career": {
     "assists": 11,
     "gameWinningGoals": 0,
-    "gamesPlayed": 111,
+    "gamesPlayed": 112,
     "goals": 1,
     "otGoals": 0,
     "pim": 48,
@@ -50,19 +50,19 @@
     "points": 12,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
-    "shootingPctg": 0.0105,
+    "shootingPctg": 0.0103,
     "shorthandedGoals": 0,
     "shorthandedPoints": 1,
-    "shots": 95
+    "shots": 97
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
    "assists": 11,
-   "avgToi": "14:08",
+   "avgToi": "14:10",
    "gameWinningGoals": 0,
-   "gamesPlayed": 111,
+   "gamesPlayed": 112,
    "goals": 1,
    "otGoals": 0,
    "pim": 48,
@@ -70,10 +70,10 @@
    "points": 12,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
-   "shootingPctg": 0.0105,
+   "shootingPctg": 0.0103,
    "shorthandedGoals": 0,
    "shorthandedPoints": 1,
-   "shots": 95
+   "shots": 97
   },
   "playoffs": {
    "assists": 0,
@@ -94,6 +94,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-10",
+   "gameId": 2026020288,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "WSH",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 21,
+   "shorthandedGoals": 0,
+   "shots": 2,
+   "teamAbbrev": "OTT",
+   "toi": "17:13"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-07",
@@ -165,24 +183,6 @@
    "shots": 0,
    "teamAbbrev": "OTT",
    "toi": "18:53"
-  },
-  {
-   "assists": 1,
-   "gameDate": "2026-10-29",
-   "gameId": 2026020212,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "LAK",
-   "pim": 2,
-   "plusMinus": 1,
-   "points": 1,
-   "powerPlayGoals": 0,
-   "shifts": 20,
-   "shorthandedGoals": 0,
-   "shots": 1,
-   "teamAbbrev": "OTT",
-   "toi": "12:37"
   }
  ],
  "isActive": true,
@@ -359,11 +359,11 @@
   },
   {
    "assists": 3,
-   "avgToi": "15:12",
+   "avgToi": "15:19",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 16,
+   "gamesPlayed": 17,
    "goals": 0,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
@@ -377,7 +377,7 @@
    "shootingPctg": 0.0,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 13,
+   "shots": 15,
    "teamCommonName": {
     "default": "Senators",
     "fr": "Sénateurs"
@@ -392,7 +392,7 @@
    }
   }
  ],
- "_fetched": "2026-11-11",
+ "_fetched": "2026-11-12",
  "gameLog": [
   [
    "2026-10-03",

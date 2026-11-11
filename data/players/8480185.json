@@ -33,57 +33,57 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "assists": 2,
+    "assists": 3,
     "gameWinningGoals": 0,
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "goals": 2,
     "otGoals": 0,
     "pim": 20,
     "plusMinus": -1,
-    "points": 4,
+    "points": 5,
     "powerPlayGoals": 1,
     "powerPlayPoints": 1,
-    "shootingPctg": 0.1,
+    "shootingPctg": 0.095238,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 20
+    "shots": 21
    },
    "career": {
-    "assists": 103,
+    "assists": 104,
     "gameWinningGoals": 11,
-    "gamesPlayed": 465,
+    "gamesPlayed": 466,
     "goals": 63,
     "otGoals": 1,
     "pim": 158,
     "plusMinus": 23,
-    "points": 166,
+    "points": 167,
     "powerPlayGoals": 6,
     "powerPlayPoints": 11,
-    "shootingPctg": 0.10640000000000001,
+    "shootingPctg": 0.10619999999999999,
     "shorthandedGoals": 3,
     "shorthandedPoints": 8,
-    "shots": 592
+    "shots": 593
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
-   "assists": 103,
+   "assists": 104,
    "avgToi": "15:09",
-   "faceoffWinningPctg": 0.4388,
+   "faceoffWinningPctg": 0.439,
    "gameWinningGoals": 11,
-   "gamesPlayed": 465,
+   "gamesPlayed": 466,
    "goals": 63,
    "otGoals": 1,
    "pim": 158,
    "plusMinus": 23,
-   "points": 166,
+   "points": 167,
    "powerPlayGoals": 6,
    "powerPlayPoints": 11,
-   "shootingPctg": 0.10640000000000001,
+   "shootingPctg": 0.10619999999999999,
    "shorthandedGoals": 3,
    "shorthandedPoints": 8,
-   "shots": 592
+   "shots": 593
   },
   "playoffs": {
    "assists": 24,
@@ -105,6 +105,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 1,
+   "gameDate": "2026-11-10",
+   "gameId": 2026020289,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "CBJ",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 20,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "FLA",
+   "toi": "14:58"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-08",
@@ -176,24 +194,6 @@
    "shots": 1,
    "teamAbbrev": "FLA",
    "toi": "18:46"
-  },
-  {
-   "assists": 2,
-   "gameDate": "2026-10-30",
-   "gameId": 2026020215,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "WPG",
-   "pim": 0,
-   "plusMinus": 3,
-   "points": 2,
-   "powerPlayGoals": 0,
-   "shifts": 22,
-   "shorthandedGoals": 0,
-   "shots": 1,
-   "teamAbbrev": "FLA",
-   "toi": "16:27"
   }
  ],
  "isActive": true,
@@ -562,26 +562,26 @@
    }
   },
   {
-   "assists": 2,
-   "avgToi": "16:00",
-   "faceoffWinningPctg": 0.294118,
+   "assists": 3,
+   "avgToi": "15:57",
+   "faceoffWinningPctg": 0.333333,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 18,
+   "gamesPlayed": 19,
    "goals": 2,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 20,
    "plusMinus": -1,
-   "points": 4,
+   "points": 5,
    "powerPlayGoals": 1,
    "powerPlayPoints": 1,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.1,
+   "shootingPctg": 0.095238,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 20,
+   "shots": 21,
    "teamCommonName": {
     "default": "Panthers"
    },
@@ -595,7 +595,7 @@
    }
   }
  ],
- "_fetched": "2026-11-11",
+ "_fetched": "2026-11-12",
  "gameLog": [
   [
    "2026-09-29",
