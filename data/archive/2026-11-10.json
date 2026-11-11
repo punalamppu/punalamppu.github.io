@@ -912,7 +912,7 @@
     }
    ],
    "note": "Suomalaiset: Lundell 0+2, Luostarinen 0+1",
-   "recapUrl": "https://www.nhl.com/video/fla-at-cbj-recap-6408214852112",
+   "recapUrl": "https://www.nhl.com/video/fla-at-cbj-recap-6408214969112",
    "videoId": "",
    "details": {
     "goalies": "Jacob Markström (FLA) 37 torjuntaa · Cam Talbot (CBJ) 24 torjuntaa",
@@ -987,6 +987,162 @@
       "toi": "20:50"
      }
     ]
+   }
+  },
+  "2026020290": {
+   "id": 2026020290,
+   "away": "DET",
+   "home": "STL",
+   "awayScore": 2,
+   "homeScore": 3,
+   "start": "2026-11-11T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "19:47",
+     "team": "DET",
+     "who": "Andrew Copp",
+     "tag": "",
+     "ast": [
+      "Ben Chiarot",
+      "Lucas Raymond"
+     ],
+     "fin": false,
+     "clip": "6408213085112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "00:37",
+     "team": "STL",
+     "who": "Pius Suter",
+     "tag": "",
+     "ast": [
+      "Aleksei Toroptšenko",
+      "Brandon Carlo"
+     ],
+     "fin": false,
+     "clip": "6408214074112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "02:34",
+     "team": "STL",
+     "who": "Justin Barron",
+     "tag": "",
+     "ast": [
+      "Robert Thomas",
+      "Jimmy Snuggerud"
+     ],
+     "fin": false,
+     "clip": "6408212626112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "15:58",
+     "team": "STL",
+     "who": "Jimmy Snuggerud",
+     "tag": "",
+     "ast": [
+      "Dylan Holloway",
+      "Robert Thomas"
+     ],
+     "fin": false,
+     "clip": "6408216638112",
+     "gtd": 10
+    },
+    {
+     "p": "3",
+     "t": "18:46",
+     "team": "DET",
+     "who": "Moritz Seider",
+     "tag": "",
+     "ast": [
+      "Lucas Raymond",
+      "Andrew Copp"
+     ],
+     "fin": false,
+     "clip": "6408216431112",
+     "gtd": 1
+    }
+   ],
+   "goalies": "",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Jimmy Snuggerud",
+     "team": "STL",
+     "pos": "R",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Joel Hofer",
+     "team": "STL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Dylan Holloway",
+     "team": "STL",
+     "pos": "L",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": null
+    }
+   ],
+   "venue": "Enterprise Center",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/det-at-stl-recap-6408216652112",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Jimmy Snuggerud",
+      "team": "STL",
+      "pos": "R",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Joel Hofer",
+      "team": "STL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Dylan Holloway",
+      "team": "STL",
+      "pos": "L",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": null
+     }
+    ],
+    "venue": "Enterprise Center",
+    "finStats": []
    }
   }
  }
