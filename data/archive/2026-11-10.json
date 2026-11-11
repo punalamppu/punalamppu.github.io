@@ -1144,6 +1144,200 @@
     "venue": "Enterprise Center",
     "finStats": []
    }
+  },
+  "2026020292": {
+   "id": 2026020292,
+   "away": "NSH",
+   "home": "LAK",
+   "awayScore": 3,
+   "homeScore": 0,
+   "start": "2026-11-11T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "05:20",
+     "team": "NSH",
+     "who": "Filip Forsberg",
+     "tag": "",
+     "ast": [
+      "Nils Höglander"
+     ],
+     "fin": false,
+     "clip": "6408217100112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "10:32",
+     "team": "NSH",
+     "who": "Filip Forsberg",
+     "tag": "",
+     "ast": [
+      "Nils Höglander",
+      "Brady Skjei"
+     ],
+     "fin": false,
+     "clip": "6408219340112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "17:43",
+     "team": "NSH",
+     "who": "Adam Wilsby",
+     "tag": "TM",
+     "ast": [],
+     "fin": false,
+     "clip": "6408220408112",
+     "gtd": 1
+    }
+   ],
+   "goalies": "Juuse Saros (NSH) 30 torjuntaa · Anton Forsberg (LAK) 27 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Filip Forsberg",
+     "team": "NSH",
+     "pos": "L",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Juuse Saros",
+     "team": "NSH",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 1.0
+    },
+    {
+     "star": 3,
+     "name": "Nils Höglander",
+     "team": "NSH",
+     "pos": "L",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Crypto.com Arena",
+   "finStats": [
+    {
+     "name": "Juuse Saros",
+     "team": "NSH",
+     "opp": "LAK",
+     "pos": "MV",
+     "saves": 30,
+     "shots": 30,
+     "dec": "W",
+     "toi": "60:00"
+    },
+    {
+     "name": "Joel Armia",
+     "team": "LAK",
+     "opp": "NSH",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "12:43"
+    },
+    {
+     "name": "Erik Haula",
+     "team": "LAK",
+     "opp": "NSH",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "17:12"
+    }
+   ],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/nsh-at-lak-recap-6408222362112",
+   "videoId": "",
+   "details": {
+    "goalies": "Juuse Saros (NSH) 30 torjuntaa · Anton Forsberg (LAK) 27 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Filip Forsberg",
+      "team": "NSH",
+      "pos": "L",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Juuse Saros",
+      "team": "NSH",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 1.0
+     },
+     {
+      "star": 3,
+      "name": "Nils Höglander",
+      "team": "NSH",
+      "pos": "L",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Crypto.com Arena",
+    "finStats": [
+     {
+      "name": "Juuse Saros",
+      "team": "NSH",
+      "opp": "LAK",
+      "pos": "MV",
+      "saves": 30,
+      "shots": 30,
+      "dec": "W",
+      "toi": "60:00"
+     },
+     {
+      "name": "Joel Armia",
+      "team": "LAK",
+      "opp": "NSH",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "12:43"
+     },
+     {
+      "name": "Erik Haula",
+      "team": "LAK",
+      "opp": "NSH",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "17:12"
+     }
+    ]
+   }
   }
  }
 }
