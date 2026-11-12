@@ -30,41 +30,41 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "gamesPlayed": 1,
-    "goalsAgainstAvg": 3.038829,
+    "gamesPlayed": 2,
+    "goalsAgainstAvg": 2.01286,
     "losses": 0,
     "otLosses": 0,
-    "savePctg": 0.892857,
+    "savePctg": 0.931034,
     "shutouts": 0,
-    "wins": 1
+    "wins": 2
    },
    "career": {
-    "gamesPlayed": 335,
-    "goalsAgainstAvg": 3.058319,
+    "gamesPlayed": 336,
+    "goalsAgainstAvg": 3.051688,
     "losses": 126,
     "otLosses": 38,
-    "savePctg": 0.900032,
+    "savePctg": 0.900243,
     "shutouts": 8,
-    "wins": 141
+    "wins": 142
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
    "assists": 3,
-   "gamesPlayed": 335,
-   "gamesStarted": 303,
+   "gamesPlayed": 336,
+   "gamesStarted": 304,
    "goals": 0,
-   "goalsAgainst": 946,
-   "goalsAgainstAvg": 3.058319,
+   "goalsAgainst": 947,
+   "goalsAgainstAvg": 3.051688,
    "losses": 126,
    "otLosses": 38,
    "pim": 8,
-   "savePctg": 0.900032,
-   "shotsAgainst": 9453,
+   "savePctg": 0.900243,
+   "shotsAgainst": 9483,
    "shutouts": 8,
-   "timeOnIce": "18559:12",
-   "wins": 141
+   "timeOnIce": "18619:12",
+   "wins": 142
   },
   "playoffs": {
    "assists": 0,
@@ -84,6 +84,21 @@
   }
  },
  "last5Games": [
+  {
+   "decision": "W",
+   "gameDate": "2026-11-11",
+   "gameId": 2026020294,
+   "gameTypeId": 2,
+   "gamesStarted": 1,
+   "goalsAgainst": 1,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "CGY",
+   "penaltyMins": 0,
+   "savePctg": 0.966667,
+   "shotsAgainst": 30,
+   "teamAbbrev": "NYR",
+   "toi": "60:00"
+  },
   {
    "decision": "W",
    "gameDate": "2026-11-07",
@@ -561,19 +576,19 @@
   {
    "assists": 0,
    "gameTypeId": 2,
-   "gamesPlayed": 1,
-   "gamesStarted": 1,
+   "gamesPlayed": 2,
+   "gamesStarted": 2,
    "goals": 0,
-   "goalsAgainst": 3,
-   "goalsAgainstAvg": 3.038829,
+   "goalsAgainst": 4,
+   "goalsAgainstAvg": 2.01286,
    "leagueAbbrev": "NHL",
    "losses": 0,
    "otLosses": 0,
    "pim": 0,
-   "savePctg": 0.892857,
+   "savePctg": 0.931034,
    "season": 20262027,
    "sequence": 1,
-   "shotsAgainst": 28,
+   "shotsAgainst": 58,
    "shutouts": 0,
    "teamCommonName": {
     "default": "Rangers"
@@ -586,11 +601,11 @@
     "default": "New York",
     "fr": "de New York"
    },
-   "timeOnIce": "59:14",
-   "wins": 1
+   "timeOnIce": "119:14",
+   "wins": 2
   }
  ],
- "_fetched": "2026-11-12",
+ "_fetched": "2026-11-13",
  "gameLog": [
   [
    "2026-11-07",

@@ -29,44 +29,59 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "gamesPlayed": 4,
-    "goalsAgainstAvg": 3.398517,
+    "gamesPlayed": 5,
+    "goalsAgainstAvg": 3.125678,
     "losses": 1,
     "otLosses": 0,
-    "savePctg": 0.873874,
+    "savePctg": 0.885714,
     "shutouts": 0,
-    "wins": 3
+    "wins": 4
    },
    "career": {
-    "gamesPlayed": 84,
-    "goalsAgainstAvg": 2.899375,
+    "gamesPlayed": 85,
+    "goalsAgainstAvg": 2.8877,
     "losses": 33,
     "otLosses": 5,
-    "savePctg": 0.898092,
+    "savePctg": 0.898531,
     "shutouts": 3,
-    "wins": 38
+    "wins": 39
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
    "assists": 1,
-   "gamesPlayed": 84,
-   "gamesStarted": 71,
+   "gamesPlayed": 85,
+   "gamesStarted": 72,
    "goals": 0,
-   "goalsAgainst": 220,
-   "goalsAgainstAvg": 2.899375,
+   "goalsAgainst": 222,
+   "goalsAgainstAvg": 2.8877,
    "losses": 33,
    "otLosses": 5,
    "pim": 2,
-   "savePctg": 0.898092,
-   "shotsAgainst": 2149,
+   "savePctg": 0.898531,
+   "shotsAgainst": 2178,
    "shutouts": 3,
-   "timeOnIce": "4552:42",
-   "wins": 38
+   "timeOnIce": "4612:40",
+   "wins": 39
   }
  },
  "last5Games": [
+  {
+   "decision": "W",
+   "gameDate": "2026-11-11",
+   "gameId": 2026020297,
+   "gameTypeId": 2,
+   "gamesStarted": 1,
+   "goalsAgainst": 2,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "ANA",
+   "penaltyMins": 0,
+   "savePctg": 0.931034,
+   "shotsAgainst": 29,
+   "teamAbbrev": "NSH",
+   "toi": "59:58"
+  },
   {
    "decision": "W",
    "gameDate": "2026-11-05",
@@ -314,19 +329,19 @@
   {
    "assists": 0,
    "gameTypeId": 2,
-   "gamesPlayed": 4,
-   "gamesStarted": 4,
+   "gamesPlayed": 5,
+   "gamesStarted": 5,
    "goals": 0,
-   "goalsAgainst": 14,
-   "goalsAgainstAvg": 3.398517,
+   "goalsAgainst": 16,
+   "goalsAgainstAvg": 3.125678,
    "leagueAbbrev": "NHL",
    "losses": 1,
    "otLosses": 0,
    "pim": 0,
-   "savePctg": 0.873874,
+   "savePctg": 0.885714,
    "season": 20262027,
    "sequence": 1,
-   "shotsAgainst": 111,
+   "shotsAgainst": 140,
    "shutouts": 0,
    "teamCommonName": {
     "default": "Predators"
@@ -339,11 +354,11 @@
     "default": "Nashville",
     "fr": "de Nashville"
    },
-   "timeOnIce": "247:10",
-   "wins": 3
+   "timeOnIce": "307:08",
+   "wins": 4
   }
  ],
- "_fetched": "2026-11-12",
+ "_fetched": "2026-11-13",
  "gameLog": [
   [
    "2026-10-22",

@@ -31,7 +31,7 @@
    "subSeason": {
     "assists": 0,
     "gameWinningGoals": 0,
-    "gamesPlayed": 3,
+    "gamesPlayed": 4,
     "goals": 0,
     "otGoals": 0,
     "pim": 0,
@@ -42,12 +42,12 @@
     "shootingPctg": 0.0,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 4
+    "shots": 5
    },
    "career": {
     "assists": 6,
     "gameWinningGoals": 0,
-    "gamesPlayed": 43,
+    "gamesPlayed": 44,
     "goals": 7,
     "otGoals": 0,
     "pim": 10,
@@ -55,20 +55,20 @@
     "points": 13,
     "powerPlayGoals": 3,
     "powerPlayPoints": 5,
-    "shootingPctg": 0.1186,
+    "shootingPctg": 0.1166,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 59
+    "shots": 60
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
    "assists": 6,
-   "avgToi": "11:28",
+   "avgToi": "11:25",
    "faceoffWinningPctg": 0.4285,
    "gameWinningGoals": 0,
-   "gamesPlayed": 43,
+   "gamesPlayed": 44,
    "goals": 7,
    "otGoals": 0,
    "pim": 10,
@@ -76,13 +76,31 @@
    "points": 13,
    "powerPlayGoals": 3,
    "powerPlayPoints": 5,
-   "shootingPctg": 0.1186,
+   "shootingPctg": 0.1166,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 59
+   "shots": 60
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-12",
+   "gameId": 2026020309,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "CAR",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 12,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "SEA",
+   "toi": "9:13"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-07",
@@ -208,11 +226,11 @@
   },
   {
    "assists": 0,
-   "avgToi": "9:40",
+   "avgToi": "9:34",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 3,
+   "gamesPlayed": 4,
    "goals": 0,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
@@ -226,7 +244,7 @@
    "shootingPctg": 0.0,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 4,
+   "shots": 5,
    "teamCommonName": {
     "default": "Kraken"
    },
@@ -240,7 +258,7 @@
    }
   }
  ],
- "_fetched": "2026-11-12",
+ "_fetched": "2026-11-13",
  "gameLog": [
   [
    "2026-10-28",

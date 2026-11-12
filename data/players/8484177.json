@@ -1,0 +1,215 @@
+{
+ "playerId": 8484177,
+ "firstName": {
+  "default": "Lenni"
+ },
+ "lastName": {
+  "default": "Hameenaho"
+ },
+ "currentTeamAbbrev": "NJD",
+ "position": "R",
+ "sweaterNumber": 29,
+ "birthDate": "2004-11-07",
+ "birthCity": {
+  "default": "Kajaani",
+  "sv": "Jkajana"
+ },
+ "birthStateProvince": null,
+ "birthCountry": "FIN",
+ "heightInCentimeters": 185,
+ "weightInKilograms": 88,
+ "shootsCatches": "R",
+ "draftDetails": {
+  "year": 2023,
+  "teamAbbrev": "NJD",
+  "round": 2,
+  "pickInRound": 26,
+  "overallPick": 58
+ },
+ "featuredStats": {
+  "season": 20252026,
+  "regularSeason": {
+   "subSeason": {
+    "assists": 6,
+    "gameWinningGoals": 0,
+    "gamesPlayed": 33,
+    "goals": 2,
+    "otGoals": 0,
+    "pim": 14,
+    "plusMinus": -3,
+    "points": 8,
+    "powerPlayGoals": 0,
+    "powerPlayPoints": 0,
+    "shootingPctg": 0.042553,
+    "shorthandedGoals": 0,
+    "shorthandedPoints": 0,
+    "shots": 47
+   },
+   "career": {
+    "assists": 6,
+    "gameWinningGoals": 0,
+    "gamesPlayed": 33,
+    "goals": 2,
+    "otGoals": 0,
+    "pim": 14,
+    "plusMinus": -3,
+    "points": 8,
+    "powerPlayGoals": 0,
+    "powerPlayPoints": 0,
+    "shootingPctg": 0.0425,
+    "shorthandedGoals": 0,
+    "shorthandedPoints": 0,
+    "shots": 47
+   }
+  }
+ },
+ "careerTotals": {
+  "regularSeason": {
+   "assists": 6,
+   "avgToi": "12:11",
+   "faceoffWinningPctg": 0.0,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 33,
+   "goals": 2,
+   "otGoals": 0,
+   "pim": 14,
+   "plusMinus": -3,
+   "points": 8,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "shootingPctg": 0.0425,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 47
+  }
+ },
+ "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-04-12",
+   "gameId": 2025021279,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "OTT",
+   "pim": 6,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 15,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "NJD",
+   "toi": "12:09"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-04-11",
+   "gameId": 2025021265,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "DET",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 17,
+   "shorthandedGoals": 0,
+   "shots": 3,
+   "teamAbbrev": "NJD",
+   "toi": "11:51"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-04-09",
+   "gameId": 2025021251,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "PIT",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 17,
+   "shorthandedGoals": 0,
+   "shots": 3,
+   "teamAbbrev": "NJD",
+   "toi": "13:59"
+  },
+  {
+   "assists": 1,
+   "gameDate": "2026-04-07",
+   "gameId": 2025021236,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "PHI",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 17,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "NJD",
+   "toi": "10:00"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-04-05",
+   "gameId": 2025021226,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "MTL",
+   "pim": 0,
+   "plusMinus": 1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 15,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "NJD",
+   "toi": "10:59"
+  }
+ ],
+ "isActive": true,
+ "seasonTotals": [
+  {
+   "assists": 6,
+   "avgToi": "12:11",
+   "faceoffWinningPctg": 0.0,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 33,
+   "goals": 2,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 14,
+   "plusMinus": -3,
+   "points": 8,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20252026,
+   "sequence": 1,
+   "shootingPctg": 0.042553,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 47,
+   "teamCommonName": {
+    "default": "Devils"
+   },
+   "teamName": {
+    "default": "New Jersey Devils",
+    "fr": "Devils du New Jersey"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "New Jersey",
+    "fr": "du New Jersey"
+   }
+  }
+ ],
+ "_fetched": "2026-11-13"
+}
