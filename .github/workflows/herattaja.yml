@@ -1,0 +1,42 @@
+name: Yöherättäjä
+
+# GitHubin ajastus (cron) myöhästyy ruuhkassa usein 30–60 minuuttia, joten
+# "Päivitä ja julkaise" ei yöllä oikeasti käynnisty 10 minuutin välein.
+# Tämä työnkulku käynnistyy kerran yöllä ja pysyy hereillä: se käynnistää
+# päivityksen itse 10 minuutin välein klo 10 asti (Suomen aikaa).
+# Aamuyön toinen käynnistys korvaa ensimmäisen, jos se on vielä käynnissä.
+
+on:
+  schedule:
+    - cron: "40 21 * * *"   # n. 23.40 talviaikaan
+    - cron: "30 2 * * *"    # n. 4.30 talviaikaan (varmistus)
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+concurrency:
+  group: herattaja
+  cancel-in-progress: true
+
+jobs:
+  herata:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Käynnistä päivitys 10 minuutin välein
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          while :; do
+            H=$(TZ=Europe/Helsinki date +%-H)
+            if [ "$H" -ge 10 ] && [ "$H" -lt 23 ]; then echo "Klo $H, lopetetaan"; break; fi
+            jonossa=$(gh run list --workflow update.yml --limit 10 --json status --jq '[.[] | select(.status=="queued" or .status=="waiting" or .status=="pending")] | length')
+            if [ "$jonossa" = "0" ]; then
+              gh workflow run update.yml -f herattaja=true && echo "$(TZ=Europe/Helsinki date +%H.%M) päivitys käynnistetty"
+            else
+              echo "$(TZ=Europe/Helsinki date +%H.%M) päivitys jo jonossa"
+            fi
+            sleep 600
+          done
