@@ -1,0 +1,267 @@
+{
+ "gameDate": "2026-11-11",
+ "games": {
+  "2026020293": {
+   "id": 2026020293,
+   "away": "TBL",
+   "home": "BUF",
+   "awayScore": 8,
+   "homeScore": 3,
+   "start": "2026-11-12T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "18:49",
+     "team": "TBL",
+     "who": "Scott Sabourin",
+     "tag": "",
+     "ast": [
+      "Conor Geekie",
+      "Jake Guentzel"
+     ],
+     "fin": false,
+     "clip": "6408259687112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "19:38",
+     "team": "TBL",
+     "who": "John Carlson",
+     "tag": "YV",
+     "ast": [
+      "Jake Guentzel",
+      "Charle-Edouard D'Astous"
+     ],
+     "fin": false,
+     "clip": "6408260481112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "04:33",
+     "team": "TBL",
+     "who": "Brandon Hagel",
+     "tag": "",
+     "ast": [
+      "Anthony Cirelli",
+      "John Carlson"
+     ],
+     "fin": false,
+     "clip": "6408262975112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "13:02",
+     "team": "TBL",
+     "who": "Yanni Gourde",
+     "tag": "",
+     "ast": [
+      "Jake Guentzel",
+      "S. O'Reilly"
+     ],
+     "fin": false,
+     "clip": "6408261328112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "15:54",
+     "team": "BUF",
+     "who": "Josh Doan",
+     "tag": "YV",
+     "ast": [
+      "Ryan McLeod",
+      "Josh Norris"
+     ],
+     "fin": false,
+     "clip": "6408263961112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "19:32",
+     "team": "BUF",
+     "who": "Jason Zucker",
+     "tag": "",
+     "ast": [
+      "Noah Ostlund",
+      "Jack Quinn"
+     ],
+     "fin": false,
+     "clip": "6408262625112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "00:33",
+     "team": "BUF",
+     "who": "Tage Thompson",
+     "tag": "",
+     "ast": [
+      "Peyton Krebs",
+      "Mattias Samuelsson"
+     ],
+     "fin": false,
+     "clip": "6408263295112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "01:25",
+     "team": "TBL",
+     "who": "Nikita Kutšerov",
+     "tag": "",
+     "ast": [
+      "Brandon Hagel",
+      "John Carlson"
+     ],
+     "fin": false,
+     "clip": "6408263907112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "04:11",
+     "team": "TBL",
+     "who": "Nikita Kutšerov",
+     "tag": "",
+     "ast": [
+      "John Carlson",
+      "Anthony Cirelli"
+     ],
+     "fin": false,
+     "clip": "6408264887112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "14:13",
+     "team": "TBL",
+     "who": "Nikita Kutšerov",
+     "tag": "YV",
+     "ast": [
+      "John Carlson",
+      "Jake Guentzel"
+     ],
+     "fin": false,
+     "clip": "6408265108112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "15:06",
+     "team": "TBL",
+     "who": "Brandon Hagel",
+     "tag": "",
+     "ast": [
+      "Nikita Kutšerov",
+      "Anthony Cirelli"
+     ],
+     "fin": false,
+     "clip": "6408263539112",
+     "gtd": 11
+    }
+   ],
+   "goalies": "Andrei Vasilevski (TBL) 28 torjuntaa · Ukko-Pekka Luukkonen (BUF) 9 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Nikita Kutšerov",
+     "team": "TBL",
+     "pos": "R",
+     "goals": 3,
+     "assists": 1,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "John Carlson",
+     "team": "TBL",
+     "pos": "D",
+     "goals": 1,
+     "assists": 4,
+     "points": 5,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Jake Guentzel",
+     "team": "TBL",
+     "pos": "C",
+     "goals": 0,
+     "assists": 4,
+     "points": 4,
+     "svp": null
+    }
+   ],
+   "venue": "KeyBank Center",
+   "finStats": [
+    {
+     "name": "Ukko-Pekka Luukkonen",
+     "team": "BUF",
+     "opp": "TBL",
+     "pos": "MV",
+     "saves": 9,
+     "shots": 14,
+     "dec": "L",
+     "toi": "41:25"
+    }
+   ],
+   "note": "Nikita Kutšerov hattutemppu",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Andrei Vasilevski (TBL) 28 torjuntaa · Ukko-Pekka Luukkonen (BUF) 9 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Nikita Kutšerov",
+      "team": "TBL",
+      "pos": "R",
+      "goals": 3,
+      "assists": 1,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "John Carlson",
+      "team": "TBL",
+      "pos": "D",
+      "goals": 1,
+      "assists": 4,
+      "points": 5,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Jake Guentzel",
+      "team": "TBL",
+      "pos": "C",
+      "goals": 0,
+      "assists": 4,
+      "points": 4,
+      "svp": null
+     }
+    ],
+    "venue": "KeyBank Center",
+    "finStats": [
+     {
+      "name": "Ukko-Pekka Luukkonen",
+      "team": "BUF",
+      "opp": "TBL",
+      "pos": "MV",
+      "saves": 9,
+      "shots": 14,
+      "dec": "L",
+      "toi": "41:25"
+     }
+    ]
+   }
+  }
+ }
+}
