@@ -60,7 +60,7 @@
      "tag": "",
      "ast": [
       "Jake Guentzel",
-      "S. O'Reilly"
+      "Sam O'Reilly"
      ],
      "fin": false,
      "clip": "6408261328112",
@@ -212,7 +212,7 @@
     }
    ],
    "note": "Nikita Kutšerov hattutemppu",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/tbl-at-buf-recap-6408263848112",
    "videoId": "",
    "details": {
     "goalies": "Andrei Vasilevski (TBL) 28 torjuntaa · Ukko-Pekka Luukkonen (BUF) 9 torjuntaa",
@@ -259,6 +259,193 @@
       "shots": 14,
       "dec": "L",
       "toi": "41:25"
+     }
+    ]
+   }
+  },
+  "2026020294": {
+   "id": 2026020294,
+   "away": "NYR",
+   "home": "CGY",
+   "awayScore": 3,
+   "homeScore": 1,
+   "start": "2026-11-12T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "00:59",
+     "team": "NYR",
+     "who": "Mika Zibanejad",
+     "tag": "",
+     "ast": [
+      "Alexis Lafrenière",
+      "Marcus Pettersson"
+     ],
+     "fin": false,
+     "clip": "6408262321112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "10:52",
+     "team": "NYR",
+     "who": "Mika Zibanejad",
+     "tag": "YV",
+     "ast": [
+      "Pavel Dorofejev",
+      "Alexis Lafrenière"
+     ],
+     "fin": false,
+     "clip": "6408264776112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "07:41",
+     "team": "CGY",
+     "who": "Adam Klapka",
+     "tag": "YV",
+     "ast": [
+      "Ryan Strome",
+      "Jahor Šaranhovitš"
+     ],
+     "fin": false,
+     "clip": "6408264540112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "19:53",
+     "team": "NYR",
+     "who": "Tye Kartye",
+     "tag": "TM",
+     "ast": [
+      "J.T. Miller"
+     ],
+     "fin": false,
+     "clip": "6408266511112",
+     "gtd": 7
+    }
+   ],
+   "goalies": "Joonas Korpisalo (NYR) 29 torjuntaa · Devin Cooley (CGY) 21 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Mika Zibanejad",
+     "team": "NYR",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Adam Klapka",
+     "team": "CGY",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Pavel Dorofejev",
+     "team": "NYR",
+     "pos": "R",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Scotiabank Saddledome",
+   "finStats": [
+    {
+     "name": "Eeli Tolvanen",
+     "team": "NYR",
+     "opp": "CGY",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 3,
+     "toi": "11:42"
+    },
+    {
+     "name": "Joonas Korpisalo",
+     "team": "NYR",
+     "opp": "CGY",
+     "pos": "MV",
+     "saves": 29,
+     "shots": 30,
+     "dec": "W",
+     "toi": "60:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Joonas Korpisalo (NYR) 29 torjuntaa · Devin Cooley (CGY) 21 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Mika Zibanejad",
+      "team": "NYR",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Adam Klapka",
+      "team": "CGY",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Pavel Dorofejev",
+      "team": "NYR",
+      "pos": "R",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Scotiabank Saddledome",
+    "finStats": [
+     {
+      "name": "Eeli Tolvanen",
+      "team": "NYR",
+      "opp": "CGY",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 3,
+      "toi": "11:42"
+     },
+     {
+      "name": "Joonas Korpisalo",
+      "team": "NYR",
+      "opp": "CGY",
+      "pos": "MV",
+      "saves": 29,
+      "shots": 30,
+      "dec": "W",
+      "toi": "60:00"
      }
     ]
    }
