@@ -449,6 +449,409 @@
      }
     ]
    }
+  },
+  "2026020295": {
+   "id": 2026020295,
+   "away": "PHI",
+   "home": "EDM",
+   "awayScore": 2,
+   "homeScore": 3,
+   "start": "2026-11-12T02:00:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "2",
+     "t": "04:13",
+     "team": "EDM",
+     "who": "Zach Hyman",
+     "tag": "",
+     "ast": [
+      "Mattias Ekholm",
+      "Colton Dach"
+     ],
+     "fin": false,
+     "clip": "6408266319112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "14:03",
+     "team": "EDM",
+     "who": "Zach Hyman",
+     "tag": "YV",
+     "ast": [
+      "Connor McDavid",
+      "Evan Bouchard"
+     ],
+     "fin": false,
+     "clip": "6408265768112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "16:49",
+     "team": "PHI",
+     "who": "Tyson Foerster",
+     "tag": "YV",
+     "ast": [
+      "Owen Tippett",
+      "Christian Dvorak"
+     ],
+     "fin": false,
+     "clip": "6408266377112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "11:42",
+     "team": "PHI",
+     "who": "Travis Sanheim",
+     "tag": "",
+     "ast": [
+      "Rasmus Ristolainen",
+      "Matvei Mitškov"
+     ],
+     "fin": false,
+     "clip": "6408266476112",
+     "gtd": 3
+    },
+    {
+     "p": "JA",
+     "t": "00:47",
+     "team": "EDM",
+     "who": "Evan Bouchard",
+     "tag": "",
+     "ast": [
+      "Leon Draisaitl"
+     ],
+     "fin": false,
+     "clip": "6408268292112",
+     "gtd": 11
+    }
+   ],
+   "goalies": "Dan Vladar (PHI) 21 torjuntaa · Tristan Jarry (EDM) 30 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Zach Hyman",
+     "team": "EDM",
+     "pos": "L",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Tristan Jarry",
+     "team": "EDM",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.938
+    },
+    {
+     "star": 3,
+     "name": "Evan Bouchard",
+     "team": "EDM",
+     "pos": "D",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Rogers Place",
+   "finStats": [
+    {
+     "name": "Rasmus Ristolainen",
+     "team": "PHI",
+     "opp": "EDM",
+     "pos": "P",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 1,
+     "toi": "18:24"
+    },
+    {
+     "name": "Kasperi Kapanen",
+     "team": "EDM",
+     "opp": "PHI",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "15:27"
+    }
+   ],
+   "note": "Suomalaiset: Ristolainen 0+1",
+   "recapUrl": "https://www.nhl.com/video/phi-at-edm-recap-6408269251112",
+   "videoId": "",
+   "details": {
+    "goalies": "Dan Vladar (PHI) 21 torjuntaa · Tristan Jarry (EDM) 30 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Zach Hyman",
+      "team": "EDM",
+      "pos": "L",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Tristan Jarry",
+      "team": "EDM",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.938
+     },
+     {
+      "star": 3,
+      "name": "Evan Bouchard",
+      "team": "EDM",
+      "pos": "D",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Rogers Place",
+    "finStats": [
+     {
+      "name": "Rasmus Ristolainen",
+      "team": "PHI",
+      "opp": "EDM",
+      "pos": "P",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 1,
+      "toi": "18:24"
+     },
+     {
+      "name": "Kasperi Kapanen",
+      "team": "EDM",
+      "opp": "PHI",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "15:27"
+     }
+    ]
+   }
+  },
+  "2026020296": {
+   "id": 2026020296,
+   "away": "UTA",
+   "home": "VGK",
+   "awayScore": 3,
+   "homeScore": 5,
+   "start": "2026-11-12T02:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "02:15",
+     "team": "VGK",
+     "who": "Jack Eichel",
+     "tag": "YV",
+     "ast": [
+      "Mitchell Marner",
+      "Mark Stone"
+     ],
+     "fin": false,
+     "clip": "6408265994112",
+     "gtd": 9
+    },
+    {
+     "p": "1",
+     "t": "08:07",
+     "team": "UTA",
+     "who": "Lawson Crouse",
+     "tag": "",
+     "ast": [
+      "Jack McBain",
+      "Andrew Peeke"
+     ],
+     "fin": false,
+     "clip": "6408265718112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "03:07",
+     "team": "VGK",
+     "who": "Victor Olofsson",
+     "tag": "YV",
+     "ast": [
+      "Jack Eichel",
+      "Mitchell Marner"
+     ],
+     "fin": false,
+     "clip": "6408268125112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "04:51",
+     "team": "VGK",
+     "who": "Ivan Barbašov",
+     "tag": "",
+     "ast": [
+      "Victor Olofsson",
+      "Shea Theodore"
+     ],
+     "fin": false,
+     "clip": "6408268426112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "08:16",
+     "team": "VGK",
+     "who": "Ivan Barbašov",
+     "tag": "",
+     "ast": [
+      "Victor Olofsson",
+      "Tomas Hertl"
+     ],
+     "fin": false,
+     "clip": "6408268138112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "16:39",
+     "team": "UTA",
+     "who": "Jack McBain",
+     "tag": "",
+     "ast": [
+      "Lawson Crouse",
+      "Andrew Peeke"
+     ],
+     "fin": false,
+     "clip": "6408268545112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "09:07",
+     "team": "UTA",
+     "who": "Dmitri Simashev",
+     "tag": "",
+     "ast": [
+      "Jack McBain",
+      "Clayton Keller"
+     ],
+     "fin": false,
+     "clip": "6408270344112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "10:19",
+     "team": "VGK",
+     "who": "Brett Howden",
+     "tag": "",
+     "ast": [
+      "William Karlsson",
+      "Mitchell Marner"
+     ],
+     "fin": false,
+     "clip": "6408269958112",
+     "gtd": 6
+    }
+   ],
+   "goalies": "Sebastian Cossa (UTA) 23 torjuntaa · Carter Hart (VGK) 14 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Victor Olofsson",
+     "team": "VGK",
+     "pos": "L",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Ivan Barbašov",
+     "team": "VGK",
+     "pos": "L",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Mitchell Marner",
+     "team": "VGK",
+     "pos": "R",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "T-Mobile Arena",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/uta-at-vgk-recap-6408270078112",
+   "videoId": "",
+   "details": {
+    "goalies": "Sebastian Cossa (UTA) 23 torjuntaa · Carter Hart (VGK) 14 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Victor Olofsson",
+      "team": "VGK",
+      "pos": "L",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Ivan Barbašov",
+      "team": "VGK",
+      "pos": "L",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Mitchell Marner",
+      "team": "VGK",
+      "pos": "R",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "T-Mobile Arena",
+    "finStats": []
+   }
   }
  }
 }
