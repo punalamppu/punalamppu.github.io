@@ -32,9 +32,9 @@ jobs:
           while :; do
             H=$(TZ=Europe/Helsinki date +%-H)
             if [ "$H" -ge 10 ] && [ "$H" -lt 23 ]; then echo "Klo $H, lopetetaan"; break; fi
-            jonossa=$(gh run list --workflow update.yml --limit 10 --json status --jq '[.[] | select(.status=="queued" or .status=="waiting" or .status=="pending")] | length')
+            jonossa=$(gh api "repos/$GH_REPO/actions/workflows/update.yml/runs?per_page=10" --jq '[.workflow_runs[] | select(.status=="queued" or .status=="waiting" or .status=="pending")] | length' || echo 0)
             if [ "$jonossa" = "0" ]; then
-              gh workflow run update.yml -f herattaja=true && echo "$(TZ=Europe/Helsinki date +%H.%M) päivitys käynnistetty"
+              gh api -X POST "repos/$GH_REPO/actions/workflows/update.yml/dispatches" -f ref=main -f "inputs[herattaja]=true" && echo "$(TZ=Europe/Helsinki date +%H.%M) päivitys käynnistetty"
             else
               echo "$(TZ=Europe/Helsinki date +%H.%M) päivitys jo jonossa"
             fi
