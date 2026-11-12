@@ -1,0 +1,305 @@
+{
+ "gameDate": "2026-11-12",
+ "games": {
+  "2026020309": {
+   "id": 2026020309,
+   "away": "CAR",
+   "home": "SEA",
+   "awayScore": 4,
+   "homeScore": 1,
+   "start": "2026-11-12T17:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "11:44",
+     "team": "CAR",
+     "who": "Nikolaj Ehlers",
+     "tag": "",
+     "ast": [
+      "K'Andre Miller",
+      "Logan Stankoven"
+     ],
+     "fin": false,
+     "clip": "6408295066112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "12:50",
+     "team": "CAR",
+     "who": "Sebastian Aho",
+     "tag": "YV",
+     "ast": [
+      "Jackson Blake",
+      "Nikolaj Ehlers"
+     ],
+     "fin": true,
+     "clip": "6408295089112",
+     "gtd": 11
+    },
+    {
+     "p": "2",
+     "t": "09:34",
+     "team": "CAR",
+     "who": "Juuso Välimäki",
+     "tag": "",
+     "ast": [
+      "Logan Stankoven"
+     ],
+     "fin": true,
+     "clip": "6408295469112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "11:41",
+     "team": "CAR",
+     "who": "Sebastian Aho",
+     "tag": "",
+     "ast": [
+      "K'Andre Miller",
+      "Andrei Svetšnikov"
+     ],
+     "fin": true,
+     "clip": "6408299614112",
+     "gtd": 12
+    },
+    {
+     "p": "3",
+     "t": "13:15",
+     "team": "SEA",
+     "who": "Freddy Gaudreau",
+     "tag": "",
+     "ast": [
+      "Mackie Samoskevich"
+     ],
+     "fin": false,
+     "clip": "6408299521112",
+     "gtd": 8
+    }
+   ],
+   "goalies": "Brandon Bussi (CAR) 12 torjuntaa · Philipp Grubauer (SEA) 26 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Sebastian Aho",
+     "team": "CAR",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Juuso Välimäki",
+     "team": "CAR",
+     "pos": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Nikolaj Ehlers",
+     "team": "CAR",
+     "pos": "L",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Veikkaus Arena",
+   "finStats": [
+    {
+     "name": "Sebastian Aho",
+     "team": "CAR",
+     "opp": "SEA",
+     "pos": "H",
+     "g": 2,
+     "a": 0,
+     "p": 2,
+     "pm": 1,
+     "sog": 2,
+     "toi": "17:53"
+    },
+    {
+     "name": "Jesperi Kotkaniemi",
+     "team": "CAR",
+     "opp": "SEA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "10:58"
+    },
+    {
+     "name": "Juuso Välimäki",
+     "team": "CAR",
+     "opp": "SEA",
+     "pos": "P",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 0,
+     "sog": 4,
+     "toi": "13:59"
+    },
+    {
+     "name": "Jani Nyman",
+     "team": "SEA",
+     "opp": "CAR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "09:13"
+    },
+    {
+     "name": "Kaapo Kakko",
+     "team": "SEA",
+     "opp": "CAR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 1,
+     "toi": "14:58"
+    },
+    {
+     "name": "Ville Ottavainen",
+     "team": "SEA",
+     "opp": "CAR",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 0,
+     "toi": "11:35"
+    }
+   ],
+   "note": "Suomalaiset: Aho 2+0, Välimäki 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Brandon Bussi (CAR) 12 torjuntaa · Philipp Grubauer (SEA) 26 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Sebastian Aho",
+      "team": "CAR",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Juuso Välimäki",
+      "team": "CAR",
+      "pos": "D",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Nikolaj Ehlers",
+      "team": "CAR",
+      "pos": "L",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Veikkaus Arena",
+    "finStats": [
+     {
+      "name": "Sebastian Aho",
+      "team": "CAR",
+      "opp": "SEA",
+      "pos": "H",
+      "g": 2,
+      "a": 0,
+      "p": 2,
+      "pm": 1,
+      "sog": 2,
+      "toi": "17:53"
+     },
+     {
+      "name": "Jesperi Kotkaniemi",
+      "team": "CAR",
+      "opp": "SEA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "10:58"
+     },
+     {
+      "name": "Juuso Välimäki",
+      "team": "CAR",
+      "opp": "SEA",
+      "pos": "P",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 0,
+      "sog": 4,
+      "toi": "13:59"
+     },
+     {
+      "name": "Jani Nyman",
+      "team": "SEA",
+      "opp": "CAR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "09:13"
+     },
+     {
+      "name": "Kaapo Kakko",
+      "team": "SEA",
+      "opp": "CAR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 1,
+      "toi": "14:58"
+     },
+     {
+      "name": "Ville Ottavainen",
+      "team": "SEA",
+      "opp": "CAR",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 0,
+      "toi": "11:35"
+     }
+    ]
+   }
+  }
+ }
+}
