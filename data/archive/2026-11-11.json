@@ -852,6 +852,388 @@
     "venue": "T-Mobile Arena",
     "finStats": []
    }
+  },
+  "2026020297": {
+   "id": 2026020297,
+   "away": "NSH",
+   "home": "ANA",
+   "awayScore": 4,
+   "homeScore": 2,
+   "start": "2026-11-12T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "08:08",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "",
+     "ast": [
+      "Mikael Granlund"
+     ],
+     "fin": false,
+     "clip": "6408266338112",
+     "gtd": 16
+    },
+    {
+     "p": "1",
+     "t": "08:29",
+     "team": "NSH",
+     "who": "Jayden Struble",
+     "tag": "",
+     "ast": [
+      "Shane Wright"
+     ],
+     "fin": false,
+     "clip": "6408265653112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "16:02",
+     "team": "NSH",
+     "who": "Nils Höglander",
+     "tag": "",
+     "ast": [
+      "Jayden Struble",
+      "Shane Wright"
+     ],
+     "fin": false,
+     "clip": "6408269125112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "08:05",
+     "team": "NSH",
+     "who": "Shane Wright",
+     "tag": "",
+     "ast": [
+      "Nils Höglander",
+      "Roman Josi"
+     ],
+     "fin": false,
+     "clip": "6408270758112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "12:11",
+     "team": "ANA",
+     "who": "Mikael Granlund",
+     "tag": "",
+     "ast": [
+      "Beckett Sennecke",
+      "Drew Helleson"
+     ],
+     "fin": true,
+     "clip": "6408271540112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "16:04",
+     "team": "NSH",
+     "who": "Steven Stamkos",
+     "tag": "",
+     "ast": [
+      "Mavrik Bourque",
+      "Roman Josi"
+     ],
+     "fin": false,
+     "clip": "6408271549112",
+     "gtd": 11
+    }
+   ],
+   "goalies": "Justus Annunen (NSH) 27 torjuntaa · Laurent Brossoit (ANA) 18 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Justus Annunen",
+     "team": "NSH",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.931
+    },
+    {
+     "star": 2,
+     "name": "Mikael Granlund",
+     "team": "ANA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Shane Wright",
+     "team": "NSH",
+     "pos": "C",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Honda Center",
+   "finStats": [
+    {
+     "name": "Justus Annunen",
+     "team": "NSH",
+     "opp": "ANA",
+     "pos": "MV",
+     "saves": 27,
+     "shots": 29,
+     "dec": "W",
+     "toi": "59:58"
+    },
+    {
+     "name": "Mikael Granlund",
+     "team": "ANA",
+     "opp": "NSH",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 1,
+     "sog": 4,
+     "toi": "20:44"
+    }
+   ],
+   "note": "Suomalaiset: Granlund 1+1",
+   "recapUrl": "https://www.nhl.com/video/nsh-at-ana-recap-6408271660112",
+   "videoId": "",
+   "details": {
+    "goalies": "Justus Annunen (NSH) 27 torjuntaa · Laurent Brossoit (ANA) 18 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Justus Annunen",
+      "team": "NSH",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.931
+     },
+     {
+      "star": 2,
+      "name": "Mikael Granlund",
+      "team": "ANA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Shane Wright",
+      "team": "NSH",
+      "pos": "C",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Honda Center",
+    "finStats": [
+     {
+      "name": "Justus Annunen",
+      "team": "NSH",
+      "opp": "ANA",
+      "pos": "MV",
+      "saves": 27,
+      "shots": 29,
+      "dec": "W",
+      "toi": "59:58"
+     },
+     {
+      "name": "Mikael Granlund",
+      "team": "ANA",
+      "opp": "NSH",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 1,
+      "sog": 4,
+      "toi": "20:44"
+     }
+    ]
+   }
+  },
+  "2026020298": {
+   "id": 2026020298,
+   "away": "PIT",
+   "home": "SJS",
+   "awayScore": 3,
+   "homeScore": 2,
+   "start": "2026-11-12T03:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "08:57",
+     "team": "PIT",
+     "who": "Samuel Girard",
+     "tag": "",
+     "ast": [
+      "Jevgeni Malkin",
+      "Kris Letang"
+     ],
+     "fin": false,
+     "clip": "6408266340112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "03:28",
+     "team": "PIT",
+     "who": "Ben Kindel",
+     "tag": "YV",
+     "ast": [
+      "Rickard Rakell",
+      "Erik Karlsson"
+     ],
+     "fin": false,
+     "clip": "6408271248112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "11:32",
+     "team": "SJS",
+     "who": "Macklin Celebrini",
+     "tag": "",
+     "ast": [
+      "Michael Kesselring",
+      "Will Smith"
+     ],
+     "fin": false,
+     "clip": "6408271468112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "15:49",
+     "team": "SJS",
+     "who": "Mason Marchment",
+     "tag": "",
+     "ast": [
+      "Macklin Celebrini",
+      "Sam Dickinson"
+     ],
+     "fin": false,
+     "clip": "6408270793112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Sergei Murashov (PIT) 34 torjuntaa · Yaroslav Askarov (SJS) 33 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Sergei Murashov",
+     "team": "PIT",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.944
+    },
+    {
+     "star": 2,
+     "name": "Macklin Celebrini",
+     "team": "SJS",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Sam Dickinson",
+     "team": "SJS",
+     "pos": "D",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "SAP Center at San Jose",
+   "finStats": [
+    {
+     "name": "Ville Koivunen",
+     "team": "PIT",
+     "opp": "SJS",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 1,
+     "toi": "11:50"
+    }
+   ],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/pit-at-sjs-recap-6408270815112",
+   "videoId": "",
+   "details": {
+    "goalies": "Sergei Murashov (PIT) 34 torjuntaa · Yaroslav Askarov (SJS) 33 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Sergei Murashov",
+      "team": "PIT",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.944
+     },
+     {
+      "star": 2,
+      "name": "Macklin Celebrini",
+      "team": "SJS",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Sam Dickinson",
+      "team": "SJS",
+      "pos": "D",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "SAP Center at San Jose",
+    "finStats": [
+     {
+      "name": "Ville Koivunen",
+      "team": "PIT",
+      "opp": "SJS",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 1,
+      "toi": "11:50"
+     }
+    ]
+   }
   }
  }
 }
