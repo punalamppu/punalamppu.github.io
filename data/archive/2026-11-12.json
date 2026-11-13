@@ -300,6 +300,212 @@
      }
     ]
    }
+  },
+  "2026020299": {
+   "id": 2026020299,
+   "away": "MTL",
+   "home": "BOS",
+   "awayScore": 5,
+   "homeScore": 2,
+   "start": "2026-11-13T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "02:34",
+     "team": "MTL",
+     "who": "Kirby Dach",
+     "tag": "",
+     "ast": [
+      "Arber Xhekaj",
+      "Alex Newhook"
+     ],
+     "fin": false,
+     "clip": "6408310207112",
+     "gtd": 2
+    },
+    {
+     "p": "1",
+     "t": "08:36",
+     "team": "MTL",
+     "who": "Josh Anderson",
+     "tag": "",
+     "ast": [
+      "Jake Evans",
+      "Mike Matheson"
+     ],
+     "fin": false,
+     "clip": "6408312156112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "04:24",
+     "team": "MTL",
+     "who": "Jake Evans",
+     "tag": "",
+     "ast": [
+      "Josh Anderson"
+     ],
+     "fin": false,
+     "clip": "6408312303112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "08:14",
+     "team": "MTL",
+     "who": "Cole Caufield",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408315068112",
+     "gtd": 12
+    },
+    {
+     "p": "2",
+     "t": "14:15",
+     "team": "MTL",
+     "who": "Phillip Danault",
+     "tag": "",
+     "ast": [
+      "Zachary Bolduc",
+      "Alexandre Carrier"
+     ],
+     "fin": false,
+     "clip": "6408313639112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "14:53",
+     "team": "BOS",
+     "who": "Casey Mittelstadt",
+     "tag": "",
+     "ast": [
+      "Elias Lindholm",
+      "Nikita Zadorov"
+     ],
+     "fin": false,
+     "clip": "6408312639112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "00:53",
+     "team": "BOS",
+     "who": "Casey Mittelstadt",
+     "tag": "",
+     "ast": [
+      "Elias Lindholm",
+      "William Borgen"
+     ],
+     "fin": false,
+     "clip": "6408316397112",
+     "gtd": 7
+    }
+   ],
+   "goalies": "Jacob Fowler (MTL) 30 torjuntaa · Jeremy Swayman (BOS) 13 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Jacob Fowler",
+     "team": "MTL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.938
+    },
+    {
+     "star": 2,
+     "name": "Casey Mittelstadt",
+     "team": "BOS",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Jake Evans",
+     "team": "MTL",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "TD Garden",
+   "finStats": [
+    {
+     "name": "Oliver Kapanen",
+     "team": "MTL",
+     "opp": "BOS",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 2,
+     "toi": "13:09"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jacob Fowler (MTL) 30 torjuntaa · Jeremy Swayman (BOS) 13 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Jacob Fowler",
+      "team": "MTL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.938
+     },
+     {
+      "star": 2,
+      "name": "Casey Mittelstadt",
+      "team": "BOS",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Jake Evans",
+      "team": "MTL",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "TD Garden",
+    "finStats": [
+     {
+      "name": "Oliver Kapanen",
+      "team": "MTL",
+      "opp": "BOS",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 2,
+      "toi": "13:09"
+     }
+    ]
+   }
   }
  }
 }
