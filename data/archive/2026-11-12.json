@@ -506,6 +506,564 @@
      }
     ]
    }
+  },
+  "2026020300": {
+   "id": 2026020300,
+   "away": "MIN",
+   "home": "TOR",
+   "awayScore": 5,
+   "homeScore": 2,
+   "start": "2026-11-13T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "17:53",
+     "team": "MIN",
+     "who": "Matt Boldy",
+     "tag": "",
+     "ast": [
+      "Kirill Kaprizov"
+     ],
+     "fin": false,
+     "clip": "6408313555112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "04:05",
+     "team": "TOR",
+     "who": "Auston Matthews",
+     "tag": "",
+     "ast": [
+      "Zack Macewen",
+      "Darren Raddysh"
+     ],
+     "fin": false,
+     "clip": "6408312918112",
+     "gtd": 12
+    },
+    {
+     "p": "2",
+     "t": "06:59",
+     "team": "TOR",
+     "who": "Zack Macewen",
+     "tag": "",
+     "ast": [
+      "Teddy Blueger",
+      "Troy Stecher"
+     ],
+     "fin": false,
+     "clip": "6408313699112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "09:55",
+     "team": "MIN",
+     "who": "Matt Boldy",
+     "tag": "YV",
+     "ast": [
+      "Quinn Hughes",
+      "Kirill Kaprizov"
+     ],
+     "fin": false,
+     "clip": "6408313324112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "03:59",
+     "team": "MIN",
+     "who": "Matt Boldy",
+     "tag": "",
+     "ast": [
+      "Ryan Hartman",
+      "Zach Bogosian"
+     ],
+     "fin": false,
+     "clip": "6408316591112",
+     "gtd": 10
+    },
+    {
+     "p": "3",
+     "t": "07:34",
+     "team": "MIN",
+     "who": "Michael McCarron",
+     "tag": "",
+     "ast": [
+      "Blake Coleman",
+      "Danila Yurov"
+     ],
+     "fin": false,
+     "clip": "6408315741112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "19:03",
+     "team": "MIN",
+     "who": "Danila Yurov",
+     "tag": "TM",
+     "ast": [
+      "Nick Foligno",
+      "Kirill Kaprizov"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 7
+    }
+   ],
+   "goalies": "Jesper Wallstedt (MIN) 26 torjuntaa · Anthony Stolarz (TOR) 21 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Matt Boldy",
+     "team": "MIN",
+     "pos": "L",
+     "goals": 3,
+     "assists": 0,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Zack Macewen",
+     "team": "TOR",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Kirill Kaprizov",
+     "team": "MIN",
+     "pos": "L",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Scotiabank Arena",
+   "finStats": [
+    {
+     "name": "Olli Määttä",
+     "team": "MIN",
+     "opp": "TOR",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 0,
+     "toi": "16:20"
+    }
+   ],
+   "note": "Matt Boldy hattutemppu",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jesper Wallstedt (MIN) 26 torjuntaa · Anthony Stolarz (TOR) 21 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Matt Boldy",
+      "team": "MIN",
+      "pos": "L",
+      "goals": 3,
+      "assists": 0,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Zack Macewen",
+      "team": "TOR",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Kirill Kaprizov",
+      "team": "MIN",
+      "pos": "L",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Scotiabank Arena",
+    "finStats": [
+     {
+      "name": "Olli Määttä",
+      "team": "MIN",
+      "opp": "TOR",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 0,
+      "toi": "16:20"
+     }
+    ]
+   }
+  },
+  "2026020303": {
+   "id": 2026020303,
+   "away": "WSH",
+   "home": "NJD",
+   "awayScore": 2,
+   "homeScore": 5,
+   "start": "2026-11-13T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "02:20",
+     "team": "NJD",
+     "who": "Evan Rodrigues",
+     "tag": "YV",
+     "ast": [
+      "Timo Meier",
+      "Arseny Gritsyuk"
+     ],
+     "fin": false,
+     "clip": "6408309981112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "14:10",
+     "team": "WSH",
+     "who": "Ryan Leonard",
+     "tag": "YV",
+     "ast": [
+      "Cole Hutson"
+     ],
+     "fin": false,
+     "clip": "6408313448112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "02:11",
+     "team": "WSH",
+     "who": "Pierre-Luc Dubois",
+     "tag": "",
+     "ast": [
+      "Aljaksei Protas",
+      "Jack St. Ivany"
+     ],
+     "fin": false,
+     "clip": "6408312400112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "09:51",
+     "team": "NJD",
+     "who": "Lenni Hämeenaho",
+     "tag": "",
+     "ast": [
+      "Brenden Dillon",
+      "Cody Glass"
+     ],
+     "fin": true,
+     "clip": "6408313226112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "06:27",
+     "team": "NJD",
+     "who": "Vladislav Koljatšonok",
+     "tag": "",
+     "ast": [
+      "Evan Rodrigues"
+     ],
+     "fin": false,
+     "clip": "6408316143112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "17:07",
+     "team": "NJD",
+     "who": "Stefan Noesen",
+     "tag": "",
+     "ast": [
+      "Connor Brown"
+     ],
+     "fin": false,
+     "clip": "6408316731112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "19:15",
+     "team": "NJD",
+     "who": "Jack Hughes",
+     "tag": "TM",
+     "ast": [
+      "Arseny Gritsyuk",
+      "Jesper Bratt"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 10
+    }
+   ],
+   "goalies": "Logan Thompson (WSH) 24 torjuntaa · Connor Hellebuyck (NJD) 26 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Evan Rodrigues",
+     "team": "NJD",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "L. Hameenaho",
+     "team": "NJD",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "V. Kolyachonok",
+     "team": "NJD",
+     "pos": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Prudential Center",
+   "finStats": [
+    {
+     "name": "L. Hämeenaho",
+     "team": "NJD",
+     "opp": "WSH",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 1,
+     "sog": 3,
+     "toi": "10:21"
+    }
+   ],
+   "note": "Suomalaiset: Hämeenaho 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Logan Thompson (WSH) 24 torjuntaa · Connor Hellebuyck (NJD) 26 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Evan Rodrigues",
+      "team": "NJD",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "L. Hameenaho",
+      "team": "NJD",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "V. Kolyachonok",
+      "team": "NJD",
+      "pos": "D",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Prudential Center",
+    "finStats": [
+     {
+      "name": "L. Hämeenaho",
+      "team": "NJD",
+      "opp": "WSH",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 1,
+      "sog": 3,
+      "toi": "10:21"
+     }
+    ]
+   }
+  },
+  "2026020304": {
+   "id": 2026020304,
+   "away": "TBL",
+   "home": "CBJ",
+   "awayScore": 3,
+   "homeScore": 1,
+   "start": "2026-11-13T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "02:57",
+     "team": "TBL",
+     "who": "Brandon Hagel",
+     "tag": "",
+     "ast": [
+      "Charle-Edouard D'Astous",
+      "Nikita Kutšerov"
+     ],
+     "fin": false,
+     "clip": "6408309088112",
+     "gtd": 12
+    },
+    {
+     "p": "1",
+     "t": "12:20",
+     "team": "CBJ",
+     "who": "Matthew Knies",
+     "tag": "YV",
+     "ast": [
+      "Kent Johnson",
+      "Sean Monahan"
+     ],
+     "fin": false,
+     "clip": "6408312543112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "01:06",
+     "team": "TBL",
+     "who": "Jake Guentzel",
+     "tag": "",
+     "ast": [
+      "Brandon Hagel",
+      "John Carlson"
+     ],
+     "fin": false,
+     "clip": "6408316023112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "07:41",
+     "team": "TBL",
+     "who": "Brandon Hagel",
+     "tag": "",
+     "ast": [
+      "Jake Guentzel",
+      "Nikita Kutšerov"
+     ],
+     "fin": false,
+     "clip": "6408314452112",
+     "gtd": 13
+    }
+   ],
+   "goalies": "Dennis Hildeby (TBL) 28 torjuntaa · Jet Greaves (CBJ) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Brandon Hagel",
+     "team": "TBL",
+     "pos": "L",
+     "goals": 2,
+     "assists": 1,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Jake Guentzel",
+     "team": "TBL",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Dennis Hildeby",
+     "team": "TBL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.966
+    }
+   ],
+   "venue": "Nationwide Arena",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Dennis Hildeby (TBL) 28 torjuntaa · Jet Greaves (CBJ) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Brandon Hagel",
+      "team": "TBL",
+      "pos": "L",
+      "goals": 2,
+      "assists": 1,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Jake Guentzel",
+      "team": "TBL",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Dennis Hildeby",
+      "team": "TBL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.966
+     }
+    ],
+    "venue": "Nationwide Arena",
+    "finStats": []
+   }
   }
  }
 }
