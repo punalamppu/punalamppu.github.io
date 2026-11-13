@@ -2041,6 +2041,260 @@
     "venue": "Delta Center",
     "finStats": []
    }
+  },
+  "2026020308": {
+   "id": 2026020308,
+   "away": "NYI",
+   "home": "LAK",
+   "awayScore": 5,
+   "homeScore": 2,
+   "start": "2026-11-13T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "05:50",
+     "team": "NYI",
+     "who": "Brayden Schenn",
+     "tag": "",
+     "ast": [
+      "Mitchell Chaffee",
+      "Ryan Pulock"
+     ],
+     "fin": false,
+     "clip": "6408318073112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "08:55",
+     "team": "LAK",
+     "who": "Trevor Moore",
+     "tag": "",
+     "ast": [
+      "Brandt Clarke",
+      "Joel Armia"
+     ],
+     "fin": false,
+     "clip": "6408319239112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "12:56",
+     "team": "NYI",
+     "who": "Matthew Schaefer",
+     "tag": "YV",
+     "ast": [
+      "Matias Maccelli",
+      "Brayden Schenn"
+     ],
+     "fin": false,
+     "clip": "6408320143112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "05:35",
+     "team": "NYI",
+     "who": "Victor Eklund",
+     "tag": "",
+     "ast": [
+      "Brayden Schenn",
+      "Ryan Pulock"
+     ],
+     "fin": false,
+     "clip": "6408320791112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "07:52",
+     "team": "LAK",
+     "who": "Quinton Byfield",
+     "tag": "YV",
+     "ast": [
+      "Artemi Panarin",
+      "K. Fiala"
+     ],
+     "fin": false,
+     "clip": "6408322360112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "00:39",
+     "team": "NYI",
+     "who": "Simon Holmström",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408324366112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "17:14",
+     "team": "NYI",
+     "who": "Bo Horvat",
+     "tag": "TM",
+     "ast": [
+      "Simon Holmström"
+     ],
+     "fin": false,
+     "clip": "6408324399112",
+     "gtd": 8
+    }
+   ],
+   "goalies": "Ilja Sorokin (NYI) 26 torjuntaa · Darcy Kuemper (LAK) 16 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Brayden Schenn",
+     "team": "NYI",
+     "pos": "C",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Ilja Sorokin",
+     "team": "NYI",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.929
+    },
+    {
+     "star": 3,
+     "name": "Simon Holmström",
+     "team": "NYI",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Crypto.com Arena",
+   "finStats": [
+    {
+     "name": "Matias Maccelli",
+     "team": "NYI",
+     "opp": "LAK",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 1,
+     "toi": "13:46"
+    },
+    {
+     "name": "Joel Armia",
+     "team": "LAK",
+     "opp": "NYI",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 0,
+     "toi": "12:16"
+    },
+    {
+     "name": "Erik Haula",
+     "team": "LAK",
+     "opp": "NYI",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "17:03"
+    }
+   ],
+   "note": "Suomalaiset: Armia 0+1, Maccelli 0+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Ilja Sorokin (NYI) 26 torjuntaa · Darcy Kuemper (LAK) 16 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Brayden Schenn",
+      "team": "NYI",
+      "pos": "C",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Ilja Sorokin",
+      "team": "NYI",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.929
+     },
+     {
+      "star": 3,
+      "name": "Simon Holmström",
+      "team": "NYI",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Crypto.com Arena",
+    "finStats": [
+     {
+      "name": "Matias Maccelli",
+      "team": "NYI",
+      "opp": "LAK",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 1,
+      "toi": "13:46"
+     },
+     {
+      "name": "Joel Armia",
+      "team": "LAK",
+      "opp": "NYI",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 0,
+      "toi": "12:16"
+     },
+     {
+      "name": "Erik Haula",
+      "team": "LAK",
+      "opp": "NYI",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "17:03"
+     }
+    ]
+   }
   }
  }
 }
