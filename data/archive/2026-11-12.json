@@ -1110,7 +1110,7 @@
       "T.J. Hughes"
      ],
      "fin": true,
-     "clip": "6408314016112",
+     "clip": "6408318543112",
      "gtd": 14
     },
     {
@@ -1286,6 +1286,286 @@
       "pm": 1,
       "sog": 2,
       "toi": "12:51"
+     }
+    ]
+   }
+  },
+  "2026020302": {
+   "id": 2026020302,
+   "away": "DET",
+   "home": "FLA",
+   "awayScore": 4,
+   "homeScore": 5,
+   "start": "2026-11-13T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "03:52",
+     "team": "FLA",
+     "who": "Sam Reinhart",
+     "tag": "",
+     "ast": [
+      "Carter Verhaeghe",
+      "Seth Jones"
+     ],
+     "fin": false,
+     "clip": "6408312773112",
+     "gtd": 11
+    },
+    {
+     "p": "1",
+     "t": "04:07",
+     "team": "DET",
+     "who": "J.T. Compher",
+     "tag": "",
+     "ast": [
+      "Carter Mazur",
+      "Moritz Seider"
+     ],
+     "fin": false,
+     "clip": "6408311494112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "13:14",
+     "team": "DET",
+     "who": "Andreas Englund",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408312705112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "00:17",
+     "team": "DET",
+     "who": "Lucas Raymond",
+     "tag": "",
+     "ast": [
+      "Andrew Copp"
+     ],
+     "fin": false,
+     "clip": "6408315974112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "12:08",
+     "team": "DET",
+     "who": "Marco Kasper",
+     "tag": "",
+     "ast": [
+      "William Wallinder",
+      "Moritz Seider"
+     ],
+     "fin": false,
+     "clip": "6408316300112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "19:42",
+     "team": "FLA",
+     "who": "Gustav Forsling",
+     "tag": "",
+     "ast": [
+      "Carter Verhaeghe"
+     ],
+     "fin": false,
+     "clip": "6408316794112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "02:32",
+     "team": "FLA",
+     "who": "Anton Lundell",
+     "tag": "",
+     "ast": [
+      "Carter Verhaeghe",
+      "Aaron Ekblad"
+     ],
+     "fin": true,
+     "clip": "6408317512112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "16:29",
+     "team": "FLA",
+     "who": "Lars Eller",
+     "tag": "",
+     "ast": [
+      "Niko Mikkola"
+     ],
+     "fin": false,
+     "clip": "6408317343112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "17:20",
+     "team": "FLA",
+     "who": "Anton Lundell",
+     "tag": "",
+     "ast": [
+      "Brady Tkachuk",
+      "Matthew Tkachuk"
+     ],
+     "fin": true,
+     "clip": "6408319028112",
+     "gtd": 6
+    }
+   ],
+   "goalies": "John Gibson (DET) 24 torjuntaa · Akira Schmid (FLA) 24 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Anton Lundell",
+     "team": "FLA",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Carter Verhaeghe",
+     "team": "FLA",
+     "pos": "C",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Lars Eller",
+     "team": "FLA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Amerant Bank Arena",
+   "finStats": [
+    {
+     "name": "Anton Lundell",
+     "team": "FLA",
+     "opp": "DET",
+     "pos": "H",
+     "g": 2,
+     "a": 0,
+     "p": 2,
+     "pm": 0,
+     "sog": 3,
+     "toi": "15:50"
+    },
+    {
+     "name": "Eetu Luostarinen",
+     "team": "FLA",
+     "opp": "DET",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 1,
+     "toi": "15:49"
+    },
+    {
+     "name": "Niko Mikkola",
+     "team": "FLA",
+     "opp": "DET",
+     "pos": "P",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 1,
+     "toi": "19:22"
+    }
+   ],
+   "note": "Suomalaiset: Lundell 2+0, Mikkola 0+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "John Gibson (DET) 24 torjuntaa · Akira Schmid (FLA) 24 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Anton Lundell",
+      "team": "FLA",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Carter Verhaeghe",
+      "team": "FLA",
+      "pos": "C",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Lars Eller",
+      "team": "FLA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Amerant Bank Arena",
+    "finStats": [
+     {
+      "name": "Anton Lundell",
+      "team": "FLA",
+      "opp": "DET",
+      "pos": "H",
+      "g": 2,
+      "a": 0,
+      "p": 2,
+      "pm": 0,
+      "sog": 3,
+      "toi": "15:50"
+     },
+     {
+      "name": "Eetu Luostarinen",
+      "team": "FLA",
+      "opp": "DET",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 1,
+      "toi": "15:49"
+     },
+     {
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "opp": "DET",
+      "pos": "P",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 1,
+      "toi": "19:22"
      }
     ]
    }
