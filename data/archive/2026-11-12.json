@@ -1569,6 +1569,455 @@
      }
     ]
    }
+  },
+  "2026020305": {
+   "id": 2026020305,
+   "away": "BUF",
+   "home": "CHI",
+   "awayScore": 2,
+   "homeScore": 3,
+   "start": "2026-11-13T01:00:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "1",
+     "t": "09:00",
+     "team": "BUF",
+     "who": "Owen Power",
+     "tag": "",
+     "ast": [
+      "Josh Norris",
+      "Jack Quinn"
+     ],
+     "fin": false,
+     "clip": "6408313133112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "12:22",
+     "team": "CHI",
+     "who": "Frank Nazar",
+     "tag": "YV",
+     "ast": [
+      "Connor Bedard",
+      "Roman Kantserov"
+     ],
+     "fin": false,
+     "clip": "6408314671112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "15:46",
+     "team": "BUF",
+     "who": "Tage Thompson",
+     "tag": "YV",
+     "ast": [
+      "Jack Quinn",
+      "Rasmus Dahlin"
+     ],
+     "fin": false,
+     "clip": "6408314686112",
+     "gtd": 12
+    },
+    {
+     "p": "3",
+     "t": "08:22",
+     "team": "CHI",
+     "who": "Frank Nazar",
+     "tag": "",
+     "ast": [
+      "Sam Rinzel",
+      "Oliver Moore"
+     ],
+     "fin": false,
+     "clip": "6408319427112",
+     "gtd": 7
+    },
+    {
+     "p": "JA",
+     "t": "03:12",
+     "team": "CHI",
+     "who": "Ryan Donato",
+     "tag": "",
+     "ast": [
+      "Anton Frondell",
+      "Sam Rinzel"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 3
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "United Center",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "United Center",
+    "finStats": []
+   }
+  },
+  "2026020306": {
+   "id": 2026020306,
+   "away": "WPG",
+   "home": "DAL",
+   "awayScore": 8,
+   "homeScore": 3,
+   "start": "2026-11-13T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "04:19",
+     "team": "DAL",
+     "who": "Arttu Hyry",
+     "tag": "",
+     "ast": [
+      "Roope Hintz",
+      "Thomas Harley"
+     ],
+     "fin": true,
+     "clip": "6408312521112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "18:32",
+     "team": "DAL",
+     "who": "Roope Hintz",
+     "tag": "",
+     "ast": [
+      "Jason Robertson",
+      "Nils Lundkvist"
+     ],
+     "fin": true,
+     "clip": "6408315409112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "01:11",
+     "team": "WPG",
+     "who": "Dylan Samberg",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408315446112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "07:03",
+     "team": "WPG",
+     "who": "Mark Scheifele",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408314757112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "11:14",
+     "team": "DAL",
+     "who": "David Perron",
+     "tag": "",
+     "ast": [
+      "Thomas Harley",
+      "Nils Lundkvist"
+     ],
+     "fin": false,
+     "clip": "6408316167112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "13:55",
+     "team": "WPG",
+     "who": "Dawson Mercer",
+     "tag": "",
+     "ast": [
+      "Cole Perfetti",
+      "Brayden Yager"
+     ],
+     "fin": false,
+     "clip": "6408317128112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "18:12",
+     "team": "WPG",
+     "who": "Mark Scheifele",
+     "tag": "YV",
+     "ast": [
+      "Gabriel Vilardi",
+      "Kyle Connor"
+     ],
+     "fin": false,
+     "clip": "6408318522112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "19:51",
+     "team": "WPG",
+     "who": "Dawson Mercer",
+     "tag": "",
+     "ast": [
+      "Cole Perfetti",
+      "Dylan Samberg"
+     ],
+     "fin": false,
+     "clip": "6408317337112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "01:00",
+     "team": "WPG",
+     "who": "Kyle Connor",
+     "tag": "",
+     "ast": [
+      "Gabriel Vilardi",
+      "Mark Scheifele"
+     ],
+     "fin": false,
+     "clip": "6408317281112",
+     "gtd": 16
+    },
+    {
+     "p": "3",
+     "t": "15:12",
+     "team": "WPG",
+     "who": "Gabriel Vilardi",
+     "tag": "",
+     "ast": [
+      "Kyle Connor",
+      "Josh Morrissey"
+     ],
+     "fin": false,
+     "clip": "6408319656112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "15:26",
+     "team": "WPG",
+     "who": "Cole Koepke",
+     "tag": "",
+     "ast": [
+      "Morgan Barron"
+     ],
+     "fin": false,
+     "clip": "6408320036112",
+     "gtd": 3
+    }
+   ],
+   "goalies": "Stuart Skinner (WPG) 31 torjuntaa · Jake Oettinger (DAL) 21 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Mark Scheifele",
+     "team": "WPG",
+     "pos": "C",
+     "goals": 2,
+     "assists": 1,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Dawson Mercer",
+     "team": "WPG",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Kyle Connor",
+     "team": "WPG",
+     "pos": "L",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "American Airlines Center",
+   "finStats": [
+    {
+     "name": "Joel Kiviranta",
+     "team": "DAL",
+     "opp": "WPG",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "11:49"
+    },
+    {
+     "name": "Roope Hintz",
+     "team": "DAL",
+     "opp": "WPG",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 0,
+     "sog": 3,
+     "toi": "13:21"
+    },
+    {
+     "name": "Arttu Hyry",
+     "team": "DAL",
+     "opp": "WPG",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 0,
+     "sog": 1,
+     "toi": "13:32"
+    },
+    {
+     "name": "Mikko Rantanen",
+     "team": "DAL",
+     "opp": "WPG",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 0,
+     "toi": "17:41"
+    },
+    {
+     "name": "Esa Lindell",
+     "team": "DAL",
+     "opp": "WPG",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 0,
+     "toi": "24:27"
+    }
+   ],
+   "note": "Suomalaiset: Hyry 1+0, Hintz 1+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Stuart Skinner (WPG) 31 torjuntaa · Jake Oettinger (DAL) 21 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Mark Scheifele",
+      "team": "WPG",
+      "pos": "C",
+      "goals": 2,
+      "assists": 1,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Dawson Mercer",
+      "team": "WPG",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Kyle Connor",
+      "team": "WPG",
+      "pos": "L",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "American Airlines Center",
+    "finStats": [
+     {
+      "name": "Joel Kiviranta",
+      "team": "DAL",
+      "opp": "WPG",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "11:49"
+     },
+     {
+      "name": "Roope Hintz",
+      "team": "DAL",
+      "opp": "WPG",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 0,
+      "sog": 3,
+      "toi": "13:21"
+     },
+     {
+      "name": "Arttu Hyry",
+      "team": "DAL",
+      "opp": "WPG",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 0,
+      "sog": 1,
+      "toi": "13:32"
+     },
+     {
+      "name": "Mikko Rantanen",
+      "team": "DAL",
+      "opp": "WPG",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 0,
+      "toi": "17:41"
+     },
+     {
+      "name": "Esa Lindell",
+      "team": "DAL",
+      "opp": "WPG",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 0,
+      "toi": "24:27"
+     }
+    ]
+   }
   }
  }
 }
