@@ -2018,6 +2018,29 @@
      }
     ]
    }
+  },
+  "2026020307": {
+   "id": 2026020307,
+   "away": "STL",
+   "home": "UTA",
+   "awayScore": 1,
+   "homeScore": 0,
+   "start": "2026-11-13T02:00:00Z",
+   "final": "VL",
+   "goals": [],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Delta Center",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Delta Center",
+    "finStats": []
+   }
   }
  }
 }
