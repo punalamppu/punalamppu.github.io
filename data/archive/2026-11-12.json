@@ -454,7 +454,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/mtl-at-bos-recap-6408318217112",
    "videoId": "",
    "details": {
     "goalies": "Jacob Fowler (MTL) 30 torjuntaa · Jeremy Swayman (BOS) 13 torjuntaa",
@@ -610,7 +610,7 @@
       "Kirill Kaprizov"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408317829112",
      "gtd": 7
     }
    ],
@@ -663,7 +663,7 @@
     }
    ],
    "note": "Matt Boldy hattutemppu",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/min-at-tor-recap-6408316757112",
    "videoId": "",
    "details": {
     "goalies": "Jesper Wallstedt (MIN) 26 torjuntaa · Anthony Stolarz (TOR) 21 torjuntaa",
@@ -817,7 +817,7 @@
       "Jesper Bratt"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408317519112",
      "gtd": 10
     }
    ],
@@ -870,7 +870,7 @@
     }
    ],
    "note": "Suomalaiset: Hämeenaho 1+0",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/wsh-at-njd-recap-6408317235112",
    "videoId": "",
    "details": {
     "goalies": "Logan Thompson (WSH) 24 torjuntaa · Connor Hellebuyck (NJD) 26 torjuntaa",
@@ -1063,6 +1063,231 @@
     ],
     "venue": "Nationwide Arena",
     "finStats": []
+   }
+  },
+  "2026020301": {
+   "id": 2026020301,
+   "away": "COL",
+   "home": "OTT",
+   "awayScore": 3,
+   "homeScore": 4,
+   "start": "2026-11-13T00:00:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "1",
+     "t": "07:11",
+     "team": "OTT",
+     "who": "Shane Pinto",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408310992112",
+     "gtd": 8
+    },
+    {
+     "p": "1",
+     "t": "13:13",
+     "team": "OTT",
+     "who": "Tim Stützle",
+     "tag": "",
+     "ast": [
+      "Fabian Zetterlund",
+      "Dylan Cozens"
+     ],
+     "fin": false,
+     "clip": "6408312667112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "18:04",
+     "team": "COL",
+     "who": "Artturi Lehkonen",
+     "tag": "YV",
+     "ast": [
+      "Nazem Kadri",
+      "T.J. Hughes"
+     ],
+     "fin": true,
+     "clip": "6408314016112",
+     "gtd": 14
+    },
+    {
+     "p": "3",
+     "t": "03:54",
+     "team": "COL",
+     "who": "Parker Kelly",
+     "tag": "AV",
+     "ast": [],
+     "fin": false,
+     "clip": "6408316892112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "10:03",
+     "team": "COL",
+     "who": "Gabriel Landeskog",
+     "tag": "YV",
+     "ast": [
+      "Brock Nelson",
+      "Devon Toews"
+     ],
+     "fin": false,
+     "clip": "6408315761112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "16:04",
+     "team": "OTT",
+     "who": "Drake Batherson",
+     "tag": "",
+     "ast": [
+      "Jordan Spence",
+      "Shane Pinto"
+     ],
+     "fin": false,
+     "clip": "6408318110112",
+     "gtd": 10
+    },
+    {
+     "p": "JA",
+     "t": "02:08",
+     "team": "OTT",
+     "who": "Shane Pinto",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Scott Wedgewood (COL) 22 torjuntaa · Linus Ullmark (OTT) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Shane Pinto",
+     "team": "OTT",
+     "pos": "C",
+     "goals": 2,
+     "assists": 1,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Drake Batherson",
+     "team": "OTT",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Parker Kelly",
+     "team": "COL",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Canadian Tire Centre",
+   "finStats": [
+    {
+     "name": "Artturi Lehkonen",
+     "team": "COL",
+     "opp": "OTT",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": -1,
+     "sog": 1,
+     "toi": "21:18"
+    },
+    {
+     "name": "Nikolas Matinpalo",
+     "team": "OTT",
+     "opp": "COL",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 2,
+     "toi": "12:51"
+    }
+   ],
+   "note": "Suomalaiset: Lehkonen 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Scott Wedgewood (COL) 22 torjuntaa · Linus Ullmark (OTT) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Shane Pinto",
+      "team": "OTT",
+      "pos": "C",
+      "goals": 2,
+      "assists": 1,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Drake Batherson",
+      "team": "OTT",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Parker Kelly",
+      "team": "COL",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Canadian Tire Centre",
+    "finStats": [
+     {
+      "name": "Artturi Lehkonen",
+      "team": "COL",
+      "opp": "OTT",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": -1,
+      "sog": 1,
+      "toi": "21:18"
+     },
+     {
+      "name": "Nikolas Matinpalo",
+      "team": "OTT",
+      "opp": "COL",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 2,
+      "toi": "12:51"
+     }
+    ]
    }
   }
  }
