@@ -1,0 +1,249 @@
+{
+ "gameDate": "2026-11-14",
+ "games": {
+  "2026020321": {
+   "id": 2026020321,
+   "away": "SEA",
+   "home": "CAR",
+   "awayScore": 1,
+   "homeScore": 5,
+   "start": "2026-11-14T18:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "11:12",
+     "team": "CAR",
+     "who": "Jackson Blake",
+     "tag": "YV",
+     "ast": [
+      "Sebastian Aho",
+      "Nikolaj Ehlers"
+     ],
+     "fin": false,
+     "clip": "6408385071112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "17:30",
+     "team": "CAR",
+     "who": "Mark Jankowski",
+     "tag": "",
+     "ast": [
+      "Jesperi Kotkaniemi",
+      "Sean Walker"
+     ],
+     "fin": false,
+     "clip": "6408384298112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "02:03",
+     "team": "CAR",
+     "who": "Andrei Svetšnikov",
+     "tag": "YV",
+     "ast": [
+      "Nikolaj Ehlers",
+      "Shayne Gostisbehere"
+     ],
+     "fin": false,
+     "clip": "6408385622112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "06:06",
+     "team": "SEA",
+     "who": "Matty Beniers",
+     "tag": "",
+     "ast": [
+      "Jordan Eberle",
+      "Bobby McMann"
+     ],
+     "fin": false,
+     "clip": "6408383932112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "10:05",
+     "team": "CAR",
+     "who": "Andrei Svetšnikov",
+     "tag": "YV",
+     "ast": [
+      "Shayne Gostisbehere",
+      "Nikolaj Ehlers"
+     ],
+     "fin": false,
+     "clip": "6408384346112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "11:06",
+     "team": "CAR",
+     "who": "Mark Jankowski",
+     "tag": "",
+     "ast": [
+      "Taylor Hall",
+      "Seth Jarvis"
+     ],
+     "fin": false,
+     "clip": "6408388408112",
+     "gtd": 10
+    }
+   ],
+   "goalies": "Joey Daccord (SEA) 10 torjuntaa · Pjotr Kotšetkov (CAR) 13 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Mark Jankowski",
+     "team": "CAR",
+     "pos": "L",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Andrei Svetšnikov",
+     "team": "CAR",
+     "pos": "R",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Nikolaj Ehlers",
+     "team": "CAR",
+     "pos": "L",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Veikkaus Arena",
+   "finStats": [
+    {
+     "name": "Kaapo Kakko",
+     "team": "SEA",
+     "opp": "CAR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "13:03"
+    },
+    {
+     "name": "Sebastian Aho",
+     "team": "CAR",
+     "opp": "SEA",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": -1,
+     "sog": 2,
+     "toi": "18:50"
+    },
+    {
+     "name": "Jesperi Kotkaniemi",
+     "team": "CAR",
+     "opp": "SEA",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 0,
+     "toi": "11:22"
+    }
+   ],
+   "note": "Suomalaiset: Aho 0+1, Kotkaniemi 0+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Joey Daccord (SEA) 10 torjuntaa · Pjotr Kotšetkov (CAR) 13 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Mark Jankowski",
+      "team": "CAR",
+      "pos": "L",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Andrei Svetšnikov",
+      "team": "CAR",
+      "pos": "R",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Nikolaj Ehlers",
+      "team": "CAR",
+      "pos": "L",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Veikkaus Arena",
+    "finStats": [
+     {
+      "name": "Kaapo Kakko",
+      "team": "SEA",
+      "opp": "CAR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "13:03"
+     },
+     {
+      "name": "Sebastian Aho",
+      "team": "CAR",
+      "opp": "SEA",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": -1,
+      "sog": 2,
+      "toi": "18:50"
+     },
+     {
+      "name": "Jesperi Kotkaniemi",
+      "team": "CAR",
+      "opp": "SEA",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 0,
+      "toi": "11:22"
+     }
+    ]
+   }
+  }
+ }
+}
