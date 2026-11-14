@@ -30,20 +30,20 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "assists": 16,
+    "assists": 17,
     "gameWinningGoals": 2,
-    "gamesPlayed": 20,
+    "gamesPlayed": 21,
     "goals": 12,
     "otGoals": 0,
     "pim": 16,
-    "plusMinus": 15,
-    "points": 28,
+    "plusMinus": 14,
+    "points": 29,
     "powerPlayGoals": 5,
-    "powerPlayPoints": 8,
-    "shootingPctg": 0.214286,
+    "powerPlayPoints": 9,
+    "shootingPctg": 0.206897,
     "shorthandedGoals": 1,
     "shorthandedPoints": 3,
-    "shots": 56
+    "shots": 58
    },
    "career": {
     "assists": 417,
@@ -102,6 +102,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 1,
+   "gameDate": "2026-11-14",
+   "gameId": 2026020321,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "SEA",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 23,
+   "shorthandedGoals": 0,
+   "shots": 2,
+   "teamAbbrev": "CAR",
+   "toi": "18:50"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-12",
@@ -173,24 +191,6 @@
    "shots": 4,
    "teamAbbrev": "CAR",
    "toi": "20:51"
-  },
-  {
-   "assists": 1,
-   "gameDate": "2026-11-01",
-   "gameId": 2026020227,
-   "gameTypeId": 2,
-   "goals": 1,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "WPG",
-   "pim": 0,
-   "plusMinus": 1,
-   "points": 2,
-   "powerPlayGoals": 1,
-   "shifts": 21,
-   "shorthandedGoals": 0,
-   "shots": 1,
-   "teamAbbrev": "CAR",
-   "toi": "21:16"
   }
  ],
  "isActive": true,
@@ -790,26 +790,26 @@
    }
   },
   {
-   "assists": 16,
-   "avgToi": "19:43",
-   "faceoffWinningPctg": 0.561562,
+   "assists": 17,
+   "avgToi": "19:40",
+   "faceoffWinningPctg": 0.553371,
    "gameTypeId": 2,
    "gameWinningGoals": 2,
-   "gamesPlayed": 20,
+   "gamesPlayed": 21,
    "goals": 12,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 16,
-   "plusMinus": 15,
-   "points": 28,
+   "plusMinus": 14,
+   "points": 29,
    "powerPlayGoals": 5,
-   "powerPlayPoints": 8,
+   "powerPlayPoints": 9,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.214286,
+   "shootingPctg": 0.206897,
    "shorthandedGoals": 1,
    "shorthandedPoints": 3,
-   "shots": 56,
+   "shots": 58,
    "teamCommonName": {
     "default": "Hurricanes"
    },
@@ -823,7 +823,7 @@
    }
   }
  ],
- "_fetched": "2026-11-14",
+ "_fetched": "2026-11-15",
  "gameLog": [
   [
    "2026-09-29",
