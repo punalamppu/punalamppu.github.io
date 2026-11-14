@@ -213,6 +213,170 @@
      }
     ]
    }
+  },
+  "2026020311": {
+   "id": 2026020311,
+   "away": "NSH",
+   "home": "VGK",
+   "awayScore": 3,
+   "homeScore": 2,
+   "start": "2026-11-14T03:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "07:56",
+     "team": "NSH",
+     "who": "Ryan O'Reilly",
+     "tag": "",
+     "ast": [
+      "Steven Stamkos",
+      "Mavrik Bourque"
+     ],
+     "fin": false,
+     "clip": "6408366204112",
+     "gtd": 8
+    },
+    {
+     "p": "1",
+     "t": "11:19",
+     "team": "VGK",
+     "who": "Victor Olofsson",
+     "tag": "",
+     "ast": [
+      "Ivan Barbašov",
+      "Tomas Hertl"
+     ],
+     "fin": false,
+     "clip": "6408364844112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "10:48",
+     "team": "VGK",
+     "who": "Rasmus Andersson",
+     "tag": "",
+     "ast": [
+      "Mitchell Marner",
+      "Parker Wotherspoon"
+     ],
+     "fin": false,
+     "clip": "6408369003112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "09:44",
+     "team": "NSH",
+     "who": "Ryan O'Reilly",
+     "tag": "",
+     "ast": [
+      "Adam Wilsby",
+      "Roman Josi"
+     ],
+     "fin": false,
+     "clip": "6408368856112",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Juuse Saros (NSH) 40 torjuntaa · Adin Hill (VGK) 30 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Juuse Saros",
+     "team": "NSH",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.952
+    },
+    {
+     "star": 2,
+     "name": "Adin Hill",
+     "team": "VGK",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.938
+    },
+    {
+     "star": 3,
+     "name": "Roman Josi",
+     "team": "NSH",
+     "pos": "D",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "T-Mobile Arena",
+   "finStats": [
+    {
+     "name": "Juuse Saros",
+     "team": "NSH",
+     "opp": "VGK",
+     "pos": "MV",
+     "saves": 40,
+     "shots": 42,
+     "dec": "W",
+     "toi": "65:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Juuse Saros (NSH) 40 torjuntaa · Adin Hill (VGK) 30 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Juuse Saros",
+      "team": "NSH",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.952
+     },
+     {
+      "star": 2,
+      "name": "Adin Hill",
+      "team": "VGK",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.938
+     },
+     {
+      "star": 3,
+      "name": "Roman Josi",
+      "team": "NSH",
+      "pos": "D",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "T-Mobile Arena",
+    "finStats": [
+     {
+      "name": "Juuse Saros",
+      "team": "NSH",
+      "opp": "VGK",
+      "pos": "MV",
+      "saves": 40,
+      "shots": 42,
+      "dec": "W",
+      "toi": "65:00"
+     }
+    ]
+   }
   }
  }
 }
