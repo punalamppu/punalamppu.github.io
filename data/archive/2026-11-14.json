@@ -244,6 +244,166 @@
      }
     ]
    }
+  },
+  "2026020312": {
+   "id": 2026020312,
+   "away": "WPG",
+   "home": "CHI",
+   "awayScore": 5,
+   "homeScore": 4,
+   "start": "2026-11-14T20:30:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "01:48",
+     "team": "CHI",
+     "who": "Tyler Bertuzzi",
+     "tag": "",
+     "ast": [
+      "Oliver Moore",
+      "Connor Bedard"
+     ],
+     "fin": false,
+     "clip": "6408388916112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "09:07",
+     "team": "CHI",
+     "who": "Anton Frondell",
+     "tag": "",
+     "ast": [
+      "Teuvo Teräväinen"
+     ],
+     "fin": false,
+     "clip": "6408389511112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "19:56",
+     "team": "CHI",
+     "who": "Connor Bedard",
+     "tag": "YV",
+     "ast": [
+      "Patrick Kane",
+      "Sam Rinzel"
+     ],
+     "fin": false,
+     "clip": "6408388256112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "14:44",
+     "team": "CHI",
+     "who": "Frank Nazar",
+     "tag": "YV",
+     "ast": [
+      "Teuvo Teräväinen",
+      "Sam Rinzel"
+     ],
+     "fin": false,
+     "clip": "6408390642112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "16:05",
+     "team": "WPG",
+     "who": "Mark Scheifele",
+     "tag": "",
+     "ast": [
+      "Josh Morrissey",
+      "Kyle Connor"
+     ],
+     "fin": false,
+     "clip": "6408390261112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "18:01",
+     "team": "WPG",
+     "who": "Kyle Connor",
+     "tag": "",
+     "ast": [
+      "Mark Scheifele"
+     ],
+     "fin": false,
+     "clip": "6408390171112",
+     "gtd": 17
+    },
+    {
+     "p": "3",
+     "t": "00:55",
+     "team": "WPG",
+     "who": "Cole Perfetti",
+     "tag": "YV",
+     "ast": [
+      "Gabriel Vilardi",
+      "Mark Scheifele"
+     ],
+     "fin": false,
+     "clip": "6408392359112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "18:47",
+     "team": "WPG",
+     "who": "Gabriel Vilardi",
+     "tag": "",
+     "ast": [
+      "Mark Scheifele",
+      "Neal Pionk"
+     ],
+     "fin": false,
+     "clip": "6408391588112",
+     "gtd": 3
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "United Center",
+   "finStats": [
+    {
+     "name": "Teuvo Teräväinen",
+     "team": "CHI",
+     "opp": "WPG",
+     "pos": "H",
+     "g": 0,
+     "a": 2,
+     "p": 2,
+     "pm": -1,
+     "sog": 0,
+     "toi": "15:59"
+    }
+   ],
+   "note": "Suomalaiset: Teräväinen 0+2",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "United Center",
+    "finStats": [
+     {
+      "name": "Teuvo Teräväinen",
+      "team": "CHI",
+      "opp": "WPG",
+      "pos": "H",
+      "g": 0,
+      "a": 2,
+      "p": 2,
+      "pm": -1,
+      "sog": 0,
+      "toi": "15:59"
+     }
+    ]
+   }
   }
  }
 }
