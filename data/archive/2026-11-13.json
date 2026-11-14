@@ -1,0 +1,218 @@
+{
+ "gameDate": "2026-11-13",
+ "games": {
+  "2026020310": {
+   "id": 2026020310,
+   "away": "NYR",
+   "home": "VAN",
+   "awayScore": 5,
+   "homeScore": 1,
+   "start": "2026-11-14T02:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "12:13",
+     "team": "VAN",
+     "who": "Elias Pettersson",
+     "tag": "",
+     "ast": [
+      "Zeev Buium",
+      "Brock Boeser"
+     ],
+     "fin": false,
+     "clip": "6408364008112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "18:47",
+     "team": "NYR",
+     "who": "Gabe Perreault",
+     "tag": "",
+     "ast": [
+      "Alexis Lafrenière",
+      "J.T. Miller"
+     ],
+     "fin": false,
+     "clip": "6408363632112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "08:21",
+     "team": "NYR",
+     "who": "Oliver Bjorkstrand",
+     "tag": "YV",
+     "ast": [
+      "J.T. Miller",
+      "Adam Fox"
+     ],
+     "fin": false,
+     "clip": "6408365407112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "13:00",
+     "team": "NYR",
+     "who": "Glenn Gawdin",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408366508112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "15:14",
+     "team": "NYR",
+     "who": "Alexis Lafrenière",
+     "tag": "",
+     "ast": [
+      "Mika Zibanejad",
+      "Gabe Perreault"
+     ],
+     "fin": false,
+     "clip": "6408367208112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "16:10",
+     "team": "NYR",
+     "who": "Glenn Gawdin",
+     "tag": "",
+     "ast": [
+      "Vladislav Gavrikov",
+      "Jaroslav Chmelar"
+     ],
+     "fin": false,
+     "clip": "6408366220112",
+     "gtd": 2
+    }
+   ],
+   "goalies": "Dylan Garand (NYR) 27 torjuntaa · Leevi Meriläinen (VAN) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Glenn Gawdin",
+     "team": "NYR",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Dylan Garand",
+     "team": "NYR",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.964
+    },
+    {
+     "star": 3,
+     "name": "J.T. Miller",
+     "team": "NYR",
+     "pos": "C",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Rogers Arena",
+   "finStats": [
+    {
+     "name": "Eeli Tolvanen",
+     "team": "NYR",
+     "opp": "VAN",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 1,
+     "toi": "09:53"
+    },
+    {
+     "name": "Leevi Meriläinen",
+     "team": "VAN",
+     "opp": "NYR",
+     "pos": "MV",
+     "saves": 25,
+     "shots": 30,
+     "dec": "L",
+     "toi": "60:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Dylan Garand (NYR) 27 torjuntaa · Leevi Meriläinen (VAN) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Glenn Gawdin",
+      "team": "NYR",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Dylan Garand",
+      "team": "NYR",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.964
+     },
+     {
+      "star": 3,
+      "name": "J.T. Miller",
+      "team": "NYR",
+      "pos": "C",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Rogers Arena",
+    "finStats": [
+     {
+      "name": "Eeli Tolvanen",
+      "team": "NYR",
+      "opp": "VAN",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 1,
+      "toi": "09:53"
+     },
+     {
+      "name": "Leevi Meriläinen",
+      "team": "VAN",
+      "opp": "NYR",
+      "pos": "MV",
+      "saves": 25,
+      "shots": 30,
+      "dec": "L",
+      "toi": "60:00"
+     }
+    ]
+   }
+  }
+ }
+}
