@@ -1814,6 +1814,242 @@
     "venue": "PPG Paints Arena",
     "finStats": []
    }
+  },
+  "2026020322": {
+   "id": 2026020322,
+   "away": "BUF",
+   "home": "DAL",
+   "awayScore": 0,
+   "homeScore": 2,
+   "start": "2026-11-15T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "16:23",
+     "team": "DAL",
+     "who": "Jamie Benn",
+     "tag": "",
+     "ast": [
+      "Justin Hryckowian",
+      "Nils Lundkvist"
+     ],
+     "fin": false,
+     "clip": "6408400836112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "19:18",
+     "team": "DAL",
+     "who": "Wyatt Johnston",
+     "tag": "YV",
+     "ast": [
+      "Mikko Rantanen",
+      "Roope Hintz"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Alex Lyon (BUF) 28 torjuntaa · Jake Oettinger (DAL) 22 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Jamie Benn",
+     "team": "DAL",
+     "pos": "L",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Jake Oettinger",
+     "team": "DAL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 1.0
+    },
+    {
+     "star": 3,
+     "name": "Alex Lyon",
+     "team": "BUF",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.933
+    }
+   ],
+   "venue": "American Airlines Center",
+   "finStats": [
+    {
+     "name": "Joel Kiviranta",
+     "team": "DAL",
+     "opp": "BUF",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "09:27"
+    },
+    {
+     "name": "Roope Hintz",
+     "team": "DAL",
+     "opp": "BUF",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 2,
+     "toi": "17:13"
+    },
+    {
+     "name": "Arttu Hyry",
+     "team": "DAL",
+     "opp": "BUF",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 3,
+     "toi": "13:37"
+    },
+    {
+     "name": "Mikko Rantanen",
+     "team": "DAL",
+     "opp": "BUF",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 1,
+     "toi": "19:11"
+    },
+    {
+     "name": "Esa Lindell",
+     "team": "DAL",
+     "opp": "BUF",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 4,
+     "toi": "27:12"
+    }
+   ],
+   "note": "Suomalaiset: Rantanen 0+1, Hintz 0+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Alex Lyon (BUF) 28 torjuntaa · Jake Oettinger (DAL) 22 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Jamie Benn",
+      "team": "DAL",
+      "pos": "L",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Jake Oettinger",
+      "team": "DAL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 1.0
+     },
+     {
+      "star": 3,
+      "name": "Alex Lyon",
+      "team": "BUF",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.933
+     }
+    ],
+    "venue": "American Airlines Center",
+    "finStats": [
+     {
+      "name": "Joel Kiviranta",
+      "team": "DAL",
+      "opp": "BUF",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "09:27"
+     },
+     {
+      "name": "Roope Hintz",
+      "team": "DAL",
+      "opp": "BUF",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 2,
+      "toi": "17:13"
+     },
+     {
+      "name": "Arttu Hyry",
+      "team": "DAL",
+      "opp": "BUF",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 3,
+      "toi": "13:37"
+     },
+     {
+      "name": "Mikko Rantanen",
+      "team": "DAL",
+      "opp": "BUF",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 1,
+      "toi": "19:11"
+     },
+     {
+      "name": "Esa Lindell",
+      "team": "DAL",
+      "opp": "BUF",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 4,
+      "toi": "27:12"
+     }
+    ]
+   }
   }
  }
 }
