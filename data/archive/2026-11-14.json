@@ -2273,6 +2273,253 @@
     "venue": "Delta Center",
     "finStats": []
    }
+  },
+  "2026020324": {
+   "id": 2026020324,
+   "away": "NYI",
+   "home": "ANA",
+   "awayScore": 6,
+   "homeScore": 2,
+   "start": "2026-11-15T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "01:55",
+     "team": "NYI",
+     "who": "Ben Hutton",
+     "tag": "",
+     "ast": [
+      "M. Barzal",
+      "Ondrej Palat"
+     ],
+     "fin": false,
+     "clip": "6408400403112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "01:33",
+     "team": "NYI",
+     "who": "Bo Horvat",
+     "tag": "YV",
+     "ast": [
+      "Matias Maccelli",
+      "Matthew Schaefer"
+     ],
+     "fin": false,
+     "clip": "6408402115112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "02:35",
+     "team": "ANA",
+     "who": "Nikita Nesterenko",
+     "tag": "",
+     "ast": [
+      "Pavel Mintjukov",
+      "Noah Warren"
+     ],
+     "fin": false,
+     "clip": "6408402508112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "03:01",
+     "team": "NYI",
+     "who": "Simon Holmström",
+     "tag": "",
+     "ast": [
+      "Matthew Schaefer",
+      "Kyle Palmieri"
+     ],
+     "fin": false,
+     "clip": "6408404661112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "08:28",
+     "team": "NYI",
+     "who": "Simon Holmström",
+     "tag": "",
+     "ast": [
+      "Bo Horvat",
+      "Kyle Palmieri"
+     ],
+     "fin": false,
+     "clip": "6408404088112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "10:28",
+     "team": "NYI",
+     "who": "Mitchell Chaffee",
+     "tag": "",
+     "ast": [
+      "Matthew Schaefer",
+      "Matias Maccelli"
+     ],
+     "fin": false,
+     "clip": "6408403906112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "16:37",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "",
+     "ast": [
+      "Tristan Luneau",
+      "Leo Carlsson"
+     ],
+     "fin": false,
+     "clip": "6408405679112",
+     "gtd": 17
+    },
+    {
+     "p": "3",
+     "t": "02:41",
+     "team": "NYI",
+     "who": "Simon Holmström",
+     "tag": "",
+     "ast": [
+      "Victor Eklund"
+     ],
+     "fin": false,
+     "clip": "6408405993112",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Semjon Varlamov (NYI) 26 torjuntaa · Lukas Dostal (ANA) 19 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Simon Holmström",
+     "team": "NYI",
+     "pos": "R",
+     "goals": 3,
+     "assists": 0,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Matthew Schaefer",
+     "team": "NYI",
+     "pos": "D",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Nikita Nesterenko",
+     "team": "ANA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Honda Center",
+   "finStats": [
+    {
+     "name": "Matias Maccelli",
+     "team": "NYI",
+     "opp": "ANA",
+     "pos": "H",
+     "g": 0,
+     "a": 2,
+     "p": 2,
+     "pm": 0,
+     "sog": 2,
+     "toi": "13:45"
+    },
+    {
+     "name": "Mikael Granlund",
+     "team": "ANA",
+     "opp": "NYI",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 1,
+     "toi": "18:01"
+    }
+   ],
+   "note": "Simon Holmström hattutemppu · Suomalaiset: Maccelli 0+2",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Semjon Varlamov (NYI) 26 torjuntaa · Lukas Dostal (ANA) 19 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Simon Holmström",
+      "team": "NYI",
+      "pos": "R",
+      "goals": 3,
+      "assists": 0,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Matthew Schaefer",
+      "team": "NYI",
+      "pos": "D",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Nikita Nesterenko",
+      "team": "ANA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Honda Center",
+    "finStats": [
+     {
+      "name": "Matias Maccelli",
+      "team": "NYI",
+      "opp": "ANA",
+      "pos": "H",
+      "g": 0,
+      "a": 2,
+      "p": 2,
+      "pm": 0,
+      "sog": 2,
+      "toi": "13:45"
+     },
+     {
+      "name": "Mikael Granlund",
+      "team": "ANA",
+      "opp": "NYI",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 1,
+      "toi": "18:01"
+     }
+    ]
+   }
   }
  }
 }
