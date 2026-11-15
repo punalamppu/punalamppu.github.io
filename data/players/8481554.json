@@ -48,7 +48,7 @@
    "career": {
     "assists": 127,
     "gameWinningGoals": 13,
-    "gamesPlayed": 461,
+    "gamesPlayed": 462,
     "goals": 87,
     "otGoals": 1,
     "pim": 120,
@@ -69,7 +69,7 @@
    "avgToi": "14:40",
    "faceoffWinningPctg": 0.4728,
    "gameWinningGoals": 13,
-   "gamesPlayed": 461,
+   "gamesPlayed": 462,
    "goals": 87,
    "otGoals": 1,
    "pim": 120,
@@ -625,7 +625,7 @@
    }
   }
  ],
- "_fetched": "2026-11-15",
+ "_fetched": "2026-11-16",
  "gameLog": [
   [
    "2026-10-01",

@@ -33,7 +33,7 @@
    "subSeason": {
     "assists": 1,
     "gameWinningGoals": 0,
-    "gamesPlayed": 12,
+    "gamesPlayed": 13,
     "goals": 1,
     "otGoals": 0,
     "pim": 6,
@@ -49,7 +49,7 @@
    "career": {
     "assists": 18,
     "gameWinningGoals": 2,
-    "gamesPlayed": 112,
+    "gamesPlayed": 113,
     "goals": 23,
     "otGoals": 0,
     "pim": 30,
@@ -67,10 +67,10 @@
  "careerTotals": {
   "regularSeason": {
    "assists": 18,
-   "avgToi": "13:39",
-   "faceoffWinningPctg": 0.44880000000000003,
+   "avgToi": "13:37",
+   "faceoffWinningPctg": 0.4498,
    "gameWinningGoals": 2,
-   "gamesPlayed": 112,
+   "gamesPlayed": 113,
    "goals": 23,
    "otGoals": 0,
    "pim": 30,
@@ -103,6 +103,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-14",
+   "gameId": 2026020315,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "COL",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 16,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "MTL",
+   "toi": "10:03"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-12",
@@ -174,24 +192,6 @@
    "shots": 1,
    "teamAbbrev": "MTL",
    "toi": "8:59"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-03",
-   "gameId": 2026020237,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "WPG",
-   "pim": 0,
-   "plusMinus": 0,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 16,
-   "shorthandedGoals": 0,
-   "shots": 1,
-   "teamAbbrev": "MTL",
-   "toi": "10:58"
   }
  ],
  "isActive": true,
@@ -330,11 +330,11 @@
   },
   {
    "assists": 1,
-   "avgToi": "12:05",
-   "faceoffWinningPctg": 0.405405,
+   "avgToi": "11:56",
+   "faceoffWinningPctg": 0.417722,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 12,
+   "gamesPlayed": 13,
    "goals": 1,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
@@ -362,7 +362,7 @@
    }
   }
  ],
- "_fetched": "2026-11-15",
+ "_fetched": "2026-11-16",
  "gameLog": [
   [
    "2026-10-17",

@@ -46,41 +46,41 @@
     "shots": 58
    },
    "career": {
-    "assists": 417,
+    "assists": 418,
     "gameWinningGoals": 70,
-    "gamesPlayed": 776,
+    "gamesPlayed": 777,
     "goals": 322,
     "otGoals": 18,
     "pim": 358,
-    "plusMinus": 147,
-    "points": 739,
+    "plusMinus": 146,
+    "points": 740,
     "powerPlayGoals": 80,
-    "powerPlayPoints": 225,
-    "shootingPctg": 0.1516,
+    "powerPlayPoints": 226,
+    "shootingPctg": 0.1514,
     "shorthandedGoals": 23,
     "shorthandedPoints": 40,
-    "shots": 2124
+    "shots": 2126
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
-   "assists": 417,
+   "assists": 418,
    "avgToi": "19:09",
-   "faceoffWinningPctg": 0.5146999999999999,
+   "faceoffWinningPctg": 0.5145000000000001,
    "gameWinningGoals": 70,
-   "gamesPlayed": 776,
+   "gamesPlayed": 777,
    "goals": 322,
    "otGoals": 18,
    "pim": 358,
-   "plusMinus": 147,
-   "points": 739,
+   "plusMinus": 146,
+   "points": 740,
    "powerPlayGoals": 80,
-   "powerPlayPoints": 225,
-   "shootingPctg": 0.1516,
+   "powerPlayPoints": 226,
+   "shootingPctg": 0.1514,
    "shorthandedGoals": 23,
    "shorthandedPoints": 40,
-   "shots": 2124
+   "shots": 2126
   },
   "playoffs": {
    "assists": 58,
@@ -823,7 +823,7 @@
    }
   }
  ],
- "_fetched": "2026-11-15",
+ "_fetched": "2026-11-16",
  "gameLog": [
   [
    "2026-09-29",
