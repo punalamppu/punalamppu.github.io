@@ -438,7 +438,7 @@
       "Andrew Copp"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408400632112",
      "gtd": 4
     }
    ],
@@ -454,6 +454,525 @@
     "threeStars": [],
     "venue": "Benchmark International Arena",
     "finStats": []
+   }
+  },
+  "2026020314": {
+   "id": 2026020314,
+   "away": "EDM",
+   "home": "TOR",
+   "awayScore": 1,
+   "homeScore": 0,
+   "start": "2026-11-15T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "15:34",
+     "team": "EDM",
+     "who": "Evan Bouchard",
+     "tag": "",
+     "ast": [
+      "Connor McDavid",
+      "Leon Draisaitl"
+     ],
+     "fin": false,
+     "clip": "6408397022112",
+     "gtd": 12
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Scotiabank Arena",
+   "finStats": [
+    {
+     "name": "Kasperi Kapanen",
+     "team": "EDM",
+     "opp": "TOR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "16:08"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Scotiabank Arena",
+    "finStats": [
+     {
+      "name": "Kasperi Kapanen",
+      "team": "EDM",
+      "opp": "TOR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "16:08"
+     }
+    ]
+   }
+  },
+  "2026020319": {
+   "id": 2026020319,
+   "away": "PHI",
+   "home": "CBJ",
+   "awayScore": 4,
+   "homeScore": 3,
+   "start": "2026-11-15T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "03:19",
+     "team": "CBJ",
+     "who": "Dmitri Voronkov",
+     "tag": "",
+     "ast": [
+      "Valeri Nitšuškin",
+      "Damon Severson"
+     ],
+     "fin": false,
+     "clip": "6408394393112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "04:19",
+     "team": "CBJ",
+     "who": "Matthew Knies",
+     "tag": "",
+     "ast": [
+      "Luca Del Bel Belluz",
+      "Kent Johnson"
+     ],
+     "fin": false,
+     "clip": "6408395259112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "16:06",
+     "team": "PHI",
+     "who": "Trevor Zegras",
+     "tag": "",
+     "ast": [
+      "Tyson Foerster"
+     ],
+     "fin": false,
+     "clip": "6408394732112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "01:19",
+     "team": "PHI",
+     "who": "Matvei Mitškov",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408396109112",
+     "gtd": 11
+    },
+    {
+     "p": "2",
+     "t": "02:21",
+     "team": "PHI",
+     "who": "Denver Barkey",
+     "tag": "YV",
+     "ast": [
+      "Porter Martone",
+      "Jamie Drysdale"
+     ],
+     "fin": false,
+     "clip": "6408397212112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "05:44",
+     "team": "CBJ",
+     "who": "Adam Fantilli",
+     "tag": "",
+     "ast": [
+      "Cole Sillinger",
+      "Zach Werenski"
+     ],
+     "fin": false,
+     "clip": "6408396509112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "11:54",
+     "team": "PHI",
+     "who": "Denver Barkey",
+     "tag": "",
+     "ast": [
+      "Noel Acciari"
+     ],
+     "fin": false,
+     "clip": "6408398184112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Joseph Woll (PHI) 28 torjuntaa · Jet Greaves (CBJ) 17 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Denver Barkey",
+     "team": "PHI",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Matvei Mitškov",
+     "team": "PHI",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Matthew Knies",
+     "team": "CBJ",
+     "pos": "L",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Nationwide Arena",
+   "finStats": [
+    {
+     "name": "Rasmus Ristolainen",
+     "team": "PHI",
+     "opp": "CBJ",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 2,
+     "sog": 2,
+     "toi": "20:51"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Joseph Woll (PHI) 28 torjuntaa · Jet Greaves (CBJ) 17 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Denver Barkey",
+      "team": "PHI",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Matvei Mitškov",
+      "team": "PHI",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Matthew Knies",
+      "team": "CBJ",
+      "pos": "L",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Nationwide Arena",
+    "finStats": [
+     {
+      "name": "Rasmus Ristolainen",
+      "team": "PHI",
+      "opp": "CBJ",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 2,
+      "sog": 2,
+      "toi": "20:51"
+     }
+    ]
+   }
+  },
+  "2026020320": {
+   "id": 2026020320,
+   "away": "FLA",
+   "home": "STL",
+   "awayScore": 4,
+   "homeScore": 1,
+   "start": "2026-11-15T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "05:12",
+     "team": "FLA",
+     "who": "Brady Tkachuk",
+     "tag": "YV",
+     "ast": [
+      "Sam Reinhart",
+      "Matthew Tkachuk"
+     ],
+     "fin": false,
+     "clip": "6408393597112",
+     "gtd": 11
+    },
+    {
+     "p": "1",
+     "t": "06:29",
+     "team": "FLA",
+     "who": "Dmitri Kulikov",
+     "tag": "",
+     "ast": [
+      "Sam Bennett",
+      "Sandis Vilmanis"
+     ],
+     "fin": false,
+     "clip": "6408394704112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "03:28",
+     "team": "FLA",
+     "who": "Anton Lundell",
+     "tag": "",
+     "ast": [
+      "Brady Tkachuk"
+     ],
+     "fin": true,
+     "clip": "6408396033112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "07:38",
+     "team": "FLA",
+     "who": "Sam Reinhart",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408398861112",
+     "gtd": 12
+    },
+    {
+     "p": "3",
+     "t": "17:54",
+     "team": "STL",
+     "who": "Dylan Holloway",
+     "tag": "YV",
+     "ast": [
+      "Dalibor Dvorsky",
+      "Logan Mailloux"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Jacob Markström (FLA) 23 torjuntaa · Joel Hofer (STL) 24 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Brady Tkachuk",
+     "team": "FLA",
+     "pos": "L",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Sam Reinhart",
+     "team": "FLA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Jacob Markström",
+     "team": "FLA",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.958
+    }
+   ],
+   "venue": "Enterprise Center",
+   "finStats": [
+    {
+     "name": "Anton Lundell",
+     "team": "FLA",
+     "opp": "STL",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 1,
+     "sog": 1,
+     "toi": "15:40"
+    },
+    {
+     "name": "Eetu Luostarinen",
+     "team": "FLA",
+     "opp": "STL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 0,
+     "toi": "18:16"
+    },
+    {
+     "name": "Niko Mikkola",
+     "team": "FLA",
+     "opp": "STL",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 2,
+     "toi": "20:47"
+    },
+    {
+     "name": "Aleksanteri Kaskimäki",
+     "team": "STL",
+     "opp": "FLA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 2,
+     "toi": "13:28"
+    }
+   ],
+   "note": "Suomalaiset: Lundell 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jacob Markström (FLA) 23 torjuntaa · Joel Hofer (STL) 24 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Brady Tkachuk",
+      "team": "FLA",
+      "pos": "L",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Sam Reinhart",
+      "team": "FLA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Jacob Markström",
+      "team": "FLA",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.958
+     }
+    ],
+    "venue": "Enterprise Center",
+    "finStats": [
+     {
+      "name": "Anton Lundell",
+      "team": "FLA",
+      "opp": "STL",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 1,
+      "sog": 1,
+      "toi": "15:40"
+     },
+     {
+      "name": "Eetu Luostarinen",
+      "team": "FLA",
+      "opp": "STL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 0,
+      "toi": "18:16"
+     },
+     {
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "opp": "STL",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 2,
+      "toi": "20:47"
+     },
+     {
+      "name": "Aleksanteri Kaskimäki",
+      "team": "STL",
+      "opp": "FLA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 2,
+      "toi": "13:28"
+     }
+    ]
    }
   }
  }
