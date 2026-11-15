@@ -404,6 +404,57 @@
      }
     ]
    }
+  },
+  "2026020316": {
+   "id": 2026020316,
+   "away": "DET",
+   "home": "TBL",
+   "awayScore": 2,
+   "homeScore": 0,
+   "start": "2026-11-15T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "13:12",
+     "team": "DET",
+     "who": "Lucas Raymond",
+     "tag": "",
+     "ast": [
+      "William Wallinder"
+     ],
+     "fin": false,
+     "clip": "6408396620112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "19:17",
+     "team": "DET",
+     "who": "Michael Brandsegg-Nygård",
+     "tag": "TM",
+     "ast": [
+      "Lucas Raymond",
+      "Andrew Copp"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 4
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Benchmark International Arena",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Benchmark International Arena",
+    "finStats": []
+   }
   }
  }
 }
