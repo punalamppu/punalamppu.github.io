@@ -447,7 +447,7 @@
    "venue": "Benchmark International Arena",
    "finStats": [],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/det-at-tbl-recap-6408400850112",
    "videoId": "",
    "details": {
     "goalies": "",
@@ -672,7 +672,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/phi-at-cbj-recap-6408401430112",
    "videoId": "",
    "details": {
     "goalies": "Joseph Woll (PHI) 28 torjuntaa · Jet Greaves (CBJ) 17 torjuntaa",
@@ -886,7 +886,7 @@
     }
    ],
    "note": "Suomalaiset: Lundell 1+0",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/fla-at-stl-recap-6408401130112",
    "videoId": "",
    "details": {
     "goalies": "Jacob Markström (FLA) 23 torjuntaa · Joel Hofer (STL) 24 torjuntaa",
@@ -971,6 +971,494 @@
       "pm": 0,
       "sog": 2,
       "toi": "13:28"
+     }
+    ]
+   }
+  },
+  "2026020313": {
+   "id": 2026020313,
+   "away": "MIN",
+   "home": "BOS",
+   "awayScore": 6,
+   "homeScore": 2,
+   "start": "2026-11-15T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "06:54",
+     "team": "MIN",
+     "who": "Ryan Hartman",
+     "tag": "",
+     "ast": [
+      "Blake Coleman"
+     ],
+     "fin": false,
+     "clip": "6408392717112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "00:53",
+     "team": "MIN",
+     "who": "Quinn Hughes",
+     "tag": "",
+     "ast": [
+      "Kirill Kaprizov",
+      "B. Faber"
+     ],
+     "fin": false,
+     "clip": "6408395235112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "02:00",
+     "team": "MIN",
+     "who": "Blake Coleman",
+     "tag": "",
+     "ast": [
+      "Jonas Brodin",
+      "Bobby Brink"
+     ],
+     "fin": false,
+     "clip": "6408397101112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "08:45",
+     "team": "BOS",
+     "who": "Fraser Minten",
+     "tag": "YV",
+     "ast": [
+      "David Pastrnak",
+      "Morgan Geekie"
+     ],
+     "fin": false,
+     "clip": "6408397795112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "10:00",
+     "team": "MIN",
+     "who": "Ryan Hartman",
+     "tag": "",
+     "ast": [
+      "Kirill Kaprizov",
+      "Quinn Hughes"
+     ],
+     "fin": false,
+     "clip": "6408397237112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "04:45",
+     "team": "BOS",
+     "who": "David Pastrnak",
+     "tag": "",
+     "ast": [
+      "Nikita Zadorov",
+      "Pavel Zacha"
+     ],
+     "fin": false,
+     "clip": "6408399066112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "06:15",
+     "team": "MIN",
+     "who": "Danila Yurov",
+     "tag": "",
+     "ast": [
+      "Jakov Trenin",
+      "Olli Määttä"
+     ],
+     "fin": false,
+     "clip": "6408400313112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "15:21",
+     "team": "MIN",
+     "who": "Danila Yurov",
+     "tag": "TM",
+     "ast": [
+      "Blake Coleman"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Jesper Wallstedt (MIN) 29 torjuntaa · Jeremy Swayman (BOS) 19 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Ryan Hartman",
+     "team": "MIN",
+     "pos": "R",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Quinn Hughes",
+     "team": "MIN",
+     "pos": "D",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Charlie McAvoy",
+     "team": "BOS",
+     "pos": "D",
+     "goals": 0,
+     "assists": 0,
+     "points": 0,
+     "svp": null
+    }
+   ],
+   "venue": "TD Garden",
+   "finStats": [
+    {
+     "name": "Olli Määttä",
+     "team": "MIN",
+     "opp": "BOS",
+     "pos": "P",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 0,
+     "toi": "12:01"
+    }
+   ],
+   "note": "Suomalaiset: Määttä 0+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jesper Wallstedt (MIN) 29 torjuntaa · Jeremy Swayman (BOS) 19 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Ryan Hartman",
+      "team": "MIN",
+      "pos": "R",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Quinn Hughes",
+      "team": "MIN",
+      "pos": "D",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Charlie McAvoy",
+      "team": "BOS",
+      "pos": "D",
+      "goals": 0,
+      "assists": 0,
+      "points": 0,
+      "svp": null
+     }
+    ],
+    "venue": "TD Garden",
+    "finStats": [
+     {
+      "name": "Olli Määttä",
+      "team": "MIN",
+      "opp": "BOS",
+      "pos": "P",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 0,
+      "toi": "12:01"
+     }
+    ]
+   }
+  },
+  "2026020318": {
+   "id": 2026020318,
+   "away": "NJD",
+   "home": "WSH",
+   "awayScore": 7,
+   "homeScore": 4,
+   "start": "2026-11-15T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "05:13",
+     "team": "WSH",
+     "who": "Pierre-Luc Dubois",
+     "tag": "",
+     "ast": [
+      "Jakob Chychrun",
+      "Aljaksei Protas"
+     ],
+     "fin": false,
+     "clip": "6408394192112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "08:15",
+     "team": "NJD",
+     "who": "Lenni Hämeenaho",
+     "tag": "",
+     "ast": [
+      "Cody Glass",
+      "Jesper Boqvist"
+     ],
+     "fin": true,
+     "clip": "6408394105112",
+     "gtd": 2
+    },
+    {
+     "p": "1",
+     "t": "14:34",
+     "team": "WSH",
+     "who": "Ryan Leonard",
+     "tag": "",
+     "ast": [
+      "Dylan Strome",
+      "Cole Hutson"
+     ],
+     "fin": false,
+     "clip": "6408394528112",
+     "gtd": 7
+    },
+    {
+     "p": "1",
+     "t": "17:08",
+     "team": "NJD",
+     "who": "Connor Brown",
+     "tag": "YV",
+     "ast": [
+      "Jesper Bratt",
+      "Luke Hughes"
+     ],
+     "fin": false,
+     "clip": "6408395403112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "18:40",
+     "team": "WSH",
+     "who": "Anthony Beauvillier",
+     "tag": "",
+     "ast": [
+      "Cole Hutson",
+      "Boone Jenner"
+     ],
+     "fin": false,
+     "clip": "6408396174112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "10:33",
+     "team": "NJD",
+     "who": "Jesper Boqvist",
+     "tag": "",
+     "ast": [
+      "Lenni Hämeenaho",
+      "Luke Hughes"
+     ],
+     "fin": false,
+     "clip": "6408396814112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "16:18",
+     "team": "NJD",
+     "who": "Timo Meier",
+     "tag": "YV",
+     "ast": [
+      "Arseny Gritsyuk",
+      "Luke Evangelista"
+     ],
+     "fin": false,
+     "clip": "6408396837112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "00:56",
+     "team": "NJD",
+     "who": "Nico Hischier",
+     "tag": "AV",
+     "ast": [
+      "Connor Brown",
+      "Dougie Hamilton"
+     ],
+     "fin": false,
+     "clip": "6408397479112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "01:22",
+     "team": "WSH",
+     "who": "Ilya Protas",
+     "tag": "YV",
+     "ast": [
+      "Cole Hutson",
+      "Ryan Leonard"
+     ],
+     "fin": false,
+     "clip": "6408399240112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "03:18",
+     "team": "NJD",
+     "who": "Evan Rodrigues",
+     "tag": "",
+     "ast": [
+      "Lenni Hämeenaho",
+      "Jesper Boqvist"
+     ],
+     "fin": false,
+     "clip": "6408397970112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "16:45",
+     "team": "NJD",
+     "who": "Evan Rodrigues",
+     "tag": "TM",
+     "ast": [
+      "Connor Brown",
+      "Luke Hughes"
+     ],
+     "fin": false,
+     "clip": "6408401925112",
+     "gtd": 6
+    }
+   ],
+   "goalies": "Connor Hellebuyck (NJD) 43 torjuntaa · Charlie Lindgren (WSH) 26 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Jesper Boqvist",
+     "team": "NJD",
+     "pos": "C",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Lenni Hämeenaho",
+     "team": "NJD",
+     "pos": "R",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Cole Hutson",
+     "team": "WSH",
+     "pos": "D",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Capital One Arena",
+   "finStats": [
+    {
+     "name": "Lenni Hämeenaho",
+     "team": "NJD",
+     "opp": "WSH",
+     "pos": "H",
+     "g": 1,
+     "a": 2,
+     "p": 3,
+     "pm": 1,
+     "sog": 2,
+     "toi": "08:06"
+    }
+   ],
+   "note": "Suomalaiset: Hämeenaho 1+2",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Connor Hellebuyck (NJD) 43 torjuntaa · Charlie Lindgren (WSH) 26 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Jesper Boqvist",
+      "team": "NJD",
+      "pos": "C",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Lenni Hämeenaho",
+      "team": "NJD",
+      "pos": "R",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Cole Hutson",
+      "team": "WSH",
+      "pos": "D",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Capital One Arena",
+    "finStats": [
+     {
+      "name": "Lenni Hämeenaho",
+      "team": "NJD",
+      "opp": "WSH",
+      "pos": "H",
+      "g": 1,
+      "a": 2,
+      "p": 3,
+      "pm": 1,
+      "sog": 2,
+      "toi": "08:06"
      }
     ]
    }
