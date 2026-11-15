@@ -2520,6 +2520,207 @@
      }
     ]
    }
+  },
+  "2026020325": {
+   "id": 2026020325,
+   "away": "CGY",
+   "home": "LAK",
+   "awayScore": 3,
+   "homeScore": 2,
+   "start": "2026-11-15T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "02:13",
+     "team": "CGY",
+     "who": "Morgan Frost",
+     "tag": "",
+     "ast": [
+      "Jahor Šaranhovitš"
+     ],
+     "fin": false,
+     "clip": "6408404665112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "06:21",
+     "team": "LAK",
+     "who": "Joel Armia",
+     "tag": "",
+     "ast": [
+      "Alex Laferriere",
+      "Joel Edmundson"
+     ],
+     "fin": true,
+     "clip": "6408406506112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "11:21",
+     "team": "CGY",
+     "who": "Matvei Gridin",
+     "tag": "",
+     "ast": [
+      "Martin Pospisil"
+     ],
+     "fin": false,
+     "clip": "6408406034112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "18:46",
+     "team": "CGY",
+     "who": "Jahor Šaranhovitš",
+     "tag": "TM",
+     "ast": [],
+     "fin": false,
+     "clip": "6408407512112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "19:04",
+     "team": "LAK",
+     "who": "Mats Zuccarello",
+     "tag": "",
+     "ast": [
+      "Alex Laferriere",
+      "Brandt Clarke"
+     ],
+     "fin": false,
+     "clip": "6408406041112",
+     "gtd": 1
+    }
+   ],
+   "goalies": "Dustin Wolf (CGY) 29 torjuntaa · Anton Forsberg (LAK) 21 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Dustin Wolf",
+     "team": "CGY",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.935
+    },
+    {
+     "star": 2,
+     "name": "Anton Forsberg",
+     "team": "LAK",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.913
+    },
+    {
+     "star": 3,
+     "name": "Jahor Šaranhovitš",
+     "team": "CGY",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Crypto.com Arena",
+   "finStats": [
+    {
+     "name": "Joel Armia",
+     "team": "LAK",
+     "opp": "CGY",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 1,
+     "sog": 3,
+     "toi": "11:09"
+    },
+    {
+     "name": "Erik Haula",
+     "team": "LAK",
+     "opp": "CGY",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "14:28"
+    }
+   ],
+   "note": "Suomalaiset: Armia 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Dustin Wolf (CGY) 29 torjuntaa · Anton Forsberg (LAK) 21 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Dustin Wolf",
+      "team": "CGY",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.935
+     },
+     {
+      "star": 2,
+      "name": "Anton Forsberg",
+      "team": "LAK",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.913
+     },
+     {
+      "star": 3,
+      "name": "Jahor Šaranhovitš",
+      "team": "CGY",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Crypto.com Arena",
+    "finStats": [
+     {
+      "name": "Joel Armia",
+      "team": "LAK",
+      "opp": "CGY",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 1,
+      "sog": 3,
+      "toi": "11:09"
+     },
+     {
+      "name": "Erik Haula",
+      "team": "LAK",
+      "opp": "CGY",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "14:28"
+     }
+    ]
+   }
   }
  }
 }
