@@ -498,7 +498,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/edm-at-tor-recap-6408400468112",
    "videoId": "",
    "details": {
     "goalies": "",
@@ -797,7 +797,7 @@
       "Logan Mailloux"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408400163112",
      "gtd": 4
     }
    ],
@@ -1091,7 +1091,7 @@
       "Blake Coleman"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408400644112",
      "gtd": 9
     }
    ],
@@ -1144,7 +1144,7 @@
     }
    ],
    "note": "Suomalaiset: Määttä 0+1",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/min-at-bos-recap-6408402035112",
    "videoId": "",
    "details": {
     "goalies": "Jesper Wallstedt (MIN) 29 torjuntaa · Jeremy Swayman (BOS) 19 torjuntaa",
@@ -1357,7 +1357,7 @@
       "Luke Hughes"
      ],
      "fin": false,
-     "clip": "6408401925112",
+     "clip": "6408401533112",
      "gtd": 6
     }
    ],
@@ -1410,7 +1410,7 @@
     }
    ],
    "note": "Suomalaiset: Hämeenaho 1+2",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/njd-at-wsh-recap-6408401442112",
    "videoId": "",
    "details": {
     "goalies": "Connor Hellebuyck (NJD) 43 torjuntaa · Charlie Lindgren (WSH) 26 torjuntaa",
@@ -1461,6 +1461,358 @@
       "toi": "08:06"
      }
     ]
+   }
+  },
+  "2026020315": {
+   "id": 2026020315,
+   "away": "COL",
+   "home": "MTL",
+   "awayScore": 4,
+   "homeScore": 1,
+   "start": "2026-11-15T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "03:57",
+     "team": "COL",
+     "who": "Fedor Svechkov",
+     "tag": "",
+     "ast": [
+      "Logan O'Connor",
+      "Brett Kulak"
+     ],
+     "fin": false,
+     "clip": "6408394436112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "15:55",
+     "team": "COL",
+     "who": "Brock Nelson",
+     "tag": "",
+     "ast": [
+      "Artturi Lehkonen",
+      "Sam Malinski"
+     ],
+     "fin": false,
+     "clip": "6408395508112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "10:25",
+     "team": "MTL",
+     "who": "Nick Suzuki",
+     "tag": "",
+     "ast": [
+      "Juraj Slafkovský",
+      "Cole Caufield"
+     ],
+     "fin": false,
+     "clip": "6408396251112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "04:14",
+     "team": "COL",
+     "who": "Artturi Lehkonen",
+     "tag": "YV",
+     "ast": [
+      "Nazem Kadri",
+      "T.J. Hughes"
+     ],
+     "fin": true,
+     "clip": "6408399170112",
+     "gtd": 15
+    },
+    {
+     "p": "3",
+     "t": "19:47",
+     "team": "COL",
+     "who": "Nicolas Roy",
+     "tag": "TM",
+     "ast": [],
+     "fin": false,
+     "clip": "6408400482112",
+     "gtd": 3
+    }
+   ],
+   "goalies": "Mackenzie Blackwood (COL) 25 torjuntaa · Jakub Dobes (MTL) 22 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Artturi Lehkonen",
+     "team": "COL",
+     "pos": "L",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Brock Nelson",
+     "team": "COL",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Juraj Slafkovský",
+     "team": "MTL",
+     "pos": "L",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Centre Bell",
+   "finStats": [
+    {
+     "name": "Artturi Lehkonen",
+     "team": "COL",
+     "opp": "MTL",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 0,
+     "sog": 2,
+     "toi": "18:54"
+    },
+    {
+     "name": "Oliver Kapanen",
+     "team": "MTL",
+     "opp": "COL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "10:03"
+    }
+   ],
+   "note": "Suomalaiset: Lehkonen 1+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Mackenzie Blackwood (COL) 25 torjuntaa · Jakub Dobes (MTL) 22 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Artturi Lehkonen",
+      "team": "COL",
+      "pos": "L",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Brock Nelson",
+      "team": "COL",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Juraj Slafkovský",
+      "team": "MTL",
+      "pos": "L",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Centre Bell",
+    "finStats": [
+     {
+      "name": "Artturi Lehkonen",
+      "team": "COL",
+      "opp": "MTL",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 0,
+      "sog": 2,
+      "toi": "18:54"
+     },
+     {
+      "name": "Oliver Kapanen",
+      "team": "MTL",
+      "opp": "COL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "10:03"
+     }
+    ]
+   }
+  },
+  "2026020317": {
+   "id": 2026020317,
+   "away": "OTT",
+   "home": "PIT",
+   "awayScore": 4,
+   "homeScore": 1,
+   "start": "2026-11-15T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "19:52",
+     "team": "PIT",
+     "who": "Tommy Novak",
+     "tag": "",
+     "ast": [
+      "Egor Tšinahov",
+      "Ben Kindel"
+     ],
+     "fin": false,
+     "clip": "6408395438112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "08:41",
+     "team": "OTT",
+     "who": "Michael Amadio",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408397723112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "16:12",
+     "team": "OTT",
+     "who": "Claude Giroux",
+     "tag": "",
+     "ast": [
+      "Michael Amadio"
+     ],
+     "fin": false,
+     "clip": "6408397772112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "14:18",
+     "team": "OTT",
+     "who": "Tim Stützle",
+     "tag": "",
+     "ast": [
+      "Dylan Cozens",
+      "Tyler Kleven"
+     ],
+     "fin": false,
+     "clip": "6408401838112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "19:28",
+     "team": "OTT",
+     "who": "Thomas Chabot",
+     "tag": "TM",
+     "ast": [],
+     "fin": false,
+     "clip": "6408400764112",
+     "gtd": 2
+    }
+   ],
+   "goalies": "Linus Ullmark (OTT) 16 torjuntaa · Sergei Murashov (PIT) 30 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Michael Amadio",
+     "team": "OTT",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Claude Giroux",
+     "team": "OTT",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Tommy Novak",
+     "team": "PIT",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "PPG Paints Arena",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Linus Ullmark (OTT) 16 torjuntaa · Sergei Murashov (PIT) 30 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Michael Amadio",
+      "team": "OTT",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Claude Giroux",
+      "team": "OTT",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Tommy Novak",
+      "team": "PIT",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "PPG Paints Arena",
+    "finStats": []
    }
   }
  }
