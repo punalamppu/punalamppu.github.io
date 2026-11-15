@@ -2050,6 +2050,228 @@
      }
     ]
    }
+  },
+  "2026020323": {
+   "id": 2026020323,
+   "away": "SJS",
+   "home": "UTA",
+   "awayScore": 6,
+   "homeScore": 5,
+   "start": "2026-11-15T02:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "02:15",
+     "team": "UTA",
+     "who": "Zac Jones",
+     "tag": "",
+     "ast": [
+      "Kailer Yamamoto",
+      "Clayton Keller"
+     ],
+     "fin": false,
+     "clip": "6408398379112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "08:53",
+     "team": "UTA",
+     "who": "Mihail Sergatšov",
+     "tag": "YV",
+     "ast": [
+      "Kailer Yamamoto",
+      "Clayton Keller"
+     ],
+     "fin": false,
+     "clip": "6408399265112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "11:35",
+     "team": "SJS",
+     "who": "Tyler Toffoli",
+     "tag": "YV",
+     "ast": [
+      "Dmitri Orlov",
+      "Will Smith"
+     ],
+     "fin": false,
+     "clip": "6408400448112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "12:40",
+     "team": "UTA",
+     "who": "Zac Jones",
+     "tag": "",
+     "ast": [
+      "Anders Lee"
+     ],
+     "fin": false,
+     "clip": "6408400349112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "03:07",
+     "team": "SJS",
+     "who": "Adam Gaudette",
+     "tag": "YV",
+     "ast": [
+      "Tyler Toffoli",
+      "Dmitri Orlov"
+     ],
+     "fin": false,
+     "clip": "6408401690112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "03:13",
+     "team": "SJS",
+     "who": "Zack Ostapchuk",
+     "tag": "",
+     "ast": [
+      "Darnell Nurse"
+     ],
+     "fin": false,
+     "clip": "6408402283112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "08:59",
+     "team": "UTA",
+     "who": "Jack McBain",
+     "tag": "",
+     "ast": [
+      "Michael Carcone"
+     ],
+     "fin": false,
+     "clip": "6408401792112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "05:23",
+     "team": "SJS",
+     "who": "Eric Pohlkamp",
+     "tag": "",
+     "ast": [
+      "Macklin Celebrini"
+     ],
+     "fin": false,
+     "clip": "6408404565112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "14:17",
+     "team": "SJS",
+     "who": "Dmitri Orlov",
+     "tag": "",
+     "ast": [
+      "Collin Graf",
+      "Mason Marchment"
+     ],
+     "fin": false,
+     "clip": "6408403634112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "16:22",
+     "team": "UTA",
+     "who": "Barrett Hayton",
+     "tag": "YV",
+     "ast": [
+      "Kailer Yamamoto",
+      "Mihail Sergatšov"
+     ],
+     "fin": false,
+     "clip": "6408404820112",
+     "gtd": 3
+    }
+   ],
+   "goalies": "Yaroslav Askarov (SJS) 27 torjuntaa · Karel Vejmelka (UTA) 16 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Mason Marchment",
+     "team": "SJS",
+     "pos": "L",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Dmitri Orlov",
+     "team": "SJS",
+     "pos": "D",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Zac Jones",
+     "team": "UTA",
+     "pos": "D",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Delta Center",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Yaroslav Askarov (SJS) 27 torjuntaa · Karel Vejmelka (UTA) 16 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Mason Marchment",
+      "team": "SJS",
+      "pos": "L",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Dmitri Orlov",
+      "team": "SJS",
+      "pos": "D",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Zac Jones",
+      "team": "UTA",
+      "pos": "D",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Delta Center",
+    "finStats": []
+   }
   }
  }
 }
