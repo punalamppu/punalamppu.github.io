@@ -99,7 +99,7 @@
       "Leon Draisaitl"
      ],
      "fin": false,
-     "clip": "6408433338112",
+     "clip": "6408431787112",
      "gtd": 12
     }
    ],
@@ -164,7 +164,7 @@
     }
    ],
    "note": "Suomalaiset: Ristolainen 0+1",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/edm-at-phi-recap-6408433643112",
    "videoId": "",
    "details": {
     "goalies": "Tristan Jarry (EDM) 34 torjuntaa · Dan Vladar (PHI) 16 torjuntaa",
@@ -225,6 +225,234 @@
       "pm": 0,
       "sog": 0,
       "toi": "16:27"
+     }
+    ]
+   }
+  },
+  "2026020328": {
+   "id": 2026020328,
+   "away": "CGY",
+   "home": "ANA",
+   "awayScore": 1,
+   "homeScore": 6,
+   "start": "2026-11-16T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "01:16",
+     "team": "ANA",
+     "who": "Jeff Malottt",
+     "tag": "",
+     "ast": [
+      "Beckett Sennecke",
+      "Drew Helleson"
+     ],
+     "fin": false,
+     "clip": "6408429810112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "13:24",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "",
+     "ast": [
+      "Tyson Hinds",
+      "Judd Caulfield"
+     ],
+     "fin": false,
+     "clip": "6408430321112",
+     "gtd": 18
+    },
+    {
+     "p": "3",
+     "t": "02:16",
+     "team": "ANA",
+     "who": "Tim Washe",
+     "tag": "",
+     "ast": [
+      "Alex Killorn",
+      "Tyson Hinds"
+     ],
+     "fin": false,
+     "clip": "6408430595112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "04:04",
+     "team": "CGY",
+     "who": "Mikael Backlund",
+     "tag": "",
+     "ast": [
+      "Matvei Gridin"
+     ],
+     "fin": false,
+     "clip": "6408431893112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "04:29",
+     "team": "ANA",
+     "who": "Beckett Sennecke",
+     "tag": "",
+     "ast": [
+      "I. Moore",
+      "Mikael Granlund"
+     ],
+     "fin": false,
+     "clip": "6408431285112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "16:14",
+     "team": "ANA",
+     "who": "Beckett Sennecke",
+     "tag": "TM",
+     "ast": [
+      "Alex Killorn"
+     ],
+     "fin": false,
+     "clip": "6408433255112",
+     "gtd": 12
+    },
+    {
+     "p": "3",
+     "t": "17:06",
+     "team": "ANA",
+     "who": "Mikael Granlund",
+     "tag": "",
+     "ast": [
+      "Pavel Mintjukov",
+      "Troy Terry"
+     ],
+     "fin": true,
+     "clip": "6408432097112",
+     "gtd": 7
+    }
+   ],
+   "goalies": "Devin Cooley (CGY) 28 torjuntaa · Ville Husso (ANA) 20 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Ville Husso",
+     "team": "ANA",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.952
+    },
+    {
+     "star": 2,
+     "name": "Jeff Malottt",
+     "team": "ANA",
+     "pos": "L",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "I. Moore",
+     "team": "ANA",
+     "pos": "D",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Honda Center",
+   "finStats": [
+    {
+     "name": "Mikael Granlund",
+     "team": "ANA",
+     "opp": "CGY",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 3,
+     "sog": 3,
+     "toi": "18:52"
+    },
+    {
+     "name": "Ville Husso",
+     "team": "ANA",
+     "opp": "CGY",
+     "pos": "MV",
+     "saves": 20,
+     "shots": 21,
+     "dec": "W",
+     "toi": "60:00"
+    }
+   ],
+   "note": "Suomalaiset: Granlund 1+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Devin Cooley (CGY) 28 torjuntaa · Ville Husso (ANA) 20 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Ville Husso",
+      "team": "ANA",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.952
+     },
+     {
+      "star": 2,
+      "name": "Jeff Malottt",
+      "team": "ANA",
+      "pos": "L",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "I. Moore",
+      "team": "ANA",
+      "pos": "D",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Honda Center",
+    "finStats": [
+     {
+      "name": "Mikael Granlund",
+      "team": "ANA",
+      "opp": "CGY",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 3,
+      "sog": 3,
+      "toi": "18:52"
+     },
+     {
+      "name": "Ville Husso",
+      "team": "ANA",
+      "opp": "CGY",
+      "pos": "MV",
+      "saves": 20,
+      "shots": 21,
+      "dec": "W",
+      "toi": "60:00"
      }
     ]
    }
