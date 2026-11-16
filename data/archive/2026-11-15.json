@@ -17,8 +17,8 @@
      "who": "Leon Draisaitl",
      "tag": "YV",
      "ast": [
-      "C. McDavid",
-      "E. Bouchard"
+      "Connor McDavid",
+      "Evan Bouchard"
      ],
      "fin": false,
      "clip": "6408428819112",
@@ -42,8 +42,8 @@
      "who": "Zach Hyman",
      "tag": "",
      "ast": [
-      "C. McDavid",
-      "E. Bouchard"
+      "Connor McDavid",
+      "Evan Bouchard"
      ],
      "fin": false,
      "clip": "6408429724112",
@@ -56,8 +56,8 @@
      "who": "Cole Knuble",
      "tag": "",
      "ast": [
-      "C. York",
-      "O. Tippett"
+      "Cam York",
+      "Owen Tippett"
      ],
      "fin": false,
      "clip": "6408431228112",
@@ -70,8 +70,8 @@
      "who": "Noah Cates",
      "tag": "",
      "ast": [
-      "M. Michkov",
-      "R. Ristolainen"
+      "Matvei Mitškov",
+      "Rasmus Ristolainen"
      ],
      "fin": false,
      "clip": "6408430834112",
@@ -95,19 +95,19 @@
      "who": "Connor McDavid",
      "tag": "TM",
      "ast": [
-      "R. Shea",
-      "L. Draisaitl"
+      "Ryan Shea",
+      "Leon Draisaitl"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408433338112",
      "gtd": 12
     }
    ],
-   "goalies": "T. Jarry (EDM) 34 torjuntaa · D. Vladar (PHI) 16 torjuntaa",
+   "goalies": "Tristan Jarry (EDM) 34 torjuntaa · Dan Vladar (PHI) 16 torjuntaa",
    "threeStars": [
     {
      "star": 1,
-     "name": "L. Draisaitl",
+     "name": "Leon Draisaitl",
      "team": "EDM",
      "pos": "C",
      "goals": 2,
@@ -117,7 +117,7 @@
     },
     {
      "star": 2,
-     "name": "T. Jarry",
+     "name": "Tristan Jarry",
      "team": "EDM",
      "pos": "G",
      "goals": null,
@@ -127,7 +127,7 @@
     },
     {
      "star": 3,
-     "name": "C. McDavid",
+     "name": "Connor McDavid",
      "team": "EDM",
      "pos": "C",
      "goals": 1,
@@ -139,7 +139,7 @@
    "venue": "Xfinity Mobile Arena",
    "finStats": [
     {
-     "name": "K. Kapanen",
+     "name": "Kasperi Kapanen",
      "team": "EDM",
      "opp": "PHI",
      "pos": "H",
@@ -151,7 +151,7 @@
      "toi": "18:15"
     },
     {
-     "name": "R. Ristolainen",
+     "name": "Rasmus Ristolainen",
      "team": "PHI",
      "opp": "EDM",
      "pos": "P",
@@ -163,15 +163,15 @@
      "toi": "16:27"
     }
    ],
-   "note": "",
+   "note": "Suomalaiset: Ristolainen 0+1",
    "recapUrl": "",
    "videoId": "",
    "details": {
-    "goalies": "T. Jarry (EDM) 34 torjuntaa · D. Vladar (PHI) 16 torjuntaa",
+    "goalies": "Tristan Jarry (EDM) 34 torjuntaa · Dan Vladar (PHI) 16 torjuntaa",
     "threeStars": [
      {
       "star": 1,
-      "name": "L. Draisaitl",
+      "name": "Leon Draisaitl",
       "team": "EDM",
       "pos": "C",
       "goals": 2,
@@ -181,7 +181,7 @@
      },
      {
       "star": 2,
-      "name": "T. Jarry",
+      "name": "Tristan Jarry",
       "team": "EDM",
       "pos": "G",
       "goals": null,
@@ -191,7 +191,7 @@
      },
      {
       "star": 3,
-      "name": "C. McDavid",
+      "name": "Connor McDavid",
       "team": "EDM",
       "pos": "C",
       "goals": 1,
@@ -203,7 +203,7 @@
     "venue": "Xfinity Mobile Arena",
     "finStats": [
      {
-      "name": "K. Kapanen",
+      "name": "Kasperi Kapanen",
       "team": "EDM",
       "opp": "PHI",
       "pos": "H",
@@ -215,7 +215,7 @@
       "toi": "18:15"
      },
      {
-      "name": "R. Ristolainen",
+      "name": "Rasmus Ristolainen",
       "team": "PHI",
       "opp": "EDM",
       "pos": "P",
