@@ -35,7 +35,7 @@
    "subSeason": {
     "assists": 3,
     "gameWinningGoals": 0,
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "goals": 2,
     "otGoals": 0,
     "pim": 20,
@@ -51,7 +51,7 @@
    "career": {
     "assists": 104,
     "gameWinningGoals": 11,
-    "gamesPlayed": 468,
+    "gamesPlayed": 469,
     "goals": 63,
     "otGoals": 1,
     "pim": 158,
@@ -69,10 +69,10 @@
  "careerTotals": {
   "regularSeason": {
    "assists": 104,
-   "avgToi": "15:09",
-   "faceoffWinningPctg": 0.43920000000000003,
+   "avgToi": "15:10",
+   "faceoffWinningPctg": 0.439,
    "gameWinningGoals": 11,
-   "gamesPlayed": 468,
+   "gamesPlayed": 469,
    "goals": 63,
    "otGoals": 1,
    "pim": 158,
@@ -105,6 +105,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-15",
+   "gameId": 2026020327,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "DAL",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 20,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "FLA",
+   "toi": "16:02"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-14",
@@ -176,24 +194,6 @@
    "shots": 0,
    "teamAbbrev": "FLA",
    "toi": "11:21"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-07",
-   "gameId": 2026020265,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "WSH",
-   "pim": 0,
-   "plusMinus": 0,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 20,
-   "shorthandedGoals": 0,
-   "shots": 1,
-   "teamAbbrev": "FLA",
-   "toi": "16:38"
   }
  ],
  "isActive": true,
@@ -564,10 +564,10 @@
   {
    "assists": 3,
    "avgToi": "16:03",
-   "faceoffWinningPctg": 0.363636,
+   "faceoffWinningPctg": 0.347826,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 21,
+   "gamesPlayed": 22,
    "goals": 2,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
@@ -595,7 +595,7 @@
    }
   }
  ],
- "_fetched": "2026-11-16",
+ "_fetched": "2026-11-17",
  "gameLog": [
   [
    "2026-09-29",

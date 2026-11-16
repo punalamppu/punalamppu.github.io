@@ -30,14 +30,14 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "assists": 1,
+    "assists": 2,
     "gameWinningGoals": 0,
-    "gamesPlayed": 6,
+    "gamesPlayed": 7,
     "goals": 1,
     "otGoals": 0,
     "pim": 0,
     "plusMinus": 1,
-    "points": 2,
+    "points": 3,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
     "shootingPctg": 0.125,
@@ -46,14 +46,14 @@
     "shots": 8
    },
    "career": {
-    "assists": 262,
+    "assists": 263,
     "gameWinningGoals": 8,
-    "gamesPlayed": 826,
+    "gamesPlayed": 827,
     "goals": 58,
     "otGoals": 5,
     "pim": 399,
     "plusMinus": -168,
-    "points": 320,
+    "points": 321,
     "powerPlayGoals": 15,
     "powerPlayPoints": 121,
     "shootingPctg": 0.0381,
@@ -65,16 +65,16 @@
  },
  "careerTotals": {
   "regularSeason": {
-   "assists": 262,
+   "assists": 263,
    "avgToi": "22:33",
    "faceoffWinningPctg": 0.5,
    "gameWinningGoals": 8,
-   "gamesPlayed": 826,
+   "gamesPlayed": 827,
    "goals": 58,
    "otGoals": 5,
    "pim": 399,
    "plusMinus": -168,
-   "points": 320,
+   "points": 321,
    "powerPlayGoals": 15,
    "powerPlayPoints": 121,
    "shootingPctg": 0.0381,
@@ -101,6 +101,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 1,
+   "gameDate": "2026-11-15",
+   "gameId": 2026020326,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "EDM",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 24,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "PHI",
+   "toi": "16:27"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-14",
@@ -172,24 +190,6 @@
    "shots": 0,
    "teamAbbrev": "PHI",
    "toi": "14:26"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-10-01",
-   "gameId": 2026020009,
-   "gameTypeId": 2,
-   "goals": 1,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "NJD",
-   "pim": 0,
-   "plusMinus": 1,
-   "points": 1,
-   "powerPlayGoals": 0,
-   "shifts": 33,
-   "shorthandedGoals": 0,
-   "shots": 4,
-   "teamAbbrev": "PHI",
-   "toi": "22:44"
   }
  ],
  "isActive": true,
@@ -657,18 +657,18 @@
    }
   },
   {
-   "assists": 1,
-   "avgToi": "18:07",
+   "assists": 2,
+   "avgToi": "17:52",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 6,
+   "gamesPlayed": 7,
    "goals": 1,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 0,
    "plusMinus": 1,
-   "points": 2,
+   "points": 3,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
    "season": 20262027,
@@ -690,7 +690,7 @@
    }
   }
  ],
- "_fetched": "2026-11-16",
+ "_fetched": "2026-11-17",
  "gameLog": [
   [
    "2026-09-30",
