@@ -895,7 +895,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "https://www.nhl.com/video/nsh-at-sjs-recap-6408434402112",
+   "recapUrl": "https://www.nhl.com/video/nsh-at-sjs-recap-6408434516112",
    "videoId": "",
    "details": {
     "goalies": "Juuse Saros (NSH) 20 torjuntaa · Alex Nedeljkovic (SJS) 32 torjuntaa",
@@ -942,6 +942,238 @@
       "shots": 24,
       "dec": "L",
       "toi": "57:00"
+     }
+    ]
+   }
+  },
+  "2026020329": {
+   "id": 2026020329,
+   "away": "VAN",
+   "home": "VGK",
+   "awayScore": 6,
+   "homeScore": 3,
+   "start": "2026-11-16T02:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "05:20",
+     "team": "VAN",
+     "who": "Elias Pettersson",
+     "tag": "YV",
+     "ast": [
+      "Jonathan Lekkerimäki",
+      "Brock Boeser"
+     ],
+     "fin": false,
+     "clip": "6408431248112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "09:49",
+     "team": "VAN",
+     "who": "Linus Karlsson",
+     "tag": "",
+     "ast": [
+      "Liam Öhgren",
+      "Tom Willander"
+     ],
+     "fin": false,
+     "clip": "6408430359112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "13:30",
+     "team": "VGK",
+     "who": "Victor Olofsson",
+     "tag": "YV",
+     "ast": [
+      "Tomas Hertl",
+      "Mitchell Marner"
+     ],
+     "fin": false,
+     "clip": "6408430287112",
+     "gtd": 7
+    },
+    {
+     "p": "1",
+     "t": "17:36",
+     "team": "VAN",
+     "who": "Filip Chytil",
+     "tag": "",
+     "ast": [
+      "Brock Boeser",
+      "Filip Hronek"
+     ],
+     "fin": false,
+     "clip": "6408430885112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "02:14",
+     "team": "VAN",
+     "who": "Filip Chytil",
+     "tag": "AV",
+     "ast": [
+      "Jamie Oleksiak"
+     ],
+     "fin": false,
+     "clip": "6408432198112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "11:57",
+     "team": "VGK",
+     "who": "Braeden Bowman",
+     "tag": "",
+     "ast": [
+      "William Karlsson",
+      "Dylan Coghlan"
+     ],
+     "fin": false,
+     "clip": "6408433176112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "01:24",
+     "team": "VGK",
+     "who": "Mark Stone",
+     "tag": "YV",
+     "ast": [
+      "Jack Eichel",
+      "Mitchell Marner"
+     ],
+     "fin": false,
+     "clip": "6408434680112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "01:48",
+     "team": "VAN",
+     "who": "Drew O'Connor",
+     "tag": "",
+     "ast": [
+      "Brendan Gallagher",
+      "Max Sasson"
+     ],
+     "fin": false,
+     "clip": "6408434097112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "17:49",
+     "team": "VAN",
+     "who": "Linus Karlsson",
+     "tag": "TM",
+     "ast": [
+      "Elias Pettersson"
+     ],
+     "fin": false,
+     "clip": "6408434712112",
+     "gtd": 6
+    }
+   ],
+   "goalies": "Leevi Meriläinen (VAN) 34 torjuntaa · Carter Hart (VGK) 21 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Filip Chytil",
+     "team": "VAN",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Brock Boeser",
+     "team": "VAN",
+     "pos": "R",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Linus Karlsson",
+     "team": "VAN",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "T-Mobile Arena",
+   "finStats": [
+    {
+     "name": "Leevi Meriläinen",
+     "team": "VAN",
+     "opp": "VGK",
+     "pos": "MV",
+     "saves": 34,
+     "shots": 37,
+     "dec": "W",
+     "toi": "59:52"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Leevi Meriläinen (VAN) 34 torjuntaa · Carter Hart (VGK) 21 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Filip Chytil",
+      "team": "VAN",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Brock Boeser",
+      "team": "VAN",
+      "pos": "R",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Linus Karlsson",
+      "team": "VAN",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "T-Mobile Arena",
+    "finStats": [
+     {
+      "name": "Leevi Meriläinen",
+      "team": "VAN",
+      "opp": "VGK",
+      "pos": "MV",
+      "saves": 34,
+      "shots": 37,
+      "dec": "W",
+      "toi": "59:52"
      }
     ]
    }
