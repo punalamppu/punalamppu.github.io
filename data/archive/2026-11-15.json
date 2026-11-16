@@ -287,7 +287,8 @@
      "who": "Mikael Backlund",
      "tag": "",
      "ast": [
-      "Matvei Gridin"
+      "Matvei Gridin",
+      "Ryan Strome"
      ],
      "fin": false,
      "clip": "6408431893112",
@@ -394,7 +395,7 @@
     }
    ],
    "note": "Suomalaiset: Granlund 1+1",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/cgy-at-ana-recap-6408432514112",
    "videoId": "",
    "details": {
     "goalies": "Devin Cooley (CGY) 28 torjuntaa · Ville Husso (ANA) 20 torjuntaa",
@@ -453,6 +454,303 @@
       "shots": 21,
       "dec": "W",
       "toi": "60:00"
+     }
+    ]
+   }
+  },
+  "2026020327": {
+   "id": 2026020327,
+   "away": "FLA",
+   "home": "DAL",
+   "awayScore": 1,
+   "homeScore": 2,
+   "start": "2026-11-16T01:00:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "2",
+     "t": "04:27",
+     "team": "FLA",
+     "who": "Matthew Tkachuk",
+     "tag": "YV",
+     "ast": [
+      "Sam Reinhart",
+      "Seth Jones"
+     ],
+     "fin": false,
+     "clip": "6408429681112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "09:19",
+     "team": "DAL",
+     "who": "Wyatt Johnston",
+     "tag": "",
+     "ast": [
+      "Thomas Harley",
+      "Jason Robertson"
+     ],
+     "fin": false,
+     "clip": "6408431622112",
+     "gtd": 5
+    },
+    {
+     "p": "JA",
+     "t": "02:56",
+     "team": "DAL",
+     "who": "Jason Robertson",
+     "tag": "",
+     "ast": [
+      "Roope Hintz"
+     ],
+     "fin": false,
+     "clip": "6408434453112",
+     "gtd": 10
+    }
+   ],
+   "goalies": "Akira Schmid (FLA) 20 torjuntaa · Casey DeSmith (DAL) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Casey DeSmith",
+     "team": "DAL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.962
+    },
+    {
+     "star": 2,
+     "name": "Akira Schmid",
+     "team": "FLA",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.909
+    },
+    {
+     "star": 3,
+     "name": "Wyatt Johnston",
+     "team": "DAL",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "American Airlines Center",
+   "finStats": [
+    {
+     "name": "Anton Lundell",
+     "team": "FLA",
+     "opp": "DAL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 2,
+     "toi": "17:31"
+    },
+    {
+     "name": "Eetu Luostarinen",
+     "team": "FLA",
+     "opp": "DAL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "16:02"
+    },
+    {
+     "name": "Niko Mikkola",
+     "team": "FLA",
+     "opp": "DAL",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 0,
+     "toi": "19:45"
+    },
+    {
+     "name": "Roope Hintz",
+     "team": "DAL",
+     "opp": "FLA",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 0,
+     "toi": "15:47"
+    },
+    {
+     "name": "Arttu Hyry",
+     "team": "DAL",
+     "opp": "FLA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 2,
+     "toi": "13:30"
+    },
+    {
+     "name": "Mikko Rantanen",
+     "team": "DAL",
+     "opp": "FLA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 3,
+     "toi": "20:50"
+    },
+    {
+     "name": "Esa Lindell",
+     "team": "DAL",
+     "opp": "FLA",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "28:55"
+    }
+   ],
+   "note": "Suomalaiset: Hintz 0+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Akira Schmid (FLA) 20 torjuntaa · Casey DeSmith (DAL) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Casey DeSmith",
+      "team": "DAL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.962
+     },
+     {
+      "star": 2,
+      "name": "Akira Schmid",
+      "team": "FLA",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.909
+     },
+     {
+      "star": 3,
+      "name": "Wyatt Johnston",
+      "team": "DAL",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "American Airlines Center",
+    "finStats": [
+     {
+      "name": "Anton Lundell",
+      "team": "FLA",
+      "opp": "DAL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 2,
+      "toi": "17:31"
+     },
+     {
+      "name": "Eetu Luostarinen",
+      "team": "FLA",
+      "opp": "DAL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "16:02"
+     },
+     {
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "opp": "DAL",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 0,
+      "toi": "19:45"
+     },
+     {
+      "name": "Roope Hintz",
+      "team": "DAL",
+      "opp": "FLA",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 0,
+      "toi": "15:47"
+     },
+     {
+      "name": "Arttu Hyry",
+      "team": "DAL",
+      "opp": "FLA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 2,
+      "toi": "13:30"
+     },
+     {
+      "name": "Mikko Rantanen",
+      "team": "DAL",
+      "opp": "FLA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 3,
+      "toi": "20:50"
+     },
+     {
+      "name": "Esa Lindell",
+      "team": "DAL",
+      "opp": "FLA",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "28:55"
      }
     ]
    }
