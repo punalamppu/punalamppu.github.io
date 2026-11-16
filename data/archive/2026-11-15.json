@@ -1,0 +1,233 @@
+{
+ "gameDate": "2026-11-15",
+ "games": {
+  "2026020326": {
+   "id": 2026020326,
+   "away": "EDM",
+   "home": "PHI",
+   "awayScore": 5,
+   "homeScore": 2,
+   "start": "2026-11-16T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "08:08",
+     "team": "EDM",
+     "who": "Leon Draisaitl",
+     "tag": "YV",
+     "ast": [
+      "C. McDavid",
+      "E. Bouchard"
+     ],
+     "fin": false,
+     "clip": "6408428819112",
+     "gtd": 19
+    },
+    {
+     "p": "1",
+     "t": "13:22",
+     "team": "EDM",
+     "who": "Vasili Podkolzin",
+     "tag": "YV",
+     "ast": [],
+     "fin": false,
+     "clip": "6408429915112",
+     "gtd": 10
+    },
+    {
+     "p": "1",
+     "t": "18:32",
+     "team": "EDM",
+     "who": "Zach Hyman",
+     "tag": "",
+     "ast": [
+      "C. McDavid",
+      "E. Bouchard"
+     ],
+     "fin": false,
+     "clip": "6408429724112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "12:13",
+     "team": "PHI",
+     "who": "Cole Knuble",
+     "tag": "",
+     "ast": [
+      "C. York",
+      "O. Tippett"
+     ],
+     "fin": false,
+     "clip": "6408431228112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "17:12",
+     "team": "PHI",
+     "who": "Noah Cates",
+     "tag": "",
+     "ast": [
+      "M. Michkov",
+      "R. Ristolainen"
+     ],
+     "fin": false,
+     "clip": "6408430834112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "01:07",
+     "team": "EDM",
+     "who": "Leon Draisaitl",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408431940112",
+     "gtd": 20
+    },
+    {
+     "p": "3",
+     "t": "18:52",
+     "team": "EDM",
+     "who": "Connor McDavid",
+     "tag": "TM",
+     "ast": [
+      "R. Shea",
+      "L. Draisaitl"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 12
+    }
+   ],
+   "goalies": "T. Jarry (EDM) 34 torjuntaa · D. Vladar (PHI) 16 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "L. Draisaitl",
+     "team": "EDM",
+     "pos": "C",
+     "goals": 2,
+     "assists": 1,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "T. Jarry",
+     "team": "EDM",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.944
+    },
+    {
+     "star": 3,
+     "name": "C. McDavid",
+     "team": "EDM",
+     "pos": "C",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Xfinity Mobile Arena",
+   "finStats": [
+    {
+     "name": "K. Kapanen",
+     "team": "EDM",
+     "opp": "PHI",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 0,
+     "toi": "18:15"
+    },
+    {
+     "name": "R. Ristolainen",
+     "team": "PHI",
+     "opp": "EDM",
+     "pos": "P",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 0,
+     "toi": "16:27"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "T. Jarry (EDM) 34 torjuntaa · D. Vladar (PHI) 16 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "L. Draisaitl",
+      "team": "EDM",
+      "pos": "C",
+      "goals": 2,
+      "assists": 1,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "T. Jarry",
+      "team": "EDM",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.944
+     },
+     {
+      "star": 3,
+      "name": "C. McDavid",
+      "team": "EDM",
+      "pos": "C",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Xfinity Mobile Arena",
+    "finStats": [
+     {
+      "name": "K. Kapanen",
+      "team": "EDM",
+      "opp": "PHI",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 0,
+      "toi": "18:15"
+     },
+     {
+      "name": "R. Ristolainen",
+      "team": "PHI",
+      "opp": "EDM",
+      "pos": "P",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 0,
+      "toi": "16:27"
+     }
+    ]
+   }
+  }
+ }
+}
