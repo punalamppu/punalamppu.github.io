@@ -210,6 +210,99 @@
      }
     ]
    }
+  },
+  "2026020332": {
+   "id": 2026020332,
+   "away": "VAN",
+   "home": "UTA",
+   "awayScore": 3,
+   "homeScore": 2,
+   "start": "2026-11-17T02:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "15:05",
+     "team": "VAN",
+     "who": "Jake DeBrusk",
+     "tag": "YV",
+     "ast": [
+      "Brock Boeser",
+      "Jonathan Lekkerimäki"
+     ],
+     "fin": false,
+     "clip": "6408479355112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "02:50",
+     "team": "UTA",
+     "who": "Vincent Trocheck",
+     "tag": "YV",
+     "ast": [
+      "Logan Cooley",
+      "Clayton Keller"
+     ],
+     "fin": false,
+     "clip": "6408482326112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "04:40",
+     "team": "VAN",
+     "who": "Filip Chytil",
+     "tag": "",
+     "ast": [
+      "Brock Boeser"
+     ],
+     "fin": false,
+     "clip": "6408481154112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "11:39",
+     "team": "UTA",
+     "who": "Barrett Hayton",
+     "tag": "",
+     "ast": [
+      "Kailer Yamamoto",
+      "Anders Lee"
+     ],
+     "fin": false,
+     "clip": "6408481284112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "15:37",
+     "team": "VAN",
+     "who": "Brock Boeser",
+     "tag": "YV",
+     "ast": [
+      "Jake DeBrusk",
+      "Jonathan Lekkerimäki"
+     ],
+     "fin": false,
+     "clip": "6408482646112",
+     "gtd": 8
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Delta Center",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Delta Center",
+    "finStats": []
+   }
   }
  }
 }
