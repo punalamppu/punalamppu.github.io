@@ -1,0 +1,215 @@
+{
+ "gameDate": "2026-11-16",
+ "games": {
+  "2026020331": {
+   "id": 2026020331,
+   "away": "MTL",
+   "home": "NYR",
+   "awayScore": 1,
+   "homeScore": 3,
+   "start": "2026-11-17T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "07:59",
+     "team": "MTL",
+     "who": "Phillip Danault",
+     "tag": "",
+     "ast": [
+      "Lane Hutson",
+      "Noah Dobson"
+     ],
+     "fin": false,
+     "clip": "6408476888112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "09:47",
+     "team": "NYR",
+     "who": "Will Cuylle",
+     "tag": "",
+     "ast": [
+      "Marcus Pettersson",
+      "J.T. Miller"
+     ],
+     "fin": false,
+     "clip": "6408477291112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "19:03",
+     "team": "NYR",
+     "who": "Will Cuylle",
+     "tag": "AV",
+     "ast": [
+      "Adam Fox"
+     ],
+     "fin": false,
+     "clip": "6408476815112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "06:44",
+     "team": "NYR",
+     "who": "Scott Morrow",
+     "tag": "",
+     "ast": [
+      "Noah Laba"
+     ],
+     "fin": false,
+     "clip": "6408476057112",
+     "gtd": 1
+    }
+   ],
+   "goalies": "Jacob Fowler (MTL) 23 torjuntaa · Joonas Korpisalo (NYR) 24 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Will Cuylle",
+     "team": "NYR",
+     "pos": "L",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Scott Morrow",
+     "team": "NYR",
+     "pos": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Joonas Korpisalo",
+     "team": "NYR",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.96
+    }
+   ],
+   "venue": "Madison Square Garden",
+   "finStats": [
+    {
+     "name": "Oliver Kapanen",
+     "team": "MTL",
+     "opp": "NYR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 1,
+     "toi": "10:51"
+    },
+    {
+     "name": "Eeli Tolvanen",
+     "team": "NYR",
+     "opp": "MTL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 0,
+     "toi": "13:24"
+    },
+    {
+     "name": "Joonas Korpisalo",
+     "team": "NYR",
+     "opp": "MTL",
+     "pos": "MV",
+     "saves": 24,
+     "shots": 25,
+     "dec": "W",
+     "toi": "60:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jacob Fowler (MTL) 23 torjuntaa · Joonas Korpisalo (NYR) 24 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Will Cuylle",
+      "team": "NYR",
+      "pos": "L",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Scott Morrow",
+      "team": "NYR",
+      "pos": "D",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Joonas Korpisalo",
+      "team": "NYR",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.96
+     }
+    ],
+    "venue": "Madison Square Garden",
+    "finStats": [
+     {
+      "name": "Oliver Kapanen",
+      "team": "MTL",
+      "opp": "NYR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 1,
+      "toi": "10:51"
+     },
+     {
+      "name": "Eeli Tolvanen",
+      "team": "NYR",
+      "opp": "MTL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 0,
+      "toi": "13:24"
+     },
+     {
+      "name": "Joonas Korpisalo",
+      "team": "NYR",
+      "opp": "MTL",
+      "pos": "MV",
+      "saves": 24,
+      "shots": 25,
+      "dec": "W",
+      "toi": "60:00"
+     }
+    ]
+   }
+  }
+ }
+}
