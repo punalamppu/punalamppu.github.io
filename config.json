@@ -271,5 +271,6 @@
       "NHLsuomi.com",
       "https://www.nhlsuomi.com/nhl-viaplay-mtv-tv/"
     ]
-  ]
+  ],
+  "googlePreferred": false
 }

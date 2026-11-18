@@ -1235,13 +1235,23 @@ def share_bar(path, title, where="top"):
             f'<button type="button" class="sh sh-copy" data-copy="{base}{path}" aria-label="Kopioi linkki" title="Kopioi linkki">{ic("link")}<span>Kopioi linkki</span></button></div>')
 
 
+def follow_list():
+    """Google-painike näytetään vasta, kun config.json:ssa googlePreferred on true (Google listaa sivuston suosikkilähteisiin)."""
+    return [x for x in FOLLOW if x[0] != "google" or CFG.get("googlePreferred")]
+
+
 def follow_box():
-    g = FOLLOW[0]
-    rest = "".join(f'<a class="fol fol-{k}" href="{h}"{_ext(h)}>{ic(k)}<span>{n}</span></a>' for k, n, h in FOLLOW[1:])
+    fl = follow_list()
+    g = fl[0] if fl and fl[0][0] == "google" else None
+    rest = "".join(f'<a class="fol fol-{k}" href="{h}"{_ext(h)}>{ic(k)}<span>{n}</span></a>' for k, n, h in fl if k != "google")
+    if g:
+        return ('<section class="box followbox"><div class="fb-txt"><b>Älä missaa yön suomalaisia</b>'
+                '<span>Valitse Punalamppu suosikkilähteeksi, niin Google näyttää juttujamme hakutuloksissa ja Discoverissa useammin.</span></div>'
+                f'<a class="gpref" href="{g[2]}" target="_blank" rel="noopener">{ic("google")}<span>Lisää suosikkilähteeksi Googlessa</span></a>'
+                f'<div class="fol-row"><span class="mute">Seuraa myös:</span>{rest}</div></section>')
     return ('<section class="box followbox"><div class="fb-txt"><b>Älä missaa yön suomalaisia</b>'
-            '<span>Valitse Punalamppu suosikkilähteeksi, niin Google näyttää juttujamme hakutuloksissa ja Discoverissa useammin.</span></div>'
-            f'<a class="gpref" href="{g[2]}" target="_blank" rel="noopener">{ic("google")}<span>Lisää suosikkilähteeksi Googlessa</span></a>'
-            f'<div class="fol-row"><span class="mute">Seuraa myös:</span>{rest}</div></section>')
+            '<span>Yön suomalaiskooste joka aamu heti, kun viimeinen ottelu on pelattu.</span></div>'
+            f'<div class="fol-row">{rest}</div></section>')
 
 
 SHARE_JS = ("<script>(function(){var d=document;d.querySelectorAll('[data-share]').forEach(function(b){if(navigator.share){b.hidden=false;"
@@ -1307,7 +1317,7 @@ def footer():
             '</div>'
             + '<div class="ffollow"><span>Seuraa Punalamppua</span>' + "".join(
                 f'<a class="fol fol-{k}" href="{h}"{_ext(h)} aria-label="{"Lisää suosikkilähteeksi Googlessa" if k == "google" else n}">{ic(k)}<span>{"Suosikkilähteeksi Googlessa" if k == "google" else n}</span></a>'
-                for k, n, h in FOLLOW) + '</div>'
+                for k, n, h in follow_list()) + '</div>'
             f'<p class="legal">{esc(CFG["siteName"])} on itsenäinen harrastussivusto, jolla ei ole yhteyttä National Hockey Leagueen (NHL) '
             'tai sen joukkueisiin. NHL ja joukkueiden nimet ovat omistajiensa tavaramerkkejä. Tulos- ja tilastotiedot: NHL.com. '
             'Edistyneet tilastot: MoneyPuck.com. Maalikoosteet: NHL.com. '
