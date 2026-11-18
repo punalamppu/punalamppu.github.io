@@ -1690,6 +1690,350 @@
      }
     ]
    }
+  },
+  "2026020339": {
+   "id": 2026020339,
+   "away": "ANA",
+   "home": "STL",
+   "awayScore": 6,
+   "homeScore": 8,
+   "start": "2026-11-18T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "02:13",
+     "team": "STL",
+     "who": "Jonatan Berggren",
+     "tag": "",
+     "ast": [
+      "Justin Barron"
+     ],
+     "fin": false,
+     "clip": "6408522205112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "11:38",
+     "team": "ANA",
+     "who": "Alex Killorn",
+     "tag": "",
+     "ast": [
+      "Tim Washe"
+     ],
+     "fin": false,
+     "clip": "6408524116112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "19:07",
+     "team": "STL",
+     "who": "Connor McMichael",
+     "tag": "",
+     "ast": [
+      "Logan Mailloux",
+      "Dylan Holloway"
+     ],
+     "fin": false,
+     "clip": "6408523718112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "01:02",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "",
+     "ast": [
+      "Mikael Granlund",
+      "Judd Caulfield"
+     ],
+     "fin": false,
+     "clip": "6408525520112",
+     "gtd": 19
+    },
+    {
+     "p": "2",
+     "t": "11:41",
+     "team": "STL",
+     "who": "Robert Thomas",
+     "tag": "",
+     "ast": [
+      "Justin Barron",
+      "Jimmy Snuggerud"
+     ],
+     "fin": false,
+     "clip": "6408527204112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "13:37",
+     "team": "STL",
+     "who": "Dalibor Dvorsky",
+     "tag": "",
+     "ast": [
+      "Pius Suter",
+      "Cam Fowler"
+     ],
+     "fin": false,
+     "clip": "6408527720112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "16:19",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "YV",
+     "ast": [
+      "Leo Carlsson",
+      "Jackson LaCombe"
+     ],
+     "fin": false,
+     "clip": "6408528517112",
+     "gtd": 20
+    },
+    {
+     "p": "3",
+     "t": "05:36",
+     "team": "STL",
+     "who": "Jake Neighbours",
+     "tag": "",
+     "ast": [
+      "Robert Thomas"
+     ],
+     "fin": false,
+     "clip": "6408530397112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "06:19",
+     "team": "STL",
+     "who": "Philip Broberg",
+     "tag": "",
+     "ast": [
+      "Jonatan Berggren",
+      "Logan Mailloux"
+     ],
+     "fin": false,
+     "clip": "6408527865112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "08:34",
+     "team": "STL",
+     "who": "Logan Mailloux",
+     "tag": "",
+     "ast": [
+      "Robert Thomas",
+      "Jake Neighbours"
+     ],
+     "fin": false,
+     "clip": "6408529514112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "14:59",
+     "team": "ANA",
+     "who": "Ian Moore",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408530818112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "18:35",
+     "team": "ANA",
+     "who": "Mikael Granlund",
+     "tag": "YV",
+     "ast": [
+      "Cutter Gauthier",
+      "Jackson LaCombe"
+     ],
+     "fin": true,
+     "clip": "",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "19:19",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "",
+     "ast": [
+      "Troy Terry",
+      "Jackson LaCombe"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 21
+    },
+    {
+     "p": "3",
+     "t": "19:22",
+     "team": "STL",
+     "who": "Pavel Butšnevitš",
+     "tag": "TM",
+     "ast": [],
+     "fin": false,
+     "clip": "",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Ville Husso (ANA) 17 torjuntaa · Jordan Binnington (STL) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Robert Thomas",
+     "team": "STL",
+     "pos": "C",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Logan Mailloux",
+     "team": "STL",
+     "pos": "D",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Jake Neighbours",
+     "team": "STL",
+     "pos": "L",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Enterprise Center",
+   "finStats": [
+    {
+     "name": "Mikael Granlund",
+     "team": "ANA",
+     "opp": "STL",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": -1,
+     "sog": 3,
+     "toi": "25:08"
+    },
+    {
+     "name": "Ville Husso",
+     "team": "ANA",
+     "opp": "STL",
+     "pos": "MV",
+     "saves": 17,
+     "shots": 24,
+     "dec": "L",
+     "toi": "51:04"
+    },
+    {
+     "name": "Aleksanteri Kaskimäki",
+     "team": "STL",
+     "opp": "ANA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 2,
+     "sog": 0,
+     "toi": "14:12"
+    }
+   ],
+   "note": "Cutter Gauthier hattutemppu · Suomalaiset: Granlund 1+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Ville Husso (ANA) 17 torjuntaa · Jordan Binnington (STL) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Robert Thomas",
+      "team": "STL",
+      "pos": "C",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Logan Mailloux",
+      "team": "STL",
+      "pos": "D",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Jake Neighbours",
+      "team": "STL",
+      "pos": "L",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Enterprise Center",
+    "finStats": [
+     {
+      "name": "Mikael Granlund",
+      "team": "ANA",
+      "opp": "STL",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": -1,
+      "sog": 3,
+      "toi": "25:08"
+     },
+     {
+      "name": "Ville Husso",
+      "team": "ANA",
+      "opp": "STL",
+      "pos": "MV",
+      "saves": 17,
+      "shots": 24,
+      "dec": "L",
+      "toi": "51:04"
+     },
+     {
+      "name": "Aleksanteri Kaskimäki",
+      "team": "STL",
+      "opp": "ANA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 2,
+      "sog": 0,
+      "toi": "14:12"
+     }
+    ]
+   }
   }
- }
+ },
+ "clipTries": 1
 }
