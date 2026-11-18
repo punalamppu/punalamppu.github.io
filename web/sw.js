@@ -1,6 +1,6 @@
 // Punalamppu – service worker: sivut ja data aina verkosta ensin (tuoreet tulokset),
 // välimuisti vain varalle kun yhteys puuttuu. Fontit ja kuvat välimuistista.
-const V = "pl-v5";
+const V = "pl-v6";
 const CORE = ["/", "/static.css", "/fonts.css", "/logo-mark.svg", "/favicon.svg"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(V).then(c => c.addAll(CORE)).catch(() => {})); self.skipWaiting(); });
 self.addEventListener("activate", e => {
@@ -14,7 +14,8 @@ self.addEventListener("fetch", e => {
     e.respondWith(caches.match(r).then(m => m || fetch(r).then(res => { const c = res.clone(); caches.open(V).then(x => x.put(r, c)); return res; })));
     return;
   }
-  e.respondWith(fetch(r).then(res => {
+  // sivut ja data: ohitetaan selaimen 10 minuutin HTTP-välimuisti (palvelin vastaa 304, jos sivu ei ole muuttunut)
+  e.respondWith(fetch(r, { cache: "no-cache" }).then(res => {
     if (res.ok) { const c = res.clone(); caches.open(V).then(x => x.put(r, c)); }
     return res;
   }).catch(() => caches.match(r).then(m => m || caches.match("/"))));

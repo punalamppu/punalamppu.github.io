@@ -81,7 +81,7 @@ def tbadge(a, cls="badge"):
     return f'<span class="{cls}" style="background:{COLORS.get(a, "#445")}" title="{esc(TEAMS.get(a, (a,))[0])}">{esc(a)}</span>'
 
 
-NAV = [("/", "Tulokset"), ("/otteluohjelma/", "Ohjelma"), ("/suomalaiset/", "Suomalaiset"), ("/uutiset/", "Uutiset"), ("/nhl-tv/", "TV-lähetykset"),
+NAV = [("/", "Tulokset"), ("/otteluohjelma/", "Ohjelma"), ("/suomalaiset/", "Suomalaiset"), ("/uutiset/", "Uutiset"), ("/nhl-tv/", "TV-lähetykset"), ("/nhl-tapahtumat/", "Tapahtumat"),
        ("/pisteporssi/", "Pistepörssi"), ("/sarjataulukko/", "Sarjataulukko"), ("/joukkueet/", "Joukkueet"), ("/tulokset/", "Arkisto")]
 
 
