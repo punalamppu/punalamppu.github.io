@@ -17,8 +17,8 @@
      "who": "Mats Zuccarello",
      "tag": "",
      "ast": [
-      "Erik Gustafsson",
-      "Brandt Clarke"
+      "E. Gustafsson",
+      "B. Clarke"
      ],
      "fin": false,
      "clip": "6408520589112",
@@ -31,7 +31,7 @@
      "who": "Andre Lee",
      "tag": "",
      "ast": [
-      "Scott Laughton"
+      "S. Laughton"
      ],
      "fin": false,
      "clip": "6408524967112",
@@ -65,7 +65,7 @@
     },
     {
      "star": 2,
-     "name": "Drew Doughty",
+     "name": "D. Doughty",
      "team": "LAK",
      "pos": "D",
      "goals": 0,
@@ -87,7 +87,7 @@
    "venue": "TD Garden",
    "finStats": [
     {
-     "name": "Joel Armia",
+     "name": "J. Armia",
      "team": "LAK",
      "opp": "BOS",
      "pos": "H",
@@ -99,7 +99,7 @@
      "toi": "13:12"
     },
     {
-     "name": "Erik Haula",
+     "name": "E. Haula",
      "team": "LAK",
      "opp": "BOS",
      "pos": "H",
@@ -112,7 +112,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/lak-at-bos-recap-6408527036112",
    "videoId": "",
    "details": {
     "goalies": "D. Kuemper (LAK) 29 torjuntaa · M. DiPietro (BOS) 19 torjuntaa",
@@ -129,7 +129,7 @@
      },
      {
       "star": 2,
-      "name": "Drew Doughty",
+      "name": "D. Doughty",
       "team": "LAK",
       "pos": "D",
       "goals": 0,
@@ -151,7 +151,7 @@
     "venue": "TD Garden",
     "finStats": [
      {
-      "name": "Joel Armia",
+      "name": "J. Armia",
       "team": "LAK",
       "opp": "BOS",
       "pos": "H",
@@ -163,7 +163,7 @@
       "toi": "13:12"
      },
      {
-      "name": "Erik Haula",
+      "name": "E. Haula",
       "team": "LAK",
       "opp": "BOS",
       "pos": "H",
@@ -193,8 +193,8 @@
      "who": "Kasperi Kapanen",
      "tag": "",
      "ast": [
-      "Mattias Ekholm",
-      "Vasili Podkolzin"
+      "M. Ekholm",
+      "V. Podkolzin"
      ],
      "fin": true,
      "clip": "6408521438112",
@@ -207,8 +207,8 @@
      "who": "Connor McDavid",
      "tag": "YV",
      "ast": [
-      "Zach Hyman",
-      "Evan Bouchard"
+      "Z. Hyman",
+      "E. Bouchard"
      ],
      "fin": false,
      "clip": "6408522334112",
@@ -221,8 +221,8 @@
      "who": "Vasili Podkolzin",
      "tag": "",
      "ast": [
-      "Kasperi Kapanen",
-      "Leon Draisaitl"
+      "K. Kapanen",
+      "L. Draisaitl"
      ],
      "fin": false,
      "clip": "6408522693112",
@@ -235,8 +235,8 @@
      "who": "Vasili Podkolzin",
      "tag": "YV",
      "ast": [
-      "Leon Draisaitl",
-      "Connor McDavid"
+      "L. Draisaitl",
+      "C. McDavid"
      ],
      "fin": false,
      "clip": "6408524097112",
@@ -249,8 +249,8 @@
      "who": "Matthew Tkachuk",
      "tag": "",
      "ast": [
-      "Sam Bennett",
-      "Brady Tkachuk"
+      "S. Bennett",
+      "B. Tkachuk"
      ],
      "fin": false,
      "clip": "6408525739112",
@@ -263,7 +263,7 @@
      "who": "Matthew Tkachuk",
      "tag": "",
      "ast": [
-      "Carter Verhaeghe"
+      "C. Verhaeghe"
      ],
      "fin": false,
      "clip": "6408526243112",
@@ -276,11 +276,11 @@
      "who": "Leon Draisaitl",
      "tag": "TM",
      "ast": [
-      "Jason Dickinson",
-      "Kasperi Kapanen"
+      "J. Dickinson",
+      "K. Kapanen"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408527995112",
      "gtd": 21
     }
    ],
@@ -288,7 +288,7 @@
    "threeStars": [
     {
      "star": 1,
-     "name": "Vasili Podkolzin",
+     "name": "V. Podkolzin",
      "team": "EDM",
      "pos": "R",
      "goals": 2,
@@ -298,7 +298,7 @@
     },
     {
      "star": 2,
-     "name": "Connor McDavid",
+     "name": "C. McDavid",
      "team": "EDM",
      "pos": "C",
      "goals": 1,
@@ -308,7 +308,7 @@
     },
     {
      "star": 3,
-     "name": "Matthew Tkachuk",
+     "name": "M. Tkachuk",
      "team": "FLA",
      "pos": "L",
      "goals": 2,
@@ -320,7 +320,7 @@
    "venue": "Amerant Bank Arena",
    "finStats": [
     {
-     "name": "Kasperi Kapanen",
+     "name": "K. Kapanen",
      "team": "EDM",
      "opp": "FLA",
      "pos": "H",
@@ -332,7 +332,7 @@
      "toi": "18:10"
     },
     {
-     "name": "Anton Lundell",
+     "name": "A. Lundell",
      "team": "FLA",
      "opp": "EDM",
      "pos": "H",
@@ -344,7 +344,7 @@
      "toi": "17:44"
     },
     {
-     "name": "Eetu Luostarinen",
+     "name": "E. Luostarinen",
      "team": "FLA",
      "opp": "EDM",
      "pos": "H",
@@ -356,7 +356,7 @@
      "toi": "15:34"
     },
     {
-     "name": "Niko Mikkola",
+     "name": "N. Mikkola",
      "team": "FLA",
      "opp": "EDM",
      "pos": "P",
@@ -368,15 +368,15 @@
      "toi": "18:58"
     }
    ],
-   "note": "Suomalaiset: Kapanen 1+2",
-   "recapUrl": "",
+   "note": "Suomalaiset: Kapanen 1+0",
+   "recapUrl": "https://www.nhl.com/video/edm-at-fla-recap-6408528306112",
    "videoId": "",
    "details": {
     "goalies": "D. Levi (EDM) 20 torjuntaa · J. Markstrom (FLA) 13 torjuntaa",
     "threeStars": [
      {
       "star": 1,
-      "name": "Vasili Podkolzin",
+      "name": "V. Podkolzin",
       "team": "EDM",
       "pos": "R",
       "goals": 2,
@@ -386,7 +386,7 @@
      },
      {
       "star": 2,
-      "name": "Connor McDavid",
+      "name": "C. McDavid",
       "team": "EDM",
       "pos": "C",
       "goals": 1,
@@ -396,7 +396,7 @@
      },
      {
       "star": 3,
-      "name": "Matthew Tkachuk",
+      "name": "M. Tkachuk",
       "team": "FLA",
       "pos": "L",
       "goals": 2,
@@ -408,7 +408,7 @@
     "venue": "Amerant Bank Arena",
     "finStats": [
      {
-      "name": "Kasperi Kapanen",
+      "name": "K. Kapanen",
       "team": "EDM",
       "opp": "FLA",
       "pos": "H",
@@ -420,7 +420,7 @@
       "toi": "18:10"
      },
      {
-      "name": "Anton Lundell",
+      "name": "A. Lundell",
       "team": "FLA",
       "opp": "EDM",
       "pos": "H",
@@ -432,7 +432,7 @@
       "toi": "17:44"
      },
      {
-      "name": "Eetu Luostarinen",
+      "name": "E. Luostarinen",
       "team": "FLA",
       "opp": "EDM",
       "pos": "H",
@@ -444,7 +444,7 @@
       "toi": "15:34"
      },
      {
-      "name": "Niko Mikkola",
+      "name": "N. Mikkola",
       "team": "FLA",
       "opp": "EDM",
       "pos": "P",
@@ -474,8 +474,8 @@
      "who": "Anthony Duclair",
      "tag": "YV",
      "ast": [
-      "Mathew Barzal",
-      "Tony DeAngelo"
+      "M. Barzal",
+      "T. DeAngelo"
      ],
      "fin": false,
      "clip": "6408521758112",
@@ -499,8 +499,8 @@
      "who": "Zach Werenski",
      "tag": "",
      "ast": [
-      "Kent Johnson",
-      "Luca Del Bel Belluz"
+      "K. Johnson",
+      "L. Del Bel Belluz"
      ],
      "fin": false,
      "clip": "6408525887112",
@@ -513,8 +513,8 @@
      "who": "Matthew Schaefer",
      "tag": "",
      "ast": [
-      "Ryan Pulock",
-      "Anthony Duclair"
+      "R. Pulock",
+      "A. Duclair"
      ],
      "fin": false,
      "clip": "6408526783112",
@@ -527,8 +527,8 @@
      "who": "Tony DeAngelo",
      "tag": "",
      "ast": [
-      "Mathew Barzal",
-      "Matias Maccelli"
+      "M. Barzal",
+      "M. Maccelli"
      ],
      "fin": false,
      "clip": "6408526315112",
@@ -541,8 +541,8 @@
      "who": "Matthew Schaefer",
      "tag": "TM",
      "ast": [
-      "Simon Holmström",
-      "Bo Horvat"
+      "S. Holmstrom",
+      "B. Horvat"
      ],
      "fin": false,
      "clip": "6408527116112",
@@ -553,7 +553,7 @@
    "threeStars": [
     {
      "star": 1,
-     "name": "Matthew Schaefer",
+     "name": "M. Schaefer",
      "team": "NYI",
      "pos": "D",
      "goals": 3,
@@ -563,7 +563,7 @@
     },
     {
      "star": 2,
-     "name": "Anthony Duclair",
+     "name": "A. Duclair",
      "team": "NYI",
      "pos": "L",
      "goals": 1,
@@ -573,7 +573,7 @@
     },
     {
      "star": 3,
-     "name": "Tony DeAngelo",
+     "name": "T. DeAngelo",
      "team": "NYI",
      "pos": "D",
      "goals": 1,
@@ -585,7 +585,7 @@
    "venue": "UBS Arena",
    "finStats": [
     {
-     "name": "Matias Maccelli",
+     "name": "M. Maccelli",
      "team": "NYI",
      "opp": "CBJ",
      "pos": "H",
@@ -597,15 +597,15 @@
      "toi": "18:22"
     }
    ],
-   "note": "Matthew Schaefer hattutemppu · Suomalaiset: Maccelli 0+1",
-   "recapUrl": "",
+   "note": "Matthew Schaefer hattutemppu",
+   "recapUrl": "https://www.nhl.com/video/cbj-at-nyi-recap-6408527811112",
    "videoId": "",
    "details": {
     "goalies": "C. Talbot (CBJ) 36 torjuntaa · I. Sorokin (NYI) 28 torjuntaa",
     "threeStars": [
      {
       "star": 1,
-      "name": "Matthew Schaefer",
+      "name": "M. Schaefer",
       "team": "NYI",
       "pos": "D",
       "goals": 3,
@@ -615,7 +615,7 @@
      },
      {
       "star": 2,
-      "name": "Anthony Duclair",
+      "name": "A. Duclair",
       "team": "NYI",
       "pos": "L",
       "goals": 1,
@@ -625,7 +625,7 @@
      },
      {
       "star": 3,
-      "name": "Tony DeAngelo",
+      "name": "T. DeAngelo",
       "team": "NYI",
       "pos": "D",
       "goals": 1,
@@ -637,7 +637,7 @@
     "venue": "UBS Arena",
     "finStats": [
      {
-      "name": "Matias Maccelli",
+      "name": "M. Maccelli",
       "team": "NYI",
       "opp": "CBJ",
       "pos": "H",
@@ -667,8 +667,8 @@
      "who": "Mattias Samuelsson",
      "tag": "",
      "ast": [
-      "Rasmus Dahlin",
-      "Josh Doan"
+      "R. Dahlin",
+      "J. Doan"
      ],
      "fin": false,
      "clip": "6408520549112",
@@ -681,8 +681,8 @@
      "who": "Jamie Drysdale",
      "tag": "",
      "ast": [
-      "Matvei Mitškov",
-      "Noah Cates"
+      "M. Michkov",
+      "N. Cates"
      ],
      "fin": false,
      "clip": "6408523562112",
@@ -695,8 +695,8 @@
      "who": "Tage Thompson",
      "tag": "",
      "ast": [
-      "Zach Benson",
-      "Tyson Kozak"
+      "Z. Benson",
+      "T. Kozak"
      ],
      "fin": false,
      "clip": "6408524364112",
@@ -709,8 +709,8 @@
      "who": "Owen Tippett",
      "tag": "",
      "ast": [
-      "Jamie Drysdale",
-      "Cole Knuble"
+      "J. Drysdale",
+      "C. Knuble"
      ],
      "fin": false,
      "clip": "6408524176112",
@@ -723,8 +723,8 @@
      "who": "Travis Sanheim",
      "tag": "",
      "ast": [
-      "Christian Dvorak",
-      "Denver Barkey"
+      "C. Dvorak",
+      "D. Barkey"
      ],
      "fin": false,
      "clip": "6408524425112",
@@ -737,7 +737,7 @@
      "who": "Jiri Kulich",
      "tag": "",
      "ast": [
-      "Tage Thompson"
+      "T. Thompson"
      ],
      "fin": false,
      "clip": "6408524530112",
@@ -750,8 +750,8 @@
      "who": "Christian Dvorak",
      "tag": "",
      "ast": [
-      "Nick Seeler",
-      "Matvei Mitškov"
+      "N. Seeler",
+      "M. Michkov"
      ],
      "fin": false,
      "clip": "6408525016112",
@@ -762,7 +762,7 @@
    "threeStars": [
     {
      "star": 1,
-     "name": "Jamie Drysdale",
+     "name": "J. Drysdale",
      "team": "PHI",
      "pos": "D",
      "goals": 1,
@@ -772,7 +772,7 @@
     },
     {
      "star": 2,
-     "name": "Owen Tippett",
+     "name": "O. Tippett",
      "team": "PHI",
      "pos": "R",
      "goals": 1,
@@ -782,7 +782,7 @@
     },
     {
      "star": 3,
-     "name": "Christian Dvorak",
+     "name": "C. Dvorak",
      "team": "PHI",
      "pos": "C",
      "goals": 1,
@@ -794,7 +794,7 @@
    "venue": "Xfinity Mobile Arena",
    "finStats": [
     {
-     "name": "Rasmus Ristolainen",
+     "name": "R. Ristolainen",
      "team": "PHI",
      "opp": "BUF",
      "pos": "P",
@@ -807,14 +807,14 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/buf-at-phi-recap-6408527144112",
    "videoId": "",
    "details": {
     "goalies": "A. Lyon (BUF) 29 torjuntaa · J. Woll (PHI) 16 torjuntaa",
     "threeStars": [
      {
       "star": 1,
-      "name": "Jamie Drysdale",
+      "name": "J. Drysdale",
       "team": "PHI",
       "pos": "D",
       "goals": 1,
@@ -824,7 +824,7 @@
      },
      {
       "star": 2,
-      "name": "Owen Tippett",
+      "name": "O. Tippett",
       "team": "PHI",
       "pos": "R",
       "goals": 1,
@@ -834,7 +834,7 @@
      },
      {
       "star": 3,
-      "name": "Christian Dvorak",
+      "name": "C. Dvorak",
       "team": "PHI",
       "pos": "C",
       "goals": 1,
@@ -846,7 +846,7 @@
     "venue": "Xfinity Mobile Arena",
     "finStats": [
      {
-      "name": "Rasmus Ristolainen",
+      "name": "R. Ristolainen",
       "team": "PHI",
       "opp": "BUF",
       "pos": "P",
@@ -876,8 +876,8 @@
      "who": "Drake Batherson",
      "tag": "YV",
      "ast": [
-      "Stephen Halliday",
-      "Tim Stützle"
+      "S. Halliday",
+      "T. Stützle"
      ],
      "fin": false,
      "clip": "6408523564112",
@@ -890,7 +890,7 @@
      "who": "Tyler Boucher",
      "tag": "",
      "ast": [
-      "Thomas Chabot"
+      "T. Chabot"
      ],
      "fin": false,
      "clip": "6408524742112",
@@ -903,14 +903,14 @@
      "who": "Viggo Björck",
      "tag": "",
      "ast": [
-      "Adam Lowry"
+      "A. Lowry"
      ],
      "fin": false,
      "clip": "6408523288112",
      "gtd": 1
     }
    ],
-   "goalies": "L. Ullmark (OTT) 19 torjuntaa · S. Skinner (WPG) 25 torjuntaa",
+   "goalies": "L. Ullmark (OTT) 20 torjuntaa · S. Skinner (WPG) 25 torjuntaa",
    "threeStars": [
     {
      "star": 1,
@@ -924,7 +924,7 @@
     },
     {
      "star": 2,
-     "name": "Viggo Björck",
+     "name": "V. Björck",
      "team": "WPG",
      "pos": "C",
      "goals": 1,
@@ -940,13 +940,13 @@
      "goals": null,
      "assists": null,
      "points": null,
-     "svp": 0.95
+     "svp": 0.952
     }
    ],
    "venue": "Canada Life Centre",
    "finStats": [
     {
-     "name": "Nikolas Matinpalo",
+     "name": "N. Matinpalo",
      "team": "OTT",
      "opp": "WPG",
      "pos": "P",
@@ -959,10 +959,10 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/ott-at-wpg-recap-6408529083112",
    "videoId": "",
    "details": {
-    "goalies": "L. Ullmark (OTT) 19 torjuntaa · S. Skinner (WPG) 25 torjuntaa",
+    "goalies": "L. Ullmark (OTT) 20 torjuntaa · S. Skinner (WPG) 25 torjuntaa",
     "threeStars": [
      {
       "star": 1,
@@ -976,7 +976,7 @@
      },
      {
       "star": 2,
-      "name": "Viggo Björck",
+      "name": "V. Björck",
       "team": "WPG",
       "pos": "C",
       "goals": 1,
@@ -992,13 +992,13 @@
       "goals": null,
       "assists": null,
       "points": null,
-      "svp": 0.95
+      "svp": 0.952
      }
     ],
     "venue": "Canada Life Centre",
     "finStats": [
      {
-      "name": "Nikolas Matinpalo",
+      "name": "N. Matinpalo",
       "team": "OTT",
       "opp": "WPG",
       "pos": "P",
