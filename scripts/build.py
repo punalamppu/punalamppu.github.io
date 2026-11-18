@@ -65,7 +65,7 @@ ICONS = ('<svg width="0" height="0" style="position:absolute" aria-hidden="true"
          '<symbol id="i-clock" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></g></symbol>'
          '<symbol id="i-chev" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" d="m9 6 6 6-6 6"/></symbol>'
          '<symbol id="i-cal" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/></g></symbol>'
-         '</svg>')
+         '<symbol id="i-wa" viewBox="0 0 24 24"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></symbol><symbol id="i-fb" viewBox="0 0 24 24"><path fill="currentColor" d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/></symbol><symbol id="i-x" viewBox="0 0 24 24"><path fill="currentColor" d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></symbol><symbol id="i-tg" viewBox="0 0 24 24"><path fill="currentColor" d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></symbol><symbol id="i-bsky" viewBox="0 0 24 24"><path fill="currentColor" d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></symbol><symbol id="i-threads" viewBox="0 0 24 24"><path fill="currentColor" d="M12.186 24h-.007c-3.581-.024-6.334-1.205-8.184-3.509C2.35 18.44 1.5 15.586 1.472 12.01v-.017c.03-3.579.879-6.43 2.525-8.482C5.845 1.205 8.6.024 12.18 0h.014c2.746.02 5.043.725 6.826 2.098 1.677 1.29 2.858 3.13 3.509 5.467l-2.04.569c-1.104-3.96-3.898-5.984-8.304-6.015-2.91.022-5.11.936-6.54 2.717C4.307 6.504 3.616 8.914 3.589 12c.027 3.086.718 5.496 2.057 7.164 1.43 1.783 3.631 2.698 6.54 2.717 2.623-.02 4.358-.631 5.8-2.045 1.647-1.613 1.618-3.593 1.09-4.798-.31-.71-.873-1.3-1.634-1.75-.192 1.352-.622 2.446-1.284 3.272-.886 1.102-2.14 1.704-3.73 1.79-1.202.065-2.361-.218-3.259-.801-1.063-.689-1.685-1.74-1.752-2.964-.065-1.19.408-2.285 1.33-3.082.88-.76 2.119-1.207 3.583-1.291a13.853 13.853 0 0 1 3.02.142c-.126-.742-.375-1.332-.75-1.757-.513-.586-1.308-.883-2.359-.89h-.029c-.844 0-1.992.232-2.721 1.32L7.734 7.847c.98-1.454 2.568-2.256 4.478-2.256h.044c3.194.02 5.097 1.975 5.287 5.388.108.046.216.094.321.142 1.49.7 2.58 1.761 3.154 3.07.797 1.82.871 4.79-1.548 7.158-1.85 1.81-4.094 2.628-7.277 2.65Zm1.003-11.69c-.242 0-.487.007-.739.021-1.836.103-2.98.946-2.916 2.143.067 1.256 1.452 1.839 2.784 1.767 1.224-.065 2.818-.543 3.086-3.71a10.5 10.5 0 0 0-2.215-.221z"/></symbol><symbol id="i-google" viewBox="0 0 24 24"><path fill="currentColor" d="M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z"/></symbol><symbol id="i-rss" viewBox="0 0 24 24"><path fill="currentColor" d="M19.199 24C19.199 13.467 10.533 4.8 0 4.8V0c13.165 0 24 10.835 24 24h-4.801zM3.291 17.415c1.814 0 3.293 1.479 3.293 3.295 0 1.813-1.485 3.29-3.301 3.29C1.47 24 0 22.526 0 20.71s1.475-3.294 3.291-3.295zM15.909 24h-4.665c0-6.169-5.075-11.245-11.244-11.245V8.09c8.727 0 15.909 7.184 15.909 15.91z"/></symbol><symbol id="i-link" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></g></symbol><symbol id="i-share" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3.5M7.5 8 12 3.5 16.5 8"/><path d="M5 12v6.5A1.5 1.5 0 0 0 6.5 20h11a1.5 1.5 0 0 0 1.5-1.5V12"/></g></symbol><symbol id="i-check" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="m5 12.5 4.5 4.5L19 7.5"/></symbol></svg>')
 
 
 def ic(name, cls="ic"):
@@ -1205,18 +1205,95 @@ def og_player(path, name, t, posn, tiles, season):
     _save(im, path)
 
 
+FOLLOW = [("google", "Google", "https://www.google.com/preferences/source?q=punalamppu.com"),
+          ("bsky", "Bluesky", "https://bsky.app/profile/punalamppu.bsky.social"),
+          ("tg", "Telegram", "https://t.me/punalamppu"),
+          ("rss", "RSS", "/rss.xml")]
+SHARE_PATHS = re.compile(r"^/(uutiset/[^/]+/|koosteet/\d{4}-\d\d-\d\d/|tulokset/\d{4}-\d\d-\d\d/|ottelut/[^/]+\.html|suomalaiset/[^/]+\.html|nhl-helsinki-2026/)$")
+
+
+def _ext(h):
+    return "" if h.startswith("/") else ' target="_blank" rel="noopener"'
+
+
+def share_bar(path, title, where="top"):
+    """Jakopainikkeet: lukija jakaa sivun omiin kanaviinsa. Linkkiin utm_source, jotta jaot näkyvät kävijätilastoissa."""
+    from urllib.parse import quote
+    base = CFG["baseUrl"].rstrip("/")
+    def u(src):
+        return quote(f"{base}{path}?utm_source={src}&utm_medium=jako", safe="")
+    t = quote(re.sub(r"\s*\|\s*Punalamppu$", "", title), safe="")
+    items = [("wa", "WhatsApp", f"https://wa.me/?text={t}%20{u('whatsapp')}"),
+             ("fb", "Facebook", f"https://www.facebook.com/sharer/sharer.php?u={u('facebook')}"),
+             ("x", "X", f"https://x.com/intent/post?text={t}&url={u('x')}"),
+             ("tg", "Telegram", f"https://t.me/share/url?url={u('telegram')}&text={t}"),
+             ("bsky", "Bluesky", f"https://bsky.app/intent/compose?text={t}%20{u('bluesky')}"),
+             ("threads", "Threads", f"https://www.threads.net/intent/post?text={t}%20{u('threads')}")]
+    btns = "".join(f'<a class="sh sh-{k}" href="{h}" target="_blank" rel="noopener" aria-label="Jaa: {n}" title="Jaa: {n}">{ic(k)}<span>{n}</span></a>' for k, n, h in items)
+    return (f'<div class="sharebar sb-{where}" role="group" aria-label="Jaa juttu"><span class="shl">{ic("share")}Jaa</span>'
+            f'<button type="button" class="sh sh-native" data-share hidden>{ic("share")}<span>Jaa…</span></button>{btns}'
+            f'<button type="button" class="sh sh-copy" data-copy="{base}{path}" aria-label="Kopioi linkki" title="Kopioi linkki">{ic("link")}<span>Kopioi linkki</span></button></div>')
+
+
+def follow_box():
+    g = FOLLOW[0]
+    rest = "".join(f'<a class="fol fol-{k}" href="{h}"{_ext(h)}>{ic(k)}<span>{n}</span></a>' for k, n, h in FOLLOW[1:])
+    return ('<section class="box followbox"><div class="fb-txt"><b>Älä missaa yön suomalaisia</b>'
+            '<span>Valitse Punalamppu suosikkilähteeksi, niin Google näyttää juttujamme hakutuloksissa ja Discoverissa useammin.</span></div>'
+            f'<a class="gpref" href="{g[2]}" target="_blank" rel="noopener">{ic("google")}<span>Lisää suosikkilähteeksi Googlessa</span></a>'
+            f'<div class="fol-row"><span class="mute">Seuraa myös:</span>{rest}</div></section>')
+
+
+SHARE_JS = ("<script>(function(){var d=document;d.querySelectorAll('[data-share]').forEach(function(b){if(navigator.share){b.hidden=false;"
+            "b.addEventListener('click',function(){navigator.share({title:d.title.replace(/\\s*\\|\\s*Punalamppu$/,''),url:location.href.split('?')[0]+'?utm_source=jakovalikko&utm_medium=jako'}).catch(function(){})})}});"
+            "d.querySelectorAll('[data-copy]').forEach(function(b){b.addEventListener('click',function(){var u=b.getAttribute('data-copy'),s=b.querySelector('span'),o=s.textContent;"
+            "function ok(){b.classList.add('done');s.textContent='Kopioitu!';setTimeout(function(){b.classList.remove('done');s.textContent=o},1800)}"
+            "if(navigator.clipboard)navigator.clipboard.writeText(u).then(ok,function(){prompt('Kopioi linkki:',u)});else prompt('Kopioi linkki:',u)})});"
+            "var f=d.querySelector('.sharefab');if(f){f.addEventListener('click',function(){if(navigator.share){navigator.share({title:d.title.replace(/\\s*\\|\\s*Punalamppu$/,''),url:location.href.split('?')[0]+'?utm_source=jakovalikko&utm_medium=jako'}).catch(function(){})}"
+            "else{var t=d.querySelector('.sb-bottom');if(t)t.scrollIntoView({behavior:'smooth',block:'center'})}});"
+            "var top=d.querySelector('.sb-top'),bot=d.querySelector('.sharebox'),past=false,near=false;function upd(){f.classList.toggle('show',past&&!near)}"
+            "if('IntersectionObserver'in window){if(top)new IntersectionObserver(function(e){past=!e[0].isIntersecting&&e[0].boundingClientRect.top<0;upd()}).observe(top);"
+            "if(bot)new IntersectionObserver(function(e){near=e[0].isIntersecting||e[0].boundingClientRect.top<0;upd()},{rootMargin:'0px 0px 120px 0px'}).observe(bot)}else f.classList.add('show')}})()</script>")
+
+
+def inject_share(path, title, body):
+    if not SHARE_PATHS.match(path):
+        return body, ""
+    bar = share_bar(path, title, "top")
+    i = body.find("</h1>")
+    if i < 0:
+        return body, ""
+    i += 5
+    hdr = body.find("</header>", i)
+    if 0 <= hdr < i + 800 and body.rfind("<header", 0, i) > body.rfind("</header>", 0, i):
+        i = hdr + 9
+    else:
+        m = re.match(r"\s*<p class='(byline|kdate|gnote)'>.*?</p>", body[i:], re.S)
+        if m:
+            i += m.end()
+    bottom = ('<section class="box sharebox"><h2 class="shh">Jaa juttu kavereille</h2>' + share_bar(path, title, "bottom") + "</section>"
+              + follow_box()
+              + f'<button type="button" class="sharefab" aria-label="Jaa juttu">{ic("share")}<span>Jaa</span></button>' + SHARE_JS)
+    return body[:i] + bar + body[i:], bottom
+
+
 def page(title, desc, path, body, jsonld=None, og=None):
     base = CFG["baseUrl"].rstrip("/")
     ld = f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>' if jsonld else ""
+    body, share_bottom = inject_share(path, title, body)
+    is_art = path.startswith(("/uutiset/", "/koosteet/")) and path.count("/") == 3
+    pubm = re.search(r'"datePublished": ?"([^"]+)"', ld) if is_art else None
+    ogtype = "article" if is_art else "website"
+    artmeta = (f'<meta property="article:published_time" content="{pubm.group(1)}">' if pubm else "")
     return f"""<!DOCTYPE html>
 <html lang="fi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title><meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{base}{path}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}">
-<meta property="og:type" content="website"><meta property="og:url" content="{base}{path}"><meta property="og:locale" content="fi_FI">
+<meta property="og:type" content="{ogtype}">{artmeta}<meta property="og:url" content="{base}{path}"><meta property="og:locale" content="fi_FI">
 <meta property="og:image" content="{base}{og or '/og.png'}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/favicon.ico?v=2" sizes="any"><link rel="icon" href="/favicon.svg?v=2" type="image/svg+xml"><link rel="icon" href="/favicon-48.png?v=2" sizes="48x48" type="image/png"><link rel="icon" href="/favicon-96.png?v=2" sizes="96x96" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2"><link rel="manifest" href="/manifest.webmanifest"><link rel="alternate" type="application/rss+xml" title="Punalamppu – suomalaiset yön NHL-kierroksella" href="/rss.xml"><meta name="theme-color" content="#07090C"><meta name="robots" content="max-image-preview:large"><link rel="stylesheet" href="/static.css?v=4"><script>try{{var t=localStorage.getItem("pl-theme");if(t)document.documentElement.setAttribute("data-theme",t)}}catch(e){{}}</script><link rel="stylesheet" href="/theme.css?v=4">{ld}</head>
+<link rel="icon" href="/favicon.ico?v=2" sizes="any"><link rel="icon" href="/favicon.svg?v=2" type="image/svg+xml"><link rel="icon" href="/favicon-48.png?v=2" sizes="48x48" type="image/png"><link rel="icon" href="/favicon-96.png?v=2" sizes="96x96" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2"><link rel="manifest" href="/manifest.webmanifest"><link rel="alternate" type="application/rss+xml" title="Punalamppu – suomalaiset yön NHL-kierroksella" href="/rss.xml"><meta name="theme-color" content="#07090C"><meta name="robots" content="max-image-preview:large"><link rel="stylesheet" href="/static.css?v=4"><script>try{{var t=localStorage.getItem("pl-theme");if(t)document.documentElement.setAttribute("data-theme",t)}}catch(e){{}}</script><link rel="stylesheet" href="/theme.css?v=5">{ld}</head>
 <body><div class="wrap">{site_header(path)}
-<main>{boxify(body)}</main>{footer()}</div><script data-goatcounter="https://punalamppu.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script><script>if("serviceWorker"in navigator)addEventListener("load",()=>navigator.serviceWorker.register("/sw.js").catch(()=>{{}}))</script></body></html>"""
+<main>{boxify(body)}{share_bottom}</main>{footer()}</div><script data-goatcounter="https://punalamppu.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script><script>if("serviceWorker"in navigator)addEventListener("load",()=>navigator.serviceWorker.register("/sw.js").catch(()=>{{}}))</script></body></html>"""
 
 
 def footer():
@@ -1228,6 +1305,9 @@ def footer():
             '<div><h4>Katso NHL:ää</h4><a href="/nhl-tv/">NHL tv-lähetykset</a><a href="/nhl-tv/#ilmaisottelut">Ilmaisottelut</a><a href="/nhl-helsinki-2026/">NHL Helsinki 2026</a></div>'
             '<div><h4>Sivusto</h4><a href="/tietoa.html">Tietoa sivustosta</a><a href="/yhteys.html">Ota yhteyttä</a><a href="/tietosuoja.html">Tietosuoja</a></div>'
             '</div>'
+            + '<div class="ffollow"><span>Seuraa Punalamppua</span>' + "".join(
+                f'<a class="fol fol-{k}" href="{h}"{_ext(h)} aria-label="{"Lisää suosikkilähteeksi Googlessa" if k == "google" else n}">{ic(k)}<span>{"Suosikkilähteeksi Googlessa" if k == "google" else n}</span></a>'
+                for k, n, h in FOLLOW) + '</div>'
             f'<p class="legal">{esc(CFG["siteName"])} on itsenäinen harrastussivusto, jolla ei ole yhteyttä National Hockey Leagueen (NHL) '
             'tai sen joukkueisiin. NHL ja joukkueiden nimet ovat omistajiensa tavaramerkkejä. Tulos- ja tilastotiedot: NHL.com. '
             'Edistyneet tilastot: MoneyPuck.com. Maalikoosteet: NHL.com. '
@@ -2937,8 +3017,9 @@ def news_upsert(st, art):
         if a["id"] == art["id"]:
             if a.get("frozen"):
                 return False
+            if art.get("type") in ("pelaaja", "ennakko"):
+                art["published"] = min(a["published"], art["published"])
             if art.get("type") == "pelaaja":
-                art["published"] = a["published"]
                 if dt.datetime.fromisoformat(art["published"]) < now_utc() - dt.timedelta(hours=12):
                     art["frozen"] = True
             arts[i] = art

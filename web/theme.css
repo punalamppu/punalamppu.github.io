@@ -132,3 +132,59 @@ details.fold[open]>summary{border-bottom:1px solid var(--line)}
 details.fold>.fb{padding:12px 16px 16px}
 details.fold>.fb>:first-child{margin-top:0}
 [data-theme="light"] .vpill{color:#a3121f}
+
+/* ---- jakopainikkeet, seuraa-laatikko ja jakonappi (v5) ---- */
+.sharebar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:14px 0 6px}
+.sharebar .shl{display:inline-flex;align-items:center;gap:6px;font:700 12px/1 Inter,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:var(--mute);margin-right:2px}
+.sharebar .shl .ic{width:15px;height:15px}
+.sh{--b:var(--ink);display:inline-flex;align-items:center;gap:8px;height:38px;padding:0 13px 0 10px;border-radius:999px;border:1px solid var(--line);
+  background:var(--panel);color:var(--ink);font:600 13.5px/1 Inter,sans-serif;cursor:pointer;text-decoration:none!important;transition:border-color .15s,transform .15s,background .15s}
+.sh .ic{width:18px;height:18px;color:var(--b);flex:0 0 auto}
+.sh:hover{border-color:var(--b);transform:translateY(-1px)}
+.sh:focus-visible{outline:2px solid var(--ice);outline-offset:2px}
+.sh-wa{--b:#25d366}.sh-fb{--b:#1877f2}.sh-tg{--b:#26a5e4}.sh-bsky{--b:#1185fe}.sh-x,.sh-threads{--b:var(--ink)}
+.sh-native{--b:var(--onink);background:var(--accent);border-color:var(--accent);color:#fff}.sh-native .ic{color:#fff}
+.sh-copy.done{--b:#2fbf71;border-color:#2fbf71}
+.sh-copy.done .ic{color:#2fbf71}
+/* yläpalkki: yksi rivi tunnistettavia logoja; nimet näkyvät alalaatikossa */
+.sb-top{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding:2px 2px 4px;margin-left:-2px}
+.sb-top::-webkit-scrollbar{display:none}
+.sb-top .sh{flex:0 0 auto}
+.sb-top .sh:not(.sh-native) span{display:none}
+.sb-top .sh:not(.sh-native){width:38px;padding:0;justify-content:center}
+.sb-top .sh-native:not([hidden])~.sh-copy{order:9}
+@media (max-width:520px){.sb-top .shl{display:none}}
+/* alalaatikko: isot painikkeet ruudukkona */
+.sharebox .shh{margin-bottom:10px}
+.sb-bottom{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin:0}
+.sb-bottom .shl{display:none}
+.sb-bottom .sh{height:44px;justify-content:flex-start;padding:0 14px}
+.sb-bottom .sh[hidden]{display:none}
+/* seuraa-laatikko */
+.followbox{display:grid;gap:14px;background:linear-gradient(135deg,var(--panel) 0%,var(--panel2) 100%)}
+.fb-txt{display:grid;gap:4px}
+.fb-txt b{font:700 19px/1.15 "Barlow Condensed",Inter,sans-serif;letter-spacing:.02em;text-transform:uppercase}
+.fb-txt span{color:var(--ink2);font-size:14px;max-width:62ch}
+.gpref{display:inline-flex;align-items:center;justify-content:center;gap:10px;justify-self:start;min-height:46px;padding:0 20px 0 16px;border-radius:999px;
+  background:var(--ink);color:var(--bg)!important;font:700 15px/1.2 Inter,sans-serif;text-decoration:none!important;box-shadow:0 2px 0 rgba(0,0,0,.25);transition:transform .15s}
+.gpref .ic{width:20px;height:20px;color:#4285f4;background:#fff;border-radius:50%;padding:3px;box-sizing:content-box}
+.gpref:hover{transform:translateY(-1px)}
+.gpref:focus-visible,.fol:focus-visible{outline:2px solid var(--ice);outline-offset:3px}
+.fol-row{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:13.5px}
+.fol{display:inline-flex;align-items:center;gap:7px;height:34px;padding:0 12px 0 10px;border-radius:999px;border:1px solid var(--line);background:var(--panel);
+  color:var(--ink)!important;font:600 13px/1 Inter,sans-serif;text-decoration:none!important}
+.fol .ic{width:16px;height:16px}
+.fol-bsky .ic{color:#1185fe}.fol-tg .ic{color:#26a5e4}.fol-rss .ic{color:#f26522}.fol-google .ic{color:#4285f4}
+.fol:hover{border-color:var(--ink2)}
+@media (max-width:520px){.gpref{justify-self:stretch}}
+/* alatunnisteen seuraa-rivi */
+.ffollow{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:18px 0 6px;padding-top:16px;border-top:1px solid var(--line)}
+.ffollow>span{font:700 12px/1 Inter,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:var(--mute);margin-right:4px}
+/* kelluva jakonappi */
+.sharefab{position:fixed;right:max(16px,env(safe-area-inset-right,0px));bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:40;display:inline-flex;align-items:center;gap:8px;
+  height:48px;padding:0 18px 0 15px;border:0;border-radius:999px;background:var(--accent);color:#fff;font:700 15px/1 Inter,sans-serif;cursor:pointer;
+  box-shadow:0 6px 18px rgba(0,0,0,.35);opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
+.sharefab .ic{width:19px;height:19px}
+.sharefab.show{opacity:1;transform:none;pointer-events:auto}
+.sharefab:focus-visible{outline:2px solid var(--ice);outline-offset:3px}
+@media (prefers-reduced-motion:reduce){.sh,.gpref,.sharefab{transition:none}}
