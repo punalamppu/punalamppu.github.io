@@ -1467,6 +1467,7 @@ def build_site(data):
         ODDS.update(playoff_odds(data))
     except Exception as e:
         log("pudotuspelisimulaatio epäonnistui", e)
+    resolve_short_names(data, data["games"])
     for f in data["finns"] + data["finnGoalies"]:
         MILE_HTML[f[0]] = mile_html_for(f[0])
     rh, rt, rp = build_recap(data["gameDate"], data["games"], data, True) if data["games"] else ("", "", [])
@@ -1533,6 +1534,7 @@ def build_site(data):
             if k not in glist or len(g.get("finStats") or []) + len(g.get("goals") or []) > len(glist[k].get("finStats") or []) + len(glist[k].get("goals") or []):
                 glist[k] = g
         glist = list(glist.values())
+        resolve_short_names(data, glist)
         arch_days[d] = glist
         lis = []
         for g in glist:
@@ -2416,6 +2418,28 @@ def star_og(data, name):
     return p_ if p_ and os.path.isfile(os.path.join(OUT, p_.lstrip("/"))) else None
 
 
+def resolve_short_names(data, games):
+    """NHL lyhentää nimen ("K. Kapanen"), kun samalla sukunimellä on useampi pelaaja. Palautetaan koko nimi suomalaislistoista."""
+    known = [f[0] for f in (data.get("finns") or []) + (data.get("finnGoalies") or [])]
+    cache = {}
+
+    def fix(n):
+        if not n or not re.match(r"^[A-ZÅÄÖ]\. ", n):
+            return n
+        if n not in cache:
+            ini, sur = n[0], n[3:]
+            c = [k for k in known if k.endswith(" " + sur) and k[0] == ini]
+            cache[n] = c[0] if len(c) == 1 else n
+        return cache[n]
+    for g in games:
+        for f in g.get("finStats") or []:
+            f["name"] = fix(f["name"])
+        for x in g.get("goals") or []:
+            x["who"] = fix(x.get("who"))
+            if x.get("ast"):
+                x["ast"] = [fix(a) for a in x["ast"]]
+
+
 def headline_pick(gl):
     """Valitsee yön suomalaisuutisen kärjen: (laji, ottelu, pelaajarivi) tai None."""
     rows = [(g, f) for g in gl for f in g.get("finStats") or []]
@@ -3185,7 +3209,8 @@ def player_articles(data, arch_days, now):
         for f in g.get("finStats") or []:
             k = player_kind(f)
             if k:
-                cands.append((k[1], k[0], g, f))
+                bonus = (12 if g.get("final") == "JA" else 5) if (f.get("g") and gwg_scorer(g) == f["name"]) else 0
+                cands.append((k[1] + bonus, k[0], g, f))
     cands.sort(key=lambda x: -x[0])
     out = []
     for _, kind, g, f in cands[:5]:
