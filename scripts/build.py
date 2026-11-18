@@ -490,7 +490,7 @@ def fetch_profiles(pids, today, gps=None):
             continue
         path = os.path.join(pdir, f"{pid}.json")
         pr = load_json(path, {})
-        if pr.get("_fetched") != today.isoformat():
+        if pr.get("_fetched") != today.isoformat() or "preNhl" not in pr:
             d = get(f"{API}/player/{pid}/landing")
             if d:
                 keep = {k: d.get(k) for k in ("playerId", "firstName", "lastName", "currentTeamAbbrev", "position", "sweaterNumber",
@@ -498,6 +498,12 @@ def fetch_profiles(pids, today, gps=None):
                                                "weightInKilograms", "shootsCatches", "draftDetails", "featuredStats", "careerTotals",
                                                "last5Games", "isActive")}
                 keep["seasonTotals"] = [x for x in (d.get("seasonTotals") or []) if x.get("leagueAbbrev") == "NHL"]
+                keep["preNhl"] = [{"s": x.get("season"), "lg": x.get("leagueAbbrev"), "team": L(x.get("teamName")) or "",
+                                   "gp": x.get("gamesPlayed") or 0, "g": x.get("goals"), "a": x.get("assists"), "p": x.get("points"),
+                                   "sv": x.get("savePctg")}
+                                  for x in (d.get("seasonTotals") or [])
+                                  if x.get("leagueAbbrev") not in ("NHL", None) and x.get("gameTypeId") == 2
+                                  and not re.search(r"Finland|Suomi", L(x.get("teamName")) or "")]
                 keep["_fetched"] = today.isoformat()
                 for k in ("gameLog", "_glFetched"):
                     if pr.get(k) is not None:
@@ -3590,8 +3596,48 @@ def team_chart(a, nm, games_done):
 
 
 
+def born_date_txt(pr):
+    try:
+        bd = dt.date.fromisoformat(pr.get("birthDate") or "")
+        return f"{bd.day}. {FI_MONTHS[bd.month - 1]} {bd.year}"
+    except ValueError:
+        return ""
+
+
+def pre_nhl(pr, is_goalie):
+    """Seurajaksot ennen ensimmäistä NHL-kautta: [(kaudet, joukkue, sarja, O, M, S, P / TO%)]."""
+    first = min([x.get("season") or 99999999 for x in pr.get("seasonTotals") or []] or [99999999])
+    rows = {}
+    for x in sorted(pr.get("preNhl") or [], key=lambda x: x.get("s") or 0):
+        if (x.get("s") or 0) >= first or not x.get("team") or not x.get("gp"):
+            continue
+        k = (x["team"], x.get("lg") or "")
+        r = rows.setdefault(k, {"s0": x["s"], "s1": x["s"], "gp": 0, "g": 0, "a": 0, "p": 0})
+        r["s1"] = x["s"]
+        r["gp"] += x["gp"]
+        for z in ("g", "a", "p"):
+            r[z] += x.get(z) or 0
+    out = []
+    for (tm, lg), r in sorted(rows.items(), key=lambda kv: kv[1]["s0"]):
+        span = season_txt(r["s0"]) if r["s0"] == r["s1"] else f"{str(r['s0'])[:4]}–{str(r['s1'])[6:8]}"
+        out.append((span, tm, lg, r["gp"], r["g"], r["a"], r["p"]))
+    return out
+
+
+def pre_nhl_html(pre, is_goalie):
+    if not pre:
+        return ""
+    if is_goalie:
+        rows = "".join(f"<tr><td>{esc(a)}</td><td>{esc(b)}</td><td>{esc(c)}</td><td>{d}</td></tr>" for a, b, c, d, *_ in pre)
+        return f"<h2>Ura ennen NHL:ää</h2><div class='tw'><table class='t'><tr><th>Kaudet</th><th>Seura</th><th>Sarja</th><th>O</th></tr>{rows}</table></div>"
+    rows = "".join(f"<tr><td>{esc(a)}</td><td>{esc(b)}</td><td>{esc(c)}</td><td>{d}</td><td>{e}</td><td>{f_}</td><td><b>{g}</b></td></tr>" for a, b, c, d, e, f_, g in pre)
+    return (f"<h2>Ura ennen NHL:ää</h2><div class='tw'><table class='t'><tr><th>Kaudet</th><th>Seura</th><th>Sarja</th><th>O</th><th>M</th><th>S</th><th>P</th></tr>{rows}</table></div>"
+            "<p class='mute small'>Runkosarjaottelut seurajoukkueissa. Lähde: NHL.com.</p>")
+
+
 def render_player(name, t, pos, f, is_goalie, data, gd, slugs):
     pr = PROFILES.get(FINN_PID.get(name)) or {}
+    city = L(pr.get("birthCity")) or ""
     sl = season_label(gd)
     posn = {"P": "puolustaja", "H": "hyökkääjä", "MV": "maalivahti"}[pos]
     team_full = tname(t) if t else ""
@@ -3693,6 +3739,24 @@ def render_player(name, t, pos, f, is_goalie, data, gd, slugs):
             f"{name} kuuluu {team_full} -organisaatioon, mutta ei ole tällä hetkellä joukkueen NHL-kokoonpanossa." if team_full and off
             else f"{name} pelaa NHL:ssä {team_full} -joukkueessa." if team_full else f"{name} ei ole tällä hetkellä NHL-kokoonpanossa.")]
     faq.append((f"Paljonko {name} on tehnyt pisteitä kaudella {sl}?" if not is_goalie else f"Millaiset tilastot {name} on tehnyt kaudella {sl}?", season_line))
+    if city:
+        faq.append((f"Missä {name} on syntynyt?", f"{name} on syntynyt {born_date_txt(pr)}. Hänen syntymäpaikkansa on {city}."
+                    if born_date_txt(pr) else f"{name} on syntynyt paikkakunnalla {city}."))
+    if age:
+        faq.append((f"Kuinka vanha {name} on?", f"{name} on {age}-vuotias" + (f" (syntynyt {born_date_txt(pr)})." if born_date_txt(pr) else ".")))
+    if pr.get("heightInCentimeters"):
+        faq.append((f"Kuinka pitkä {name} on?", f"{name} on {pr['heightInCentimeters']} cm pitkä" + (f" ja painaa {pr['weightInKilograms']} kg." if pr.get("weightInKilograms") else ".")))
+    if dd.get("year"):
+        faq.append((f"Milloin {name} varattiin NHL:ään?", f"{tname(team(dd.get('teamAbbrev')))} varasi hänet vuonna {dd.get('year')} {dd.get('round')}. kierroksella, {dd.get('overallPick')}. pelaajana kokonaisuudessaan."))
+    elif pr:
+        faq.append((f"Varattiinko {name} NHL:ään?", f"{name} ei ole NHL:n varaustilaisuudessa varattu pelaaja."))
+    pre = pre_nhl(pr, is_goalie)
+    if pre:
+        clubs = []
+        for r in pre:
+            if r[1] not in clubs:
+                clubs.append(r[1])
+        faq.append((f"Missä seuroissa {name} pelasi ennen NHL:ää?", f"Ennen NHL:ää {name} pelasi seuroissa " + ", ".join(clubs[:-1]) + (" ja " if len(clubs) > 1 else "") + clubs[-1] + "."))
     faq_html = "<h2>Usein kysyttyä</h2>" + "".join(f"<h3>{esc(q)}</h3><p>{esc(a)}</p>" for q, a in faq)
     if is_goalie:
         tiles = [("Ottelut", f[2]), ("V–H–JA", f"{f[3]}–{f[4]}–{f[5]}"), ("TO%", f[6]), ("PMK", f[7])]
@@ -3724,9 +3788,17 @@ def render_player(name, t, pos, f, is_goalie, data, gd, slugs):
     body = (f"<article><!--fold-->{hero}<p class='lead'>{lead} {esc(born)} {esc(season_line)}</p>{facts_html}"
             + f"<h2>Kausi {sl}</h2><div class='tw'>{stat_tbl}</div>{player_chart(name, is_goalie, pr)}{mp_block(name, FINN_PID.get(name), is_goalie, data)}{l5html}"
             + (f"<h2>Kauden maalit videoina</h2><ul class='rows glogs'>{recent}</ul><p class='mute small'>Videot: NHL.com (NHL:n virallinen upotussoitin). Video ladataan NHL:n palvelusta vasta painettaessa.</p>{CLIP_JS}" if recent else "")
-            + nxt_html + career + (f"<h2>Joukkuetoverit</h2>{mates_html}" if mates_html else "") + faq_html
+            + nxt_html + career + pre_nhl_html(pre, is_goalie) + (f"<h2>Joukkuetoverit</h2>{mates_html}" if mates_html else "") + faq_html
             + "</article>")
-    title = f"{name} – tilastot, pisteet ja ottelut {sl} | {CFG['siteName']}" if not is_goalie else f"{name} – maalivahtitilastot ja ottelut {sl} | {CFG['siteName']}"
+    bio_t = ", ".join(x for x in (city, f"{age} v" if age else "") if x)
+    title = (f"{name}" + (f" ({bio_t})" if bio_t else "") + (f" – tilastot, pisteet ja ura {sl}" if not is_goalie else f" – maalivahtitilastot ja ura {sl}")
+             + f" | {CFG['siteName']}")
+    bio_parts = []
+    if age:
+        bio_parts.append(f"{age}-vuotias")
+    bio_parts.append(posn)
+    desc_p = (f"{name}: {' '.join(bio_parts)}" + (f", syntymäpaikka {city}" if city else "")
+              + (f", {pr['heightInCentimeters']} cm" if pr.get("heightInCentimeters") else "") + ". " + desc_p)
     base = CFG["baseUrl"].rstrip("/")
     person = {"@type": "Person", "name": name, "nationality": {"@type": "Country", "name": "Suomi"}, "jobTitle": f"jääkiekon {posn}",
               "url": f"{base}/suomalaiset/{slugs[name]}.html"}
@@ -3738,6 +3810,10 @@ def render_player(name, t, pos, f, is_goalie, data, gd, slugs):
         person["birthPlace"] = {"@type": "Place", "name": L(pr.get("birthCity"))}
     if pr.get("heightInCentimeters"):
         person["height"] = {"@type": "QuantitativeValue", "value": pr["heightInCentimeters"], "unitCode": "CMT"}
+    if pr.get("weightInKilograms"):
+        person["weight"] = {"@type": "QuantitativeValue", "value": pr["weightInKilograms"], "unitCode": "KGM"}
+    if pre:
+        person["alumniOf"] = [{"@type": "SportsTeam", "name": c} for c in dict.fromkeys(r[1] for r in pre)]
     jl = {"@context": "https://schema.org", "@graph": [
         person,
         {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]}]}
