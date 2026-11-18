@@ -2033,6 +2033,128 @@
      }
     ]
    }
+  },
+  "2026020343": {
+   "id": 2026020343,
+   "away": "CGY",
+   "home": "SJS",
+   "awayScore": 5,
+   "homeScore": 2,
+   "start": "2026-11-18T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "03:53",
+     "team": "SJS",
+     "who": "Adam Gaudette",
+     "tag": "",
+     "ast": [
+      "Mason Marchment",
+      "Michael Misa"
+     ],
+     "fin": false,
+     "clip": "6408528671112",
+     "gtd": 2
+    },
+    {
+     "p": "1",
+     "t": "05:09",
+     "team": "CGY",
+     "who": "Matt Coronato",
+     "tag": "",
+     "ast": [
+      "Joel Farabee",
+      "Mikael Backlund"
+     ],
+     "fin": false,
+     "clip": "6408529917112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "19:22",
+     "team": "CGY",
+     "who": "Martin Pospisil",
+     "tag": "",
+     "ast": [
+      "Yan Kuznetsov",
+      "Zayne Parekh"
+     ],
+     "fin": false,
+     "clip": "6408529953112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "01:19",
+     "team": "CGY",
+     "who": "Simon Nemec",
+     "tag": "YV",
+     "ast": [
+      "Adam Klapka",
+      "Ryan Strome"
+     ],
+     "fin": false,
+     "clip": "6408530466112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "04:15",
+     "team": "CGY",
+     "who": "Jonathan Castagna",
+     "tag": "",
+     "ast": [
+      "Aydar Suniev",
+      "Maksim Tsyplakov"
+     ],
+     "fin": false,
+     "clip": "6408531902112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "15:22",
+     "team": "SJS",
+     "who": "Mason Marchment",
+     "tag": "YV",
+     "ast": [
+      "Tyler Toffoli",
+      "Will Smith"
+     ],
+     "fin": false,
+     "clip": "6408534543112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "19:00",
+     "team": "CGY",
+     "who": "Jonathan Castagna",
+     "tag": "TM",
+     "ast": [
+      "Martin Pospisil",
+      "Ryan Strome"
+     ],
+     "fin": false,
+     "clip": "6408533589112",
+     "gtd": 2
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "SAP Center at San Jose",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "SAP Center at San Jose",
+    "finStats": []
+   }
   }
  },
  "clipTries": 1
