@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CFG = json.load(open(os.path.join(ROOT, "config.json"), encoding="utf-8"))
 BASE = CFG["baseUrl"].rstrip("/")
 HOST = BASE.split("//", 1)[1]
-KEY = "0fb8e0f8d03566e609802e230c9cc404"
+KEY = "cbf3138e047450fc5a532fbc40a59efc"
 KEY_URL = f"{BASE}/{KEY}.txt"
 UA = CFG.get("userAgent") or "Punalamppu/1.0"
 ENDPOINTS = ["https://api.indexnow.org/indexnow", "https://www.bing.com/indexnow"]
