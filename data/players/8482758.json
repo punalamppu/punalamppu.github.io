@@ -277,6 +277,98 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20182019,
+   "lg": "U16 SM-sarja",
+   "team": "Kärpät U16",
+   "gp": 18,
+   "g": 13,
+   "a": 27,
+   "p": 40,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U18 SM-sarja",
+   "team": "Kärpät U18",
+   "gp": 37,
+   "g": 27,
+   "a": 44,
+   "p": 71,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "U20 SM-sarja",
+   "team": "Kärpät U20",
+   "gp": 38,
+   "g": 23,
+   "a": 26,
+   "p": 49,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 53,
+   "g": 11,
+   "a": 18,
+   "p": 29,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 52,
+   "g": 12,
+   "a": 16,
+   "p": 28,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "AHL",
+   "team": "Chicago Wolves",
+   "gp": 12,
+   "g": 1,
+   "a": 0,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 59,
+   "g": 22,
+   "a": 34,
+   "p": 56,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Wilkes-Barre/Scranton Penguins",
+   "gp": 63,
+   "g": 21,
+   "a": 35,
+   "p": 56,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Wilkes-Barre/Scranton Penguins",
+   "gp": 34,
+   "g": 13,
+   "a": 28,
+   "p": 41,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

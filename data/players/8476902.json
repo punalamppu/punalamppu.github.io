@@ -32,11 +32,11 @@
    "subSeason": {
     "assists": 1,
     "gameWinningGoals": 0,
-    "gamesPlayed": 15,
+    "gamesPlayed": 16,
     "goals": 0,
     "otGoals": 0,
     "pim": 2,
-    "plusMinus": 3,
+    "plusMinus": 2,
     "points": 1,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
@@ -101,6 +101,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020342,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "VGK",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 22,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "DAL",
+   "toi": "24:14"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-15",
@@ -172,24 +190,6 @@
    "shots": 2,
    "teamAbbrev": "DAL",
    "toi": "26:14"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-05",
-   "gameId": 2026020258,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "CBJ",
-   "pim": 0,
-   "plusMinus": -1,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 22,
-   "shorthandedGoals": 0,
-   "shots": 5,
-   "teamAbbrev": "DAL",
-   "toi": "26:05"
   }
  ],
  "isActive": true,
@@ -790,16 +790,16 @@
   },
   {
    "assists": 1,
-   "avgToi": "23:18",
+   "avgToi": "23:21",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 15,
+   "gamesPlayed": 16,
    "goals": 0,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 2,
-   "plusMinus": 3,
+   "plusMinus": 2,
    "points": 1,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
@@ -820,6 +820,158 @@
     "default": "Dallas",
     "fr": "de Dallas"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20082009,
+   "lg": "Jr. C SM-sarja",
+   "team": "Jokerit U16",
+   "gp": 8,
+   "g": 0,
+   "a": 3,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20092010,
+   "lg": "Fin-U18",
+   "team": "Jokerit U18",
+   "gp": 3,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "Fin-U18",
+   "team": "Jokerit U18",
+   "gp": 14,
+   "g": 5,
+   "a": 7,
+   "p": 12,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Fin-Jr.",
+   "team": "Jokerit Jr.",
+   "gp": 48,
+   "g": 21,
+   "a": 30,
+   "p": 51,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Finland-2",
+   "team": "K-Vantaa",
+   "gp": 2,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Fin-Jr.",
+   "team": "Jokerit Jr.",
+   "gp": 11,
+   "g": 5,
+   "a": 4,
+   "p": 9,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Finland-2",
+   "team": "K-Vantaa",
+   "gp": 22,
+   "g": 4,
+   "a": 6,
+   "p": 10,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Finland",
+   "team": "Jokerit",
+   "gp": 19,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Finland-2",
+   "team": "K-Vantaa",
+   "gp": 11,
+   "g": 2,
+   "a": 3,
+   "p": 5,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "WJC-A",
+   "team": "Czechia",
+   "gp": 7,
+   "g": 2,
+   "a": 3,
+   "p": 5,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Finland",
+   "team": "Jokerit",
+   "gp": 44,
+   "g": 2,
+   "a": 3,
+   "p": 5,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Finland",
+   "team": "Assat",
+   "gp": 57,
+   "g": 14,
+   "a": 21,
+   "p": 35,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "AHL",
+   "team": "Texas",
+   "gp": 5,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "AHL",
+   "team": "Texas",
+   "gp": 73,
+   "g": 14,
+   "a": 28,
+   "p": 42,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "AHL",
+   "team": "Texas Stars",
+   "gp": 2,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",

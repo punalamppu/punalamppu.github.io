@@ -353,6 +353,188 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20142015,
+   "lg": "U16 Aluesarja",
+   "team": "KJK U16",
+   "gp": 26,
+   "g": 42,
+   "a": 40,
+   "p": 82,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "U16 SM-sarja",
+   "team": "Ässät U16",
+   "gp": 17,
+   "g": 7,
+   "a": 10,
+   "p": 17,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "U16 Suomi-sarja",
+   "team": "KJK U16",
+   "gp": 2,
+   "g": 2,
+   "a": 1,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "U18 SM-sarja",
+   "team": "Ässät U18",
+   "gp": 35,
+   "g": 4,
+   "a": 17,
+   "p": 21,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U20 SM-liiga",
+   "team": "Ässät U20",
+   "gp": 33,
+   "g": 3,
+   "a": 14,
+   "p": 17,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U18 SM-sarja",
+   "team": "Ässät U18",
+   "gp": 17,
+   "g": 6,
+   "a": 16,
+   "p": 22,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "Liiga",
+   "team": "Lukko",
+   "gp": 34,
+   "g": 2,
+   "a": 12,
+   "p": 14,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "U20 SM-liiga",
+   "team": "Lukko U20",
+   "gp": 9,
+   "g": 1,
+   "a": 8,
+   "p": 9,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 3,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "Liiga",
+   "team": "Lukko",
+   "gp": 29,
+   "g": 0,
+   "a": 7,
+   "p": 7,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "Lukko",
+   "gp": 19,
+   "g": 1,
+   "a": 13,
+   "p": 14,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 19,
+   "g": 4,
+   "a": 7,
+   "p": 11,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 41,
+   "g": 5,
+   "a": 21,
+   "p": 26,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 48,
+   "g": 4,
+   "a": 33,
+   "p": 37,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 41,
+   "g": 10,
+   "a": 17,
+   "p": 27,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 2,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 44,
+   "g": 3,
+   "a": 18,
+   "p": 21,
+   "sv": null
+  },
+  {
+   "s": 20262027,
+   "lg": "AHL",
+   "team": "Henderson Silver Knights",
+   "gp": 9,
+   "g": 1,
+   "a": 4,
+   "p": 5,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

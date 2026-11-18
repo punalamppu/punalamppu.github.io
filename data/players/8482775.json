@@ -362,6 +362,138 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20182019,
+   "lg": "U16 SM-sarja",
+   "team": "KalPa U16",
+   "gp": 16,
+   "g": 8,
+   "a": 10,
+   "p": 18,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U18 SM-sarja",
+   "team": "KalPa U18",
+   "gp": 44,
+   "g": 23,
+   "a": 27,
+   "p": 50,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U20 SM-liiga",
+   "team": "KalPa U20",
+   "gp": 2,
+   "g": 1,
+   "a": 0,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "U20 SM-sarja",
+   "team": "KalPa U20",
+   "gp": 37,
+   "g": 25,
+   "a": 16,
+   "p": 41,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Mestis",
+   "team": "JoKP",
+   "gp": 5,
+   "g": 3,
+   "a": 2,
+   "p": 5,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Liiga",
+   "team": "KalPa",
+   "gp": 16,
+   "g": 1,
+   "a": 1,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "U20 SM-sarja",
+   "team": "KalPa U20",
+   "gp": 11,
+   "g": 7,
+   "a": 8,
+   "p": 15,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Mestis",
+   "team": "IPK",
+   "gp": 8,
+   "g": 1,
+   "a": 3,
+   "p": 4,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 2,
+   "g": 0,
+   "a": 2,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Liiga",
+   "team": "KalPa",
+   "gp": 55,
+   "g": 12,
+   "a": 15,
+   "p": 27,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "Liiga",
+   "team": "KalPa",
+   "gp": 51,
+   "g": 14,
+   "a": 20,
+   "p": 34,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "Spengler Cup",
+   "team": "KalPa",
+   "gp": 3,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "SHL",
+   "team": "Timrå IK",
+   "gp": 36,
+   "g": 15,
+   "a": 20,
+   "p": 35,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

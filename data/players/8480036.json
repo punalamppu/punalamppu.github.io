@@ -31,19 +31,19 @@
   "regularSeason": {
    "subSeason": {
     "assists": 8,
-    "gameWinningGoals": 1,
-    "gamesPlayed": 15,
-    "goals": 3,
-    "otGoals": 0,
+    "gameWinningGoals": 2,
+    "gamesPlayed": 16,
+    "goals": 4,
+    "otGoals": 1,
     "pim": 10,
-    "plusMinus": 2,
-    "points": 11,
+    "plusMinus": 3,
+    "points": 12,
     "powerPlayGoals": 0,
     "powerPlayPoints": 3,
-    "shootingPctg": 0.115385,
+    "shootingPctg": 0.148148,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 26
+    "shots": 27
    },
    "career": {
     "assists": 287,
@@ -100,6 +100,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020342,
+   "gameTypeId": 2,
+   "goals": 1,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "VGK",
+   "pim": 0,
+   "plusMinus": 1,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 25,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "DAL",
+   "toi": "26:44"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-03",
@@ -171,24 +189,6 @@
    "shots": 0,
    "teamAbbrev": "DAL",
    "toi": "25:29"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-10-25",
-   "gameId": 2026020181,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "NYI",
-   "pim": 2,
-   "plusMinus": -2,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 26,
-   "shorthandedGoals": 0,
-   "shots": 4,
-   "teamAbbrev": "DAL",
-   "toi": "21:56"
   }
  ],
  "isActive": true,
@@ -690,25 +690,25 @@
   },
   {
    "assists": 8,
-   "avgToi": "24:53",
+   "avgToi": "25:00",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
-   "gameWinningGoals": 1,
-   "gamesPlayed": 15,
-   "goals": 3,
+   "gameWinningGoals": 2,
+   "gamesPlayed": 16,
+   "goals": 4,
    "leagueAbbrev": "NHL",
-   "otGoals": 0,
+   "otGoals": 1,
    "pim": 10,
-   "plusMinus": 2,
-   "points": 11,
+   "plusMinus": 3,
+   "points": 12,
    "powerPlayGoals": 0,
    "powerPlayPoints": 3,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.115385,
+   "shootingPctg": 0.148148,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 26,
+   "shots": 27,
    "teamCommonName": {
     "default": "Stars"
    },
@@ -720,6 +720,108 @@
     "default": "Dallas",
     "fr": "de Dallas"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20132014,
+   "lg": "Jr. C SM-sarja",
+   "team": "HIFK U16",
+   "gp": 22,
+   "g": 4,
+   "a": 9,
+   "p": 13,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Jr. C Mestis",
+   "team": "HJK U16",
+   "gp": 1,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Jr. B SM-sarja",
+   "team": "HIFK U18",
+   "gp": 35,
+   "g": 7,
+   "a": 13,
+   "p": 20,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Jr. C SM-sarja",
+   "team": "HIFK U16",
+   "gp": 9,
+   "g": 2,
+   "a": 2,
+   "p": 4,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "U20 SM-liiga",
+   "team": "HIFK U20",
+   "gp": 30,
+   "g": 3,
+   "a": 11,
+   "p": 14,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "U18 SM-sarja",
+   "team": "HIFK U18",
+   "gp": 7,
+   "g": 0,
+   "a": 7,
+   "p": 7,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 37,
+   "g": 5,
+   "a": 5,
+   "p": 10,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "Champions HL",
+   "team": "HIFK",
+   "gp": 6,
+   "g": 0,
+   "a": 3,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 30,
+   "g": 11,
+   "a": 12,
+   "p": 23,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "Champions HL",
+   "team": "HIFK",
+   "gp": 3,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",

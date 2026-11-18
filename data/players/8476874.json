@@ -957,6 +957,88 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20082009,
+   "lg": "Jr. C SM-sarja",
+   "team": "JYP U16",
+   "gp": 1,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20092010,
+   "lg": "Fin-U18",
+   "team": "JyP U18",
+   "gp": 2,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20092010,
+   "lg": "Fin-Jr.",
+   "team": "JyP Jr.",
+   "gp": 1,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "Fin-U18",
+   "team": "JyP U18",
+   "gp": 1,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "Finland-2",
+   "team": "D Team",
+   "gp": 23,
+   "g": 1,
+   "a": 5,
+   "p": 6,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "Fin-Jr.",
+   "team": "JyP Jr.",
+   "gp": 19,
+   "g": 2,
+   "a": 6,
+   "p": 8,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "OHL",
+   "team": "London",
+   "gp": 58,
+   "g": 5,
+   "a": 27,
+   "p": 32,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "OHL",
+   "team": "London",
+   "gp": 57,
+   "g": 8,
+   "a": 30,
+   "p": 38,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

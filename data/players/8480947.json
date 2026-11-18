@@ -357,6 +357,168 @@
    "wins": 1
   }
  ],
+ "preNhl": [
+  {
+   "s": 20092010,
+   "lg": "Jr. C SM-sarja",
+   "team": "Kiekko-Vantaa U16",
+   "gp": 18,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.917
+  },
+  {
+   "s": 20102011,
+   "lg": "Jr. B SM-sarja",
+   "team": "Jokerit U18",
+   "gp": 5,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.936
+  },
+  {
+   "s": 20102011,
+   "lg": "Jr. C SM-sarja",
+   "team": "Jokerit U16",
+   "gp": 10,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.927
+  },
+  {
+   "s": 20112012,
+   "lg": "Jr. A SM-liiga",
+   "team": "Jokerit U20",
+   "gp": 2,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.95
+  },
+  {
+   "s": 20122013,
+   "lg": "Jr. A SM-liiga",
+   "team": "Jokerit U20",
+   "gp": 23,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.91
+  },
+  {
+   "s": 20132014,
+   "lg": "Liiga",
+   "team": "Jokerit",
+   "gp": 1,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.666
+  },
+  {
+   "s": 20142015,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 24,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.91
+  },
+  {
+   "s": 20142015,
+   "lg": "Mestis",
+   "team": "Kiekko-Vantaa",
+   "gp": 10,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.906
+  },
+  {
+   "s": 20152016,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 22,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.906
+  },
+  {
+   "s": 20152016,
+   "lg": "Liiga",
+   "team": "KooKoo",
+   "gp": 2,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.919
+  },
+  {
+   "s": 20162017,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 42,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.92
+  },
+  {
+   "s": 20172018,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 15,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.946
+  },
+  {
+   "s": 20172018,
+   "lg": "Mestis",
+   "team": "Ketterä",
+   "gp": 2,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.954
+  },
+  {
+   "s": 20182019,
+   "lg": "AHL",
+   "team": "Rockford IceHogs",
+   "gp": 19,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.91
+  },
+  {
+   "s": 20182019,
+   "lg": "ECHL",
+   "team": "Indy Fuel",
+   "gp": 6,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.893
+  },
+  {
+   "s": 20192020,
+   "lg": "AHL",
+   "team": "Rockford IceHogs",
+   "gp": 21,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.909
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

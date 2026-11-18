@@ -32,7 +32,7 @@
    "subSeason": {
     "assists": 4,
     "gameWinningGoals": 0,
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "goals": 4,
     "otGoals": 0,
     "pim": 10,
@@ -40,15 +40,15 @@
     "points": 8,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
-    "shootingPctg": 0.16,
+    "shootingPctg": 0.148148,
     "shorthandedGoals": 1,
     "shorthandedPoints": 1,
-    "shots": 25
+    "shots": 27
    },
    "career": {
     "assists": 120,
     "gameWinningGoals": 13,
-    "gamesPlayed": 671,
+    "gamesPlayed": 672,
     "goals": 120,
     "otGoals": 0,
     "pim": 232,
@@ -56,10 +56,10 @@
     "points": 240,
     "powerPlayGoals": 8,
     "powerPlayPoints": 25,
-    "shootingPctg": 0.1012,
+    "shootingPctg": 0.10099999999999999,
     "shorthandedGoals": 22,
     "shorthandedPoints": 28,
-    "shots": 1185
+    "shots": 1187
    }
   }
  },
@@ -69,7 +69,7 @@
    "avgToi": "14:30",
    "faceoffWinningPctg": 0.314,
    "gameWinningGoals": 13,
-   "gamesPlayed": 671,
+   "gamesPlayed": 672,
    "goals": 120,
    "otGoals": 0,
    "pim": 232,
@@ -77,10 +77,10 @@
    "points": 240,
    "powerPlayGoals": 8,
    "powerPlayPoints": 25,
-   "shootingPctg": 0.1012,
+   "shootingPctg": 0.10099999999999999,
    "shorthandedGoals": 22,
    "shorthandedPoints": 28,
-   "shots": 1185
+   "shots": 1187
   },
   "playoffs": {
    "assists": 7,
@@ -102,6 +102,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020333,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "BOS",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 22,
+   "shorthandedGoals": 0,
+   "shots": 2,
+   "teamAbbrev": "LAK",
+   "toi": "13:12"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-14",
@@ -173,24 +191,6 @@
    "shots": 1,
    "teamAbbrev": "LAK",
    "toi": "11:50"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-04",
-   "gameId": 2026020249,
-   "gameTypeId": 2,
-   "goals": 1,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "SJS",
-   "pim": 4,
-   "plusMinus": 2,
-   "points": 1,
-   "powerPlayGoals": 0,
-   "shifts": 20,
-   "shorthandedGoals": 0,
-   "shots": 1,
-   "teamAbbrev": "LAK",
-   "toi": "12:51"
   }
  ],
  "isActive": true,
@@ -762,7 +762,7 @@
    "faceoffWinningPctg": 0.333333,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 18,
+   "gamesPlayed": 19,
    "goals": 4,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
@@ -773,10 +773,10 @@
    "powerPlayPoints": 0,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.16,
+   "shootingPctg": 0.148148,
    "shorthandedGoals": 1,
    "shorthandedPoints": 1,
-   "shots": 25,
+   "shots": 27,
    "teamCommonName": {
     "default": "Kings"
    },
@@ -788,6 +788,128 @@
     "default": "Los Angeles",
     "fr": "de Los Angeles"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20072008,
+   "lg": "Jr. C I-divisioona Q",
+   "team": "Ässät U16",
+   "gp": 1,
+   "g": 1,
+   "a": 1,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20082009,
+   "lg": "Fin-U18",
+   "team": "Assat U18",
+   "gp": 8,
+   "g": 3,
+   "a": 1,
+   "p": 4,
+   "sv": null
+  },
+  {
+   "s": 20092010,
+   "lg": "Fin-U18",
+   "team": "Assat U18",
+   "gp": 9,
+   "g": 7,
+   "a": 9,
+   "p": 16,
+   "sv": null
+  },
+  {
+   "s": 20092010,
+   "lg": "Fin-Jr.",
+   "team": "Assat Jr.",
+   "gp": 27,
+   "g": 15,
+   "a": 6,
+   "p": 21,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "Finland",
+   "team": "Assat",
+   "gp": 48,
+   "g": 18,
+   "a": 11,
+   "p": 29,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Finland",
+   "team": "Assat",
+   "gp": 54,
+   "g": 18,
+   "a": 20,
+   "p": 38,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Finland",
+   "team": "Assat",
+   "gp": 47,
+   "g": 19,
+   "a": 14,
+   "p": 33,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "AHL",
+   "team": "Rochester",
+   "gp": 54,
+   "g": 7,
+   "a": 20,
+   "p": 27,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "AHL",
+   "team": "Rochester",
+   "gp": 33,
+   "g": 10,
+   "a": 15,
+   "p": 25,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "AHL",
+   "team": "St. John's",
+   "gp": 21,
+   "g": 2,
+   "a": 6,
+   "p": 8,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "AHL",
+   "team": "Manitoba",
+   "gp": 18,
+   "g": 3,
+   "a": 5,
+   "p": 8,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "AHL",
+   "team": "Laval Rocket",
+   "gp": 8,
+   "g": 6,
+   "a": 3,
+   "p": 9,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",

@@ -691,6 +691,78 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20142015,
+   "lg": "Jr. C SM-sarja",
+   "team": "Ässät U16",
+   "gp": 30,
+   "g": 21,
+   "a": 12,
+   "p": 33,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "U20 SM-liiga",
+   "team": "Ässät U20",
+   "gp": 23,
+   "g": 5,
+   "a": 10,
+   "p": 15,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "U18 Mestis",
+   "team": "Ässät U18",
+   "gp": 6,
+   "g": 5,
+   "a": 12,
+   "p": 17,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "U20 SM-liiga",
+   "team": "Ässät U20",
+   "gp": 17,
+   "g": 9,
+   "a": 6,
+   "p": 15,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "Liiga",
+   "team": "Ässät",
+   "gp": 57,
+   "g": 10,
+   "a": 19,
+   "p": 29,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "AHL",
+   "team": "Laval Rocket",
+   "gp": 13,
+   "g": 1,
+   "a": 12,
+   "p": 13,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "Ässät",
+   "gp": 10,
+   "g": 2,
+   "a": 6,
+   "p": 8,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

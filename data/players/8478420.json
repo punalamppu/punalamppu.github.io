@@ -30,20 +30,20 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "assists": 13,
+    "assists": 16,
     "gameWinningGoals": 1,
-    "gamesPlayed": 20,
-    "goals": 9,
+    "gamesPlayed": 21,
+    "goals": 10,
     "otGoals": 1,
     "pim": 16,
-    "plusMinus": 6,
-    "points": 22,
+    "plusMinus": 10,
+    "points": 26,
     "powerPlayGoals": 2,
     "powerPlayPoints": 8,
-    "shootingPctg": 0.236842,
+    "shootingPctg": 0.232558,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 38
+    "shots": 43
    },
    "career": {
     "assists": 479,
@@ -102,6 +102,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 3,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020342,
+   "gameTypeId": 2,
+   "goals": 1,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "VGK",
+   "pim": 0,
+   "plusMinus": 4,
+   "points": 4,
+   "powerPlayGoals": 0,
+   "shifts": 20,
+   "shorthandedGoals": 0,
+   "shots": 5,
+   "teamAbbrev": "DAL",
+   "toi": "24:24"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-15",
@@ -173,24 +191,6 @@
    "shots": 3,
    "teamAbbrev": "DAL",
    "toi": "15:59"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-05",
-   "gameId": 2026020258,
-   "gameTypeId": 2,
-   "goals": 1,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "CBJ",
-   "pim": 0,
-   "plusMinus": 1,
-   "points": 1,
-   "powerPlayGoals": 0,
-   "shifts": 25,
-   "shorthandedGoals": 0,
-   "shots": 2,
-   "teamAbbrev": "DAL",
-   "toi": "19:13"
   }
  ],
  "isActive": true,
@@ -922,26 +922,26 @@
    }
   },
   {
-   "assists": 13,
-   "avgToi": "19:54",
-   "faceoffWinningPctg": 0.472222,
+   "assists": 16,
+   "avgToi": "20:07",
+   "faceoffWinningPctg": 0.459459,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 20,
-   "goals": 9,
+   "gamesPlayed": 21,
+   "goals": 10,
    "leagueAbbrev": "NHL",
    "otGoals": 1,
    "pim": 16,
-   "plusMinus": 6,
-   "points": 22,
+   "plusMinus": 10,
+   "points": 26,
    "powerPlayGoals": 2,
    "powerPlayPoints": 8,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.236842,
+   "shootingPctg": 0.232558,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 38,
+   "shots": 43,
    "teamCommonName": {
     "default": "Stars"
    },
@@ -953,6 +953,118 @@
     "default": "Dallas",
     "fr": "de Dallas"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20102011,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "TPS U16",
+   "gp": 10,
+   "g": 7,
+   "a": 7,
+   "p": 14,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Fin-U18",
+   "team": "TPS U18",
+   "gp": 22,
+   "g": 5,
+   "a": 8,
+   "p": 13,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Fin-U18",
+   "team": "TPS U18",
+   "gp": 5,
+   "g": 2,
+   "a": 6,
+   "p": 8,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Fin-Jr.",
+   "team": "TPS Jr.",
+   "gp": 35,
+   "g": 10,
+   "a": 14,
+   "p": 24,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Finland",
+   "team": "TPS",
+   "gp": 15,
+   "g": 2,
+   "a": 1,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Fin-U18",
+   "team": "TPS U18",
+   "gp": 2,
+   "g": 0,
+   "a": 2,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Fin-Jr.",
+   "team": "TPS Jr.",
+   "gp": 17,
+   "g": 5,
+   "a": 13,
+   "p": 18,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Finland",
+   "team": "TPS",
+   "gp": 37,
+   "g": 5,
+   "a": 4,
+   "p": 9,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Finland",
+   "team": "TPS",
+   "gp": 56,
+   "g": 9,
+   "a": 19,
+   "p": 28,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "AHL",
+   "team": "San Antonio",
+   "gp": 52,
+   "g": 24,
+   "a": 36,
+   "p": 60,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "AHL",
+   "team": "San Antonio Rampage",
+   "gp": 4,
+   "g": 0,
+   "a": 2,
+   "p": 2,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",

@@ -29,20 +29,20 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "gamesPlayed": 5,
-    "goalsAgainstAvg": 3.125678,
-    "losses": 1,
+    "gamesPlayed": 6,
+    "goalsAgainstAvg": 4.001212,
+    "losses": 2,
     "otLosses": 0,
-    "savePctg": 0.885714,
+    "savePctg": 0.8625,
     "shutouts": 0,
     "wins": 4
    },
    "career": {
-    "gamesPlayed": 85,
-    "goalsAgainstAvg": 2.8877,
-    "losses": 33,
+    "gamesPlayed": 86,
+    "goalsAgainstAvg": 2.951179,
+    "losses": 34,
     "otLosses": 5,
-    "savePctg": 0.898531,
+    "savePctg": 0.896724,
     "shutouts": 3,
     "wins": 39
    }
@@ -51,22 +51,37 @@
  "careerTotals": {
   "regularSeason": {
    "assists": 1,
-   "gamesPlayed": 85,
-   "gamesStarted": 72,
+   "gamesPlayed": 86,
+   "gamesStarted": 73,
    "goals": 0,
-   "goalsAgainst": 222,
-   "goalsAgainstAvg": 2.8877,
-   "losses": 33,
+   "goalsAgainst": 228,
+   "goalsAgainstAvg": 2.951179,
+   "losses": 34,
    "otLosses": 5,
    "pim": 2,
-   "savePctg": 0.898531,
-   "shotsAgainst": 2178,
+   "savePctg": 0.896724,
+   "shotsAgainst": 2198,
    "shutouts": 3,
-   "timeOnIce": "4612:40",
+   "timeOnIce": "4635:26",
    "wins": 39
   }
  },
  "last5Games": [
+  {
+   "decision": "L",
+   "gameDate": "2026-11-17",
+   "gameId": 2026020340,
+   "gameTypeId": 2,
+   "gamesStarted": 1,
+   "goalsAgainst": 6,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "MIN",
+   "penaltyMins": 0,
+   "savePctg": 0.7,
+   "shotsAgainst": 20,
+   "teamAbbrev": "NSH",
+   "toi": "22:46"
+  },
   {
    "decision": "W",
    "gameDate": "2026-11-11",
@@ -124,21 +139,6 @@
    "penaltyMins": 0,
    "savePctg": 0.904762,
    "shotsAgainst": 21,
-   "teamAbbrev": "NSH",
-   "toi": "60:00"
-  },
-  {
-   "decision": "L",
-   "gameDate": "2026-10-22",
-   "gameId": 2026020154,
-   "gameTypeId": 2,
-   "gamesStarted": 1,
-   "goalsAgainst": 6,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "BOS",
-   "penaltyMins": 0,
-   "savePctg": 0.806452,
-   "shotsAgainst": 31,
    "teamAbbrev": "NSH",
    "toi": "60:00"
   }
@@ -329,19 +329,19 @@
   {
    "assists": 0,
    "gameTypeId": 2,
-   "gamesPlayed": 5,
-   "gamesStarted": 5,
+   "gamesPlayed": 6,
+   "gamesStarted": 6,
    "goals": 0,
-   "goalsAgainst": 16,
-   "goalsAgainstAvg": 3.125678,
+   "goalsAgainst": 22,
+   "goalsAgainstAvg": 4.001212,
    "leagueAbbrev": "NHL",
-   "losses": 1,
+   "losses": 2,
    "otLosses": 0,
    "pim": 0,
-   "savePctg": 0.885714,
+   "savePctg": 0.8625,
    "season": 20262027,
    "sequence": 1,
-   "shotsAgainst": 140,
+   "shotsAgainst": 160,
    "shutouts": 0,
    "teamCommonName": {
     "default": "Predators"
@@ -354,8 +354,150 @@
     "default": "Nashville",
     "fr": "de Nashville"
    },
-   "timeOnIce": "307:08",
+   "timeOnIce": "329:54",
    "wins": 4
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20142015,
+   "lg": "Jr. B Mestis",
+   "team": "Kiekko-Laser U18",
+   "gp": 2,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.909
+  },
+  {
+   "s": 20152016,
+   "lg": "U18 Mestis",
+   "team": "Kiekko-Laser U18",
+   "gp": 7,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.938
+  },
+  {
+   "s": 20152016,
+   "lg": "U18 SM-sarja",
+   "team": "Kiekko-Laser U18",
+   "gp": 10,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.925
+  },
+  {
+   "s": 20162017,
+   "lg": "U18 SM-sarja",
+   "team": "Kärpät U18",
+   "gp": 30,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.926
+  },
+  {
+   "s": 20172018,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 1,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.892
+  },
+  {
+   "s": 20172018,
+   "lg": "U20 SM-sarja",
+   "team": "Kärpät U20",
+   "gp": 26,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.907
+  },
+  {
+   "s": 20182019,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 1,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.818
+  },
+  {
+   "s": 20182019,
+   "lg": "Mestis",
+   "team": "Hermes",
+   "gp": 22,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.891
+  },
+  {
+   "s": 20192020,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 23,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.929
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 24,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.884
+  },
+  {
+   "s": 20202021,
+   "lg": "AHL",
+   "team": "Colorado Eagles",
+   "gp": 2,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.9
+  },
+  {
+   "s": 20212022,
+   "lg": "AHL",
+   "team": "Colorado Eagles",
+   "gp": 48,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.893
+  },
+  {
+   "s": 20222023,
+   "lg": "AHL",
+   "team": "Colorado Eagles",
+   "gp": 41,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.916
+  },
+  {
+   "s": 20232024,
+   "lg": "AHL",
+   "team": "Colorado Eagles",
+   "gp": 23,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.908
   }
  ],
  "_fetched": "2026-11-18",

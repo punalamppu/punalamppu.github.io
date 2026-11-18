@@ -190,6 +190,138 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20182019,
+   "lg": "U16 Mestis",
+   "team": "YJK U16",
+   "gp": 13,
+   "g": 8,
+   "a": 19,
+   "p": 27,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U18 SM-sarja",
+   "team": "Ässät U18",
+   "gp": 14,
+   "g": 4,
+   "a": 2,
+   "p": 6,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U16 SM-sarja",
+   "team": "Ässät U16",
+   "gp": 9,
+   "g": 10,
+   "a": 7,
+   "p": 17,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "U18 SM-sarja",
+   "team": "Ässät U18",
+   "gp": 31,
+   "g": 23,
+   "a": 37,
+   "p": 60,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "U20 SM-sarja",
+   "team": "Ässät U20",
+   "gp": 1,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "U20 SM-sarja",
+   "team": "Ässät U20",
+   "gp": 42,
+   "g": 21,
+   "a": 16,
+   "p": 37,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "U18 SM-sarja",
+   "team": "Ässät U18",
+   "gp": 4,
+   "g": 5,
+   "a": 6,
+   "p": 11,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Mestis",
+   "team": "Hermes",
+   "gp": 3,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Liiga",
+   "team": "Ässät",
+   "gp": 51,
+   "g": 9,
+   "a": 12,
+   "p": 21,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "Liiga",
+   "team": "Ässät",
+   "gp": 46,
+   "g": 14,
+   "a": 17,
+   "p": 31,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "Liiga",
+   "team": "Ässät",
+   "gp": 58,
+   "g": 20,
+   "a": 31,
+   "p": 51,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Utica Comets",
+   "gp": 37,
+   "g": 10,
+   "a": 16,
+   "p": 26,
+   "sv": null
+  },
+  {
+   "s": 20262027,
+   "lg": "AHL",
+   "team": "Utica Comets",
+   "gp": 11,
+   "g": 6,
+   "a": 3,
+   "p": 9,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

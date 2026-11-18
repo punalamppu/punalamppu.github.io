@@ -802,6 +802,68 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20092010,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "Tappara U16",
+   "gp": 8,
+   "g": 6,
+   "a": 8,
+   "p": 14,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "Fin-U18",
+   "team": "Tappara U18",
+   "gp": 11,
+   "g": 7,
+   "a": 8,
+   "p": 15,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "Fin-Jr.",
+   "team": "Tappara Jr.",
+   "gp": 25,
+   "g": 5,
+   "a": 12,
+   "p": 17,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Fin-Jr.",
+   "team": "Tappara Jr.",
+   "gp": 5,
+   "g": 2,
+   "a": 3,
+   "p": 5,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Finland",
+   "team": "Tappara",
+   "gp": 32,
+   "g": 7,
+   "a": 9,
+   "p": 16,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Finland",
+   "team": "Tappara",
+   "gp": 53,
+   "g": 21,
+   "a": 27,
+   "p": 48,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

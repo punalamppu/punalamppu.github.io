@@ -32,11 +32,11 @@
    "subSeason": {
     "assists": 3,
     "gameWinningGoals": 1,
-    "gamesPlayed": 22,
+    "gamesPlayed": 23,
     "goals": 2,
     "otGoals": 0,
     "pim": 16,
-    "plusMinus": 2,
+    "plusMinus": 0,
     "points": 5,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
@@ -48,11 +48,11 @@
    "career": {
     "assists": 59,
     "gameWinningGoals": 1,
-    "gamesPlayed": 418,
+    "gamesPlayed": 419,
     "goals": 19,
     "otGoals": 0,
     "pim": 326,
-    "plusMinus": 16,
+    "plusMinus": 14,
     "points": 78,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
@@ -68,11 +68,11 @@
    "assists": 59,
    "avgToi": "18:44",
    "gameWinningGoals": 1,
-   "gamesPlayed": 418,
+   "gamesPlayed": 419,
    "goals": 19,
    "otGoals": 0,
    "pim": 326,
-   "plusMinus": 16,
+   "plusMinus": 14,
    "points": 78,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
@@ -100,6 +100,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020335,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "EDM",
+   "pim": 0,
+   "plusMinus": -2,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 24,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "FLA",
+   "toi": "18:58"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-15",
@@ -171,24 +189,6 @@
    "shots": 2,
    "teamAbbrev": "FLA",
    "toi": "20:50"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-08",
-   "gameId": 2026020277,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "BOS",
-   "pim": 0,
-   "plusMinus": -3,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 27,
-   "shorthandedGoals": 0,
-   "shots": 0,
-   "teamAbbrev": "FLA",
-   "toi": "18:19"
   }
  ],
  "isActive": true,
@@ -624,16 +624,16 @@
   },
   {
    "assists": 3,
-   "avgToi": "19:34",
+   "avgToi": "19:32",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 22,
+   "gamesPlayed": 23,
    "goals": 2,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 16,
-   "plusMinus": 2,
+   "plusMinus": 0,
    "points": 5,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
@@ -654,6 +654,158 @@
     "default": "Florida",
     "fr": "de la Floride"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20102011,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "Kärpät U16",
+   "gp": 1,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "Kärpät U16",
+   "gp": 8,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Fin-U18",
+   "team": "KalPa U18",
+   "gp": 12,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Fin-U18",
+   "team": "KalPa U18",
+   "gp": 46,
+   "g": 4,
+   "a": 13,
+   "p": 17,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Fin-Jr.",
+   "team": "KalPa Jr.",
+   "gp": 37,
+   "g": 9,
+   "a": 14,
+   "p": 23,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Finland",
+   "team": "KalPa",
+   "gp": 10,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Finland-2",
+   "team": "Hokki",
+   "gp": 5,
+   "g": 1,
+   "a": 0,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "Liiga",
+   "team": "KalPa",
+   "gp": 55,
+   "g": 3,
+   "a": 6,
+   "p": 9,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "Champions HL",
+   "team": "KalPa",
+   "gp": 4,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "Liiga",
+   "team": "KalPa",
+   "gp": 56,
+   "g": 4,
+   "a": 11,
+   "p": 15,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "Champions HL",
+   "team": "KalPa",
+   "gp": 8,
+   "g": 0,
+   "a": 2,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "Liiga",
+   "team": "Tappara",
+   "gp": 50,
+   "g": 2,
+   "a": 9,
+   "p": 11,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "Champions HL",
+   "team": "Tappara",
+   "gp": 8,
+   "g": 0,
+   "a": 2,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "AHL",
+   "team": "San Antonio Rampage",
+   "gp": 70,
+   "g": 2,
+   "a": 7,
+   "p": 9,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "AHL",
+   "team": "San Antonio Rampage",
+   "gp": 48,
+   "g": 2,
+   "a": 12,
+   "p": 14,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",

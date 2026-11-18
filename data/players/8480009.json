@@ -624,6 +624,128 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20122013,
+   "lg": "Jr. C SM-sarja",
+   "team": "Blues U16 Akatemia",
+   "gp": 1,
+   "g": 2,
+   "a": 0,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Jr. B SM-sarja",
+   "team": "Blues U18",
+   "gp": 10,
+   "g": 2,
+   "a": 4,
+   "p": 6,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Jr. C SM-sarja",
+   "team": "Blues U16",
+   "gp": 28,
+   "g": 43,
+   "a": 33,
+   "p": 76,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Jr. C SM-sarja",
+   "team": "Blues U16 Akatemia",
+   "gp": 1,
+   "g": 1,
+   "a": 1,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Jr. A SM-liiga",
+   "team": "Kiekko-Espoo U20",
+   "gp": 7,
+   "g": 2,
+   "a": 3,
+   "p": 5,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Jr. B SM-sarja",
+   "team": "Blues U18",
+   "gp": 41,
+   "g": 39,
+   "a": 45,
+   "p": 84,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "USHL",
+   "team": "Sioux City Musketeers",
+   "gp": 49,
+   "g": 17,
+   "a": 21,
+   "p": 38,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "USHL",
+   "team": "Sioux City Musketeers",
+   "gp": 52,
+   "g": 30,
+   "a": 24,
+   "p": 54,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "KHL",
+   "team": "Jokerit",
+   "gp": 49,
+   "g": 19,
+   "a": 17,
+   "p": 36,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "AHL",
+   "team": "Milwaukee Admirals",
+   "gp": 58,
+   "g": 15,
+   "a": 20,
+   "p": 35,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "AHL",
+   "team": "Milwaukee Admirals",
+   "gp": 63,
+   "g": 21,
+   "a": 15,
+   "p": 36,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "KHL",
+   "team": "Jokerit",
+   "gp": 25,
+   "g": 5,
+   "a": 8,
+   "p": 13,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

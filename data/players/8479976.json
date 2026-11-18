@@ -462,6 +462,138 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20122013,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "Ilves U16",
+   "gp": 8,
+   "g": 3,
+   "a": 3,
+   "p": 6,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Jr. B SM-sarja",
+   "team": "Ilves U18",
+   "gp": 44,
+   "g": 7,
+   "a": 26,
+   "p": 33,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "U20 SM-sarja",
+   "team": "Ilves U20",
+   "gp": 44,
+   "g": 5,
+   "a": 15,
+   "p": 20,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "WHL",
+   "team": "Tri-City Americans",
+   "gp": 56,
+   "g": 7,
+   "a": 25,
+   "p": 32,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "WHL",
+   "team": "Tri-City Americans",
+   "gp": 60,
+   "g": 19,
+   "a": 42,
+   "p": 61,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "WHL",
+   "team": "Tri-City Americans",
+   "gp": 43,
+   "g": 14,
+   "a": 31,
+   "p": 45,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "AHL",
+   "team": "Stockton Heat",
+   "gp": 20,
+   "g": 4,
+   "a": 10,
+   "p": 14,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "Ilves",
+   "gp": 19,
+   "g": 2,
+   "a": 17,
+   "p": 19,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "AHL",
+   "team": "Stockton Heat",
+   "gp": 35,
+   "g": 2,
+   "a": 16,
+   "p": 18,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Tucson Roadrunners",
+   "gp": 1,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Tucson Roadrunners",
+   "gp": 3,
+   "g": 1,
+   "a": 2,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Chicago Wolves",
+   "gp": 24,
+   "g": 6,
+   "a": 14,
+   "p": 20,
+   "sv": null
+  },
+  {
+   "s": 20262027,
+   "lg": "AHL",
+   "team": "Chicago Wolves",
+   "gp": 2,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

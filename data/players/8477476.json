@@ -859,6 +859,128 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20092010,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "TPS U16",
+   "gp": 6,
+   "g": 7,
+   "a": 8,
+   "p": 15,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "Fin-U18",
+   "team": "TPS U18",
+   "gp": 28,
+   "g": 23,
+   "a": 15,
+   "p": 38,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "Fin-Jr.",
+   "team": "TPS Jr.",
+   "gp": 2,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Fin-U18",
+   "team": "TPS U18",
+   "gp": 3,
+   "g": 4,
+   "a": 6,
+   "p": 10,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Fin-Jr.",
+   "team": "TPS Jr.",
+   "gp": 40,
+   "g": 28,
+   "a": 26,
+   "p": 54,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Finland",
+   "team": "TPS",
+   "gp": 18,
+   "g": 2,
+   "a": 2,
+   "p": 4,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Finland",
+   "team": "KalPa",
+   "gp": 45,
+   "g": 14,
+   "a": 16,
+   "p": 30,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Finland",
+   "team": "KalPa",
+   "gp": 33,
+   "g": 7,
+   "a": 13,
+   "p": 20,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Sweden",
+   "team": "Frolunda",
+   "gp": 47,
+   "g": 8,
+   "a": 8,
+   "p": 16,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "SHL",
+   "team": "Frölunda HC",
+   "gp": 49,
+   "g": 16,
+   "a": 17,
+   "p": 33,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "Champions HL",
+   "team": "Frölunda HC",
+   "gp": 13,
+   "g": 5,
+   "a": 7,
+   "p": 12,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "Champions HL",
+   "team": "Frölunda HC",
+   "gp": 4,
+   "g": 1,
+   "a": 0,
+   "p": 1,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

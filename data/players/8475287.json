@@ -32,7 +32,7 @@
    "subSeason": {
     "assists": 4,
     "gameWinningGoals": 0,
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "goals": 3,
     "otGoals": 0,
     "pim": 12,
@@ -48,7 +48,7 @@
    "career": {
     "assists": 212,
     "gameWinningGoals": 23,
-    "gamesPlayed": 858,
+    "gamesPlayed": 859,
     "goals": 170,
     "otGoals": 1,
     "pim": 459,
@@ -67,9 +67,9 @@
   "regularSeason": {
    "assists": 212,
    "avgToi": "15:01",
-   "faceoffWinningPctg": 0.5214,
+   "faceoffWinningPctg": 0.5212,
    "gameWinningGoals": 23,
-   "gamesPlayed": 858,
+   "gamesPlayed": 859,
    "goals": 170,
    "otGoals": 1,
    "pim": 459,
@@ -102,6 +102,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020333,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "BOS",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 27,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "LAK",
+   "toi": "15:05"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-14",
@@ -173,24 +191,6 @@
    "shots": 0,
    "teamAbbrev": "LAK",
    "toi": "15:13"
-  },
-  {
-   "assists": 1,
-   "gameDate": "2026-11-04",
-   "gameId": 2026020249,
-   "gameTypeId": 2,
-   "goals": 1,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "SJS",
-   "pim": 0,
-   "plusMinus": 2,
-   "points": 2,
-   "powerPlayGoals": 0,
-   "shifts": 22,
-   "shorthandedGoals": 0,
-   "shots": 2,
-   "teamAbbrev": "LAK",
-   "toi": "14:29"
   }
  ],
  "isActive": true,
@@ -989,11 +989,11 @@
   },
   {
    "assists": 4,
-   "avgToi": "15:34",
-   "faceoffWinningPctg": 0.492958,
+   "avgToi": "15:32",
+   "faceoffWinningPctg": 0.484716,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 18,
+   "gamesPlayed": 19,
    "goals": 3,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
@@ -1019,6 +1019,118 @@
     "default": "Los Angeles",
     "fr": "de Los Angeles"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20052006,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "Ässät U16",
+   "gp": 9,
+   "g": 9,
+   "a": 7,
+   "p": 16,
+   "sv": null
+  },
+  {
+   "s": 20062007,
+   "lg": "Fin-U18",
+   "team": "Assat U18",
+   "gp": 29,
+   "g": 19,
+   "a": 24,
+   "p": 43,
+   "sv": null
+  },
+  {
+   "s": 20072008,
+   "lg": "Fin-U18",
+   "team": "Assat U18",
+   "gp": 3,
+   "g": 1,
+   "a": 1,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20072008,
+   "lg": "Fin-Jr.",
+   "team": "Assat Jr.",
+   "gp": 40,
+   "g": 7,
+   "a": 15,
+   "p": 22,
+   "sv": null
+  },
+  {
+   "s": 20082009,
+   "lg": "High-MN",
+   "team": "Shat.-St. Mary's",
+   "gp": 53,
+   "g": 26,
+   "a": 58,
+   "p": 84,
+   "sv": null
+  },
+  {
+   "s": 20092010,
+   "lg": "USHL",
+   "team": "Omaha",
+   "gp": 56,
+   "g": 28,
+   "a": 44,
+   "p": 72,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "WCHA",
+   "team": "U. of Minnesota",
+   "gp": 34,
+   "g": 6,
+   "a": 18,
+   "p": 24,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "WCHA",
+   "team": "U. of Minnesota",
+   "gp": 43,
+   "g": 20,
+   "a": 29,
+   "p": 49,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "WCHA",
+   "team": "U. of Minnesota",
+   "gp": 37,
+   "g": 16,
+   "a": 35,
+   "p": 51,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "AHL",
+   "team": "Houston",
+   "gp": 6,
+   "g": 0,
+   "a": 2,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "AHL",
+   "team": "Iowa",
+   "gp": 31,
+   "g": 14,
+   "a": 13,
+   "p": 27,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",

@@ -32,11 +32,11 @@
    "subSeason": {
     "assists": 1,
     "gameWinningGoals": 1,
-    "gamesPlayed": 9,
+    "gamesPlayed": 10,
     "goals": 1,
     "otGoals": 0,
-    "pim": 0,
-    "plusMinus": 0,
+    "pim": 2,
+    "plusMinus": 2,
     "points": 2,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
@@ -48,11 +48,11 @@
    "career": {
     "assists": 1,
     "gameWinningGoals": 1,
-    "gamesPlayed": 14,
+    "gamesPlayed": 15,
     "goals": 1,
     "otGoals": 0,
-    "pim": 0,
-    "plusMinus": -6,
+    "pim": 2,
+    "plusMinus": -4,
     "points": 2,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
@@ -66,14 +66,14 @@
  "careerTotals": {
   "regularSeason": {
    "assists": 1,
-   "avgToi": "11:36",
+   "avgToi": "11:46",
    "faceoffWinningPctg": 0.5,
    "gameWinningGoals": 1,
-   "gamesPlayed": 14,
+   "gamesPlayed": 15,
    "goals": 1,
    "otGoals": 0,
-   "pim": 0,
-   "plusMinus": -6,
+   "pim": 2,
+   "plusMinus": -4,
    "points": 2,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
@@ -84,6 +84,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020339,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "ANA",
+   "pim": 2,
+   "plusMinus": 2,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 19,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "STL",
+   "toi": "14:12"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-14",
@@ -155,24 +173,6 @@
    "shots": 1,
    "teamAbbrev": "STL",
    "toi": "10:40"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-10-29",
-   "gameId": 2026020207,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "BOS",
-   "pim": 0,
-   "plusMinus": 0,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 18,
-   "shorthandedGoals": 0,
-   "shots": 0,
-   "teamAbbrev": "STL",
-   "toi": "13:10"
   }
  ],
  "isActive": true,
@@ -212,16 +212,16 @@
   },
   {
    "assists": 1,
-   "avgToi": "12:16",
+   "avgToi": "12:28",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 9,
+   "gamesPlayed": 10,
    "goals": 1,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
-   "pim": 0,
-   "plusMinus": 0,
+   "pim": 2,
+   "plusMinus": 2,
    "points": 2,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
@@ -242,6 +242,138 @@
     "default": "St. Louis",
     "fr": "de St. Louis"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20182019,
+   "lg": "U16 SM-sarja",
+   "team": "Jokipojat U16",
+   "gp": 18,
+   "g": 12,
+   "a": 12,
+   "p": 24,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U16 SM-sarja",
+   "team": "Jokipojat U16",
+   "gp": 6,
+   "g": 7,
+   "a": 9,
+   "p": 16,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U18 Mestis",
+   "team": "Jokipojat U18",
+   "gp": 7,
+   "g": 10,
+   "a": 7,
+   "p": 17,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "U20 SM-sarja",
+   "team": "HIFK U20",
+   "gp": 13,
+   "g": 1,
+   "a": 1,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "U18 SM-sarja",
+   "team": "HIFK U18",
+   "gp": 3,
+   "g": 2,
+   "a": 0,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "U20 SM-sarja",
+   "team": "HIFK U20",
+   "gp": 31,
+   "g": 19,
+   "a": 21,
+   "p": 40,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 4,
+   "g": 1,
+   "a": 1,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 41,
+   "g": 3,
+   "a": 4,
+   "p": 7,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "U20 SM-sarja",
+   "team": "HIFK U20",
+   "gp": 4,
+   "g": 1,
+   "a": 4,
+   "p": 5,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 48,
+   "g": 10,
+   "a": 7,
+   "p": 17,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Springfield Thunderbirds",
+   "gp": 63,
+   "g": 11,
+   "a": 23,
+   "p": 34,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Springfield Thunderbirds",
+   "gp": 64,
+   "g": 20,
+   "a": 24,
+   "p": 44,
+   "sv": null
+  },
+  {
+   "s": 20262027,
+   "lg": "AHL",
+   "team": "Springfield Thunderbirds",
+   "gp": 6,
+   "g": 2,
+   "a": 5,
+   "p": 7,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",

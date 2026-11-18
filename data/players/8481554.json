@@ -625,6 +625,88 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20152016,
+   "lg": "U16 SM-sarja",
+   "team": "TPS U16",
+   "gp": 25,
+   "g": 14,
+   "a": 12,
+   "p": 26,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "U18 SM-sarja",
+   "team": "TPS U18",
+   "gp": 35,
+   "g": 24,
+   "a": 17,
+   "p": 41,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "U20 SM-liiga",
+   "team": "TPS U20",
+   "gp": 7,
+   "g": 0,
+   "a": 4,
+   "p": 4,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U20 SM-liiga",
+   "team": "TPS U20",
+   "gp": 38,
+   "g": 25,
+   "a": 30,
+   "p": 55,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 6,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U18 SM-sarja",
+   "team": "TPS U18",
+   "gp": 6,
+   "g": 7,
+   "a": 4,
+   "p": 11,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 45,
+   "g": 22,
+   "a": 16,
+   "p": 38,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "Champions HL",
+   "team": "TPS",
+   "gp": 5,
+   "g": 2,
+   "a": 0,
+   "p": 2,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

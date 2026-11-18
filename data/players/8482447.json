@@ -272,6 +272,138 @@
    "wins": 3
   }
  ],
+ "preNhl": [
+  {
+   "s": 20172018,
+   "lg": "U16 SM-sarja",
+   "team": "Kärpät U16",
+   "gp": 12,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.921
+  },
+  {
+   "s": 20182019,
+   "lg": "U18 SM-sarja",
+   "team": "Kärpät U18",
+   "gp": 5,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.856
+  },
+  {
+   "s": 20182019,
+   "lg": "U17 SM-sarja",
+   "team": "Kärpät U17 Etelä",
+   "gp": 22,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.918
+  },
+  {
+   "s": 20192020,
+   "lg": "U20 SM-liiga",
+   "team": "Kärpät U20",
+   "gp": 16,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.908
+  },
+  {
+   "s": 20192020,
+   "lg": "U18 SM-sarja",
+   "team": "Kärpät U18",
+   "gp": 19,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.942
+  },
+  {
+   "s": 20202021,
+   "lg": "U20 SM-sarja",
+   "team": "Kärpät U20",
+   "gp": 22,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.934
+  },
+  {
+   "s": 20212022,
+   "lg": "OHL",
+   "team": "Kingston Frontenacs",
+   "gp": 53,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.891
+  },
+  {
+   "s": 20222023,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 42,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.918
+  },
+  {
+   "s": 20222023,
+   "lg": "AHL",
+   "team": "Belleville Senators",
+   "gp": 4,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.933
+  },
+  {
+   "s": 20232024,
+   "lg": "ECHL",
+   "team": "Allen Americans",
+   "gp": 13,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.926
+  },
+  {
+   "s": 20232024,
+   "lg": "AHL",
+   "team": "Belleville Senators",
+   "gp": 24,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.906
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Belleville Senators",
+   "gp": 37,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.913
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Belleville Senators",
+   "gp": 19,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.909
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

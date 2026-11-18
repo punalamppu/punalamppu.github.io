@@ -30,57 +30,57 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "assists": 17,
+    "assists": 18,
     "gameWinningGoals": 1,
-    "gamesPlayed": 20,
-    "goals": 7,
+    "gamesPlayed": 21,
+    "goals": 8,
     "otGoals": 1,
     "pim": 2,
-    "plusMinus": 2,
-    "points": 24,
-    "powerPlayGoals": 4,
-    "powerPlayPoints": 11,
-    "shootingPctg": 0.189189,
+    "plusMinus": 1,
+    "points": 26,
+    "powerPlayGoals": 5,
+    "powerPlayPoints": 12,
+    "shootingPctg": 0.2,
     "shorthandedGoals": 0,
     "shorthandedPoints": 1,
-    "shots": 37
+    "shots": 40
    },
    "career": {
-    "assists": 470,
+    "assists": 471,
     "gameWinningGoals": 35,
-    "gamesPlayed": 980,
-    "goals": 205,
+    "gamesPlayed": 981,
+    "goals": 206,
     "otGoals": 9,
     "pim": 297,
-    "plusMinus": -33,
-    "points": 675,
-    "powerPlayGoals": 51,
-    "powerPlayPoints": 210,
-    "shootingPctg": 0.1103,
+    "plusMinus": -34,
+    "points": 677,
+    "powerPlayGoals": 52,
+    "powerPlayPoints": 211,
+    "shootingPctg": 0.1107,
     "shorthandedGoals": 9,
     "shorthandedPoints": 14,
-    "shots": 1857
+    "shots": 1860
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
-   "assists": 470,
+   "assists": 471,
    "avgToi": "18:41",
-   "faceoffWinningPctg": 0.4867,
+   "faceoffWinningPctg": 0.48700000000000004,
    "gameWinningGoals": 35,
-   "gamesPlayed": 980,
-   "goals": 205,
+   "gamesPlayed": 981,
+   "goals": 206,
    "otGoals": 9,
    "pim": 297,
-   "plusMinus": -33,
-   "points": 675,
-   "powerPlayGoals": 51,
-   "powerPlayPoints": 210,
-   "shootingPctg": 0.1103,
+   "plusMinus": -34,
+   "points": 677,
+   "powerPlayGoals": 52,
+   "powerPlayPoints": 211,
+   "shootingPctg": 0.1107,
    "shorthandedGoals": 9,
    "shorthandedPoints": 14,
-   "shots": 1857
+   "shots": 1860
   },
   "playoffs": {
    "assists": 31,
@@ -102,6 +102,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 1,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020339,
+   "gameTypeId": 2,
+   "goals": 1,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "STL",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 2,
+   "powerPlayGoals": 1,
+   "shifts": 25,
+   "shorthandedGoals": 0,
+   "shots": 3,
+   "teamAbbrev": "ANA",
+   "toi": "25:08"
+  },
   {
    "assists": 1,
    "gameDate": "2026-11-15",
@@ -173,24 +191,6 @@
    "shots": 3,
    "teamAbbrev": "ANA",
    "toi": "21:51"
-  },
-  {
-   "assists": 2,
-   "gameDate": "2026-11-06",
-   "gameId": 2026020264,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "CGY",
-   "pim": 0,
-   "plusMinus": 2,
-   "points": 2,
-   "powerPlayGoals": 0,
-   "shifts": 27,
-   "shorthandedGoals": 0,
-   "shots": 1,
-   "teamAbbrev": "ANA",
-   "toi": "23:07"
   }
  ],
  "isActive": true,
@@ -1120,26 +1120,26 @@
    }
   },
   {
-   "assists": 17,
-   "avgToi": "20:23",
-   "faceoffWinningPctg": 0.495441,
+   "assists": 18,
+   "avgToi": "20:37",
+   "faceoffWinningPctg": 0.502857,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 20,
-   "goals": 7,
+   "gamesPlayed": 21,
+   "goals": 8,
    "leagueAbbrev": "NHL",
    "otGoals": 1,
    "pim": 2,
-   "plusMinus": 2,
-   "points": 24,
-   "powerPlayGoals": 4,
-   "powerPlayPoints": 11,
+   "plusMinus": 1,
+   "points": 26,
+   "powerPlayGoals": 5,
+   "powerPlayPoints": 12,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.189189,
+   "shootingPctg": 0.2,
    "shorthandedGoals": 0,
    "shorthandedPoints": 1,
-   "shots": 37,
+   "shots": 40,
    "teamCommonName": {
     "default": "Ducks"
    },
@@ -1151,6 +1151,98 @@
     "default": "Anaheim",
     "fr": "d'Anaheim"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20052006,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "Laser HT U16",
+   "gp": 11,
+   "g": 9,
+   "a": 16,
+   "p": 25,
+   "sv": null
+  },
+  {
+   "s": 20062007,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "Kärpät U16",
+   "gp": 11,
+   "g": 20,
+   "a": 17,
+   "p": 37,
+   "sv": null
+  },
+  {
+   "s": 20072008,
+   "lg": "Fin-U18",
+   "team": "Karpat U18",
+   "gp": 31,
+   "g": 22,
+   "a": 27,
+   "p": 49,
+   "sv": null
+  },
+  {
+   "s": 20082009,
+   "lg": "Fin-Jr.",
+   "team": "Karpat Jr.",
+   "gp": 38,
+   "g": 22,
+   "a": 44,
+   "p": 66,
+   "sv": null
+  },
+  {
+   "s": 20082009,
+   "lg": "Finland",
+   "team": "Karpat",
+   "gp": 2,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20092010,
+   "lg": "Finland",
+   "team": "Hifk",
+   "gp": 43,
+   "g": 13,
+   "a": 27,
+   "p": 40,
+   "sv": null
+  },
+  {
+   "s": 20102011,
+   "lg": "Finland",
+   "team": "HIFK",
+   "gp": 39,
+   "g": 8,
+   "a": 28,
+   "p": 36,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Finland",
+   "team": "HIFK",
+   "gp": 45,
+   "g": 20,
+   "a": 31,
+   "p": 51,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "AHL",
+   "team": "Houston",
+   "gp": 29,
+   "g": 10,
+   "a": 18,
+   "p": 28,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",

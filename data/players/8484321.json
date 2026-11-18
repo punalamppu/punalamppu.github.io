@@ -26,11 +26,11 @@
    "subSeason": {
     "assists": 3,
     "gameWinningGoals": 0,
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "goals": 0,
     "otGoals": 0,
     "pim": 12,
-    "plusMinus": 4,
+    "plusMinus": 3,
     "points": 3,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
@@ -42,11 +42,11 @@
    "career": {
     "assists": 11,
     "gameWinningGoals": 0,
-    "gamesPlayed": 113,
+    "gamesPlayed": 114,
     "goals": 1,
     "otGoals": 0,
     "pim": 48,
-    "plusMinus": 2,
+    "plusMinus": 1,
     "points": 12,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
@@ -60,13 +60,13 @@
  "careerTotals": {
   "regularSeason": {
    "assists": 11,
-   "avgToi": "14:09",
+   "avgToi": "14:10",
    "gameWinningGoals": 0,
-   "gamesPlayed": 113,
+   "gamesPlayed": 114,
    "goals": 1,
    "otGoals": 0,
    "pim": 48,
-   "plusMinus": 2,
+   "plusMinus": 1,
    "points": 12,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
@@ -94,6 +94,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020341,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "WPG",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 22,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "OTT",
+   "toi": "15:01"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-12",
@@ -165,24 +183,6 @@
    "shots": 0,
    "teamAbbrev": "OTT",
    "toi": "12:15"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-01",
-   "gameId": 2026020231,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "ANA",
-   "pim": 2,
-   "plusMinus": 0,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 23,
-   "shorthandedGoals": 0,
-   "shots": 2,
-   "teamAbbrev": "OTT",
-   "toi": "16:19"
   }
  ],
  "isActive": true,
@@ -359,16 +359,16 @@
   },
   {
    "assists": 3,
-   "avgToi": "15:11",
+   "avgToi": "15:10",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 18,
+   "gamesPlayed": 19,
    "goals": 0,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 12,
-   "plusMinus": 4,
+   "plusMinus": 3,
    "points": 3,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
@@ -390,6 +390,198 @@
     "default": "Ottawa",
     "fr": "d'Ottawa"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20132014,
+   "lg": "U16 SM-sarja",
+   "team": "Kiekko-Espoo U16",
+   "gp": 25,
+   "g": 0,
+   "a": 4,
+   "p": 4,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "U18 SM-sarja",
+   "team": "Kiekko-Espoo U18 Akatemia",
+   "gp": 25,
+   "g": 1,
+   "a": 2,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "U18 SM-sarja",
+   "team": "Kiekko-Espoo U18 Akatemia",
+   "gp": 47,
+   "g": 9,
+   "a": 11,
+   "p": 20,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "U20 SM-liiga",
+   "team": "Kiekko-Espoo U20",
+   "gp": 33,
+   "g": 1,
+   "a": 6,
+   "p": 7,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "U20 Mestis",
+   "team": "Kiekko-Espoo U20 Ch",
+   "gp": 5,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U20 SM-liiga",
+   "team": "Kiekko-Espoo U20",
+   "gp": 52,
+   "g": 7,
+   "a": 14,
+   "p": 21,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U20 Mestis",
+   "team": "Kiekko-Espoo U20 Ch",
+   "gp": 1,
+   "g": 1,
+   "a": 1,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "Liiga",
+   "team": "Ilves",
+   "gp": 30,
+   "g": 2,
+   "a": 4,
+   "p": 6,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "Mestis",
+   "team": "KOOVEE",
+   "gp": 2,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "Liiga",
+   "team": "Ilves",
+   "gp": 33,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "Suomen Cup",
+   "team": "KOOVEE",
+   "gp": 3,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "Mestis",
+   "team": "KOOVEE",
+   "gp": 13,
+   "g": 1,
+   "a": 2,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "Ilves",
+   "gp": 11,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Mestis",
+   "team": "KOOVEE",
+   "gp": 1,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "Ässät",
+   "gp": 30,
+   "g": 1,
+   "a": 2,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Liiga",
+   "team": "Ässät",
+   "gp": 50,
+   "g": 4,
+   "a": 4,
+   "p": 8,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Liiga",
+   "team": "Ässät",
+   "gp": 51,
+   "g": 7,
+   "a": 9,
+   "p": 16,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "AHL",
+   "team": "Belleville Senators",
+   "gp": 67,
+   "g": 4,
+   "a": 10,
+   "p": 14,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Belleville Senators",
+   "gp": 24,
+   "g": 2,
+   "a": 6,
+   "p": 8,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",

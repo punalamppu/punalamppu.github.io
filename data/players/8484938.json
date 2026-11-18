@@ -26,18 +26,18 @@
    "subSeason": {
     "assists": 2,
     "gameWinningGoals": 0,
-    "gamesPlayed": 20,
+    "gamesPlayed": 21,
     "goals": 5,
     "otGoals": 0,
     "pim": 9,
-    "plusMinus": 0,
+    "plusMinus": -1,
     "points": 7,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
-    "shootingPctg": 0.128205,
+    "shootingPctg": 0.125,
     "shorthandedGoals": 1,
     "shorthandedPoints": 1,
-    "shots": 39
+    "shots": 40
    },
    "career": {
     "assists": 5,
@@ -96,6 +96,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020342,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "VGK",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 21,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "DAL",
+   "toi": "12:27"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-15",
@@ -167,24 +185,6 @@
    "shots": 0,
    "teamAbbrev": "DAL",
    "toi": "16:28"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-05",
-   "gameId": 2026020258,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "CBJ",
-   "pim": 0,
-   "plusMinus": -1,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 23,
-   "shorthandedGoals": 0,
-   "shots": 3,
-   "teamAbbrev": "DAL",
-   "toi": "16:43"
   }
  ],
  "isActive": true,
@@ -290,25 +290,25 @@
   },
   {
    "assists": 2,
-   "avgToi": "14:41",
-   "faceoffWinningPctg": 0.633484,
+   "avgToi": "14:34",
+   "faceoffWinningPctg": 0.627706,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 20,
+   "gamesPlayed": 21,
    "goals": 5,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 9,
-   "plusMinus": 0,
+   "plusMinus": -1,
    "points": 7,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.128205,
+   "shootingPctg": 0.125,
    "shorthandedGoals": 1,
    "shorthandedPoints": 1,
-   "shots": 39,
+   "shots": 40,
    "teamCommonName": {
     "default": "Stars"
    },
@@ -320,6 +320,148 @@
     "default": "Dallas",
     "fr": "de Dallas"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20162017,
+   "lg": "U16 Mestis",
+   "team": "KKP U16",
+   "gp": 13,
+   "g": 10,
+   "a": 6,
+   "p": 16,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U18 SM-sarja",
+   "team": "Kiekko-Laser U18",
+   "gp": 42,
+   "g": 14,
+   "a": 7,
+   "p": 21,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "U18 SM-sarja",
+   "team": "Kärpät U18",
+   "gp": 49,
+   "g": 14,
+   "a": 10,
+   "p": 24,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U20 SM-liiga",
+   "team": "Kärpät U20",
+   "gp": 48,
+   "g": 12,
+   "a": 6,
+   "p": 18,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "JCWC",
+   "team": "Kärpät U20",
+   "gp": 5,
+   "g": 2,
+   "a": 0,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "U20 SM-sarja",
+   "team": "Kärpät U20",
+   "gp": 36,
+   "g": 10,
+   "a": 10,
+   "p": 20,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 3,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 43,
+   "g": 4,
+   "a": 5,
+   "p": 9,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Mestis",
+   "team": "Hermes",
+   "gp": 2,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Suomen Cup",
+   "team": "Hermes",
+   "gp": 4,
+   "g": 1,
+   "a": 0,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 46,
+   "g": 9,
+   "a": 4,
+   "p": 13,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "Liiga",
+   "team": "Kärpät",
+   "gp": 55,
+   "g": 14,
+   "a": 17,
+   "p": 31,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Texas Stars",
+   "gp": 67,
+   "g": 24,
+   "a": 25,
+   "p": 49,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Texas Stars",
+   "gp": 27,
+   "g": 9,
+   "a": 10,
+   "p": 19,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",

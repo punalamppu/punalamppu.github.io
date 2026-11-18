@@ -310,6 +310,178 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20152016,
+   "lg": "SAAHL U15",
+   "team": "Saskatoon Generals U15 AA",
+   "gp": 1,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U16 SM-sarja",
+   "team": "Pelicans U16",
+   "gp": 1,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "U18 SM-sarja",
+   "team": "Pelicans U18",
+   "gp": 6,
+   "g": 3,
+   "a": 1,
+   "p": 4,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "U20 SM-liiga",
+   "team": "Pelicans U20",
+   "gp": 17,
+   "g": 2,
+   "a": 9,
+   "p": 11,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 4,
+   "g": 0,
+   "a": 2,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U20 SM-liiga",
+   "team": "HIFK U20",
+   "gp": 42,
+   "g": 18,
+   "a": 20,
+   "p": 38,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "JYP",
+   "gp": 46,
+   "g": 7,
+   "a": 8,
+   "p": 15,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Liiga",
+   "team": "JYP",
+   "gp": 24,
+   "g": 2,
+   "a": 4,
+   "p": 6,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "U20 SM-sarja",
+   "team": "JYP U20",
+   "gp": 1,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Liiga",
+   "team": "Pelicans",
+   "gp": 25,
+   "g": 2,
+   "a": 2,
+   "p": 4,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 14,
+   "g": 2,
+   "a": 1,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "WHL",
+   "team": "Seattle Thunderbirds",
+   "gp": 26,
+   "g": 17,
+   "a": 21,
+   "p": 38,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Memorial Cup",
+   "team": "Seattle Thunderbirds",
+   "gp": 5,
+   "g": 1,
+   "a": 2,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 64,
+   "g": 21,
+   "a": 34,
+   "p": 55,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 61,
+   "g": 7,
+   "a": 28,
+   "p": 35,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 34,
+   "g": 6,
+   "a": 7,
+   "p": 13,
+   "sv": null
+  },
+  {
+   "s": 20262027,
+   "lg": "AHL",
+   "team": "Manitoba Moose",
+   "gp": 6,
+   "g": 0,
+   "a": 2,
+   "p": 2,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

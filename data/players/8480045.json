@@ -409,6 +409,178 @@
    "wins": 5
   }
  ],
+ "preNhl": [
+  {
+   "s": 20132014,
+   "lg": "Jr. B Suomi-sarja",
+   "team": "Jää-Ahmat U18",
+   "gp": 1,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.791
+  },
+  {
+   "s": 20142015,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "HPK U16",
+   "gp": 9,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.911
+  },
+  {
+   "s": 20152016,
+   "lg": "U18 SM-sarja",
+   "team": "HPK U18",
+   "gp": 31,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.901
+  },
+  {
+   "s": 20152016,
+   "lg": "U20 SM-sarja",
+   "team": "HPK U20",
+   "gp": 15,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.924
+  },
+  {
+   "s": 20162017,
+   "lg": "U20 SM-sarja",
+   "team": "HPK U20",
+   "gp": 35,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.917
+  },
+  {
+   "s": 20172018,
+   "lg": "Liiga",
+   "team": "HPK",
+   "gp": 1,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.75
+  },
+  {
+   "s": 20172018,
+   "lg": "Mestis",
+   "team": "LeKi",
+   "gp": 24,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.909
+  },
+  {
+   "s": 20172018,
+   "lg": "U20 SM-sarja",
+   "team": "HPK U20",
+   "gp": 2,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.924
+  },
+  {
+   "s": 20182019,
+   "lg": "AHL",
+   "team": "Rochester Americans",
+   "gp": 1,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.941
+  },
+  {
+   "s": 20182019,
+   "lg": "OHL",
+   "team": "Sudbury Wolves",
+   "gp": 53,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.92
+  },
+  {
+   "s": 20192020,
+   "lg": "AHL",
+   "team": "Rochester Americans",
+   "gp": 10,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.874
+  },
+  {
+   "s": 20192020,
+   "lg": "ECHL",
+   "team": "Cincinnati Cyclones",
+   "gp": 23,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.912
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 13,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.908
+  },
+  {
+   "s": 20202021,
+   "lg": "AHL",
+   "team": "Rochester Americans",
+   "gp": 14,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.888
+  },
+  {
+   "s": 20212022,
+   "lg": "AHL",
+   "team": "Rochester Americans",
+   "gp": 35,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.9
+  },
+  {
+   "s": 20222023,
+   "lg": "AHL",
+   "team": "Rochester Americans",
+   "gp": 9,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.898
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Rochester Americans",
+   "gp": 1,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.913
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

@@ -294,6 +294,88 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20202021,
+   "lg": "U16 SM-sarja",
+   "team": "Tappara U16",
+   "gp": 22,
+   "g": 20,
+   "a": 37,
+   "p": 57,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "U18 SM-sarja",
+   "team": "Tappara U18",
+   "gp": 33,
+   "g": 14,
+   "a": 31,
+   "p": 45,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "U20 SM-sarja",
+   "team": "Tappara U20",
+   "gp": 19,
+   "g": 8,
+   "a": 20,
+   "p": 28,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Liiga",
+   "team": "Jukurit",
+   "gp": 33,
+   "g": 3,
+   "a": 8,
+   "p": 11,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Champions HL",
+   "team": "Jukurit",
+   "gp": 3,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "Liiga",
+   "team": "Jukurit",
+   "gp": 51,
+   "g": 14,
+   "a": 22,
+   "p": 36,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Rochester Americans",
+   "gp": 65,
+   "g": 14,
+   "a": 21,
+   "p": 35,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Rochester Americans",
+   "gp": 63,
+   "g": 21,
+   "a": 42,
+   "p": 63,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

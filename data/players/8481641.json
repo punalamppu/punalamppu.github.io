@@ -652,6 +652,198 @@
    }
   }
  ],
+ "preNhl": [
+  {
+   "s": 20102011,
+   "lg": "Jr. C SM-sarja",
+   "team": "Jokerit U16",
+   "gp": 26,
+   "g": 10,
+   "a": 9,
+   "p": 19,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Jr. B SM-sarja",
+   "team": "Jokerit U18",
+   "gp": 10,
+   "g": 2,
+   "a": 4,
+   "p": 6,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Jr. A SM-liiga",
+   "team": "Jokerit U20",
+   "gp": 20,
+   "g": 4,
+   "a": 1,
+   "p": 5,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "Jokerit U16",
+   "gp": 8,
+   "g": 10,
+   "a": 11,
+   "p": 21,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Jr. B SM-sarja",
+   "team": "Jokerit U18",
+   "gp": 1,
+   "g": 1,
+   "a": 0,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Jr. A SM-liiga",
+   "team": "Jokerit U20",
+   "gp": 40,
+   "g": 7,
+   "a": 13,
+   "p": 20,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Liiga",
+   "team": "Jokerit",
+   "gp": 1,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Jr. B SM-sarja",
+   "team": "Jokerit U18",
+   "gp": 2,
+   "g": 1,
+   "a": 2,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Jr. A SM-liiga",
+   "team": "Jokerit U20",
+   "gp": 38,
+   "g": 18,
+   "a": 19,
+   "p": 37,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Liiga",
+   "team": "Sport",
+   "gp": 47,
+   "g": 8,
+   "a": 5,
+   "p": 13,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Jr. A SM-liiga",
+   "team": "Sport U20",
+   "gp": 6,
+   "g": 5,
+   "a": 0,
+   "p": 5,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "Liiga",
+   "team": "Sport",
+   "gp": 48,
+   "g": 6,
+   "a": 6,
+   "p": 12,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "Mestis",
+   "team": "Hermes",
+   "gp": 1,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20152016,
+   "lg": "U20 SM-liiga",
+   "team": "Sport U20",
+   "gp": 1,
+   "g": 1,
+   "a": 1,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "Liiga",
+   "team": "Sport",
+   "gp": 58,
+   "g": 11,
+   "a": 10,
+   "p": 21,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "Liiga",
+   "team": "Sport",
+   "gp": 59,
+   "g": 19,
+   "a": 18,
+   "p": 37,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "Liiga",
+   "team": "Sport",
+   "gp": 48,
+   "g": 16,
+   "a": 15,
+   "p": 31,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "AHL",
+   "team": "Texas Stars",
+   "gp": 48,
+   "g": 12,
+   "a": 11,
+   "p": 23,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "AHL",
+   "team": "Colorado Eagles",
+   "gp": 10,
+   "g": 2,
+   "a": 4,
+   "p": 6,
+   "sv": null
+  }
+ ],
  "_fetched": "2026-11-18",
  "gameLog": [
   [

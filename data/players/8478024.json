@@ -32,20 +32,20 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "gamesPlayed": 7,
-    "goalsAgainstAvg": 3.11045,
-    "losses": 3,
+    "gamesPlayed": 8,
+    "goalsAgainstAvg": 3.766163,
+    "losses": 4,
     "otLosses": 0,
-    "savePctg": 0.88,
+    "savePctg": 0.856322,
     "shutouts": 0,
     "wins": 3
    },
    "career": {
-    "gamesPlayed": 172,
-    "goalsAgainstAvg": 3.073464,
-    "losses": 57,
+    "gamesPlayed": 173,
+    "goalsAgainstAvg": 3.100651,
+    "losses": 58,
     "otLosses": 21,
-    "savePctg": 0.898872,
+    "savePctg": 0.897938,
     "shutouts": 7,
     "wins": 84
    }
@@ -54,18 +54,18 @@
  "careerTotals": {
   "regularSeason": {
    "assists": 1,
-   "gamesPlayed": 172,
-   "gamesStarted": 162,
+   "gamesPlayed": 173,
+   "gamesStarted": 163,
    "goals": 0,
-   "goalsAgainst": 493,
-   "goalsAgainstAvg": 3.073464,
-   "losses": 57,
+   "goalsAgainst": 500,
+   "goalsAgainstAvg": 3.100651,
+   "losses": 58,
    "otLosses": 21,
    "pim": 6,
-   "savePctg": 0.898872,
-   "shotsAgainst": 4875,
+   "savePctg": 0.897938,
+   "shotsAgainst": 4899,
    "shutouts": 7,
-   "timeOnIce": "9624:19",
+   "timeOnIce": "9675:23",
    "wins": 84
   },
   "playoffs": {
@@ -86,6 +86,21 @@
   }
  },
  "last5Games": [
+  {
+   "decision": "L",
+   "gameDate": "2026-11-17",
+   "gameId": 2026020339,
+   "gameTypeId": 2,
+   "gamesStarted": 1,
+   "goalsAgainst": 7,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "STL",
+   "penaltyMins": 0,
+   "savePctg": 0.708333,
+   "shotsAgainst": 24,
+   "teamAbbrev": "ANA",
+   "toi": "51:04"
+  },
   {
    "decision": "W",
    "gameDate": "2026-11-15",
@@ -145,21 +160,6 @@
    "shotsAgainst": 27,
    "teamAbbrev": "ANA",
    "toi": "58:01"
-  },
-  {
-   "decision": "L",
-   "gameDate": "2026-10-19",
-   "gameId": 2026020137,
-   "gameTypeId": 2,
-   "gamesStarted": 1,
-   "goalsAgainst": 5,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "NYR",
-   "penaltyMins": 0,
-   "savePctg": 0.833333,
-   "shotsAgainst": 30,
-   "teamAbbrev": "ANA",
-   "toi": "60:00"
   }
  ],
  "isActive": true,
@@ -441,19 +441,19 @@
   {
    "assists": 0,
    "gameTypeId": 2,
-   "gamesPlayed": 7,
-   "gamesStarted": 5,
+   "gamesPlayed": 8,
+   "gamesStarted": 6,
    "goals": 0,
-   "goalsAgainst": 18,
-   "goalsAgainstAvg": 3.11045,
+   "goalsAgainst": 25,
+   "goalsAgainstAvg": 3.766163,
    "leagueAbbrev": "NHL",
-   "losses": 3,
+   "losses": 4,
    "otLosses": 0,
    "pim": 0,
-   "savePctg": 0.88,
+   "savePctg": 0.856322,
    "season": 20262027,
    "sequence": 1,
-   "shotsAgainst": 150,
+   "shotsAgainst": 174,
    "shutouts": 0,
    "teamCommonName": {
     "default": "Ducks"
@@ -466,8 +466,200 @@
     "default": "Anaheim",
     "fr": "d'Anaheim"
    },
-   "timeOnIce": "347:13",
+   "timeOnIce": "398:17",
    "wins": 3
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20082009,
+   "lg": "Jr. C SM-sarja",
+   "team": "HIFK U16",
+   "gp": 1,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.916
+  },
+  {
+   "s": 20092010,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "HIFK U16",
+   "gp": 2,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.918
+  },
+  {
+   "s": 20102011,
+   "lg": "Fin-U18",
+   "team": "HIFK U18",
+   "gp": 16,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Fin-U18",
+   "team": "HIFK U18",
+   "gp": 15,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Fin-Jr.",
+   "team": "HIFK Jr.",
+   "gp": 27,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Fin-Jr.",
+   "team": "HIFK Jr.",
+   "gp": 41,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Finland",
+   "team": "HIFK",
+   "gp": 41,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Finland-2",
+   "team": "HCK",
+   "gp": 6,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 41,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.915
+  },
+  {
+   "s": 20152016,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 39,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.927
+  },
+  {
+   "s": 20162017,
+   "lg": "AHL",
+   "team": "Chicago Wolves",
+   "gp": 22,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.92
+  },
+  {
+   "s": 20162017,
+   "lg": "ECHL",
+   "team": "Kansas City Mavericks",
+   "gp": 13,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.91
+  },
+  {
+   "s": 20172018,
+   "lg": "AHL",
+   "team": "San Antonio Rampage",
+   "gp": 38,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.922
+  },
+  {
+   "s": 20182019,
+   "lg": "AHL",
+   "team": "San Antonio Rampage",
+   "gp": 27,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.871
+  },
+  {
+   "s": 20192020,
+   "lg": "AHL",
+   "team": "San Antonio Rampage",
+   "gp": 42,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.909
+  },
+  {
+   "s": 20232024,
+   "lg": "AHL",
+   "team": "Grand Rapids Griffins",
+   "gp": 1,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 1.0
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Grand Rapids Griffins",
+   "gp": 13,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.912
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "San Diego Gulls",
+   "gp": 9,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.907
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "San Diego Gulls",
+   "gp": 17,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.903
   }
  ],
  "_fetched": "2026-11-18",

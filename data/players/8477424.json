@@ -29,20 +29,20 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "gamesPlayed": 15,
-    "goalsAgainstAvg": 2.49362,
+    "gamesPlayed": 16,
+    "goalsAgainstAvg": 2.459103,
     "losses": 4,
     "otLosses": 4,
-    "savePctg": 0.917211,
+    "savePctg": 0.918239,
     "shutouts": 1,
     "wins": 7
    },
    "career": {
-    "gamesPlayed": 482,
-    "goalsAgainstAvg": 2.732926,
+    "gamesPlayed": 483,
+    "goalsAgainstAvg": 2.731421,
     "losses": 176,
     "otLosses": 50,
-    "savePctg": 0.911888,
+    "savePctg": 0.911929,
     "shutouts": 28,
     "wins": 237
    }
@@ -51,18 +51,18 @@
  "careerTotals": {
   "regularSeason": {
    "assists": 8,
-   "gamesPlayed": 482,
+   "gamesPlayed": 483,
    "gamesStarted": 465,
    "goals": 0,
-   "goalsAgainst": 1264,
-   "goalsAgainstAvg": 2.732926,
+   "goalsAgainst": 1265,
+   "goalsAgainstAvg": 2.731421,
    "losses": 176,
    "otLosses": 50,
    "pim": 10,
-   "savePctg": 0.911888,
-   "shotsAgainst": 14334,
+   "savePctg": 0.911929,
+   "shotsAgainst": 14352,
    "shutouts": 28,
-   "timeOnIce": "27750:28",
+   "timeOnIce": "27787:42",
    "wins": 237
   },
   "playoffs": {
@@ -83,6 +83,20 @@
   }
  },
  "last5Games": [
+  {
+   "gameDate": "2026-11-17",
+   "gameId": 2026020340,
+   "gameTypeId": 2,
+   "gamesStarted": 0,
+   "goalsAgainst": 1,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "MIN",
+   "penaltyMins": 0,
+   "savePctg": 0.944444,
+   "shotsAgainst": 18,
+   "teamAbbrev": "NSH",
+   "toi": "37:14"
+  },
   {
    "decision": "L",
    "gameDate": "2026-11-15",
@@ -140,21 +154,6 @@
    "penaltyMins": 0,
    "savePctg": 0.96,
    "shotsAgainst": 25,
-   "teamAbbrev": "NSH",
-   "toi": "60:00"
-  },
-  {
-   "decision": "W",
-   "gameDate": "2026-11-03",
-   "gameId": 2026020245,
-   "gameTypeId": 2,
-   "gamesStarted": 1,
-   "goalsAgainst": 1,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "CAR",
-   "penaltyMins": 0,
-   "savePctg": 0.966667,
-   "shotsAgainst": 30,
    "teamAbbrev": "NSH",
    "toi": "60:00"
   }
@@ -670,19 +669,19 @@
   {
    "assists": 0,
    "gameTypeId": 2,
-   "gamesPlayed": 15,
+   "gamesPlayed": 16,
    "gamesStarted": 15,
    "goals": 0,
-   "goalsAgainst": 38,
-   "goalsAgainstAvg": 2.49362,
+   "goalsAgainst": 39,
+   "goalsAgainstAvg": 2.459103,
    "leagueAbbrev": "NHL",
    "losses": 4,
    "otLosses": 4,
    "pim": 0,
-   "savePctg": 0.917211,
+   "savePctg": 0.918239,
    "season": 20262027,
    "sequence": 1,
-   "shotsAgainst": 459,
+   "shotsAgainst": 477,
    "shutouts": 1,
    "teamCommonName": {
     "default": "Predators"
@@ -695,8 +694,120 @@
     "default": "Nashville",
     "fr": "de Nashville"
    },
-   "timeOnIce": "914:20",
+   "timeOnIce": "951:34",
    "wins": 7
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20092010,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "HPK U16",
+   "gp": 2,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.929
+  },
+  {
+   "s": 20102011,
+   "lg": "Jr. C SM-sarja Q",
+   "team": "HPK U16",
+   "gp": 7,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.954
+  },
+  {
+   "s": 20112012,
+   "lg": "Fin-U18",
+   "team": "HPK U18",
+   "gp": 14,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20112012,
+   "lg": "Fin-Jr.",
+   "team": "HPK Jr.",
+   "gp": 31,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20122013,
+   "lg": "Fin-Jr.",
+   "team": "HPK Jr.",
+   "gp": 37,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20132014,
+   "lg": "Finland",
+   "team": "HPK",
+   "gp": 44,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Finland",
+   "team": "HPK",
+   "gp": 47,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": null
+  },
+  {
+   "s": 20142015,
+   "lg": "Liiga",
+   "team": "HPK",
+   "gp": 47,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.929
+  },
+  {
+   "s": 20152016,
+   "lg": "AHL",
+   "team": "Milwaukee Admirals",
+   "gp": 38,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.92
+  },
+  {
+   "s": 20162017,
+   "lg": "AHL",
+   "team": "Milwaukee Admirals",
+   "gp": 15,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.934
+  },
+  {
+   "s": 20172018,
+   "lg": "AHL",
+   "team": "Milwaukee Admirals",
+   "gp": 9,
+   "g": null,
+   "a": null,
+   "p": null,
+   "sv": 0.906
   }
  ],
  "_fetched": "2026-11-18",

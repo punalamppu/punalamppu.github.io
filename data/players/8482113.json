@@ -32,34 +32,34 @@
    "subSeason": {
     "assists": 4,
     "gameWinningGoals": 1,
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "goals": 7,
     "otGoals": 0,
     "pim": 6,
-    "plusMinus": -5,
+    "plusMinus": -6,
     "points": 11,
     "powerPlayGoals": 0,
     "powerPlayPoints": 1,
-    "shootingPctg": 0.125,
+    "shootingPctg": 0.12069,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 56
+    "shots": 58
    },
    "career": {
     "assists": 127,
     "gameWinningGoals": 12,
-    "gamesPlayed": 380,
+    "gamesPlayed": 381,
     "goals": 85,
     "otGoals": 1,
     "pim": 183,
-    "plusMinus": 57,
+    "plusMinus": 56,
     "points": 212,
     "powerPlayGoals": 8,
     "powerPlayPoints": 36,
-    "shootingPctg": 0.1069,
+    "shootingPctg": 0.1066,
     "shorthandedGoals": 7,
     "shorthandedPoints": 13,
-    "shots": 795
+    "shots": 797
    }
   }
  },
@@ -67,20 +67,20 @@
   "regularSeason": {
    "assists": 127,
    "avgToi": "16:39",
-   "faceoffWinningPctg": 0.5078,
+   "faceoffWinningPctg": 0.5075999999999999,
    "gameWinningGoals": 12,
-   "gamesPlayed": 380,
+   "gamesPlayed": 381,
    "goals": 85,
    "otGoals": 1,
    "pim": 183,
-   "plusMinus": 57,
+   "plusMinus": 56,
    "points": 212,
    "powerPlayGoals": 8,
    "powerPlayPoints": 36,
-   "shootingPctg": 0.1069,
+   "shootingPctg": 0.1066,
    "shorthandedGoals": 7,
    "shorthandedPoints": 13,
-   "shots": 795
+   "shots": 797
   },
   "playoffs": {
    "assists": 34,
@@ -102,6 +102,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-17",
+   "gameId": 2026020335,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "EDM",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 23,
+   "shorthandedGoals": 0,
+   "shots": 2,
+   "teamAbbrev": "FLA",
+   "toi": "17:44"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-15",
@@ -173,24 +191,6 @@
    "shots": 2,
    "teamAbbrev": "FLA",
    "toi": "16:34"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-08",
-   "gameId": 2026020277,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "BOS",
-   "pim": 2,
-   "plusMinus": -1,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 26,
-   "shorthandedGoals": 0,
-   "shots": 5,
-   "teamAbbrev": "FLA",
-   "toi": "16:33"
   }
  ],
  "isActive": true,
@@ -494,25 +494,25 @@
   },
   {
    "assists": 4,
-   "avgToi": "17:23",
-   "faceoffWinningPctg": 0.511905,
+   "avgToi": "17:24",
+   "faceoffWinningPctg": 0.508571,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 21,
+   "gamesPlayed": 22,
    "goals": 7,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 6,
-   "plusMinus": -5,
+   "plusMinus": -6,
    "points": 11,
    "powerPlayGoals": 0,
    "powerPlayPoints": 1,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.125,
+   "shootingPctg": 0.12069,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 56,
+   "shots": 58,
    "teamCommonName": {
     "default": "Panthers"
    },
@@ -524,6 +524,98 @@
     "default": "Florida",
     "fr": "de la Floride"
    }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20152016,
+   "lg": "U16 SM-sarja",
+   "team": "HIFK U16",
+   "gp": 27,
+   "g": 4,
+   "a": 11,
+   "p": 15,
+   "sv": null
+  },
+  {
+   "s": 20162017,
+   "lg": "U18 SM-sarja",
+   "team": "HIFK U18",
+   "gp": 29,
+   "g": 3,
+   "a": 12,
+   "p": 15,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U18 SM-sarja",
+   "team": "HIFK U18",
+   "gp": 10,
+   "g": 3,
+   "a": 7,
+   "p": 10,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U20 SM-liiga",
+   "team": "HIFK U20",
+   "gp": 22,
+   "g": 8,
+   "a": 12,
+   "p": 20,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "U20 SM-liiga",
+   "team": "HIFK U20",
+   "gp": 10,
+   "g": 6,
+   "a": 9,
+   "p": 15,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 38,
+   "g": 9,
+   "a": 10,
+   "p": 19,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "Champions HL",
+   "team": "HIFK",
+   "gp": 3,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 44,
+   "g": 10,
+   "a": 18,
+   "p": 28,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "HIFK",
+   "gp": 26,
+   "g": 16,
+   "a": 9,
+   "p": 25,
+   "sv": null
   }
  ],
  "_fetched": "2026-11-18",
