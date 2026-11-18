@@ -1474,7 +1474,7 @@ def build_site(data):
     hl = headline_for(data["games"], data) if data["games"] else ""
     if hl and rt:
         first, rest = (rt.split("\n", 1) + [""])[:2]
-        rt = f"{first}\n{hl}.\n{rest}"
+        rt = f"{hl}{'' if hl.endswith(('!', '.')) else '.'}\n{first}\n{rest}"
     data["odds"] = {a: round(v["p"], 3) for a, v in ODDS.items()}
     if os.path.exists(OUT):
         shutil.rmtree(OUT)
@@ -2441,9 +2441,29 @@ def headline_pick(gl):
 def headline_for(gl, data):
     """Iltapäivälehtimäinen mutta tosiasioihin perustuva otsikko. Ei kysymyksiä, ei arvioita joita tilastot eivät tue."""
     pick = headline_pick(gl)
-    if not pick:
-        return ""
-    kind, g, f = pick
+    return headline_one(*pick) if pick else ""
+
+
+def player_kind(f):
+    """Pelaajarivin uutisarvo: (laji, pisteet) tai None, jos suoritus ei riitä omaan juttuun."""
+    if f.get("pos") == "MV":
+        sv, sa = f.get("saves") or 0, f.get("shots") or 0
+        if not sa:
+            return None
+        if sv == sa and f.get("dec") == "W" and sa >= 15:
+            return ("nolla", 100 + sv)
+        if sv >= 30 and sv / sa >= .920:
+            return ("torjunta", 40 + sv)
+        return None
+    gg, pp = f.get("g") or 0, f.get("p") or 0
+    if gg >= 3:
+        return ("hattu", 95 + pp)
+    if gg >= 1 or pp >= 2:
+        return ("piste", pp * 10 + gg * 4)
+    return None
+
+
+def headline_one(kind, g, f):
     n = f["name"]
     tgen = GEN.get(f["team"], place(f["team"]))
     tnom = place(f["team"])
@@ -2893,6 +2913,10 @@ def news_upsert(st, art):
         if a["id"] == art["id"]:
             if a.get("frozen"):
                 return False
+            if art.get("type") == "pelaaja":
+                art["published"] = a["published"]
+                if dt.datetime.fromisoformat(art["published"]) < now_utc() - dt.timedelta(hours=12):
+                    art["frozen"] = True
             arts[i] = art
             return True
     arts.append(art)
@@ -3142,7 +3166,85 @@ def weekly_article(data, arch_days, D):
             "title": title, "lead": lead, "html": "".join(body), "frozen": True}
 
 
-TYPE_FI = {"ennakko": "Ennakko", "virstanpylväs": "Virstanpylväs", "kokoonpano": "Kokoonpano", "viikkokatsaus": "Viikkokatsaus", "kooste": "Kooste"}
+PKIND_SLUG = {"nolla": "nollapeli", "hattu": "hattutemppu", "torjunta": "torjunnat"}
+
+
+def player_articles(data, arch_days, now):
+    """Omat jutut yön parhaista suomalaissuorituksista, kun kaikki ottelut ovat päättyneet."""
+    d = data.get("gameDate")
+    if not d or data.get("pending") or not data.get("games"):
+        return []
+    gl = arch_days.get(d) or data["games"]
+    if not all(g.get("goals") is not None for g in gl):
+        return []
+    slugs = data.get("finnSlugs") or {}
+    season = {f[0]: f for f in data.get("finns") or []}
+    gseason = {f[0]: f for f in data.get("finnGoalies") or []}
+    cands = []
+    for g in gl:
+        for f in g.get("finStats") or []:
+            k = player_kind(f)
+            if k:
+                cands.append((k[1], k[0], g, f))
+    cands.sort(key=lambda x: -x[0])
+    out = []
+    for _, kind, g, f in cands[:5]:
+        n, t = f["name"], f["team"]
+        opp = g["home"] if g["away"] == t else g["away"]
+        win, res = team_result(g, t)
+        ps = slugs.get(n) or re.sub(r"[^a-z0-9]+", "-", n.lower()).strip("-")
+        nlink = f"<a href='/suomalaiset/{slugs[n]}.html'>{esc(n)}</a>" if n in slugs else esc(n)
+        title = headline_one(kind, g, f)
+        if f.get("pos") == "MV":
+            sv, sa = f.get("saves") or 0, f.get("shots") or 0
+            lead = (f"{n} torjui {sv} laukausta {sa}:stä, kun {tname(t)} kohtasi {tname(opp)} -joukkueen NHL:ssä. "
+                    f"{place(t)} {res}." + (" Ottelu oli hänelle nollapeli." if kind == "nolla" else ""))
+            paras = [f"Torjuntaprosentti oli {f'{sv / sa:.3f}'.lstrip('0')}."]
+            if n in gseason:
+                x = gseason[n]
+                paras.append(f"Kaudella hänellä on {x[2]} ottelua, voitot–tappiot–jatkoaikatappiot {x[3]}–{x[4]}–{x[5]}, torjuntaprosentti {x[6]} ja päästettyjen maalien keskiarvo {x[7]}.")
+        else:
+            gg, aa = f.get("g") or 0, f.get("a") or 0
+            lead = f"{n} {_act(gg, aa)}, kun {tname(t)} kohtasi {tname(opp)} -joukkueen NHL:ssä. {place(t)} {res}."
+            paras = []
+            mine = [x for x in g.get("goals") or [] if x.get("who") == n]
+            for i, x in enumerate(mine):
+                b = f"{'Maali' if len(mine) == 1 else f'{i + 1}. maali'} syntyi {per_fi(x['p'])} ajassa {toi_fi(x['t'])}"
+                if x.get("tag") in TAG_FI:
+                    b += f" {TAG_FI[x['tag']]}"
+                if x.get("ast"):
+                    b += (", syöttäjinä " if len(x["ast"]) > 1 else ", syöttäjänä ") + " ja ".join(x["ast"])
+                if x.get("gtd"):
+                    b += f". Se oli hänen kauden {x['gtd']}. maalinsa"
+                paras.append(b + ".")
+            if gg and gwg_scorer(g) == n:
+                paras.append("Maali ratkaisi ottelun jatkoajalla." if g.get("final") == "JA" else "Hänen maalinsa jäi ottelun voittomaaliksi.")
+            sc = [x["who"] for x in g.get("goals") or [] if n in (x.get("ast") or [])]
+            if sc:
+                paras.append(f"Syöttöpiste tuli {'maaliin, jonka teki ' + sc[0] if len(sc) == 1 else 'maaleihin, jotka tekivät ' + ', '.join(sc[:-1]) + ' ja ' + sc[-1]}.")
+            ex = []
+            if f.get("toi"):
+                ex.append(f"peliaikaa kertyi {toi_fi(f['toi'])}")
+            if f.get("sog") is not None:
+                ex.append(f"laukauksia {f['sog']}")
+            if isinstance(f.get("pm"), int):
+                ex.append(f"plusmiinus {f['pm']:+d}")
+            if ex:
+                paras.append("Ottelussa " + ", ".join(ex) + ".")
+            if n in season:
+                x = season[n]
+                paras.append(f"Kaudella hänellä on {x[3]} ottelussa {x[4]} maalia ja {x[5]} syöttöä, yhteensä {x[6]} pistettä.")
+        clips = "".join(clip_btn(x, "Katso maali") for x in g.get("goals") or [] if x.get("who") == n and x.get("clip"))
+        html_ = (f"<p class='ingressi'>{esc(lead)}</p>" + "".join(f"<p>{esc(x)}</p>" for x in paras)
+                 + (f"<p class='clips'>{clips}</p>" if clips else "")
+                 + f"<p class='small'><a href='/ottelut/{game_slug(d, g)}.html'>Ottelun maalit ja tilastot</a> · "
+                 + f"<a href='/koosteet/{d}/'>Kaikki suomalaiset yöllä</a> · {nlink}: kaikki tilastot</p>")
+        out.append({"id": f"s-{d}-{ps}", "type": "pelaaja", "slug": f"{d}-{ps}-{PKIND_SLUG.get(kind) or ('maali' if (f.get('g') or 0) == 1 else 'maalit' if f.get('g') else 'pisteet')}", "date": d,
+                    "published": now.isoformat(timespec="minutes"), "title": title, "lead": lead, "html": html_, "frozen": False})
+    return out
+
+
+TYPE_FI = {"pelaaja": "Pelaaja", "ennakko": "Ennakko", "virstanpylväs": "Virstanpylväs", "kokoonpano": "Kokoonpano", "viikkokatsaus": "Viikkokatsaus", "kooste": "Kooste"}
 
 
 def build_news(data, arch_days, urls):
@@ -3167,6 +3269,12 @@ def build_news(data, arch_days, urls):
             news_upsert(st, a)
     except Exception as e:
         log("kokoonpanouutiset epäonnistuivat", e)
+    try:
+        if 5 <= now.hour < 23:
+            for a in player_articles(data, arch_days, now):
+                news_upsert(st, a)
+    except Exception as e:
+        log("pelaajauutiset epäonnistuivat", e)
     try:
         if D.weekday() == 0 and now.hour >= 9 and not data["pending"]:
             w = weekly_article(data, arch_days, D)

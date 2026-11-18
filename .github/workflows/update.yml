@@ -114,3 +114,17 @@ jobs:
           H=$(date -u +%H)
           if [ "${{ github.event_name }}" = "schedule" ] && [ "$H" != "08" ]; then exit 0; fi
           python3 scripts/indexnow.py
+
+      - name: Hae kävijätilastot (GoatCounter, kerran päivässä)
+        if: (github.event_name == 'workflow_dispatch' && !inputs.herattaja) || (github.event_name == 'schedule' && github.event.schedule == '17 8-21 * * *')
+        continue-on-error: true
+        env:
+          GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
+        run: |
+          H=$(date -u +%H)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$H" != "08" ]; then exit 0; fi
+          python3 scripts/traffic.py
+          if [ -n "$(git status --porcelain data/liikenne.json)" ]; then
+            git add data/liikenne.json
+            git commit -m "Kävijätilastot $(date -u +%Y-%m-%d)" && (git pull --rebase --autostash || git rebase --abort || true) && git push || true
+          fi
