@@ -1,0 +1,776 @@
+{
+ "date": "2026-11-18",
+ "sig": "[{\"city\": \"D\\u00fcsseldorf\", \"country\": \"DE\", \"desc\": \"NHL Global Series Germany 18.12. ja 19.12.2026: Ottawa Senators ja Chicago Blackhawks pelaavat D\\u00fcsseldorfin PSD Bank Domessa. Otteluajat Suomen aikaa, suomalaiset ja tulokset.\", \"end\": \"2026-12-19\", \"faq\": [[\"Milloin NHL pelaa Saksassa 2026?\", \"Ottawa Senators ja Chicago Blackhawks pelaavat D\\u00fcsseldorfin PSD Bank Domessa perjantaina 18.12. ja lauantaina 19.12.2026.\"], [\"Pelaako Saksan NHL-otteluissa suomalaisia?\", \"Sivun suomalaislistat p\\u00e4ivittyv\\u00e4t automaattisesti joukkueiden NHL-kokoonpanoista. Katso ajantasainen tilanne ylt\\u00e4.\"], [\"Miss\\u00e4 D\\u00fcsseldorfin NHL-ottelut n\\u00e4kyv\\u00e4t Suomessa?\", \"Tv-kanava p\\u00e4ivitet\\u00e4\\u00e4n t\\u00e4lle sivulle, kun l\\u00e4hetysoikeuksien haltija vahvistaa sen. Katso NHL:n tv-oikeudet Suomessa sivulta NHL tv-l\\u00e4hetykset.\"]], \"games\": [{\"date\": \"2026-12-18\", \"label\": \"pe 18.12.2026\", \"teams\": [\"OTT\", \"CHI\"]}, {\"date\": \"2026-12-19\", \"label\": \"la 19.12.2026\", \"teams\": [\"OTT\", \"CHI\"]}], \"h1\": \"NHL Saksa 2026 \\u2013 Global Series Germany D\\u00fcsseldorfissa\", \"lead\": \"Ottawa Senators ja Chicago Blackhawks pelaavat kaksi NHL:n runkosarjaottelua D\\u00fcsseldorfin PSD Bank Domessa 18. ja 19. joulukuuta 2026. Ottelut kuuluvat NHL:n Global Series -sarjaan, joka toi kauden alussa kaksi ottelua my\\u00f6s Helsinkiin. T\\u00e4lle sivulle p\\u00e4ivittyv\\u00e4t otteluajat Suomen aikaa, suomalaispelaajat ja otteluiden j\\u00e4lkeen tulokset ja maalikoosteet.\", \"short\": \"NHL D\\u00fcsseldorf 2026\", \"slug\": \"nhl-saksa-2026\", \"sources\": [[\"Daily Faceoff: kauden 2026\\u201327 t\\u00e4rke\\u00e4t p\\u00e4iv\\u00e4t\", \"https://www.dailyfaceoff.com/news/top-5-key-dates-you-need-know-2026-27-nhl-season-winter-classic-stadium-series-all-star-game-stanley-cup\"]], \"start\": \"2026-12-18\", \"teams\": [\"OTT\", \"CHI\"], \"title\": \"NHL D\\u00fcsseldorf 2026 \\u2013 Ottawa\\u2013Chicago, ajat, tv ja suomalaiset\", \"venue\": \"PSD Bank Dome\"}, {\"city\": \"Salt Lake City\", \"country\": \"US\", \"desc\": \"NHL Winter Classic 31.12.2026 Salt Lake Cityss\\u00e4: Colorado Avalanche \\u2013 Utah Mammoth Rice-Eccles Stadiumilla. Suomessa ottelu alkaa uudenvuodeny\\u00f6n\\u00e4 klo 01.00. Suomalaiset ja tulos.\", \"end\": \"2026-12-31\", \"faq\": [[\"Milloin NHL Winter Classic 2026 pelataan?\", \"Winter Classic pelataan uudenvuodenaattona 31.12.2026 kello 18 Yhdysvaltain it\\u00e4rannikon aikaa. Suomen aikaa ottelu alkaa 1.1.2027 klo 01.00.\"], [\"Ketk\\u00e4 pelaavat Winter Classicissa 2026?\", \"Vastakkain ovat Colorado Avalanche ja Utah Mammoth. Ottelupaikka on Rice-Eccles Stadium Salt Lake Cityss\\u00e4.\"], [\"Mik\\u00e4 on NHL Winter Classic?\", \"Winter Classic on NHL:n perinteinen ulkoilmaottelu, joka pelataan vuodenvaihteessa jalkapallo- tai pes\\u00e4pallostadionilla. Kausi 2026\\u201327 on j\\u00e4rjestyksess\\u00e4\\u00e4n 19. Winter Classic.\"]], \"games\": [{\"date\": \"2027-01-01\", \"fallbackStart\": \"2026-12-31T23:00:00Z\", \"label\": \"pe 1.1.2027 klo 01.00\", \"teams\": [\"COL\", \"UTA\"]}], \"h1\": \"NHL Winter Classic 2026 \\u2013 Colorado ja Utah ulkoilmassa\", \"lead\": \"Colorado Avalanche ja Utah Mammoth kohtaavat NHL:n 19. Winter Classic -ulkoilmaottelussa Salt Lake Cityn Rice-Eccles Stadiumilla uudenvuodenaattona 31.12.2026. Ottelu alkaa kello 18 Yhdysvaltain it\\u00e4rannikon aikaa, eli Suomessa uudenvuodeny\\u00f6n\\u00e4 1.1.2027 klo 01.00.\", \"short\": \"Winter Classic 2026\", \"slug\": \"nhl-winter-classic-2026\", \"sources\": [[\"Daily Faceoff: kauden 2026\\u201327 t\\u00e4rke\\u00e4t p\\u00e4iv\\u00e4t\", \"https://www.dailyfaceoff.com/news/top-5-key-dates-you-need-know-2026-27-nhl-season-winter-classic-stadium-series-all-star-game-stanley-cup\"]], \"start\": \"2026-12-31\", \"teams\": [\"COL\", \"UTA\"], \"title\": \"NHL Winter Classic 2026 \\u2013 Colorado\\u2013Utah, aika Suomessa ja suomalaiset\", \"venue\": \"Rice-Eccles Stadium\"}, {\"city\": \"Elmont, New York\", \"country\": \"US\", \"desc\": \"NHL:n All-Star-viikonloppu 5.\\u20136.2.2027 UBS Arenalla: maajoukkueturnaus, jossa Suomella on oma joukkue. N\\u00e4in pelaajat valitaan ja kuka suomalainen on kauden tilastoissa k\\u00e4rjess\\u00e4.\", \"end\": \"2027-02-06\", \"faq\": [[\"Milloin NHL All-Star 2027 pelataan?\", \"Taitokilpailu on perjantaina 5.2.2027 ja All-Star-turnaus lauantaina 6.2.2027 UBS Arenalla Long Islandilla. Kellonajat julkaistaan my\\u00f6hemmin.\"], [\"Onko Suomella oma joukkue NHL:n All-Star-ottelussa?\", \"On. Turnauksessa on viisi joukkuetta: Kanada, Suomi, Ruotsi, Yhdysvallat sek\\u00e4 muun maailman pelaajista koottu joukkue.\"], [\"Miten All-Star-joukkueet valitaan?\", \"Jokaisessa joukkueessa on 11 pelaajaa: yhdeks\\u00e4n kentt\\u00e4pelaajaa ja kaksi maalivahtia. NHL ja pelaajayhdistys NHLPA nime\\u00e4v\\u00e4t kullekin maalle 30 ehdokasta, joista yleis\\u00f6 \\u00e4\\u00e4nest\\u00e4\\u00e4 kahdeksan joulukuussa avautuvassa \\u00e4\\u00e4nestyksess\\u00e4. Loput kolme, yhden hy\\u00f6kk\\u00e4\\u00e4j\\u00e4n, yhden puolustajan ja yhden maalivahdin, valitsevat NHL ja NHLPA yhdess\\u00e4.\"], [\"Ketk\\u00e4 pelaavat taitokilpailussa?\", \"All-Star-taitokilpailuun osallistuvat vain enint\\u00e4\\u00e4n 25-vuotiaat pelaajat.\"]], \"finland\": true, \"games\": [], \"h1\": \"NHL All-Star 2027 \\u2013 Suomella oma joukkue\", \"lead\": \"NHL:n All-Star-ottelu pelataan helmikuussa 2027 uudella tavalla: viiden joukkueen 3 vastaan 3 -turnauksena, jossa joukkueet edustavat maita. Suomella on oma joukkue Kanadan, Ruotsin, Yhdysvaltain ja muun maailman joukkueen rinnalla. Tapahtumapaikka on New York Islandersin UBS Arena Long Islandilla.\", \"short\": \"NHL All-Star 2027\", \"slug\": \"nhl-all-star-2027\", \"sources\": [[\"NHL.com: All-Star-viikonlopun uusi formaatti\", \"https://www.nhl.com/news/nhl-unveils-new-format-for-2027-all-star-weekend\"], [\"Daily Faceoff: kauden 2026\\u201327 t\\u00e4rke\\u00e4t p\\u00e4iv\\u00e4t\", \"https://www.dailyfaceoff.com/news/top-5-key-dates-you-need-know-2026-27-nhl-season-winter-classic-stadium-series-all-star-game-stanley-cup\"]], \"start\": \"2027-02-05\", \"teams\": [], \"title\": \"NHL All-Star 2027 \\u2013 Suomen joukkue, formaatti ja ajat\", \"venue\": \"UBS Arena\"}, {\"city\": \"Arlington, Texas\", \"country\": \"US\", \"desc\": \"NHL Stadium Series 20.2.2027: Dallas Stars \\u2013 Vegas Golden Knights AT&T Stadiumilla Arlingtonissa. Dallasin suomalaiset, otteluaika Suomen aikaa ja tulos.\", \"end\": \"2027-02-20\", \"faq\": [[\"Milloin NHL Stadium Series 2027 pelataan?\", \"Ottelu pelataan lauantaina 20.2.2027 Pohjois-Amerikan aikaa AT&T Stadiumilla Arlingtonissa. Aloitusaika Suomen aikaa p\\u00e4ivittyy t\\u00e4lle sivulle NHL:n otteluohjelmasta.\"], [\"Ketk\\u00e4 pelaavat NHL Stadium Seriesiss\\u00e4 2027?\", \"Vastakkain ovat Dallas Stars ja Vegas Golden Knights.\"], [\"Pelaako Stadium Seriesiss\\u00e4 suomalaisia?\", \"Sivun suomalaislistat p\\u00e4ivittyv\\u00e4t automaattisesti joukkueiden NHL-kokoonpanoista. Katso ajantasainen tilanne ylt\\u00e4.\"]], \"games\": [{\"date\": \"2027-02-21\", \"label\": \"la 20.2.2027 (Pohjois-Amerikan aikaa)\", \"teams\": [\"DAL\", \"VGK\"]}], \"h1\": \"NHL Stadium Series 2027 \\u2013 Dallas ja Vegas AT&T Stadiumilla\", \"lead\": \"Dallas Stars ja Vegas Golden Knights pelaavat NHL:n Stadium Series -ulkoilmaottelun AT&T Stadiumilla Arlingtonissa, Texasissa, lauantaina 20.2.2027 Pohjois-Amerikan aikaa. Dallasin riveiss\\u00e4 pelaa useita suomalaisia, joten ottelu on Suomessakin kauden kiinnostavimpia.\", \"short\": \"Stadium Series 2027\", \"slug\": \"nhl-stadium-series-2027\", \"sources\": [[\"Daily Faceoff: kauden 2026\\u201327 t\\u00e4rke\\u00e4t p\\u00e4iv\\u00e4t\", \"https://www.dailyfaceoff.com/news/top-5-key-dates-you-need-know-2026-27-nhl-season-winter-classic-stadium-series-all-star-game-stanley-cup\"]], \"start\": \"2027-02-20\", \"teams\": [\"DAL\", \"VGK\"], \"title\": \"NHL Stadium Series 2027 \\u2013 Dallas\\u2013Vegas, aika Suomessa ja suomalaiset\", \"venue\": \"AT&T Stadium\"}]",
+ "sched": {
+  "BOS-STL-2026-12-17": {
+   "away": "STL",
+   "home": "BOS",
+   "start": "2026-12-18T00:00:00Z"
+  },
+  "CGY-TBL-2026-12-17": {
+   "away": "CGY",
+   "home": "TBL",
+   "start": "2026-12-18T00:00:00Z"
+  },
+  "LAK-PIT-2026-12-17": {
+   "away": "LAK",
+   "home": "PIT",
+   "start": "2026-12-18T00:00:00Z"
+  },
+  "DET-WSH-2026-12-17": {
+   "away": "DET",
+   "home": "WSH",
+   "start": "2026-12-18T00:00:00Z"
+  },
+  "CBJ-SEA-2026-12-17": {
+   "away": "SEA",
+   "home": "CBJ",
+   "start": "2026-12-18T00:00:00Z"
+  },
+  "NJD-TOR-2026-12-17": {
+   "away": "TOR",
+   "home": "NJD",
+   "start": "2026-12-18T00:30:00Z"
+  },
+  "DAL-EDM-2026-12-17": {
+   "away": "DAL",
+   "home": "EDM",
+   "start": "2026-12-18T01:00:00Z"
+  },
+  "CAR-UTA-2026-12-17": {
+   "away": "CAR",
+   "home": "UTA",
+   "start": "2026-12-18T02:00:00Z"
+  },
+  "CHI-OTT-2026-12-18": {
+   "away": "CHI",
+   "home": "OTT",
+   "start": "2026-12-18T18:00:00Z"
+  },
+  "NSH-NYR-2026-12-18": {
+   "away": "NSH",
+   "home": "NYR",
+   "start": "2026-12-19T00:00:00Z"
+  },
+  "DET-PHI-2026-12-18": {
+   "away": "DET",
+   "home": "PHI",
+   "start": "2026-12-19T00:00:00Z"
+  },
+  "PIT-SEA-2026-12-18": {
+   "away": "SEA",
+   "home": "PIT",
+   "start": "2026-12-19T00:00:00Z"
+  },
+  "BUF-MTL-2026-12-18": {
+   "away": "MTL",
+   "home": "BUF",
+   "start": "2026-12-19T00:30:00Z"
+  },
+  "ANA-MIN-2026-12-18": {
+   "away": "ANA",
+   "home": "MIN",
+   "start": "2026-12-19T01:00:00Z"
+  },
+  "CAR-COL-2026-12-18": {
+   "away": "CAR",
+   "home": "COL",
+   "start": "2026-12-19T02:00:00Z"
+  },
+  "NYI-VGK-2026-12-18": {
+   "away": "NYI",
+   "home": "VGK",
+   "start": "2026-12-19T03:00:00Z"
+  },
+  "BOS-NJD-2026-12-19": {
+   "away": "BOS",
+   "home": "NJD",
+   "start": "2026-12-19T17:00:00Z"
+  },
+  "CGY-FLA-2026-12-19": {
+   "away": "CGY",
+   "home": "FLA",
+   "start": "2026-12-19T18:00:00Z"
+  },
+  "EDM-UTA-2026-12-19": {
+   "away": "UTA",
+   "home": "EDM",
+   "start": "2026-12-19T20:30:00Z"
+  },
+  "TBL-TOR-2026-12-19": {
+   "away": "TBL",
+   "home": "TOR",
+   "start": "2026-12-20T00:00:00Z"
+  },
+  "STL-WSH-2026-12-19": {
+   "away": "STL",
+   "home": "WSH",
+   "start": "2026-12-20T00:00:00Z"
+  },
+  "CBJ-LAK-2026-12-19": {
+   "away": "LAK",
+   "home": "CBJ",
+   "start": "2026-12-20T00:00:00Z"
+  },
+  "MIN-MTL-2026-12-19": {
+   "away": "MTL",
+   "home": "MIN",
+   "start": "2026-12-20T00:00:00Z"
+  },
+  "DAL-WPG-2026-12-19": {
+   "away": "DAL",
+   "home": "WPG",
+   "start": "2026-12-20T00:00:00Z"
+  },
+  "SJS-VAN-2026-12-19": {
+   "away": "SJS",
+   "home": "VAN",
+   "start": "2026-12-20T03:00:00Z"
+  },
+  "CHI-OTT-2026-12-20": {
+   "away": "OTT",
+   "home": "CHI",
+   "start": "2026-12-20T13:00:00Z"
+  },
+  "BOS-PHI-2026-12-20": {
+   "away": "PHI",
+   "home": "BOS",
+   "start": "2026-12-20T18:00:00Z"
+  },
+  "DET-TBL-2026-12-20": {
+   "away": "TBL",
+   "home": "DET",
+   "start": "2026-12-20T22:00:00Z"
+  },
+  "DAL-WPG-2026-12-20": {
+   "away": "DAL",
+   "home": "WPG",
+   "start": "2026-12-20T22:00:00Z"
+  },
+  "BUF-LAK-2026-12-20": {
+   "away": "LAK",
+   "home": "BUF",
+   "start": "2026-12-20T23:00:00Z"
+  },
+  "NJD-NSH-2026-12-20": {
+   "away": "NSH",
+   "home": "NJD",
+   "start": "2026-12-21T00:00:00Z"
+  },
+  "NYI-NYR-2026-12-20": {
+   "away": "NYR",
+   "home": "NYI",
+   "start": "2026-12-21T00:00:00Z"
+  },
+  "ANA-EDM-2026-12-20": {
+   "away": "ANA",
+   "home": "EDM",
+   "start": "2026-12-21T00:00:00Z"
+  },
+  "COL-SEA-2026-12-20": {
+   "away": "SEA",
+   "home": "COL",
+   "start": "2026-12-21T01:00:00Z"
+  },
+  "TOR-WSH-2026-12-21": {
+   "away": "WSH",
+   "home": "TOR",
+   "start": "2026-12-21T19:00:00Z"
+  },
+  "FLA-STL-2026-12-21": {
+   "away": "STL",
+   "home": "FLA",
+   "start": "2026-12-22T00:00:00Z"
+  },
+  "CBJ-PHI-2026-12-21": {
+   "away": "CBJ",
+   "home": "PHI",
+   "start": "2026-12-22T00:00:00Z"
+  },
+  "UTA-VAN-2026-12-21": {
+   "away": "UTA",
+   "home": "VAN",
+   "start": "2026-12-22T02:00:00Z"
+  },
+  "CAR-VGK-2026-12-21": {
+   "away": "CAR",
+   "home": "VGK",
+   "start": "2026-12-22T03:00:00Z"
+  },
+  "STL-TBL-2026-12-22": {
+   "away": "STL",
+   "home": "TBL",
+   "start": "2026-12-23T00:00:00Z"
+  },
+  "BOS-NYI-2026-12-22": {
+   "away": "BOS",
+   "home": "NYI",
+   "start": "2026-12-23T00:00:00Z"
+  },
+  "NJD-NYR-2026-12-22": {
+   "away": "NJD",
+   "home": "NYR",
+   "start": "2026-12-23T00:00:00Z"
+  },
+  "BUF-PIT-2026-12-22": {
+   "away": "BUF",
+   "home": "PIT",
+   "start": "2026-12-23T00:00:00Z"
+  },
+  "CBJ-MTL-2026-12-22": {
+   "away": "MTL",
+   "home": "CBJ",
+   "start": "2026-12-23T00:00:00Z"
+  },
+  "DET-TOR-2026-12-22": {
+   "away": "TOR",
+   "home": "DET",
+   "start": "2026-12-23T00:00:00Z"
+  },
+  "NSH-WPG-2026-12-22": {
+   "away": "WPG",
+   "home": "NSH",
+   "start": "2026-12-23T01:00:00Z"
+  },
+  "CGY-DAL-2026-12-22": {
+   "away": "CGY",
+   "home": "DAL",
+   "start": "2026-12-23T01:00:00Z"
+  },
+  "LAK-MIN-2026-12-22": {
+   "away": "LAK",
+   "home": "MIN",
+   "start": "2026-12-23T01:00:00Z"
+  },
+  "ANA-VGK-2026-12-22": {
+   "away": "VGK",
+   "home": "ANA",
+   "start": "2026-12-23T02:30:00Z"
+  },
+  "SEA-SJS-2026-12-22": {
+   "away": "SJS",
+   "home": "SEA",
+   "start": "2026-12-23T02:40:00Z"
+  },
+  "OTT-PIT-2026-12-31": {
+   "away": "PIT",
+   "home": "OTT",
+   "start": "2026-12-31T19:00:00Z"
+  },
+  "CAR-DET-2026-12-31": {
+   "away": "CAR",
+   "home": "DET",
+   "start": "2026-12-31T19:00:00Z"
+  },
+  "MTL-TBL-2026-12-31": {
+   "away": "MTL",
+   "home": "TBL",
+   "start": "2026-12-31T19:00:00Z"
+  },
+  "CBJ-WSH-2026-12-31": {
+   "away": "WSH",
+   "home": "CBJ",
+   "start": "2026-12-31T19:00:00Z"
+  },
+  "STL-VGK-2026-12-31": {
+   "away": "STL",
+   "home": "VGK",
+   "start": "2026-12-31T20:00:00Z"
+  },
+  "COL-UTA-2026-12-31": {
+   "away": "COL",
+   "home": "UTA",
+   "start": "2026-12-31T23:00:00Z"
+  },
+  "CGY-WPG-2026-12-31": {
+   "away": "WPG",
+   "home": "CGY",
+   "start": "2027-01-01T01:00:00Z"
+  },
+  "DAL-NYR-2026-12-31": {
+   "away": "NYR",
+   "home": "DAL",
+   "start": "2027-01-01T02:00:00Z"
+  },
+  "FLA-NSH-2027-01-01": {
+   "away": "FLA",
+   "home": "NSH",
+   "start": "2027-01-01T19:00:00Z"
+  },
+  "BOS-CHI-2027-01-01": {
+   "away": "BOS",
+   "home": "CHI",
+   "start": "2027-01-01T20:00:00Z"
+  },
+  "ANA-NJD-2027-01-01": {
+   "away": "NJD",
+   "home": "ANA",
+   "start": "2027-01-01T21:00:00Z"
+  },
+  "PHI-SJS-2027-01-01": {
+   "away": "PHI",
+   "home": "SJS",
+   "start": "2027-01-01T21:00:00Z"
+  },
+  "MIN-PIT-2027-01-01": {
+   "away": "MIN",
+   "home": "PIT",
+   "start": "2027-01-01T23:00:00Z"
+  },
+  "FLA-MTL-2027-01-02": {
+   "away": "MTL",
+   "home": "FLA",
+   "start": "2027-01-02T18:00:00Z"
+  },
+  "DET-EDM-2027-01-02": {
+   "away": "EDM",
+   "home": "DET",
+   "start": "2027-01-02T20:30:00Z"
+  },
+  "BUF-TBL-2027-01-02": {
+   "away": "BUF",
+   "home": "TBL",
+   "start": "2027-01-03T00:00:00Z"
+  },
+  "OTT-WSH-2027-01-02": {
+   "away": "OTT",
+   "home": "WSH",
+   "start": "2027-01-03T00:00:00Z"
+  },
+  "CAR-NSH-2027-01-02": {
+   "away": "NSH",
+   "home": "CAR",
+   "start": "2027-01-03T00:00:00Z"
+  },
+  "BOS-CBJ-2027-01-02": {
+   "away": "BOS",
+   "home": "CBJ",
+   "start": "2027-01-03T00:00:00Z"
+  },
+  "MIN-STL-2027-01-02": {
+   "away": "STL",
+   "home": "MIN",
+   "start": "2027-01-03T00:00:00Z"
+  },
+  "CGY-WPG-2027-01-02": {
+   "away": "CGY",
+   "home": "WPG",
+   "start": "2027-01-03T00:00:00Z"
+  },
+  "SJS-TOR-2027-01-02": {
+   "away": "TOR",
+   "home": "SJS",
+   "start": "2027-01-03T00:00:00Z"
+  },
+  "CHI-DAL-2027-01-02": {
+   "away": "CHI",
+   "home": "DAL",
+   "start": "2027-01-03T01:00:00Z"
+  },
+  "LAK-NJD-2027-01-02": {
+   "away": "NJD",
+   "home": "LAK",
+   "start": "2027-01-03T02:00:00Z"
+  },
+  "UTA-VAN-2027-01-02": {
+   "away": "VAN",
+   "home": "UTA",
+   "start": "2027-01-03T03:00:00Z"
+  },
+  "COL-VGK-2027-01-02": {
+   "away": "COL",
+   "home": "VGK",
+   "start": "2027-01-03T03:00:00Z"
+  },
+  "NYI-SEA-2027-01-02": {
+   "away": "NYI",
+   "home": "SEA",
+   "start": "2027-01-03T03:00:00Z"
+  },
+  "EDM-PIT-2027-01-03": {
+   "away": "EDM",
+   "home": "PIT",
+   "start": "2027-01-03T20:00:00Z"
+  },
+  "CBJ-NYR-2027-01-03": {
+   "away": "CBJ",
+   "home": "NYR",
+   "start": "2027-01-03T23:00:00Z"
+  },
+  "CGY-STL-2027-01-03": {
+   "away": "CGY",
+   "home": "STL",
+   "start": "2027-01-04T00:00:00Z"
+  },
+  "ANA-PHI-2027-01-03": {
+   "away": "PHI",
+   "home": "ANA",
+   "start": "2027-01-04T01:00:00Z"
+  },
+  "SEA-VAN-2027-01-03": {
+   "away": "VAN",
+   "home": "SEA",
+   "start": "2027-01-04T01:00:00Z"
+  },
+  "BUF-WPG-2027-01-04": {
+   "away": "WPG",
+   "home": "BUF",
+   "start": "2027-01-05T00:30:00Z"
+  },
+  "CHI-MTL-2027-01-04": {
+   "away": "CHI",
+   "home": "MTL",
+   "start": "2027-01-05T00:30:00Z"
+  },
+  "TOR-WSH-2027-01-04": {
+   "away": "TOR",
+   "home": "WSH",
+   "start": "2027-01-05T00:30:00Z"
+  },
+  "DAL-DET-2027-01-04": {
+   "away": "DET",
+   "home": "DAL",
+   "start": "2027-01-05T01:00:00Z"
+  },
+  "COL-VGK-2027-01-04": {
+   "away": "VGK",
+   "home": "COL",
+   "start": "2027-01-05T02:00:00Z"
+  },
+  "LAK-PHI-2027-01-04": {
+   "away": "PHI",
+   "home": "LAK",
+   "start": "2027-01-05T03:00:00Z"
+  },
+  "NJD-SJS-2027-01-04": {
+   "away": "NJD",
+   "home": "SJS",
+   "start": "2027-01-05T03:00:00Z"
+  },
+  "CAR-STL-2027-01-05": {
+   "away": "STL",
+   "home": "CAR",
+   "start": "2027-01-06T00:00:00Z"
+  },
+  "CBJ-NYR-2027-01-05": {
+   "away": "NYR",
+   "home": "CBJ",
+   "start": "2027-01-06T00:00:00Z"
+  },
+  "BOS-BUF-2027-01-05": {
+   "away": "BUF",
+   "home": "BOS",
+   "start": "2027-01-06T00:30:00Z"
+  },
+  "EDM-NSH-2027-01-05": {
+   "away": "EDM",
+   "home": "NSH",
+   "start": "2027-01-06T00:30:00Z"
+  },
+  "CGY-FLA-2027-01-05": {
+   "away": "FLA",
+   "home": "CGY",
+   "start": "2027-01-06T01:00:00Z"
+  },
+  "OTT-UTA-2027-01-05": {
+   "away": "OTT",
+   "home": "UTA",
+   "start": "2027-01-06T02:00:00Z"
+  },
+  "NYI-VAN-2027-01-05": {
+   "away": "NYI",
+   "home": "VAN",
+   "start": "2027-01-06T02:00:00Z"
+  },
+  "SEA-TBL-2027-01-05": {
+   "away": "TBL",
+   "home": "SEA",
+   "start": "2027-01-06T02:40:00Z"
+  },
+  "ANA-MIN-2027-01-05": {
+   "away": "MIN",
+   "home": "ANA",
+   "start": "2027-01-06T03:00:00Z"
+  },
+  "BOS-MTL-2027-01-06": {
+   "away": "BOS",
+   "home": "MTL",
+   "start": "2027-01-07T00:30:00Z"
+  },
+  "COL-OTT-2027-01-06": {
+   "away": "OTT",
+   "home": "COL",
+   "start": "2027-01-07T02:30:00Z"
+  },
+  "LAK-WSH-2027-01-06": {
+   "away": "WSH",
+   "home": "LAK",
+   "start": "2027-01-07T03:00:00Z"
+  },
+  "DAL-SJS-2027-01-06": {
+   "away": "DAL",
+   "home": "SJS",
+   "start": "2027-01-07T03:00:00Z"
+  },
+  "NYR-PHI-2027-02-20": {
+   "away": "NYR",
+   "home": "PHI",
+   "start": "2027-02-20T17:30:00Z"
+  },
+  "BUF-NJD-2027-02-20": {
+   "away": "BUF",
+   "home": "NJD",
+   "start": "2027-02-20T18:30:00Z"
+  },
+  "CHI-MIN-2027-02-20": {
+   "away": "MIN",
+   "home": "CHI",
+   "start": "2027-02-20T20:00:00Z"
+  },
+  "ANA-FLA-2027-02-20": {
+   "away": "ANA",
+   "home": "FLA",
+   "start": "2027-02-20T22:00:00Z"
+  },
+  "CBJ-NSH-2027-02-20": {
+   "away": "NSH",
+   "home": "CBJ",
+   "start": "2027-02-20T22:00:00Z"
+  },
+  "MTL-NYI-2027-02-20": {
+   "away": "NYI",
+   "home": "MTL",
+   "start": "2027-02-21T00:00:00Z"
+  },
+  "TBL-TOR-2027-02-20": {
+   "away": "TOR",
+   "home": "TBL",
+   "start": "2027-02-21T00:00:00Z"
+  },
+  "DAL-VGK-2027-02-20": {
+   "away": "VGK",
+   "home": "DAL",
+   "start": "2027-02-21T01:00:00Z"
+  },
+  "COL-VAN-2027-02-20": {
+   "away": "COL",
+   "home": "VAN",
+   "start": "2027-02-21T03:00:00Z"
+  },
+  "LAK-SEA-2027-02-20": {
+   "away": "SEA",
+   "home": "LAK",
+   "start": "2027-02-21T03:30:00Z"
+  },
+  "CAR-NYR-2027-02-21": {
+   "away": "NYR",
+   "home": "CAR",
+   "start": "2027-02-21T18:00:00Z"
+  },
+  "BUF-DET-2027-02-21": {
+   "away": "BUF",
+   "home": "DET",
+   "start": "2027-02-21T20:30:00Z"
+  },
+  "PIT-WPG-2027-02-21": {
+   "away": "PIT",
+   "home": "WPG",
+   "start": "2027-02-21T22:00:00Z"
+  },
+  "CHI-NJD-2027-02-21": {
+   "away": "NJD",
+   "home": "CHI",
+   "start": "2027-02-21T23:00:00Z"
+  },
+  "FLA-SJS-2027-02-21": {
+   "away": "SJS",
+   "home": "FLA",
+   "start": "2027-02-21T23:00:00Z"
+  },
+  "NSH-WSH-2027-02-21": {
+   "away": "NSH",
+   "home": "WSH",
+   "start": "2027-02-21T23:00:00Z"
+  },
+  "STL-UTA-2027-02-21": {
+   "away": "UTA",
+   "home": "STL",
+   "start": "2027-02-21T23:00:00Z"
+  },
+  "CGY-OTT-2027-02-21": {
+   "away": "OTT",
+   "home": "CGY",
+   "start": "2027-02-22T00:00:00Z"
+  },
+  "BOS-VAN-2027-02-21": {
+   "away": "BOS",
+   "home": "VAN",
+   "start": "2027-02-22T01:00:00Z"
+  },
+  "MTL-PHI-2027-02-22": {
+   "away": "MTL",
+   "home": "PHI",
+   "start": "2027-02-22T19:00:00Z"
+  },
+  "CBJ-NYI-2027-02-22": {
+   "away": "NYI",
+   "home": "CBJ",
+   "start": "2027-02-23T00:00:00Z"
+  },
+  "EDM-OTT-2027-02-22": {
+   "away": "OTT",
+   "home": "EDM",
+   "start": "2027-02-23T00:30:00Z"
+  },
+  "COL-VGK-2027-02-22": {
+   "away": "VGK",
+   "home": "COL",
+   "start": "2027-02-23T02:00:00Z"
+  },
+  "BOS-SEA-2027-02-22": {
+   "away": "BOS",
+   "home": "SEA",
+   "start": "2027-02-23T02:40:00Z"
+  },
+  "DET-TOR-2027-02-23": {
+   "away": "DET",
+   "home": "TOR",
+   "start": "2027-02-24T00:00:00Z"
+  },
+  "SJS-TBL-2027-02-23": {
+   "away": "SJS",
+   "home": "TBL",
+   "start": "2027-02-24T00:00:00Z"
+  },
+  "NYR-WSH-2027-02-23": {
+   "away": "NYR",
+   "home": "WSH",
+   "start": "2027-02-24T00:00:00Z"
+  },
+  "CAR-NJD-2027-02-23": {
+   "away": "CAR",
+   "home": "NJD",
+   "start": "2027-02-24T00:30:00Z"
+  },
+  "CHI-NYI-2027-02-23": {
+   "away": "NYI",
+   "home": "CHI",
+   "start": "2027-02-24T01:00:00Z"
+  },
+  "NSH-WPG-2027-02-23": {
+   "away": "WPG",
+   "home": "NSH",
+   "start": "2027-02-24T01:00:00Z"
+  },
+  "DAL-VAN-2027-02-23": {
+   "away": "VAN",
+   "home": "DAL",
+   "start": "2027-02-24T01:00:00Z"
+  },
+  "MIN-PIT-2027-02-23": {
+   "away": "PIT",
+   "home": "MIN",
+   "start": "2027-02-24T01:00:00Z"
+  },
+  "BUF-PHI-2027-02-24": {
+   "away": "BUF",
+   "home": "PHI",
+   "start": "2027-02-25T00:00:00Z"
+  },
+  "CGY-UTA-2027-02-24": {
+   "away": "CGY",
+   "home": "UTA",
+   "start": "2027-02-25T01:00:00Z"
+  },
+  "FLA-VGK-2027-02-24": {
+   "away": "FLA",
+   "home": "VGK",
+   "start": "2027-02-25T02:30:00Z"
+  },
+  "ANA-SEA-2027-02-24": {
+   "away": "SEA",
+   "home": "ANA",
+   "start": "2027-02-25T03:00:00Z"
+  },
+  "LAK-MTL-2027-02-24": {
+   "away": "MTL",
+   "home": "LAK",
+   "start": "2027-02-25T03:00:00Z"
+  },
+  "DET-OTT-2027-02-25": {
+   "away": "DET",
+   "home": "OTT",
+   "start": "2027-02-26T00:00:00Z"
+  },
+  "PIT-TOR-2027-02-25": {
+   "away": "TOR",
+   "home": "PIT",
+   "start": "2027-02-26T00:00:00Z"
+  },
+  "CAR-SJS-2027-02-25": {
+   "away": "SJS",
+   "home": "CAR",
+   "start": "2027-02-26T00:00:00Z"
+  },
+  "BOS-WSH-2027-02-25": {
+   "away": "WSH",
+   "home": "BOS",
+   "start": "2027-02-26T01:00:00Z"
+  },
+  "STL-VAN-2027-02-25": {
+   "away": "VAN",
+   "home": "STL",
+   "start": "2027-02-26T01:00:00Z"
+  },
+  "EDM-NSH-2027-02-25": {
+   "away": "EDM",
+   "home": "NSH",
+   "start": "2027-02-26T01:00:00Z"
+  },
+  "DAL-TBL-2027-02-25": {
+   "away": "TBL",
+   "home": "DAL",
+   "start": "2027-02-26T01:00:00Z"
+  },
+  "COL-WPG-2027-02-25": {
+   "away": "WPG",
+   "home": "COL",
+   "start": "2027-02-26T02:00:00Z"
+  },
+  "NYI-PHI-2027-02-26": {
+   "away": "PHI",
+   "home": "NYI",
+   "start": "2027-02-27T00:00:00Z"
+  },
+  "NYR-WSH-2027-02-26": {
+   "away": "WSH",
+   "home": "NYR",
+   "start": "2027-02-27T00:00:00Z"
+  },
+  "CBJ-NJD-2027-02-26": {
+   "away": "NJD",
+   "home": "CBJ",
+   "start": "2027-02-27T00:00:00Z"
+  },
+  "BUF-OTT-2027-02-26": {
+   "away": "OTT",
+   "home": "BUF",
+   "start": "2027-02-27T00:30:00Z"
+  },
+  "CHI-LAK-2027-02-26": {
+   "away": "LAK",
+   "home": "CHI",
+   "start": "2027-02-27T01:00:00Z"
+  },
+  "FLA-UTA-2027-02-26": {
+   "away": "FLA",
+   "home": "UTA",
+   "start": "2027-02-27T02:00:00Z"
+  },
+  "ANA-VGK-2027-02-26": {
+   "away": "ANA",
+   "home": "VGK",
+   "start": "2027-02-27T02:00:00Z"
+  }
+ }
+}
