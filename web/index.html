@@ -230,7 +230,7 @@ nav a.fi-tab{display:inline-flex;align-items:center}
 .newsc li:first-child a{border-top:0}.newsc li a:hover span{text-decoration:underline}.newsc small{display:block;color:var(--mute);font-size:11.5px;text-transform:uppercase;letter-spacing:.06em}
 .newsc .more{display:block;margin-top:8px;font-size:13px;font-weight:600}
 </style>
-<script>try{var t=localStorage.getItem("pl-theme");if(t)document.documentElement.setAttribute("data-theme",t)}catch(e){}</script><link rel="stylesheet" href="/theme.css?v=5"></head>
+<script>try{var t=localStorage.getItem("pl-theme");if(t)document.documentElement.setAttribute("data-theme",t)}catch(e){}</script><link rel="stylesheet" href="/theme.css?v=6"></head>
 <body>
 {{ICONS}}
 <div class="wrap">
@@ -239,7 +239,7 @@ nav a.fi-tab{display:inline-flex;align-items:center}
       <a class="brand" href="/" aria-label="Punalamppu – etusivu"><img src="/logo-mark.svg" alt="" width="42" height="42"><span>PUNALAMPPU</span></a>
       <h1 class="sub">{{TAGLINE}}</h1>
     </div>
-    <div class="hdr-r"><div class="upd" id="upd"></div><button type="button" class="themebtn" onclick="plTheme()" aria-label="Vaihda vaalea tai tumma teema" title="Vaalea / tumma"><svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5z"/></svg><svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></button></div>
+    <div class="hdr-r"><div class="upd" id="upd"></div><button type="button" class="menubtn" data-menu aria-haspopup="dialog" aria-controls="mmenu" title="Kaikki sivut"><svg class="ic" aria-hidden="true"><use href="#i-menu"/></svg><span>Valikko</span></button><button type="button" class="themebtn" onclick="plTheme()" aria-label="Vaihda vaalea tai tumma teema" title="Vaalea / tumma"><svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5z"/></svg><svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></button></div>
   </header><script>function plTheme(){var r=document.documentElement,n=r.getAttribute("data-theme")==="light"?"dark":"light";r.setAttribute("data-theme",n);try{localStorage.setItem("pl-theme",n)}catch(e){}var m=document.querySelector("meta[name=theme-color]");if(m)m.content=n==="light"?"#F2F6F9":"#07090C"}</script>
   <nav id="nav">
     <a href="#tulokset" data-v="tulokset">Tulokset</a>
