@@ -2155,7 +2155,312 @@
     "venue": "SAP Center at San Jose",
     "finStats": []
    }
+  },
+  "2026020342": {
+   "id": 2026020342,
+   "away": "DAL",
+   "home": "VGK",
+   "awayScore": 4,
+   "homeScore": 3,
+   "start": "2026-11-18T03:00:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "2",
+     "t": "00:40",
+     "team": "VGK",
+     "who": "William Karlsson",
+     "tag": "",
+     "ast": [
+      "Trevor Connelly",
+      "Jeremy Lauzon"
+     ],
+     "fin": false,
+     "clip": "6408532422112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "10:27",
+     "team": "VGK",
+     "who": "William Karlsson",
+     "tag": "",
+     "ast": [
+      "Trevor Connelly"
+     ],
+     "fin": false,
+     "clip": "6408531908112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "10:59",
+     "team": "DAL",
+     "who": "Nils Lundkvist",
+     "tag": "",
+     "ast": [
+      "Mikko Rantanen",
+      "Roope Hintz"
+     ],
+     "fin": false,
+     "clip": "6408532001112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "12:43",
+     "team": "VGK",
+     "who": "Brett Howden",
+     "tag": "",
+     "ast": [
+      "Jack Eichel",
+      "Brayden McNabb"
+     ],
+     "fin": false,
+     "clip": "6408533074112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "18:42",
+     "team": "DAL",
+     "who": "Wyatt Johnston",
+     "tag": "",
+     "ast": [
+      "Roope Hintz",
+      "Mikko Rantanen"
+     ],
+     "fin": false,
+     "clip": "6408532818112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "19:55",
+     "team": "DAL",
+     "who": "Mikko Rantanen",
+     "tag": "",
+     "ast": [
+      "Jason Robertson",
+      "Tyler Seguin"
+     ],
+     "fin": true,
+     "clip": "6408534368112",
+     "gtd": 10
+    },
+    {
+     "p": "JA",
+     "t": "03:36",
+     "team": "DAL",
+     "who": "Miro Heiskanen",
+     "tag": "",
+     "ast": [
+      "Mikko Rantanen",
+      "Jason Robertson"
+     ],
+     "fin": true,
+     "clip": "",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Jake Oettinger (DAL) 24 torjuntaa · Adin Hill (VGK) 18 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Miro Heiskanen",
+     "team": "DAL",
+     "pos": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "William Karlsson",
+     "team": "VGK",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Trevor Connelly",
+     "team": "VGK",
+     "pos": "L",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "T-Mobile Arena",
+   "finStats": [
+    {
+     "name": "Roope Hintz",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "H",
+     "g": 0,
+     "a": 2,
+     "p": 2,
+     "pm": 0,
+     "sog": 0,
+     "toi": "17:41"
+    },
+    {
+     "name": "Arttu Hyry",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 1,
+     "toi": "11:46"
+    },
+    {
+     "name": "Mikko Rantanen",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "H",
+     "g": 1,
+     "a": 3,
+     "p": 4,
+     "pm": 4,
+     "sog": 5,
+     "toi": "24:24"
+    },
+    {
+     "name": "Miro Heiskanen",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "P",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 1,
+     "sog": 1,
+     "toi": "28:22"
+    },
+    {
+     "name": "Esa Lindell",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 0,
+     "toi": "23:12"
+    }
+   ],
+   "note": "Suomalaiset: Rantanen 1+3, Hintz 0+2, Heiskanen 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jake Oettinger (DAL) 24 torjuntaa · Adin Hill (VGK) 18 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Miro Heiskanen",
+      "team": "DAL",
+      "pos": "D",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "William Karlsson",
+      "team": "VGK",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Trevor Connelly",
+      "team": "VGK",
+      "pos": "L",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "T-Mobile Arena",
+    "finStats": [
+     {
+      "name": "Roope Hintz",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "H",
+      "g": 0,
+      "a": 2,
+      "p": 2,
+      "pm": 0,
+      "sog": 0,
+      "toi": "17:41"
+     },
+     {
+      "name": "Arttu Hyry",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 1,
+      "toi": "11:46"
+     },
+     {
+      "name": "Mikko Rantanen",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "H",
+      "g": 1,
+      "a": 3,
+      "p": 4,
+      "pm": 4,
+      "sog": 5,
+      "toi": "24:24"
+     },
+     {
+      "name": "Miro Heiskanen",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "P",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 1,
+      "sog": 1,
+      "toi": "28:22"
+     },
+     {
+      "name": "Esa Lindell",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 0,
+      "toi": "23:12"
+     }
+    ]
+   }
   }
  },
- "clipTries": 1
+ "clipTries": 2
 }
