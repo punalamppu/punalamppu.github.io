@@ -1425,6 +1425,271 @@
      }
     ]
    }
+  },
+  "2026020340": {
+   "id": 2026020340,
+   "away": "NSH",
+   "home": "MIN",
+   "awayScore": 3,
+   "homeScore": 7,
+   "start": "2026-11-18T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "04:20",
+     "team": "MIN",
+     "who": "Brock Faber",
+     "tag": "",
+     "ast": [
+      "Joel Eriksson Ek",
+      "Kirill Kaprizov"
+     ],
+     "fin": false,
+     "clip": "6408523560112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "08:59",
+     "team": "MIN",
+     "who": "Blake Coleman",
+     "tag": "",
+     "ast": [
+      "Jared Spurgeon",
+      "Quinn Hughes"
+     ],
+     "fin": false,
+     "clip": "6408523683112",
+     "gtd": 7
+    },
+    {
+     "p": "1",
+     "t": "17:56",
+     "team": "MIN",
+     "who": "Maxim Shabanov",
+     "tag": "",
+     "ast": [
+      "Jared Spurgeon",
+      "Jakov Trenin"
+     ],
+     "fin": false,
+     "clip": "6408523984112",
+     "gtd": 9
+    },
+    {
+     "p": "1",
+     "t": "18:39",
+     "team": "MIN",
+     "who": "Matt Boldy",
+     "tag": "",
+     "ast": [
+      "Quinn Hughes",
+      "Joel Eriksson Ek"
+     ],
+     "fin": false,
+     "clip": "6408524894112",
+     "gtd": 11
+    },
+    {
+     "p": "2",
+     "t": "00:59",
+     "team": "MIN",
+     "who": "Matt Boldy",
+     "tag": "YV",
+     "ast": [
+      "Kirill Kaprizov",
+      "Joel Eriksson Ek"
+     ],
+     "fin": false,
+     "clip": "6408526965112",
+     "gtd": 12
+    },
+    {
+     "p": "2",
+     "t": "01:52",
+     "team": "NSH",
+     "who": "Nicolas Hague",
+     "tag": "",
+     "ast": [
+      "Steven Stamkos"
+     ],
+     "fin": false,
+     "clip": "6408525429112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "02:09",
+     "team": "MIN",
+     "who": "Marcus Foligno",
+     "tag": "",
+     "ast": [
+      "Nick Foligno"
+     ],
+     "fin": false,
+     "clip": "6408526788112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "07:13",
+     "team": "NSH",
+     "who": "Jonathan Marchessault",
+     "tag": "",
+     "ast": [
+      "Alexander Kerfoot",
+      "Reid Schaefer"
+     ],
+     "fin": false,
+     "clip": "6408526707112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "18:41",
+     "team": "NSH",
+     "who": "Filip Forsberg",
+     "tag": "",
+     "ast": [
+      "Nicolas Hague"
+     ],
+     "fin": false,
+     "clip": "6408527739112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "19:55",
+     "team": "MIN",
+     "who": "Joel Eriksson Ek",
+     "tag": "",
+     "ast": [
+      "Matt Boldy",
+      "Kirill Kaprizov"
+     ],
+     "fin": false,
+     "clip": "6408528016112",
+     "gtd": 7
+    }
+   ],
+   "goalies": "Justus Annunen (NSH) 14 torjuntaa · Jesper Wallstedt (MIN) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Joel Eriksson Ek",
+     "team": "MIN",
+     "pos": "C",
+     "goals": 1,
+     "assists": 3,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Brock Faber",
+     "team": "MIN",
+     "pos": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Matt Boldy",
+     "team": "MIN",
+     "pos": "L",
+     "goals": 2,
+     "assists": 1,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Grand Casino Arena",
+   "finStats": [
+    {
+     "name": "Justus Annunen",
+     "team": "NSH",
+     "opp": "MIN",
+     "pos": "MV",
+     "saves": 14,
+     "shots": 20,
+     "dec": "L",
+     "toi": "22:46"
+    },
+    {
+     "name": "Juuse Saros",
+     "team": "NSH",
+     "opp": "MIN",
+     "pos": "MV",
+     "saves": 17,
+     "shots": 18,
+     "dec": "",
+     "toi": "37:14"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Justus Annunen (NSH) 14 torjuntaa · Jesper Wallstedt (MIN) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Joel Eriksson Ek",
+      "team": "MIN",
+      "pos": "C",
+      "goals": 1,
+      "assists": 3,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Brock Faber",
+      "team": "MIN",
+      "pos": "D",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Matt Boldy",
+      "team": "MIN",
+      "pos": "L",
+      "goals": 2,
+      "assists": 1,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Grand Casino Arena",
+    "finStats": [
+     {
+      "name": "Justus Annunen",
+      "team": "NSH",
+      "opp": "MIN",
+      "pos": "MV",
+      "saves": 14,
+      "shots": 20,
+      "dec": "L",
+      "toi": "22:46"
+     },
+     {
+      "name": "Juuse Saros",
+      "team": "NSH",
+      "opp": "MIN",
+      "pos": "MV",
+      "saves": 17,
+      "shots": 18,
+      "dec": "",
+      "toi": "37:14"
+     }
+    ]
+   }
   }
  }
 }
