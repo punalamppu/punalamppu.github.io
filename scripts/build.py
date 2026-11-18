@@ -3760,6 +3760,32 @@ def born_date_txt(pr):
         return ""
 
 
+FI_CLUB_FIX = {"JyP": "JYP", "Hifk": "HIFK", "Tps": "TPS", "Frolunda": "Frölunda HC", "Karpat": "Kärpät", "Assat": "Ässät", "Kettera": "Ketterä", "Jyvaskyla": "Jyväskylä", "Hameenlinna": "Hämeenlinna",
+               "Jarvenpaa": "Järvenpää", "Hermes": "Hermes", "Kiekko-Vantaa": "Kiekko-Vantaa", "Pelicans": "Pelicans", "Lukko": "Lukko"}
+FI_LEAGUE = {"Finland": "Liiga", "SM-liiga": "Liiga", "Liiga": "Liiga", "Fin-Jr.": "U20 SM-sarja", "Jr. A SM-liiga": "U20 SM-sarja", "U20 SM-sarja": "U20 SM-sarja",
+             "Fin-U18": "U18 SM-sarja", "Jr. B SM-sarja": "U18 SM-sarja", "U18 SM-sarja": "U18 SM-sarja", "Fin-2": "Mestis", "Mestis": "Mestis",
+             "Champions HL": "Mestarien liiga", "Fin-U16": "U16 SM-sarja", "Fin-U20": "U20 SM-sarja", "U20 SM-liiga": "U20 SM-sarja",
+             "Finland-2": "Mestis", "Sweden": "SHL", "Sweden-2": "Allsvenskan", "Russia": "KHL", "Swiss": "NL", "Swiss-A": "NL", "Czech": "Extraliga"}
+PRE_LEAGUES = {"Liiga", "Mestis", "U20 SM-sarja", "U18 SM-sarja", "SHL", "Allsvenskan", "KHL", "NL", "Extraliga", "AHL", "ECHL", "OHL", "WHL",
+               "QMJHL", "USHL", "NAHL", "NCAA", "WCHA", "NCHC", "Big Ten", "Hockey East", "ECAC", "CCHA", "Atlantic Hockey", "J20 Nationell", "U20 Mestis"}
+
+
+def fi_club(team_, lg):
+    t = team_
+    for a, b in FI_CLUB_FIX.items():
+        t = re.sub(rf"\b{a}\b", b, t)
+    t = re.sub(r"\s+(Akatemia|Ch)(?=\s|$)", "", t)
+    t = re.sub(r"\s+U18(\s+U18)+$", " U18", t)
+    t = re.sub(r"\s+(Jr\.|U20|J20)$", " U20", t)
+    t = re.sub(r"\s+(U18|J18)$", " U18", t)
+    lgf = FI_LEAGUE.get(lg, lg)
+    if lgf == "U20 SM-sarja" and not t.endswith(" U20"):
+        t += " U20"
+    if lgf == "U18 SM-sarja" and not t.endswith(" U18"):
+        t += " U18"
+    return t, lgf
+
+
 def pre_nhl(pr, is_goalie):
     """Seurajaksot ennen ensimmäistä NHL-kautta: [(kaudet, joukkue, sarja, O, M, S, P / TO%)]."""
     first = min([x.get("season") or 99999999 for x in pr.get("seasonTotals") or []] or [99999999])
@@ -3767,7 +3793,9 @@ def pre_nhl(pr, is_goalie):
     for x in sorted(pr.get("preNhl") or [], key=lambda x: x.get("s") or 0):
         if (x.get("s") or 0) >= first or not x.get("team") or not x.get("gp"):
             continue
-        k = (x["team"], x.get("lg") or "")
+        k = fi_club(x["team"], x.get("lg") or "")
+        if k[1] not in PRE_LEAGUES:
+            continue
         r = rows.setdefault(k, {"s0": x["s"], "s1": x["s"], "gp": 0, "g": 0, "a": 0, "p": 0})
         r["s1"] = x["s"]
         r["gp"] += x["gp"]
@@ -3910,8 +3938,9 @@ def render_player(name, t, pos, f, is_goalie, data, gd, slugs):
     if pre:
         clubs = []
         for r in pre:
-            if r[1] not in clubs:
-                clubs.append(r[1])
+            c = re.sub(r" U(18|20)$", "", r[1])
+            if r[2] != "Mestarien liiga" and c not in clubs:
+                clubs.append(c)
         faq.append((f"Missä seuroissa {name} pelasi ennen NHL:ää?", f"Ennen NHL:ää {name} pelasi seuroissa " + ", ".join(clubs[:-1]) + (" ja " if len(clubs) > 1 else "") + clubs[-1] + "."))
     faq_html = "<h2>Usein kysyttyä</h2>" + "".join(f"<h3>{esc(q)}</h3><p>{esc(a)}</p>" for q, a in faq)
     if is_goalie:
