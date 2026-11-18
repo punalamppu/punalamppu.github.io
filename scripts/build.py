@@ -710,6 +710,52 @@ def fetch_upcoming(et_today):
     return ups
 
 
+def resolve_events(hel_today):
+    """Tapahtumasivujen ottelut (config.json: events) täydennettynä NHL:n otteluohjelmalla (aloitusajat) ja arkistolla (tulokset)."""
+    evs = CFG.get("events") or []
+    path = os.path.join(DATA, "events.json")
+    cache = load_json(path, {})
+    sig = json.dumps(evs, sort_keys=True)
+    if cache.get("date") != hel_today.isoformat() or cache.get("sig") != sig:
+        sched, weeks = {}, set()
+        for ev in evs:
+            for it in ev.get("games") or []:
+                d = dt.date.fromisoformat(it["date"])
+                if not (hel_today - dt.timedelta(days=1) <= d <= hel_today + dt.timedelta(days=150)):
+                    continue
+                wk = d - dt.timedelta(days=1)
+                if any(w <= wk and d <= w + dt.timedelta(days=6) for w in weeks):
+                    continue
+                res = get(f"{API}/schedule/{wk.isoformat()}") or {}
+                weeks.add(wk)
+                for day in res.get("gameWeek") or []:
+                    for g in day.get("games") or []:
+                        a, h = team(g["awayTeam"].get("abbrev")), team(g["homeTeam"].get("abbrev"))
+                        sched[f"{min(a, h)}-{max(a, h)}-{day.get('date')}"] = {"away": a, "home": h, "start": g.get("startTimeUTC")}
+        cache = {"date": hel_today.isoformat(), "sig": sig, "sched": sched}
+        save_json(path, cache)
+    sched = cache.get("sched") or {}
+    out = []
+    for ev in evs:
+        games = []
+        for it in ev.get("games") or []:
+            d = dt.date.fromisoformat(it["date"])
+            t1, t2 = sorted(it["teams"])
+            e = {"date": it["date"], "away": it["teams"][0], "home": it["teams"][1], "start": it.get("fallbackStart"), "label": it.get("label", ""), "status": "upcoming"}
+            for et in (d, d - dt.timedelta(days=1)):
+                arch = load_json(os.path.join(DATA, "archive", f"{et.isoformat()}.json"), {}).get("games") or {}
+                for g in arch.values():
+                    if sorted((g["away"], g["home"])) == [t1, t2]:
+                        e.update(away=g["away"], home=g["home"], start=g.get("start") or e["start"], status="final", score=score_txt(g), slug=game_slug(et.isoformat(), g))
+                if e["status"] == "upcoming":
+                    m = sched.get(f"{t1}-{t2}-{et.isoformat()}")
+                    if m:
+                        e.update(away=m["away"], home=m["home"], start=m["start"] or e["start"])
+            games.append(e)
+        out.append(dict(ev, games=games))
+    return out
+
+
 def resolve_free_games(hel_today):
     """Ilmaiskanavien ottelut (config.json: freeGames) täydennettynä NHL:n otteluohjelmalla ja arkistolla.
     Tulevien otteluiden aloitusajat haetaan kerran päivässä (data/freetv.json)."""
@@ -1037,9 +1083,14 @@ def collect():
 
     try:
         free_tv = resolve_free_games(hel_today)
+        try:
+            events = resolve_events(hel_today)
+        except Exception as e:
+            log("tapahtumat epäonnistuivat", e)
+            events = []
     except Exception as e:
         log("ilmaisottelut epäonnistuivat", e)
-        free_tv = []
+        free_tv, events = [], []
     any_live = any(p["status"] and not p["status"].startswith(("Alkaa", "Siirretty", "Ei alkanut")) for p in pending)
     return {
         "site": CFG["siteName"],
@@ -1061,6 +1112,7 @@ def collect():
         "finnOff": finn_off,
         "tvInfo": CFG.get("tvInfo"),
         "freeTv": free_tv,
+        "events": events,
         "history": hist[-120:],
         "sources": [{"name": "NHL.com (julkiset tulos- ja tilastotiedot)", "url": "https://www.nhl.com/"}]
                    + ([{"name": "MoneyPuck.com (edistyneet tilastot pelaajasivuilla)", "url": "https://moneypuck.com/"}] if MP.get("skaters") or MP.get("goalies") else []),
@@ -1215,7 +1267,7 @@ FOLLOW = [("google", "Google", "https://www.google.com/preferences/source?q=puna
           ("bsky", "Bluesky", "https://bsky.app/profile/punalamppu.bsky.social"),
           ("tg", "Telegram", "https://t.me/punalamppu"),
           ("rss", "RSS", "/rss.xml")]
-SHARE_PATHS = re.compile(r"^/(uutiset/[^/]+/|koosteet/\d{4}-\d\d-\d\d/|tulokset/\d{4}-\d\d-\d\d/|ottelut/[^/]+\.html|suomalaiset/[^/]+\.html|nhl-helsinki-2026/)$")
+SHARE_PATHS = re.compile(r"^/(uutiset/[^/]+/|koosteet/\d{4}-\d\d-\d\d/|tulokset/\d{4}-\d\d-\d\d/|ottelut/[^/]+\.html|suomalaiset/[^/]+\.html|nhl-helsinki-2026/|nhl-[a-z0-9-]+-20\d\d/|nhl-tapahtumat/)$")
 
 
 def _ext(h):
@@ -1318,7 +1370,7 @@ def footer():
             '<p>Yön NHL-tulokset, maalikoosteet ja suomalaiset suomeksi. Päivittyy automaattisesti joka yö ja aamu.</p></div>'
             '<div><h4>NHL</h4><a href="/">Yön tulokset</a><a href="/tulokset/">Tulokset päivittäin</a><a href="/joukkueet/">Joukkueet</a><a href="/otteluohjelma/">Otteluohjelma</a><a href="/sarjataulukko/">Sarjataulukko</a><a href="/pisteporssi/">Pistepörssi</a><a href="/pudotuspelit/">Pudotuspelitodennäköisyydet</a><a href="/ottelut/">Otteluarkisto</a></div>'
             '<div><h4>Suomalaiset</h4><a href="/suomalaiset/">Kaikki suomalaiset</a><a href="/uutiset/">Uutiset</a><a href="/koosteet/">Päivittäiset koosteet</a><a href="/#suomalaiset">Yön suomalaistilastot</a><a href="/virstanpylvaat/">Virstanpylväät</a><a href="/kaikkien-aikojen-suomalaiset/">Kaikkien aikojen suomalaiset</a><a href="/kalenteri/suomalaiset.ics">Kalenteri (.ics)</a><a href="/rss.xml">RSS-syöte</a></div>'
-            '<div><h4>Katso NHL:ää</h4><a href="/nhl-tv/">NHL tv-lähetykset</a><a href="/nhl-tv/#ilmaisottelut">Ilmaisottelut</a><a href="/nhl-helsinki-2026/">NHL Helsinki 2026</a></div>'
+            '<div><h4>Katso NHL:ää</h4><a href="/nhl-tv/">NHL tv-lähetykset</a><a href="/nhl-tv/#ilmaisottelut">Ilmaisottelut</a><a href="/nhl-tapahtumat/">NHL-tapahtumat</a><a href="/nhl-helsinki-2026/">NHL Helsinki 2026</a></div>'
             '<div><h4>Sivusto</h4><a href="/tietoa.html">Tietoa sivustosta</a><a href="/yhteys.html">Ota yhteyttä</a><a href="/tietosuoja.html">Tietosuoja</a></div>'
             '</div>'
             + '<div class="ffollow"><span>Seuraa Punalamppua</span>' + "".join(
@@ -1850,6 +1902,110 @@ def build_site(data):
             "NHL Global Series Helsinki 12.11. ja 14.11.2026: Carolina Hurricanes – Seattle Kraken Veikkaus Arenalla. Otteluajat, ilmainen tv-lähetys, suomalaiset ja tulokset.",
             "/nhl-helsinki-2026/", body_h, jl_h))
         urls.append("/nhl-helsinki-2026/")
+
+    # --- tapahtumasivut (config.json: events) ja tapahtumakalenteri
+    WD = ["ma", "ti", "ke", "to", "pe", "la", "su"]
+    sk_by_e = {f[0]: f for f in data["finns"]}
+    gk_by_e = {f[0]: f for f in data["finnGoalies"]}
+    free_ch = {(e["date"], frozenset((e["away"], e["home"]))): e["ch"] for e in data.get("freeTv") or []}
+
+    def ev_finrows(t):
+        out = []
+        for n in finn_by_team(data, t):
+            f = sk_by_e.get(n) or gk_by_e.get(n)
+            line = (f"{f[3]} ott., {f[4]}+{f[5]}={f[6]}" if n in sk_by_e else f"maalivahti, {f[2]} ott., TO% {f[6]}") if f else ""
+            link = f"<a href='/suomalaiset/{slugs[n]}.html'>{esc(n)}</a>" if n in slugs else esc(n)
+            out.append(f"<li><div class='mrow'>{tbadge(t, 'mini')}<span>{link}</span><span class='mute'>{esc(line)}</span></div></li>")
+        return "".join(out)
+
+    def ev_when(e):
+        if e.get("start"):
+            st_ = dt.datetime.fromisoformat(e["start"].replace("Z", "+00:00")).astimezone(HEL)
+            if st_.hour or st_.minute:
+                return f"{WD[st_.weekday()]} {st_.day}.{st_.month}.{st_.year} klo {st_:%H.%M}"
+        return e.get("label") or fi_date(e["date"])
+
+    ev_list = []
+    for ev in data.get("events") or []:
+        path_e = f"/{ev['slug']}/"
+        rows = []
+        for i, e in enumerate(ev["games"]):
+            ch = free_ch.get((e["date"], frozenset((e["away"], e["home"]))))
+            res = f"<b class='fsc'>{esc(e['score'])}</b>" if e.get("score") else ""
+            inner = (f"<div class='ftop'><span class='gt'>{'Ottelu ' + str(i + 1) + ' · ' if len(ev['games']) > 1 else ''}{esc(ev_when(e))}</span>"
+                     + (f"<span class='chan'>{esc(ch)} (ilmainen)</span>" if ch else "") + "</div>"
+                     f"<div class='fmid'><span class='tm'>{tbadge(e['away'], 'mini')}{esc(tname(e['away']))}</span><span class='mute'>–</span>"
+                     f"<span class='tm'>{tbadge(e['home'], 'mini')}{esc(tname(e['home']))}</span>{res}</div>"
+                     + ("<div class='fins2'>Tulos, maalit ja maalikooste ottelusivulla →</div>" if e.get("slug") else ""))
+            rows.append(f"<li class='frow'><a href='/ottelut/{e['slug']}.html'>{inner}</a></li>" if e.get("slug") else f"<li class='frow'>{inner}</li>")
+        body_e = f"<h1>{esc(ev['h1'])}</h1><p class='lead'>{esc(ev['lead'])}</p>"
+        if rows:
+            body_e += (f"<h2>Ottelu{'t' if len(rows) > 1 else ''}</h2><ul class='rows'>{''.join(rows)}</ul>"
+                       f"<p class='mute small'>Kellonajat Suomen aikaa, kun NHL on vahvistanut aloitusajan. Paikka: {esc(ev['venue'])}, {esc(ev['city'])}.</p>")
+            chs = [free_ch.get((e["date"], frozenset((e["away"], e["home"])))) for e in ev["games"]]
+            body_e += ("<h2>Tv-lähetys</h2><p>" + (f"Ottelu näkyy ilmaiseksi kanavalla <b>{esc(chs[0])}</b>. " if chs and all(chs) and len(set(chs)) == 1 else
+                       "Tv-kanava päivittyy tälle sivulle, kun lähetysoikeuksien haltija vahvistaa sen. ")
+                       + "<a href='/nhl-tv/'>Katso NHL:n tv-oikeudet ja ilmaisottelut Suomessa</a>.</p>")
+        for t in ev.get("teams") or []:
+            fr = ev_finrows(t)
+            body_e += f"<h2>Suomalaiset: {esc(tname(t))}</h2><ul class='rows'>{fr or '<li>Ei suomalaisia NHL-kokoonpanossa.</li>'}</ul>"
+        if ev.get("teams"):
+            body_e += "<p class='mute small'>Kokoonpanot ja kauden tilastot päivittyvät automaattisesti NHL:n tiedoista.</p>"
+        if ev.get("finland"):
+            top = sorted(data["finns"], key=lambda f: (-(f[6] or 0), -(f[4] or 0)))[:9]
+            tg = sorted([g for g in data["finnGoalies"] if isinstance(g[2], int) and g[2] >= 5], key=lambda g: -float(str(g[6]).replace(",", ".") or 0))[:3]
+            def prow(f, gk=False):
+                link = f"<a href='/suomalaiset/{slugs[f[0]]}.html'>{esc(f[0])}</a>" if f[0] in slugs else esc(f[0])
+                line = f"maalivahti, {f[2]} ott., TO% {f[6]}" if gk else f"{f[3]} ott., {f[4]}+{f[5]}={f[6]}"
+                return f"<li><div class='mrow'>{tbadge(f[1], 'mini')}<span>{link}</span><span class='mute'>{esc(line)}</span></div></li>"
+            body_e += ("<h2>Suomen joukkue</h2><p>Suomen joukkueeseen valitaan 11 pelaajaa: yhdeksän kenttäpelaajaa ja kaksi maalivahtia. "
+                       "NHL ja pelaajayhdistys nimeävät 30 ehdokasta, joista yleisö äänestää kahdeksan. Äänestys avautuu joulukuussa, ja päivitämme ehdokkaat tälle sivulle.</p>"
+                       "<h3>Kauden pisteykköset suomalaisista</h3><p class='mute small'>Tilastojen kärki, ei virallinen ehdokaslista.</p>"
+                       f"<ul class='rows'>{''.join(prow(f) for f in top)}</ul>"
+                       + (f"<h3>Suomalaismaalivahdit torjuntaprosentin mukaan</h3><p class='mute small'>Vähintään viisi ottelua pelanneet.</p><ul class='rows'>{''.join(prow(g, True) for g in tg)}</ul>" if tg else ""))
+        body_e += "<h2>Usein kysyttyä</h2>" + "".join(f"<h3>{esc(q)}</h3><p>{esc(a)}</p>" for q, a in ev.get("faq") or [])
+        others = [x for x in data.get("events") or [] if x["slug"] != ev["slug"]]
+        body_e += ("<h2>Muut NHL-tapahtumat</h2><ul class='rows'>" + "".join(
+            f"<li><a class='mrow' href='/{x['slug']}/'><span>{esc(x['short'])}</span><span class='mute'>{esc(fi_date(x['start']))}</span>{ic('chev')}</a></li>" for x in others)
+            + "<li><a class='mrow' href='/nhl-tapahtumat/'><span>Kaikki NHL-tapahtumat</span>" + ic('chev') + "</a></li></ul>")
+        if ev.get("sources"):
+            body_e += "<h2>Lähteet</h2><p class='small'>" + " · ".join(f"<a href='{esc(u)}' rel='noopener'>{esc(l)}</a>" for l, u in ev["sources"]) + "</p>"
+        base_e = CFG["baseUrl"].rstrip("/")
+        addr = {"@type": "PostalAddress", "addressLocality": ev["city"], "addressCountry": ev["country"]}
+        graph = []
+        for e in ev["games"]:
+            e2 = dict(e, start=e.get("start") or (ev["start"] + "T00:00:00Z"))
+            se = sports_event(e2, e["date"], venue=ev["venue"], address=addr, url=base_e + path_e,
+                              desc=f"{ev['short']}: {tname(e['away'])} – {tname(e['home'])}, {ev['venue']}, {ev['city']}.")
+            se["name"] += f" ({ev['short']})"
+            graph.append(se)
+        if not ev["games"]:
+            graph.append({"@type": "SportsEvent", "name": ev["short"], "sport": "Jääkiekko", "startDate": ev["start"], "endDate": ev["end"],
+                          "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+                          "organizer": NHL_ORG, "location": {"@type": "Place", "name": ev["venue"], "address": addr},
+                          "image": [base_e + "/og.png"], "description": ev["desc"], "url": base_e + path_e})
+        graph.append({"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in ev.get("faq") or []]})
+        os.makedirs(os.path.join(OUT, ev["slug"]), exist_ok=True)
+        open(os.path.join(OUT, ev["slug"], "index.html"), "w", encoding="utf-8").write(page(
+            f"{ev['title']} | {CFG['siteName']}", ev["desc"], path_e, body_e, {"@context": "https://schema.org", "@graph": graph}))
+        urls.append(path_e)
+        ev_list.append((ev["start"], ev["end"], ev["short"], path_e, ev["venue"] + ", " + ev["city"]))
+    # tapahtumakalenteri
+    ev_list.append(("2026-11-12", "2026-11-14", "NHL Helsinki 2026", "/nhl-helsinki-2026/", "Veikkaus Arena, Helsinki"))
+    tod = now_utc().astimezone(HEL).date().isoformat()
+    up_e = sorted(x for x in ev_list if x[1] >= tod)
+    past_e = sorted((x for x in ev_list if x[1] < tod), reverse=True)
+    def evrow(x):
+        days = (dt.date.fromisoformat(x[0]) - dt.date.fromisoformat(tod)).days
+        when = fi_date(x[0]) + ("" if x[0] == x[1] else f" – {fi_date(x[1])}")
+        cd = f" · {days} päivää" if days > 1 else (" · huomenna" if days == 1 else (" · tänään" if x[0] <= tod <= x[1] else ""))
+        return f"<li><a class='mrow' href='{x[3]}'><span><b>{esc(x[2])}</b><br><span class='mute small'>{esc(when)}{cd} · {esc(x[4])}</span></span>{ic('chev')}</a></li>"
+    write("/nhl-tapahtumat/", f"NHL-tapahtumat 2026–27 – Global Series, Winter Classic, All-Star ja Stadium Series | {CFG['siteName']}",
+          "Kauden 2026–27 NHL-erikoistapahtumat yhdellä sivulla: Euroopan ottelut, ulkoilmaottelut ja All-Star-viikonloppu Suomen aikaa. Mukana suomalaiset ja tv-tiedot.",
+          "<h1>NHL-tapahtumat kaudella 2026–27</h1><p class='lead'>Kauden erikoistapahtumat yhdellä sivulla: ottelut Euroopassa, ulkoilmaottelut ja All-Star-viikonloppu. "
+          "Jokaisella tapahtumalla on oma sivu, jolle päivittyvät otteluajat Suomen aikaa, suomalaispelaajat ja tulokset.</p>"
+          + (f"<h2>Tulevat tapahtumat</h2><ul class='rows'>{''.join(evrow(x) for x in up_e)}</ul>" if up_e else "")
+          + (f"<h2>Pelatut tapahtumat</h2><ul class='rows'>{''.join(evrow(x) for x in past_e)}</ul>" if past_e else ""))
 
     write("/otteluohjelma/", f"NHL-otteluohjelma – tulevat ottelut Suomen aikaa | {CFG['siteName']}",
           "NHL:n otteluohjelma seuraavalle viikolle Suomen ajassa. Näet myös, missä otteluissa suomalaiset pelaavat.",

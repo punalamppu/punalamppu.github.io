@@ -272,5 +272,201 @@
       "https://www.nhlsuomi.com/nhl-viaplay-mtv-tv/"
     ]
   ],
-  "googlePreferred": false
+  "googlePreferred": false,
+  "events": [
+    {
+      "slug": "nhl-saksa-2026",
+      "short": "NHL Düsseldorf 2026",
+      "h1": "NHL Saksa 2026 – Global Series Germany Düsseldorfissa",
+      "title": "NHL Düsseldorf 2026 – Ottawa–Chicago, ajat, tv ja suomalaiset",
+      "desc": "NHL Global Series Germany 18.12. ja 19.12.2026: Ottawa Senators ja Chicago Blackhawks pelaavat Düsseldorfin PSD Bank Domessa. Otteluajat Suomen aikaa, suomalaiset ja tulokset.",
+      "lead": "Ottawa Senators ja Chicago Blackhawks pelaavat kaksi NHL:n runkosarjaottelua Düsseldorfin PSD Bank Domessa 18. ja 19. joulukuuta 2026. Ottelut kuuluvat NHL:n Global Series -sarjaan, joka toi kauden alussa kaksi ottelua myös Helsinkiin. Tälle sivulle päivittyvät otteluajat Suomen aikaa, suomalaispelaajat ja otteluiden jälkeen tulokset ja maalikoosteet.",
+      "start": "2026-12-18",
+      "end": "2026-12-19",
+      "venue": "PSD Bank Dome",
+      "city": "Düsseldorf",
+      "country": "DE",
+      "teams": [
+        "OTT",
+        "CHI"
+      ],
+      "games": [
+        {
+          "date": "2026-12-18",
+          "teams": [
+            "OTT",
+            "CHI"
+          ],
+          "label": "pe 18.12.2026"
+        },
+        {
+          "date": "2026-12-19",
+          "teams": [
+            "OTT",
+            "CHI"
+          ],
+          "label": "la 19.12.2026"
+        }
+      ],
+      "faq": [
+        [
+          "Milloin NHL pelaa Saksassa 2026?",
+          "Ottawa Senators ja Chicago Blackhawks pelaavat Düsseldorfin PSD Bank Domessa perjantaina 18.12. ja lauantaina 19.12.2026."
+        ],
+        [
+          "Pelaako Saksan NHL-otteluissa suomalaisia?",
+          "Sivun suomalaislistat päivittyvät automaattisesti joukkueiden NHL-kokoonpanoista. Katso ajantasainen tilanne yltä."
+        ],
+        [
+          "Missä Düsseldorfin NHL-ottelut näkyvät Suomessa?",
+          "Tv-kanava päivitetään tälle sivulle, kun lähetysoikeuksien haltija vahvistaa sen. Katso NHL:n tv-oikeudet Suomessa sivulta NHL tv-lähetykset."
+        ]
+      ],
+      "sources": [
+        [
+          "Daily Faceoff: kauden 2026–27 tärkeät päivät",
+          "https://www.dailyfaceoff.com/news/top-5-key-dates-you-need-know-2026-27-nhl-season-winter-classic-stadium-series-all-star-game-stanley-cup"
+        ]
+      ]
+    },
+    {
+      "slug": "nhl-winter-classic-2026",
+      "short": "Winter Classic 2026",
+      "h1": "NHL Winter Classic 2026 – Colorado ja Utah ulkoilmassa",
+      "title": "NHL Winter Classic 2026 – Colorado–Utah, aika Suomessa ja suomalaiset",
+      "desc": "NHL Winter Classic 31.12.2026 Salt Lake Cityssä: Colorado Avalanche – Utah Mammoth Rice-Eccles Stadiumilla. Suomessa ottelu alkaa uudenvuodenyönä klo 01.00. Suomalaiset ja tulos.",
+      "lead": "Colorado Avalanche ja Utah Mammoth kohtaavat NHL:n 19. Winter Classic -ulkoilmaottelussa Salt Lake Cityn Rice-Eccles Stadiumilla uudenvuodenaattona 31.12.2026. Ottelu alkaa kello 18 Yhdysvaltain itärannikon aikaa, eli Suomessa uudenvuodenyönä 1.1.2027 klo 01.00.",
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "venue": "Rice-Eccles Stadium",
+      "city": "Salt Lake City",
+      "country": "US",
+      "teams": [
+        "COL",
+        "UTA"
+      ],
+      "games": [
+        {
+          "date": "2027-01-01",
+          "teams": [
+            "COL",
+            "UTA"
+          ],
+          "label": "pe 1.1.2027 klo 01.00",
+          "fallbackStart": "2026-12-31T23:00:00Z"
+        }
+      ],
+      "faq": [
+        [
+          "Milloin NHL Winter Classic 2026 pelataan?",
+          "Winter Classic pelataan uudenvuodenaattona 31.12.2026 kello 18 Yhdysvaltain itärannikon aikaa. Suomen aikaa ottelu alkaa 1.1.2027 klo 01.00."
+        ],
+        [
+          "Ketkä pelaavat Winter Classicissa 2026?",
+          "Vastakkain ovat Colorado Avalanche ja Utah Mammoth. Ottelupaikka on Rice-Eccles Stadium Salt Lake Cityssä."
+        ],
+        [
+          "Mikä on NHL Winter Classic?",
+          "Winter Classic on NHL:n perinteinen ulkoilmaottelu, joka pelataan vuodenvaihteessa jalkapallo- tai pesäpallostadionilla. Kausi 2026–27 on järjestyksessään 19. Winter Classic."
+        ]
+      ],
+      "sources": [
+        [
+          "Daily Faceoff: kauden 2026–27 tärkeät päivät",
+          "https://www.dailyfaceoff.com/news/top-5-key-dates-you-need-know-2026-27-nhl-season-winter-classic-stadium-series-all-star-game-stanley-cup"
+        ]
+      ]
+    },
+    {
+      "slug": "nhl-all-star-2027",
+      "short": "NHL All-Star 2027",
+      "h1": "NHL All-Star 2027 – Suomella oma joukkue",
+      "title": "NHL All-Star 2027 – Suomen joukkue, formaatti ja ajat",
+      "desc": "NHL:n All-Star-viikonloppu 5.–6.2.2027 UBS Arenalla: maajoukkueturnaus, jossa Suomella on oma joukkue. Näin pelaajat valitaan ja kuka suomalainen on kauden tilastoissa kärjessä.",
+      "lead": "NHL:n All-Star-ottelu pelataan helmikuussa 2027 uudella tavalla: viiden joukkueen 3 vastaan 3 -turnauksena, jossa joukkueet edustavat maita. Suomella on oma joukkue Kanadan, Ruotsin, Yhdysvaltain ja muun maailman joukkueen rinnalla. Tapahtumapaikka on New York Islandersin UBS Arena Long Islandilla.",
+      "start": "2027-02-05",
+      "end": "2027-02-06",
+      "venue": "UBS Arena",
+      "city": "Elmont, New York",
+      "country": "US",
+      "teams": [],
+      "finland": true,
+      "games": [],
+      "faq": [
+        [
+          "Milloin NHL All-Star 2027 pelataan?",
+          "Taitokilpailu on perjantaina 5.2.2027 ja All-Star-turnaus lauantaina 6.2.2027 UBS Arenalla Long Islandilla. Kellonajat julkaistaan myöhemmin."
+        ],
+        [
+          "Onko Suomella oma joukkue NHL:n All-Star-ottelussa?",
+          "On. Turnauksessa on viisi joukkuetta: Kanada, Suomi, Ruotsi, Yhdysvallat sekä muun maailman pelaajista koottu joukkue."
+        ],
+        [
+          "Miten All-Star-joukkueet valitaan?",
+          "Jokaisessa joukkueessa on 11 pelaajaa: yhdeksän kenttäpelaajaa ja kaksi maalivahtia. NHL ja pelaajayhdistys NHLPA nimeävät kullekin maalle 30 ehdokasta, joista yleisö äänestää kahdeksan joulukuussa avautuvassa äänestyksessä. Loput kolme, yhden hyökkääjän, yhden puolustajan ja yhden maalivahdin, valitsevat NHL ja NHLPA yhdessä."
+        ],
+        [
+          "Ketkä pelaavat taitokilpailussa?",
+          "All-Star-taitokilpailuun osallistuvat vain enintään 25-vuotiaat pelaajat."
+        ]
+      ],
+      "sources": [
+        [
+          "NHL.com: All-Star-viikonlopun uusi formaatti",
+          "https://www.nhl.com/news/nhl-unveils-new-format-for-2027-all-star-weekend"
+        ],
+        [
+          "Daily Faceoff: kauden 2026–27 tärkeät päivät",
+          "https://www.dailyfaceoff.com/news/top-5-key-dates-you-need-know-2026-27-nhl-season-winter-classic-stadium-series-all-star-game-stanley-cup"
+        ]
+      ]
+    },
+    {
+      "slug": "nhl-stadium-series-2027",
+      "short": "Stadium Series 2027",
+      "h1": "NHL Stadium Series 2027 – Dallas ja Vegas AT&T Stadiumilla",
+      "title": "NHL Stadium Series 2027 – Dallas–Vegas, aika Suomessa ja suomalaiset",
+      "desc": "NHL Stadium Series 20.2.2027: Dallas Stars – Vegas Golden Knights AT&T Stadiumilla Arlingtonissa. Dallasin suomalaiset, otteluaika Suomen aikaa ja tulos.",
+      "lead": "Dallas Stars ja Vegas Golden Knights pelaavat NHL:n Stadium Series -ulkoilmaottelun AT&T Stadiumilla Arlingtonissa, Texasissa, lauantaina 20.2.2027 Pohjois-Amerikan aikaa. Dallasin riveissä pelaa useita suomalaisia, joten ottelu on Suomessakin kauden kiinnostavimpia.",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "venue": "AT&T Stadium",
+      "city": "Arlington, Texas",
+      "country": "US",
+      "teams": [
+        "DAL",
+        "VGK"
+      ],
+      "games": [
+        {
+          "date": "2027-02-21",
+          "teams": [
+            "DAL",
+            "VGK"
+          ],
+          "label": "la 20.2.2027 (Pohjois-Amerikan aikaa)"
+        }
+      ],
+      "faq": [
+        [
+          "Milloin NHL Stadium Series 2027 pelataan?",
+          "Ottelu pelataan lauantaina 20.2.2027 Pohjois-Amerikan aikaa AT&T Stadiumilla Arlingtonissa. Aloitusaika Suomen aikaa päivittyy tälle sivulle NHL:n otteluohjelmasta."
+        ],
+        [
+          "Ketkä pelaavat NHL Stadium Seriesissä 2027?",
+          "Vastakkain ovat Dallas Stars ja Vegas Golden Knights."
+        ],
+        [
+          "Pelaako Stadium Seriesissä suomalaisia?",
+          "Sivun suomalaislistat päivittyvät automaattisesti joukkueiden NHL-kokoonpanoista. Katso ajantasainen tilanne yltä."
+        ]
+      ],
+      "sources": [
+        [
+          "Daily Faceoff: kauden 2026–27 tärkeät päivät",
+          "https://www.dailyfaceoff.com/news/top-5-key-dates-you-need-know-2026-27-nhl-season-winter-classic-stadium-series-all-star-game-stanley-cup"
+        ]
+      ]
+    }
+  ]
 }
