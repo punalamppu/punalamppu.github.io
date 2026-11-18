@@ -245,6 +245,7 @@
    "leagueAbbrev": "NHL",
    "losses": 6,
    "otLosses": 0,
+   "pim": 0,
    "savePctg": 0.908197,
    "season": 20232024,
    "sequence": 1,
@@ -519,7 +520,7 @@
    "sv": 0.909
   }
  ],
- "_fetched": "2026-11-18",
+ "_fetched": "2026-11-19",
  "gameLog": [
   [
    "2026-09-29",

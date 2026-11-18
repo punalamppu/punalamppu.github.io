@@ -48,11 +48,11 @@
    "career": {
     "assists": 190,
     "gameWinningGoals": 8,
-    "gamesPlayed": 781,
+    "gamesPlayed": 782,
     "goals": 60,
     "otGoals": 2,
     "pim": 180,
-    "plusMinus": 171,
+    "plusMinus": 170,
     "points": 250,
     "powerPlayGoals": 9,
     "powerPlayPoints": 32,
@@ -66,14 +66,14 @@
  "careerTotals": {
   "regularSeason": {
    "assists": 190,
-   "avgToi": "22:12",
+   "avgToi": "22:13",
    "faceoffWinningPctg": 0.0,
    "gameWinningGoals": 8,
-   "gamesPlayed": 781,
+   "gamesPlayed": 782,
    "goals": 60,
    "otGoals": 2,
    "pim": 180,
-   "plusMinus": 171,
+   "plusMinus": 170,
    "points": 250,
    "powerPlayGoals": 9,
    "powerPlayPoints": 32,
@@ -974,7 +974,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-18",
+ "_fetched": "2026-11-19",
  "gameLog": [
   [
    "2026-10-02",

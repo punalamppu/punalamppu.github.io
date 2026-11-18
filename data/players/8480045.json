@@ -260,7 +260,7 @@
    "gamesStarted": 51,
    "goals": 0,
    "goalsAgainst": 132,
-   "goalsAgainstAvg": 2.570396,
+   "goalsAgainstAvg": 2.570399,
    "leagueAbbrev": "NHL",
    "losses": 22,
    "otLosses": 4,
@@ -581,7 +581,7 @@
    "sv": 0.913
   }
  ],
- "_fetched": "2026-11-18",
+ "_fetched": "2026-11-19",
  "gameLog": [
   [
    "2026-10-01",

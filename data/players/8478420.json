@@ -36,7 +36,7 @@
     "goals": 10,
     "otGoals": 1,
     "pim": 16,
-    "plusMinus": 10,
+    "plusMinus": 9,
     "points": 26,
     "powerPlayGoals": 2,
     "powerPlayPoints": 8,
@@ -46,41 +46,41 @@
     "shots": 43
    },
    "career": {
-    "assists": 479,
+    "assists": 482,
     "gameWinningGoals": 49,
-    "gamesPlayed": 736,
-    "goals": 325,
+    "gamesPlayed": 737,
+    "goals": 326,
     "otGoals": 6,
     "pim": 517,
-    "plusMinus": 97,
-    "points": 804,
+    "plusMinus": 100,
+    "points": 808,
     "powerPlayGoals": 111,
     "powerPlayPoints": 296,
-    "shootingPctg": 0.1611,
+    "shootingPctg": 0.1612,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 2017
+    "shots": 2022
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
-   "assists": 479,
-   "avgToi": "20:23",
-   "faceoffWinningPctg": 0.505,
+   "assists": 482,
+   "avgToi": "20:24",
+   "faceoffWinningPctg": 0.5047999999999999,
    "gameWinningGoals": 49,
-   "gamesPlayed": 736,
-   "goals": 325,
+   "gamesPlayed": 737,
+   "goals": 326,
    "otGoals": 6,
    "pim": 517,
-   "plusMinus": 97,
-   "points": 804,
+   "plusMinus": 100,
+   "points": 808,
    "powerPlayGoals": 111,
    "powerPlayPoints": 296,
-   "shootingPctg": 0.1611,
+   "shootingPctg": 0.1612,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 2017
+   "shots": 2022
   },
   "playoffs": {
    "assists": 86,
@@ -111,14 +111,14 @@
    "homeRoadFlag": "R",
    "opponentAbbrev": "VGK",
    "pim": 0,
-   "plusMinus": 4,
+   "plusMinus": 3,
    "points": 4,
    "powerPlayGoals": 0,
-   "shifts": 20,
+   "shifts": 21,
    "shorthandedGoals": 0,
    "shots": 5,
    "teamAbbrev": "DAL",
-   "toi": "24:24"
+   "toi": "24:53"
   },
   {
    "assists": 0,
@@ -923,7 +923,7 @@
   },
   {
    "assists": 16,
-   "avgToi": "20:07",
+   "avgToi": "20:08",
    "faceoffWinningPctg": 0.459459,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
@@ -932,7 +932,7 @@
    "leagueAbbrev": "NHL",
    "otGoals": 1,
    "pim": 16,
-   "plusMinus": 10,
+   "plusMinus": 9,
    "points": 26,
    "powerPlayGoals": 2,
    "powerPlayPoints": 8,
@@ -1067,7 +1067,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-18",
+ "_fetched": "2026-11-19",
  "gameLog": [
   [
    "2026-10-02",
