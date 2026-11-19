@@ -169,14 +169,17 @@
  },
  {
   "date": "2026-11-19",
-  "total": 282,
+  "total": 0,
   "players": {
-   "Sebastian Aho": 29,
-   "Mikko Rantanen": 26,
-   "Mikael Granlund": 26,
-   "Artturi Lehkonen": 21,
-   "Roope Hintz": 21,
-   "Kaapo Kakko": 13
+   "Jani Nyman": 0,
+   "Mikael Granlund": 0,
+   "Konsta Helenius": 0,
+   "Sebastian Aho": 0,
+   "Jesperi Kotkaniemi": 0,
+   "Artturi Lehkonen": 0,
+   "Roope Hintz": 0,
+   "Mikko Rantanen": 0,
+   "Kaapo Kakko": 0
   }
  }
 ]
