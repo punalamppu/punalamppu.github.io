@@ -352,12 +352,14 @@
      "p": "3",
      "t": "15:01",
      "team": "COL",
-     "who": "Jaden Schwartz",
+     "who": "Parker Kelly",
      "tag": "",
-     "ast": [],
+     "ast": [
+      "Jaden Schwartz"
+     ],
      "fin": false,
      "clip": "6408579665112",
-     "gtd": 8
+     "gtd": 5
     },
     {
      "p": "3",
