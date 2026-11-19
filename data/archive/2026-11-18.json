@@ -1,0 +1,98 @@
+{
+ "gameDate": "2026-11-18",
+ "games": {
+  "2026020344": {
+   "id": 2026020344,
+   "away": "BOS",
+   "home": "DET",
+   "awayScore": 4,
+   "homeScore": 1,
+   "start": "2026-11-19T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "16:58",
+     "team": "DET",
+     "who": "Lucas Raymond",
+     "tag": "",
+     "ast": [
+      "Andrew Copp",
+      "Keegan Kolesar"
+     ],
+     "fin": false,
+     "clip": "6408573735112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "02:49",
+     "team": "BOS",
+     "who": "JJ Peterka",
+     "tag": "",
+     "ast": [
+      "Mason Lohrei",
+      "Casey Mittelstadt"
+     ],
+     "fin": false,
+     "clip": "6408574269112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "11:48",
+     "team": "BOS",
+     "who": "Pavel Zacha",
+     "tag": "YV",
+     "ast": [
+      "David Pastrnak",
+      "Morgan Geekie"
+     ],
+     "fin": false,
+     "clip": "6408575245112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "05:11",
+     "team": "BOS",
+     "who": "David Pastrnak",
+     "tag": "",
+     "ast": [
+      "Mason Lohrei",
+      "Morgan Geekie"
+     ],
+     "fin": false,
+     "clip": "6408574686112",
+     "gtd": 10
+    },
+    {
+     "p": "3",
+     "t": "19:05",
+     "team": "BOS",
+     "who": "Casey Mittelstadt",
+     "tag": "TM",
+     "ast": [
+      "Pavel Zacha"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 8
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Little Caesars Arena",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Little Caesars Arena",
+    "finStats": []
+   }
+  }
+ }
+}
