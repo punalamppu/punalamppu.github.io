@@ -76,7 +76,7 @@
       "Pavel Zacha"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408575613112",
      "gtd": 8
     }
    ],
@@ -85,13 +85,217 @@
    "venue": "Little Caesars Arena",
    "finStats": [],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/bos-at-det-recap-6408575122112",
    "videoId": "",
    "details": {
     "goalies": "",
     "threeStars": [],
     "venue": "Little Caesars Arena",
     "finStats": []
+   }
+  },
+  "2026020345": {
+   "id": 2026020345,
+   "away": "MTL",
+   "home": "NJD",
+   "awayScore": 3,
+   "homeScore": 2,
+   "start": "2026-11-19T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "10:20",
+     "team": "NJD",
+     "who": "Luke Evangelista",
+     "tag": "",
+     "ast": [
+      "Timo Meier",
+      "Nico Hischier"
+     ],
+     "fin": false,
+     "clip": "6408572456112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "11:00",
+     "team": "MTL",
+     "who": "Alex Newhook",
+     "tag": "",
+     "ast": [
+      "Lane Hutson"
+     ],
+     "fin": false,
+     "clip": "6408573929112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "14:43",
+     "team": "NJD",
+     "who": "Timo Meier",
+     "tag": "",
+     "ast": [
+      "Jesper Bratt"
+     ],
+     "fin": false,
+     "clip": "6408574032112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "19:18",
+     "team": "MTL",
+     "who": "Nick Suzuki",
+     "tag": "YV",
+     "ast": [
+      "Lane Hutson",
+      "Juraj Slafkovský"
+     ],
+     "fin": false,
+     "clip": "6408572273112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "06:17",
+     "team": "MTL",
+     "who": "Jake Evans",
+     "tag": "",
+     "ast": [
+      "Oliver Kapanen",
+      "Lane Hutson"
+     ],
+     "fin": false,
+     "clip": "6408574691112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Jacob Fowler (MTL) 27 torjuntaa · Connor Hellebuyck (NJD) 24 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Lane Hutson",
+     "team": "MTL",
+     "pos": "D",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Jacob Fowler",
+     "team": "MTL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.931
+    },
+    {
+     "star": 3,
+     "name": "Timo Meier",
+     "team": "NJD",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Prudential Center",
+   "finStats": [
+    {
+     "name": "Oliver Kapanen",
+     "team": "MTL",
+     "opp": "NJD",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 1,
+     "toi": "08:27"
+    },
+    {
+     "name": "Lenni Hämeenaho",
+     "team": "NJD",
+     "opp": "MTL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "07:56"
+    }
+   ],
+   "note": "Suomalaiset: Kapanen 0+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jacob Fowler (MTL) 27 torjuntaa · Connor Hellebuyck (NJD) 24 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Lane Hutson",
+      "team": "MTL",
+      "pos": "D",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Jacob Fowler",
+      "team": "MTL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.931
+     },
+     {
+      "star": 3,
+      "name": "Timo Meier",
+      "team": "NJD",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Prudential Center",
+    "finStats": [
+     {
+      "name": "Oliver Kapanen",
+      "team": "MTL",
+      "opp": "NJD",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 1,
+      "toi": "08:27"
+     },
+     {
+      "name": "Lenni Hämeenaho",
+      "team": "NJD",
+      "opp": "MTL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "07:56"
+     }
+    ]
    }
   }
  }
