@@ -297,6 +297,122 @@
      }
     ]
    }
+  },
+  "2026020346": {
+   "id": 2026020346,
+   "away": "COL",
+   "home": "UTA",
+   "awayScore": 1,
+   "homeScore": 4,
+   "start": "2026-11-19T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "05:22",
+     "team": "UTA",
+     "who": "Liam O'Brien",
+     "tag": "",
+     "ast": [
+      "Kailer Yamamoto",
+      "Kevin Stenlund"
+     ],
+     "fin": false,
+     "clip": "6408578699112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "17:53",
+     "team": "UTA",
+     "who": "Vincent Trocheck",
+     "tag": "YV",
+     "ast": [
+      "Clayton Keller",
+      "Logan Cooley"
+     ],
+     "fin": false,
+     "clip": "6408580291112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "01:02",
+     "team": "UTA",
+     "who": "Dmitri Simashev",
+     "tag": "AV",
+     "ast": [
+      "Vincent Trocheck"
+     ],
+     "fin": false,
+     "clip": "6408580038112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "15:01",
+     "team": "COL",
+     "who": "Jaden Schwartz",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408579665112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "17:52",
+     "team": "UTA",
+     "who": "Kevin Stenlund",
+     "tag": "TM",
+     "ast": [
+      "Barrett Hayton",
+      "MacKenzie Weegar"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 2
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Delta Center",
+   "finStats": [
+    {
+     "name": "Artturi Lehkonen",
+     "team": "COL",
+     "opp": "UTA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 2,
+     "toi": "18:03"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Delta Center",
+    "finStats": [
+     {
+      "name": "Artturi Lehkonen",
+      "team": "COL",
+      "opp": "UTA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 2,
+      "toi": "18:03"
+     }
+    ]
+   }
   }
  }
 }
