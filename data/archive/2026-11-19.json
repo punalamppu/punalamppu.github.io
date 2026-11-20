@@ -123,7 +123,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "https://www.nhl.com/video/nyi-at-wpg-recap-6408630984112",
+   "recapUrl": "https://www.nhl.com/video/nyi-at-wpg-recap-6408630874112",
    "videoId": "",
    "details": {
     "goalies": "",
@@ -302,7 +302,7 @@
       "Joseph Woll"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408632164112",
      "gtd": 3
     }
    ],
@@ -533,7 +533,7 @@
       "C. Fowler"
      ],
      "fin": false,
-     "clip": "6408632143112",
+     "clip": "6408631241112",
      "gtd": 6
     }
    ],
@@ -598,7 +598,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/stl-at-pit-recap-6408632251112",
    "videoId": "",
    "details": {
     "goalies": "Joel Hofer (STL) 31 torjuntaa · Arturs Silovs (PIT) 28 torjuntaa",
@@ -839,7 +839,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/buf-at-wsh-recap-6408632645112",
    "videoId": "",
    "details": {
     "goalies": "Ukko-Pekka Luukkonen (BUF) 33 torjuntaa · Charlie Lindgren (WSH) 10 torjuntaa",
@@ -938,7 +938,7 @@
       "P. Danault"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408631155112",
      "gtd": 5
     }
    ],
@@ -1259,6 +1259,170 @@
       "pm": 1,
       "sog": 2,
       "toi": "16:42"
+     }
+    ]
+   }
+  },
+  "2026020349": {
+   "id": 2026020349,
+   "away": "EDM",
+   "home": "TBL",
+   "awayScore": 1,
+   "homeScore": 3,
+   "start": "2026-11-20T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "13:29",
+     "team": "TBL",
+     "who": "John Carlson",
+     "tag": "YV",
+     "ast": [
+      "J. Guentzel",
+      "Brayden Point"
+     ],
+     "fin": false,
+     "clip": "6408630403112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "10:46",
+     "team": "TBL",
+     "who": "Ilja Mihejev",
+     "tag": "",
+     "ast": [
+      "Erik Cernak"
+     ],
+     "fin": false,
+     "clip": "6408632733112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "14:29",
+     "team": "TBL",
+     "who": "Nikita Kutšerov",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "18:24",
+     "team": "EDM",
+     "who": "Shakir Mukhamadullin",
+     "tag": "",
+     "ast": [
+      "V. Podkolzin",
+      "T. Emberson"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 2
+    }
+   ],
+   "goalies": "Devon Levi (EDM) 17 torjuntaa · Andrei Vasilevski (TBL) 23 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Andrei Vasilevski",
+     "team": "TBL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.958
+    },
+    {
+     "star": 2,
+     "name": "A. Cirelli",
+     "team": "TBL",
+     "pos": "C",
+     "goals": 0,
+     "assists": 0,
+     "points": 0,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "I. Mikheyev",
+     "team": "TBL",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Benchmark International Arena",
+   "finStats": [
+    {
+     "name": "K. Kapanen",
+     "team": "EDM",
+     "opp": "TBL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 2,
+     "toi": "17:04"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Devon Levi (EDM) 17 torjuntaa · Andrei Vasilevski (TBL) 23 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Andrei Vasilevski",
+      "team": "TBL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.958
+     },
+     {
+      "star": 2,
+      "name": "A. Cirelli",
+      "team": "TBL",
+      "pos": "C",
+      "goals": 0,
+      "assists": 0,
+      "points": 0,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "I. Mikheyev",
+      "team": "TBL",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Benchmark International Arena",
+    "finStats": [
+     {
+      "name": "K. Kapanen",
+      "team": "EDM",
+      "opp": "TBL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 2,
+      "toi": "17:04"
      }
     ]
    }
