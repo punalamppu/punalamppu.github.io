@@ -175,7 +175,7 @@
      "who": "Owen Tippett",
      "tag": "YV",
      "ast": [
-      "T. Konecny",
+      "Travis Konecny",
       "T. Foerster"
      ],
      "fin": false,
@@ -218,7 +218,7 @@
      "tag": "",
      "ast": [
       "J. Drysdale",
-      "T. Konecny"
+      "Travis Konecny"
      ],
      "fin": false,
      "clip": "6408629611112",
@@ -271,7 +271,7 @@
      "who": "Tyson Foerster",
      "tag": "",
      "ast": [
-      "T. Konecny"
+      "Travis Konecny"
      ],
      "fin": false,
      "clip": "6408628870112",
@@ -1732,7 +1732,7 @@
      "tag": "",
      "ast": [
       "N. Kadri",
-      "Gabriel Landeskog"
+      "G. Landeskog"
      ],
      "fin": false,
      "clip": "6408632869112",
@@ -2052,6 +2052,256 @@
       "pm": 1,
       "sog": 3,
       "toi": "15:14"
+     }
+    ]
+   }
+  },
+  "2026020358": {
+   "id": 2026020358,
+   "away": "DAL",
+   "home": "VGK",
+   "awayScore": 4,
+   "homeScore": 3,
+   "start": "2026-11-20T03:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "03:18",
+     "team": "DAL",
+     "who": "Miro Heiskanen",
+     "tag": "",
+     "ast": [
+      "M. Rantanen",
+      "J. Robertson"
+     ],
+     "fin": true,
+     "clip": "6408634438112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "14:35",
+     "team": "DAL",
+     "who": "Wyatt Johnston",
+     "tag": "",
+     "ast": [
+      "J. Robertson",
+      "Nils Lundkvist"
+     ],
+     "fin": false,
+     "clip": "6408634963112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "07:36",
+     "team": "VGK",
+     "who": "Victor Olofsson",
+     "tag": "YV",
+     "ast": [
+      "M. Stone",
+      "J. Eichel"
+     ],
+     "fin": false,
+     "clip": "6408636277112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "10:17",
+     "team": "VGK",
+     "who": "William Karlsson",
+     "tag": "",
+     "ast": [
+      "B. Bowman",
+      "T. Connelly"
+     ],
+     "fin": false,
+     "clip": "6408635021112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "05:34",
+     "team": "VGK",
+     "who": "Jeremy Lauzon",
+     "tag": "",
+     "ast": [
+      "T. Hertl"
+     ],
+     "fin": false,
+     "clip": "6408636431112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "16:58",
+     "team": "DAL",
+     "who": "Thomas Harley",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408637655112",
+     "gtd": 3
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "T-Mobile Arena",
+   "finStats": [
+    {
+     "name": "J. Kiviranta",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 1,
+     "toi": "09:20"
+    },
+    {
+     "name": "R. Hintz",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 2,
+     "toi": "17:45"
+    },
+    {
+     "name": "A. Hyry",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 0,
+     "toi": "16:27"
+    },
+    {
+     "name": "M. Rantanen",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 2,
+     "sog": 0,
+     "toi": "19:03"
+    },
+    {
+     "name": "M. Heiskanen",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "P",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 0,
+     "sog": 1,
+     "toi": "28:56"
+    },
+    {
+     "name": "Esa Lindell",
+     "team": "DAL",
+     "opp": "VGK",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 2,
+     "sog": 0,
+     "toi": "23:57"
+    }
+   ],
+   "note": "Suomalaiset: Heiskanen 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "T-Mobile Arena",
+    "finStats": [
+     {
+      "name": "J. Kiviranta",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 1,
+      "toi": "09:20"
+     },
+     {
+      "name": "R. Hintz",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 2,
+      "toi": "17:45"
+     },
+     {
+      "name": "A. Hyry",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 0,
+      "toi": "16:27"
+     },
+     {
+      "name": "M. Rantanen",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 2,
+      "sog": 0,
+      "toi": "19:03"
+     },
+     {
+      "name": "M. Heiskanen",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "P",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 0,
+      "sog": 1,
+      "toi": "28:56"
+     },
+     {
+      "name": "Esa Lindell",
+      "team": "DAL",
+      "opp": "VGK",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 2,
+      "sog": 0,
+      "toi": "23:57"
      }
     ]
    }
