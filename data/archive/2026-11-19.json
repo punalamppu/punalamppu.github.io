@@ -123,7 +123,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/nyi-at-wpg-recap-6408630984112",
    "videoId": "",
    "details": {
     "goalies": "",
@@ -288,7 +288,7 @@
       "C. Dvorak"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408631138112",
      "gtd": 3
     },
     {
@@ -519,7 +519,7 @@
       "E. Malkin"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408631237112",
      "gtd": 8
     },
     {
@@ -533,7 +533,7 @@
       "C. Fowler"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408632143112",
      "gtd": 6
     }
    ],
@@ -758,7 +758,7 @@
      "tag": "YV",
      "ast": [
       "A. Tuch",
-      "P. Dubois"
+      "Ilya Protas"
      ],
      "fin": false,
      "clip": "6408631306112",
@@ -788,7 +788,7 @@
       "O. Power"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408632540112",
      "gtd": 11
     }
    ],
@@ -1040,6 +1040,225 @@
       "pm": -2,
       "sog": 1,
       "toi": "21:08"
+     }
+    ]
+   }
+  },
+  "2026020347": {
+   "id": 2026020347,
+   "away": "LAK",
+   "home": "TOR",
+   "awayScore": 4,
+   "homeScore": 3,
+   "start": "2026-11-20T00:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "13:54",
+     "team": "TOR",
+     "who": "Auston Matthews",
+     "tag": "YV",
+     "ast": [
+      "W. Nylander",
+      "D. Raddysh"
+     ],
+     "fin": false,
+     "clip": "6408626856112",
+     "gtd": 13
+    },
+    {
+     "p": "1",
+     "t": "18:48",
+     "team": "TOR",
+     "who": "John Tavares",
+     "tag": "",
+     "ast": [
+      "A. Matthews",
+      "J. Roslovic"
+     ],
+     "fin": false,
+     "clip": "6408626880112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "02:34",
+     "team": "TOR",
+     "who": "Dakota Joshua",
+     "tag": "",
+     "ast": [
+      "W. Nylander"
+     ],
+     "fin": false,
+     "clip": "6408626135112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "02:55",
+     "team": "LAK",
+     "who": "Alex Turcotte",
+     "tag": "",
+     "ast": [
+      "J. Armia",
+      "B. Dumoulin"
+     ],
+     "fin": false,
+     "clip": "6408628578112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "10:11",
+     "team": "LAK",
+     "who": "Alex Laferriere",
+     "tag": "YV",
+     "ast": [
+      "A. Kempe",
+      "E. Gustafsson"
+     ],
+     "fin": false,
+     "clip": "6408627454112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "14:51",
+     "team": "LAK",
+     "who": "Erik Haula",
+     "tag": "",
+     "ast": [
+      "M. Anderson",
+      "J. Edmundson"
+     ],
+     "fin": true,
+     "clip": "6408627929112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Darcy Kuemper (LAK) 24 torjuntaa · Anthony Stolarz (TOR) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "A. Kempe",
+     "team": "LAK",
+     "pos": "R",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "A. Matthews",
+     "team": "TOR",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Erik Haula",
+     "team": "LAK",
+     "pos": "L",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Scotiabank Arena",
+   "finStats": [
+    {
+     "name": "J. Armia",
+     "team": "LAK",
+     "opp": "TOR",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 1,
+     "toi": "17:11"
+    },
+    {
+     "name": "Erik Haula",
+     "team": "LAK",
+     "opp": "TOR",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 1,
+     "sog": 2,
+     "toi": "16:42"
+    }
+   ],
+   "note": "Suomalaiset: Haula 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Darcy Kuemper (LAK) 24 torjuntaa · Anthony Stolarz (TOR) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "A. Kempe",
+      "team": "LAK",
+      "pos": "R",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "A. Matthews",
+      "team": "TOR",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Erik Haula",
+      "team": "LAK",
+      "pos": "L",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Scotiabank Arena",
+    "finStats": [
+     {
+      "name": "J. Armia",
+      "team": "LAK",
+      "opp": "TOR",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 1,
+      "toi": "17:11"
+     },
+     {
+      "name": "Erik Haula",
+      "team": "LAK",
+      "opp": "TOR",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 1,
+      "sog": 2,
+      "toi": "16:42"
      }
     ]
    }
