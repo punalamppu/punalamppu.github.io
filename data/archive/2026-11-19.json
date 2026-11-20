@@ -1426,6 +1426,139 @@
      }
     ]
    }
+  },
+  "2026020353": {
+   "id": 2026020353,
+   "away": "CBJ",
+   "home": "CHI",
+   "awayScore": 4,
+   "homeScore": 2,
+   "start": "2026-11-20T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "01:59",
+     "team": "CBJ",
+     "who": "Zach Werenski",
+     "tag": "",
+     "ast": [
+      "M. Knies",
+      "K. Johnson"
+     ],
+     "fin": false,
+     "clip": "6408628193112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "15:24",
+     "team": "CBJ",
+     "who": "Kent Johnson",
+     "tag": "",
+     "ast": [
+      "Z. Werenski",
+      "D. Severson"
+     ],
+     "fin": false,
+     "clip": "6408628909112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "11:58",
+     "team": "CHI",
+     "who": "Frank Nazar",
+     "tag": "YV",
+     "ast": [
+      "S. Rinzel",
+      "P. Kane"
+     ],
+     "fin": false,
+     "clip": "6408631813112",
+     "gtd": 11
+    },
+    {
+     "p": "2",
+     "t": "13:57",
+     "team": "CBJ",
+     "who": "Matthew Knies",
+     "tag": "YV",
+     "ast": [
+      "C. Coyle",
+      "A. Fantilli"
+     ],
+     "fin": false,
+     "clip": "6408631522112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "03:52",
+     "team": "CHI",
+     "who": "Cole Smith",
+     "tag": "",
+     "ast": [
+      "S. Rinzel"
+     ],
+     "fin": false,
+     "clip": "6408632092112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "19:29",
+     "team": "CBJ",
+     "who": "Adam Fantilli",
+     "tag": "TM",
+     "ast": [
+      "M. Knies",
+      "V. Nichushkin"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 6
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "United Center",
+   "finStats": [
+    {
+     "name": "T. Teräväinen",
+     "team": "CHI",
+     "opp": "CBJ",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 0,
+     "toi": "12:37"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "United Center",
+    "finStats": [
+     {
+      "name": "T. Teräväinen",
+      "team": "CHI",
+      "opp": "CBJ",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 0,
+      "toi": "12:37"
+     }
+    ]
+   }
   }
  }
 }
