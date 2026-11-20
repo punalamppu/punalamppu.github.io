@@ -1198,7 +1198,7 @@
     }
    ],
    "note": "Suomalaiset: Haula 1+0",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/lak-at-tor-recap-6408635039112",
    "videoId": "",
    "details": {
     "goalies": "Darcy Kuemper (LAK) 24 torjuntaa · Anthony Stolarz (TOR) 25 torjuntaa",
@@ -1558,6 +1558,161 @@
       "toi": "12:37"
      }
     ]
+   }
+  },
+  "2026020355": {
+   "id": 2026020355,
+   "away": "MIN",
+   "home": "CGY",
+   "awayScore": 4,
+   "homeScore": 1,
+   "start": "2026-11-20T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "00:25",
+     "team": "MIN",
+     "who": "Joel Eriksson Ek",
+     "tag": "",
+     "ast": [
+      "M. Boldy",
+      "K. Kaprizov"
+     ],
+     "fin": false,
+     "clip": "6408628872112",
+     "gtd": 8
+    },
+    {
+     "p": "1",
+     "t": "08:09",
+     "team": "MIN",
+     "who": "Quinn Hughes",
+     "tag": "",
+     "ast": [
+      "J. Eriksson Ek",
+      "J. Spurgeon"
+     ],
+     "fin": false,
+     "clip": "6408629390112",
+     "gtd": 8
+    },
+    {
+     "p": "1",
+     "t": "15:51",
+     "team": "CGY",
+     "who": "Simon Nemec",
+     "tag": "",
+     "ast": [
+      "M. Frost",
+      "A. Klapka"
+     ],
+     "fin": false,
+     "clip": "6408628915112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "02:31",
+     "team": "MIN",
+     "who": "Kirill Kaprizov",
+     "tag": "YV",
+     "ast": [
+      "M. Boldy",
+      "Quinn Hughes"
+     ],
+     "fin": false,
+     "clip": "6408630817112",
+     "gtd": 18
+    },
+    {
+     "p": "3",
+     "t": "19:11",
+     "team": "MIN",
+     "who": "Matt Boldy",
+     "tag": "TM",
+     "ast": [
+      "K. Kaprizov"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 13
+    }
+   ],
+   "goalies": "Jesper Wallstedt (MIN) 22 torjuntaa · Dustin Wolf (CGY) 18 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Jesper Wallstedt",
+     "team": "MIN",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.957
+    },
+    {
+     "star": 2,
+     "name": "K. Kaprizov",
+     "team": "MIN",
+     "pos": "L",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "S. Nemec",
+     "team": "CGY",
+     "pos": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Scotiabank Saddledome",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jesper Wallstedt (MIN) 22 torjuntaa · Dustin Wolf (CGY) 18 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Jesper Wallstedt",
+      "team": "MIN",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.957
+     },
+     {
+      "star": 2,
+      "name": "K. Kaprizov",
+      "team": "MIN",
+      "pos": "L",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "S. Nemec",
+      "team": "CGY",
+      "pos": "D",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Scotiabank Saddledome",
+    "finStats": []
    }
   }
  }
