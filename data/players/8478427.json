@@ -32,34 +32,34 @@
    "subSeason": {
     "assists": 17,
     "gameWinningGoals": 2,
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "goals": 12,
     "otGoals": 0,
     "pim": 16,
-    "plusMinus": 14,
+    "plusMinus": 12,
     "points": 29,
     "powerPlayGoals": 5,
     "powerPlayPoints": 9,
-    "shootingPctg": 0.206897,
+    "shootingPctg": 0.20339,
     "shorthandedGoals": 1,
     "shorthandedPoints": 3,
-    "shots": 58
+    "shots": 59
    },
    "career": {
     "assists": 418,
     "gameWinningGoals": 70,
-    "gamesPlayed": 777,
+    "gamesPlayed": 778,
     "goals": 322,
     "otGoals": 18,
     "pim": 358,
-    "plusMinus": 146,
+    "plusMinus": 144,
     "points": 740,
     "powerPlayGoals": 80,
     "powerPlayPoints": 226,
-    "shootingPctg": 0.1514,
+    "shootingPctg": 0.15130000000000002,
     "shorthandedGoals": 23,
     "shorthandedPoints": 40,
-    "shots": 2126
+    "shots": 2127
    }
   }
  },
@@ -67,20 +67,20 @@
   "regularSeason": {
    "assists": 418,
    "avgToi": "19:09",
-   "faceoffWinningPctg": 0.5145000000000001,
+   "faceoffWinningPctg": 0.5149,
    "gameWinningGoals": 70,
-   "gamesPlayed": 777,
+   "gamesPlayed": 778,
    "goals": 322,
    "otGoals": 18,
    "pim": 358,
-   "plusMinus": 146,
+   "plusMinus": 144,
    "points": 740,
    "powerPlayGoals": 80,
    "powerPlayPoints": 226,
-   "shootingPctg": 0.1514,
+   "shootingPctg": 0.15130000000000002,
    "shorthandedGoals": 23,
    "shorthandedPoints": 40,
-   "shots": 2126
+   "shots": 2127
   },
   "playoffs": {
    "assists": 58,
@@ -102,6 +102,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-19",
+   "gameId": 2026020352,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "MTL",
+   "pim": 0,
+   "plusMinus": -2,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 22,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "CAR",
+   "toi": "21:08"
+  },
   {
    "assists": 1,
    "gameDate": "2026-11-14",
@@ -173,24 +191,6 @@
    "shots": 4,
    "teamAbbrev": "CAR",
    "toi": "22:09"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-03",
-   "gameId": 2026020245,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "NSH",
-   "pim": 0,
-   "plusMinus": -1,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 20,
-   "shorthandedGoals": 0,
-   "shots": 4,
-   "teamAbbrev": "CAR",
-   "toi": "20:51"
   }
  ],
  "isActive": true,
@@ -791,25 +791,25 @@
   },
   {
    "assists": 17,
-   "avgToi": "19:40",
-   "faceoffWinningPctg": 0.553371,
+   "avgToi": "19:44",
+   "faceoffWinningPctg": 0.560209,
    "gameTypeId": 2,
    "gameWinningGoals": 2,
-   "gamesPlayed": 21,
+   "gamesPlayed": 22,
    "goals": 12,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 16,
-   "plusMinus": 14,
+   "plusMinus": 12,
    "points": 29,
    "powerPlayGoals": 5,
    "powerPlayPoints": 9,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.206897,
+   "shootingPctg": 0.20339,
    "shorthandedGoals": 1,
    "shorthandedPoints": 3,
-   "shots": 58,
+   "shots": 59,
    "teamCommonName": {
     "default": "Hurricanes"
    },
@@ -935,7 +935,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-20",
+ "_fetched": "2026-11-21",
  "gameLog": [
   [
    "2026-09-29",

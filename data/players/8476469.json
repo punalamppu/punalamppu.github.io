@@ -30,57 +30,57 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "assists": 4,
+    "assists": 5,
     "gameWinningGoals": 0,
-    "gamesPlayed": 19,
+    "gamesPlayed": 20,
     "goals": 4,
     "otGoals": 0,
     "pim": 10,
-    "plusMinus": 1,
-    "points": 8,
+    "plusMinus": 2,
+    "points": 9,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
-    "shootingPctg": 0.148148,
+    "shootingPctg": 0.142857,
     "shorthandedGoals": 1,
     "shorthandedPoints": 1,
-    "shots": 27
+    "shots": 28
    },
    "career": {
-    "assists": 120,
+    "assists": 121,
     "gameWinningGoals": 13,
-    "gamesPlayed": 672,
+    "gamesPlayed": 673,
     "goals": 120,
     "otGoals": 0,
     "pim": 232,
-    "plusMinus": -9,
-    "points": 240,
+    "plusMinus": -8,
+    "points": 241,
     "powerPlayGoals": 8,
     "powerPlayPoints": 25,
     "shootingPctg": 0.10099999999999999,
     "shorthandedGoals": 22,
     "shorthandedPoints": 28,
-    "shots": 1187
+    "shots": 1188
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
-   "assists": 120,
+   "assists": 121,
    "avgToi": "14:30",
    "faceoffWinningPctg": 0.314,
    "gameWinningGoals": 13,
-   "gamesPlayed": 672,
+   "gamesPlayed": 673,
    "goals": 120,
    "otGoals": 0,
    "pim": 232,
-   "plusMinus": -9,
-   "points": 240,
+   "plusMinus": -8,
+   "points": 241,
    "powerPlayGoals": 8,
    "powerPlayPoints": 25,
    "shootingPctg": 0.10099999999999999,
    "shorthandedGoals": 22,
    "shorthandedPoints": 28,
-   "shots": 1187
+   "shots": 1188
   },
   "playoffs": {
    "assists": 7,
@@ -102,6 +102,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 1,
+   "gameDate": "2026-11-19",
+   "gameId": 2026020347,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "TOR",
+   "pim": 0,
+   "plusMinus": 1,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 24,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "LAK",
+   "toi": "17:11"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-17",
@@ -173,24 +191,6 @@
    "shots": 0,
    "teamAbbrev": "LAK",
    "toi": "12:43"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-07",
-   "gameId": 2026020275,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "PIT",
-   "pim": 0,
-   "plusMinus": -1,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 15,
-   "shorthandedGoals": 0,
-   "shots": 1,
-   "teamAbbrev": "LAK",
-   "toi": "11:50"
   }
  ],
  "isActive": true,
@@ -757,26 +757,26 @@
    }
   },
   {
-   "assists": 4,
-   "avgToi": "13:14",
+   "assists": 5,
+   "avgToi": "13:26",
    "faceoffWinningPctg": 0.333333,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 19,
+   "gamesPlayed": 20,
    "goals": 4,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 10,
-   "plusMinus": 1,
-   "points": 8,
+   "plusMinus": 2,
+   "points": 9,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.148148,
+   "shootingPctg": 0.142857,
    "shorthandedGoals": 1,
    "shorthandedPoints": 1,
-   "shots": 27,
+   "shots": 28,
    "teamCommonName": {
     "default": "Kings"
    },
@@ -912,7 +912,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-20",
+ "_fetched": "2026-11-21",
  "gameLog": [
   [
    "2026-09-30",

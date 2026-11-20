@@ -30,41 +30,41 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "gamesPlayed": 12,
-    "goalsAgainstAvg": 3.511853,
+    "gamesPlayed": 13,
+    "goalsAgainstAvg": 3.470541,
     "losses": 4,
     "otLosses": 3,
-    "savePctg": 0.86711,
+    "savePctg": 0.872781,
     "shutouts": 0,
-    "wins": 5
+    "wins": 6
    },
    "career": {
-    "gamesPlayed": 202,
-    "goalsAgainstAvg": 2.991046,
+    "gamesPlayed": 203,
+    "goalsAgainstAvg": 2.991092,
     "losses": 78,
     "otLosses": 21,
-    "savePctg": 0.898431,
+    "savePctg": 0.898563,
     "shutouts": 8,
-    "wins": 98
+    "wins": 99
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
    "assists": 4,
-   "gamesPlayed": 202,
-   "gamesStarted": 196,
+   "gamesPlayed": 203,
+   "gamesStarted": 197,
    "goals": 0,
-   "goalsAgainst": 578,
-   "goalsAgainstAvg": 2.991046,
+   "goalsAgainst": 581,
+   "goalsAgainstAvg": 2.991092,
    "losses": 78,
    "otLosses": 21,
    "pim": 16,
-   "savePctg": 0.898431,
-   "shotsAgainst": 5671,
+   "savePctg": 0.898563,
+   "shotsAgainst": 5708,
    "shutouts": 8,
-   "timeOnIce": "11594:36",
-   "wins": 98
+   "timeOnIce": "11654:36",
+   "wins": 99
   },
   "playoffs": {
    "assists": 0,
@@ -84,6 +84,21 @@
   }
  },
  "last5Games": [
+  {
+   "decision": "W",
+   "gameDate": "2026-11-19",
+   "gameId": 2026020351,
+   "gameTypeId": 2,
+   "gamesStarted": 1,
+   "goalsAgainst": 3,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "WSH",
+   "penaltyMins": 0,
+   "savePctg": 0.918919,
+   "shotsAgainst": 37,
+   "teamAbbrev": "BUF",
+   "toi": "60:00"
+  },
   {
    "decision": "L",
    "gameDate": "2026-11-11",
@@ -143,21 +158,6 @@
    "shotsAgainst": 34,
    "teamAbbrev": "BUF",
    "toi": "63:42"
-  },
-  {
-   "decision": "L",
-   "gameDate": "2026-10-21",
-   "gameId": 2026020152,
-   "gameTypeId": 2,
-   "gamesStarted": 1,
-   "goalsAgainst": 3,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "PHI",
-   "penaltyMins": 0,
-   "savePctg": 0.888889,
-   "shotsAgainst": 27,
-   "teamAbbrev": "BUF",
-   "toi": "57:26"
   }
  ],
  "isActive": true,
@@ -380,19 +380,19 @@
   {
    "assists": 0,
    "gameTypeId": 2,
-   "gamesPlayed": 12,
-   "gamesStarted": 11,
+   "gamesPlayed": 13,
+   "gamesStarted": 12,
    "goals": 0,
-   "goalsAgainst": 40,
-   "goalsAgainstAvg": 3.511853,
+   "goalsAgainst": 43,
+   "goalsAgainstAvg": 3.470541,
    "leagueAbbrev": "NHL",
    "losses": 4,
    "otLosses": 3,
    "pim": 0,
-   "savePctg": 0.86711,
+   "savePctg": 0.872781,
    "season": 20262027,
    "sequence": 1,
-   "shotsAgainst": 301,
+   "shotsAgainst": 338,
    "shutouts": 0,
    "teamCommonName": {
     "default": "Sabres"
@@ -405,8 +405,8 @@
     "default": "Buffalo",
     "fr": "de Buffalo"
    },
-   "timeOnIce": "683:24",
-   "wins": 5
+   "timeOnIce": "743:24",
+   "wins": 6
   }
  ],
  "preNhl": [
@@ -581,7 +581,7 @@
    "sv": 0.913
   }
  ],
- "_fetched": "2026-11-20",
+ "_fetched": "2026-11-21",
  "gameLog": [
   [
    "2026-10-01",

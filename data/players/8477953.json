@@ -31,34 +31,34 @@
    "subSeason": {
     "assists": 7,
     "gameWinningGoals": 1,
-    "gamesPlayed": 23,
+    "gamesPlayed": 24,
     "goals": 6,
     "otGoals": 0,
     "pim": 13,
-    "plusMinus": -4,
+    "plusMinus": -5,
     "points": 13,
     "powerPlayGoals": 3,
     "powerPlayPoints": 7,
-    "shootingPctg": 0.2,
+    "shootingPctg": 0.1875,
     "shorthandedGoals": 1,
     "shorthandedPoints": 1,
-    "shots": 30
+    "shots": 32
    },
    "career": {
     "assists": 148,
     "gameWinningGoals": 20,
-    "gamesPlayed": 591,
+    "gamesPlayed": 592,
     "goals": 104,
     "otGoals": 4,
     "pim": 153,
-    "plusMinus": -11,
+    "plusMinus": -12,
     "points": 252,
     "powerPlayGoals": 8,
     "powerPlayPoints": 28,
-    "shootingPctg": 0.1097,
+    "shootingPctg": 0.1094,
     "shorthandedGoals": 8,
     "shorthandedPoints": 9,
-    "shots": 948
+    "shots": 950
    }
   }
  },
@@ -68,18 +68,18 @@
    "avgToi": "14:30",
    "faceoffWinningPctg": 0.36979999999999996,
    "gameWinningGoals": 20,
-   "gamesPlayed": 591,
+   "gamesPlayed": 592,
    "goals": 104,
    "otGoals": 4,
    "pim": 153,
-   "plusMinus": -11,
+   "plusMinus": -12,
    "points": 252,
    "powerPlayGoals": 8,
    "powerPlayPoints": 28,
-   "shootingPctg": 0.1097,
+   "shootingPctg": 0.1094,
    "shorthandedGoals": 8,
    "shorthandedPoints": 9,
-   "shots": 948
+   "shots": 950
   },
   "playoffs": {
    "assists": 13,
@@ -101,6 +101,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-19",
+   "gameId": 2026020349,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "TBL",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 24,
+   "shorthandedGoals": 0,
+   "shots": 2,
+   "teamAbbrev": "EDM",
+   "toi": "17:04"
+  },
   {
    "assists": 2,
    "gameDate": "2026-11-17",
@@ -172,24 +190,6 @@
    "shots": 1,
    "teamAbbrev": "EDM",
    "toi": "15:27"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-09",
-   "gameId": 2026020283,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "NYR",
-   "pim": 2,
-   "plusMinus": 0,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 25,
-   "shorthandedGoals": 0,
-   "shots": 0,
-   "teamAbbrev": "EDM",
-   "toi": "17:22"
   }
  ],
  "isActive": true,
@@ -889,25 +889,25 @@
   },
   {
    "assists": 7,
-   "avgToi": "18:06",
+   "avgToi": "18:03",
    "faceoffWinningPctg": 0.5,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 23,
+   "gamesPlayed": 24,
    "goals": 6,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 13,
-   "plusMinus": -4,
+   "plusMinus": -5,
    "points": 13,
    "powerPlayGoals": 3,
    "powerPlayPoints": 7,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.2,
+   "shootingPctg": 0.1875,
    "shorthandedGoals": 1,
    "shorthandedPoints": 1,
-   "shots": 30,
+   "shots": 32,
    "teamCommonName": {
     "default": "Oilers"
    },
@@ -1043,7 +1043,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-20",
+ "_fetched": "2026-11-21",
  "gameLog": [
   [
    "2026-09-29",
