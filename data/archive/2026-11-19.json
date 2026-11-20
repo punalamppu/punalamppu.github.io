@@ -144,6 +144,905 @@
      }
     ]
    }
+  },
+  "2026020348": {
+   "id": 2026020348,
+   "away": "PHI",
+   "home": "OTT",
+   "awayScore": 6,
+   "homeScore": 5,
+   "start": "2026-11-20T00:00:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "1",
+     "t": "01:44",
+     "team": "OTT",
+     "who": "Claude Giroux",
+     "tag": "",
+     "ast": [
+      "J. Sanderson",
+      "A. Zub"
+     ],
+     "fin": false,
+     "clip": "6408624956112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "03:52",
+     "team": "PHI",
+     "who": "Owen Tippett",
+     "tag": "YV",
+     "ast": [
+      "T. Konecny",
+      "T. Foerster"
+     ],
+     "fin": false,
+     "clip": "6408625285112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "03:21",
+     "team": "OTT",
+     "who": "Dylan Cozens",
+     "tag": "",
+     "ast": [
+      "T. Stützle",
+      "Fabian Zetterlund"
+     ],
+     "fin": false,
+     "clip": "6408625631112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "13:04",
+     "team": "OTT",
+     "who": "Drake Batherson",
+     "tag": "YV",
+     "ast": [
+      "T. Stützle",
+      "S. Halliday"
+     ],
+     "fin": false,
+     "clip": "6408628895112",
+     "gtd": 12
+    },
+    {
+     "p": "2",
+     "t": "18:39",
+     "team": "PHI",
+     "who": "Cam York",
+     "tag": "",
+     "ast": [
+      "J. Drysdale",
+      "T. Konecny"
+     ],
+     "fin": false,
+     "clip": "6408629611112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "00:38",
+     "team": "OTT",
+     "who": "Philip Tomasino",
+     "tag": "",
+     "ast": [
+      "D. Batherson"
+     ],
+     "fin": false,
+     "clip": "6408628746112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "05:27",
+     "team": "OTT",
+     "who": "Dylan Cozens",
+     "tag": "",
+     "ast": [
+      "Ridly Greig"
+     ],
+     "fin": false,
+     "clip": "6408629452112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "06:25",
+     "team": "PHI",
+     "who": "Cam York",
+     "tag": "YV",
+     "ast": [
+      "N. Cates",
+      "S. Couturier"
+     ],
+     "fin": false,
+     "clip": "6408628860112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "06:40",
+     "team": "PHI",
+     "who": "Tyson Foerster",
+     "tag": "",
+     "ast": [
+      "T. Konecny"
+     ],
+     "fin": false,
+     "clip": "6408628870112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "17:27",
+     "team": "PHI",
+     "who": "Jamie Drysdale",
+     "tag": "",
+     "ast": [
+      "T. Foerster",
+      "C. Dvorak"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 3
+    },
+    {
+     "p": "JA",
+     "t": "00:39",
+     "team": "PHI",
+     "who": "Travis Konecny",
+     "tag": "",
+     "ast": [
+      "J. Drysdale",
+      "Joseph Woll"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 3
+    }
+   ],
+   "goalies": "Joseph Woll (PHI) 21 torjuntaa · Samuel Ersson (OTT) 13 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "T. Konecny",
+     "team": "PHI",
+     "pos": "R",
+     "goals": 1,
+     "assists": 3,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Cam York",
+     "team": "PHI",
+     "pos": "D",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "D. Cozens",
+     "team": "OTT",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Canadian Tire Centre",
+   "finStats": [
+    {
+     "name": "R. Ristolainen",
+     "team": "PHI",
+     "opp": "OTT",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 0,
+     "toi": "18:30"
+    },
+    {
+     "name": "N. Matinpalo",
+     "team": "OTT",
+     "opp": "PHI",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 1,
+     "toi": "14:44"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Joseph Woll (PHI) 21 torjuntaa · Samuel Ersson (OTT) 13 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "T. Konecny",
+      "team": "PHI",
+      "pos": "R",
+      "goals": 1,
+      "assists": 3,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Cam York",
+      "team": "PHI",
+      "pos": "D",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "D. Cozens",
+      "team": "OTT",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Canadian Tire Centre",
+    "finStats": [
+     {
+      "name": "R. Ristolainen",
+      "team": "PHI",
+      "opp": "OTT",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 0,
+      "toi": "18:30"
+     },
+     {
+      "name": "N. Matinpalo",
+      "team": "OTT",
+      "opp": "PHI",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 1,
+      "toi": "14:44"
+     }
+    ]
+   }
+  },
+  "2026020350": {
+   "id": 2026020350,
+   "away": "STL",
+   "home": "PIT",
+   "awayScore": 5,
+   "homeScore": 2,
+   "start": "2026-11-20T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "07:38",
+     "team": "PIT",
+     "who": "Rickard Rakell",
+     "tag": "",
+     "ast": [
+      "Trevor van Riemsdyk",
+      "K. Letang"
+     ],
+     "fin": false,
+     "clip": "6408625369112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "04:58",
+     "team": "STL",
+     "who": "Justin Barron",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408630794112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "09:14",
+     "team": "STL",
+     "who": "Dylan Holloway",
+     "tag": "",
+     "ast": [
+      "C. McMichael",
+      "Pavel Butšnevitš"
+     ],
+     "fin": false,
+     "clip": "6408627151112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "17:20",
+     "team": "STL",
+     "who": "Jimmy Snuggerud",
+     "tag": "",
+     "ast": [
+      "R. Thomas",
+      "J. Neighbours"
+     ],
+     "fin": false,
+     "clip": "6408630191112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "07:09",
+     "team": "STL",
+     "who": "Jimmy Snuggerud",
+     "tag": "",
+     "ast": [
+      "R. Thomas",
+      "J. Neighbours"
+     ],
+     "fin": false,
+     "clip": "6408631112112",
+     "gtd": 12
+    },
+    {
+     "p": "3",
+     "t": "15:24",
+     "team": "PIT",
+     "who": "Rickard Rakell",
+     "tag": "",
+     "ast": [
+      "S. Crosby",
+      "E. Malkin"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "17:16",
+     "team": "STL",
+     "who": "Dylan Holloway",
+     "tag": "TM",
+     "ast": [
+      "R. Thomas",
+      "C. Fowler"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 6
+    }
+   ],
+   "goalies": "Joel Hofer (STL) 31 torjuntaa · Arturs Silovs (PIT) 28 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "J. Snuggerud",
+     "team": "STL",
+     "pos": "R",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "R. Rakell",
+     "team": "PIT",
+     "pos": "R",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "R. Thomas",
+     "team": "STL",
+     "pos": "C",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "PPG Paints Arena",
+   "finStats": [
+    {
+     "name": "A. Kaskimäki",
+     "team": "STL",
+     "opp": "PIT",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 4,
+     "toi": "16:48"
+    },
+    {
+     "name": "V. Koivunen",
+     "team": "PIT",
+     "opp": "STL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 1,
+     "toi": "16:47"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Joel Hofer (STL) 31 torjuntaa · Arturs Silovs (PIT) 28 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "J. Snuggerud",
+      "team": "STL",
+      "pos": "R",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "R. Rakell",
+      "team": "PIT",
+      "pos": "R",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "R. Thomas",
+      "team": "STL",
+      "pos": "C",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "PPG Paints Arena",
+    "finStats": [
+     {
+      "name": "A. Kaskimäki",
+      "team": "STL",
+      "opp": "PIT",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 4,
+      "toi": "16:48"
+     },
+     {
+      "name": "V. Koivunen",
+      "team": "PIT",
+      "opp": "STL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 1,
+      "toi": "16:47"
+     }
+    ]
+   }
+  },
+  "2026020351": {
+   "id": 2026020351,
+   "away": "BUF",
+   "home": "WSH",
+   "awayScore": 6,
+   "homeScore": 3,
+   "start": "2026-11-20T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "05:25",
+     "team": "BUF",
+     "who": "Jack Quinn",
+     "tag": "",
+     "ast": [
+      "N. Ostlund",
+      "R. Dahlin"
+     ],
+     "fin": false,
+     "clip": "6408623618112",
+     "gtd": 10
+    },
+    {
+     "p": "1",
+     "t": "09:46",
+     "team": "BUF",
+     "who": "Rasmus Dahlin",
+     "tag": "YV",
+     "ast": [],
+     "fin": false,
+     "clip": "6408626561112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "10:11",
+     "team": "BUF",
+     "who": "Beck Malenstyn",
+     "tag": "",
+     "ast": [
+      "S. Carrick",
+      "T. Kozak"
+     ],
+     "fin": false,
+     "clip": "6408626676112",
+     "gtd": 2
+    },
+    {
+     "p": "1",
+     "t": "10:54",
+     "team": "WSH",
+     "who": "Alex Tuch",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408625674112",
+     "gtd": 13
+    },
+    {
+     "p": "1",
+     "t": "15:55",
+     "team": "BUF",
+     "who": "Zach Benson",
+     "tag": "",
+     "ast": [
+      "Peyton Krebs",
+      "O. Power"
+     ],
+     "fin": false,
+     "clip": "6408626108112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "19:51",
+     "team": "BUF",
+     "who": "Tage Thompson",
+     "tag": "YV",
+     "ast": [
+      "J. Quinn",
+      "J. Doan"
+     ],
+     "fin": false,
+     "clip": "6408629527112",
+     "gtd": 14
+    },
+    {
+     "p": "3",
+     "t": "08:52",
+     "team": "WSH",
+     "who": "Ryan Leonard",
+     "tag": "YV",
+     "ast": [
+      "A. Tuch",
+      "P. Dubois"
+     ],
+     "fin": false,
+     "clip": "6408631306112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "09:44",
+     "team": "WSH",
+     "who": "Boone Jenner",
+     "tag": "",
+     "ast": [
+      "A. Ovechkin",
+      "A. Protas"
+     ],
+     "fin": false,
+     "clip": "6408630346112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "19:17",
+     "team": "BUF",
+     "who": "Jack Quinn",
+     "tag": "TM",
+     "ast": [
+      "O. Power"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 11
+    }
+   ],
+   "goalies": "Ukko-Pekka Luukkonen (BUF) 33 torjuntaa · Charlie Lindgren (WSH) 10 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "J. Quinn",
+     "team": "BUF",
+     "pos": "R",
+     "goals": 2,
+     "assists": 1,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "R. Dahlin",
+     "team": "BUF",
+     "pos": "D",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "A. Tuch",
+     "team": "WSH",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Capital One Arena",
+   "finStats": [
+    {
+     "name": "Ukko-Pekka Luukkonen",
+     "team": "BUF",
+     "opp": "WSH",
+     "pos": "MV",
+     "saves": 33,
+     "shots": 36,
+     "dec": "W",
+     "toi": "60:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Ukko-Pekka Luukkonen (BUF) 33 torjuntaa · Charlie Lindgren (WSH) 10 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "J. Quinn",
+      "team": "BUF",
+      "pos": "R",
+      "goals": 2,
+      "assists": 1,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "R. Dahlin",
+      "team": "BUF",
+      "pos": "D",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "A. Tuch",
+      "team": "WSH",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Capital One Arena",
+    "finStats": [
+     {
+      "name": "Ukko-Pekka Luukkonen",
+      "team": "BUF",
+      "opp": "WSH",
+      "pos": "MV",
+      "saves": 33,
+      "shots": 36,
+      "dec": "W",
+      "toi": "60:00"
+     }
+    ]
+   }
+  },
+  "2026020352": {
+   "id": 2026020352,
+   "away": "MTL",
+   "home": "CAR",
+   "awayScore": 2,
+   "homeScore": 1,
+   "start": "2026-11-20T00:00:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "3",
+     "t": "13:41",
+     "team": "CAR",
+     "who": "Nikolaj Ehlers",
+     "tag": "",
+     "ast": [
+      "L. Stankoven",
+      "A. Nikishin"
+     ],
+     "fin": false,
+     "clip": "6408631224112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "15:01",
+     "team": "MTL",
+     "who": "Lane Hutson",
+     "tag": "",
+     "ast": [
+      "N. Suzuki",
+      "C. Caufield"
+     ],
+     "fin": false,
+     "clip": "6408632128112",
+     "gtd": 4
+    },
+    {
+     "p": "JA",
+     "t": "00:38",
+     "team": "MTL",
+     "who": "Lane Hutson",
+     "tag": "",
+     "ast": [
+      "N. Suzuki",
+      "P. Danault"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Jakub Dobes (MTL) 26 torjuntaa · Pjotr Kotšetkov (CAR) 22 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "L. Hutson",
+     "team": "MTL",
+     "pos": "D",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Jakub Dobes",
+     "team": "MTL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.963
+    },
+    {
+     "star": 3,
+     "name": "Pjotr Kotšetkov",
+     "team": "CAR",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.917
+    }
+   ],
+   "venue": "Lenovo Center",
+   "finStats": [
+    {
+     "name": "Sebastian Aho",
+     "team": "CAR",
+     "opp": "MTL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 1,
+     "toi": "21:08"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jakub Dobes (MTL) 26 torjuntaa · Pjotr Kotšetkov (CAR) 22 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "L. Hutson",
+      "team": "MTL",
+      "pos": "D",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Jakub Dobes",
+      "team": "MTL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.963
+     },
+     {
+      "star": 3,
+      "name": "Pjotr Kotšetkov",
+      "team": "CAR",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.917
+     }
+    ],
+    "venue": "Lenovo Center",
+    "finStats": [
+     {
+      "name": "Sebastian Aho",
+      "team": "CAR",
+      "opp": "MTL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 1,
+      "toi": "21:08"
+     }
+    ]
+   }
   }
  }
 }
