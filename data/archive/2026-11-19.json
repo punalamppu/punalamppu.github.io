@@ -367,7 +367,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/phi-at-ott-recap-6408632271112",
    "videoId": "",
    "details": {
     "goalies": "Joseph Woll (PHI) 21 torjuntaa · Samuel Ersson (OTT) 13 torjuntaa",
@@ -839,7 +839,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "https://www.nhl.com/video/buf-at-wsh-recap-6408632645112",
+   "recapUrl": "https://www.nhl.com/video/buf-at-wsh-recap-6408631392112",
    "videoId": "",
    "details": {
     "goalies": "Ukko-Pekka Luukkonen (BUF) 33 torjuntaa · Charlie Lindgren (WSH) 10 torjuntaa",
@@ -991,7 +991,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/mtl-at-car-recap-6408631771112",
    "videoId": "",
    "details": {
     "goalies": "Jakub Dobes (MTL) 26 torjuntaa · Pjotr Kotšetkov (CAR) 22 torjuntaa",
@@ -1307,7 +1307,7 @@
      "tag": "",
      "ast": [],
      "fin": false,
-     "clip": "",
+     "clip": "6408632363112",
      "gtd": 9
     },
     {
@@ -1321,7 +1321,7 @@
       "T. Emberson"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408631587112",
      "gtd": 2
     }
    ],
