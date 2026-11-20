@@ -1843,6 +1843,218 @@
      }
     ]
    }
+  },
+  "2026020357": {
+   "id": 2026020357,
+   "away": "VAN",
+   "home": "SEA",
+   "awayScore": 1,
+   "homeScore": 5,
+   "start": "2026-11-20T02:40:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "07:37",
+     "team": "SEA",
+     "who": "Berkly Catton",
+     "tag": "YV",
+     "ast": [
+      "B. Montour",
+      "M. Wood"
+     ],
+     "fin": false,
+     "clip": "6408633334112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "11:31",
+     "team": "VAN",
+     "who": "Jake DeBrusk",
+     "tag": "YV",
+     "ast": [
+      "B. Boeser",
+      "F. Hronek"
+     ],
+     "fin": false,
+     "clip": "6408632396112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "08:00",
+     "team": "SEA",
+     "who": "Matty Beniers",
+     "tag": "",
+     "ast": [
+      "B. Montour",
+      "M. Samoskevich"
+     ],
+     "fin": false,
+     "clip": "6408637056112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "08:54",
+     "team": "SEA",
+     "who": "Berkly Catton",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408635215112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "10:37",
+     "team": "SEA",
+     "who": "Jordan Eberle",
+     "tag": "YV",
+     "ast": [
+      "M. Beniers",
+      "V. Dunn"
+     ],
+     "fin": false,
+     "clip": "6408636437112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "19:17",
+     "team": "SEA",
+     "who": "Berkly Catton",
+     "tag": "TM",
+     "ast": [
+      "F. Gaudreau"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 8
+    }
+   ],
+   "goalies": "Leevi Meriläinen (VAN) 38 torjuntaa · Philipp Grubauer (SEA) 22 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "B. Catton",
+     "team": "SEA",
+     "pos": "C",
+     "goals": 3,
+     "assists": 0,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "M. Beniers",
+     "team": "SEA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Philipp Grubauer",
+     "team": "SEA",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.957
+    }
+   ],
+   "venue": "Climate Pledge Arena",
+   "finStats": [
+    {
+     "name": "Leevi Meriläinen",
+     "team": "VAN",
+     "opp": "SEA",
+     "pos": "MV",
+     "saves": 38,
+     "shots": 42,
+     "dec": "L",
+     "toi": "57:18"
+    },
+    {
+     "name": "K. Kakko",
+     "team": "SEA",
+     "opp": "VAN",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 3,
+     "toi": "15:14"
+    }
+   ],
+   "note": "Berkly Catton hattutemppu",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Leevi Meriläinen (VAN) 38 torjuntaa · Philipp Grubauer (SEA) 22 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "B. Catton",
+      "team": "SEA",
+      "pos": "C",
+      "goals": 3,
+      "assists": 0,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "M. Beniers",
+      "team": "SEA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Philipp Grubauer",
+      "team": "SEA",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.957
+     }
+    ],
+    "venue": "Climate Pledge Arena",
+    "finStats": [
+     {
+      "name": "Leevi Meriläinen",
+      "team": "VAN",
+      "opp": "SEA",
+      "pos": "MV",
+      "saves": 38,
+      "shots": 42,
+      "dec": "L",
+      "toi": "57:18"
+     },
+     {
+      "name": "K. Kakko",
+      "team": "SEA",
+      "opp": "VAN",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 3,
+      "toi": "15:14"
+     }
+    ]
+   }
   }
  }
 }
