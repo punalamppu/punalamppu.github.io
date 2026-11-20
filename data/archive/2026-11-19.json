@@ -1,0 +1,149 @@
+{
+ "gameDate": "2026-11-19",
+ "games": {
+  "2026020354": {
+   "id": 2026020354,
+   "away": "NYI",
+   "home": "WPG",
+   "awayScore": 3,
+   "homeScore": 4,
+   "start": "2026-11-20T00:00:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "1",
+     "t": "02:35",
+     "team": "NYI",
+     "who": "Anthony Duclair",
+     "tag": "",
+     "ast": [
+      "C. Cizikas",
+      "T. DeAngelo"
+     ],
+     "fin": false,
+     "clip": "6408624371112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "03:06",
+     "team": "WPG",
+     "who": "Morgan Barron",
+     "tag": "",
+     "ast": [
+      "D. Samberg",
+      "A. Lowry"
+     ],
+     "fin": false,
+     "clip": "6408624088112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "08:44",
+     "team": "NYI",
+     "who": "Emil Heineman",
+     "tag": "AV",
+     "ast": [],
+     "fin": false,
+     "clip": "6408624123112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "17:47",
+     "team": "WPG",
+     "who": "Kyle Connor",
+     "tag": "",
+     "ast": [
+      "G. Vilardi",
+      "M. Scheifele"
+     ],
+     "fin": false,
+     "clip": "6408625784112",
+     "gtd": 18
+    },
+    {
+     "p": "2",
+     "t": "00:20",
+     "team": "NYI",
+     "who": "Kyle Palmieri",
+     "tag": "",
+     "ast": [
+      "S. Holmstrom"
+     ],
+     "fin": false,
+     "clip": "6408627195112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "12:09",
+     "team": "WPG",
+     "who": "Cole Perfetti",
+     "tag": "YV",
+     "ast": [
+      "G. Vilardi",
+      "M. Scheifele"
+     ],
+     "fin": false,
+     "clip": "6408629101112",
+     "gtd": 9
+    },
+    {
+     "p": "JA",
+     "t": "01:58",
+     "team": "WPG",
+     "who": "Josh Morrissey",
+     "tag": "",
+     "ast": [
+      "M. Scheifele",
+      "K. Connor"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 1
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Canada Life Centre",
+   "finStats": [
+    {
+     "name": "M. Maccelli",
+     "team": "NYI",
+     "opp": "WPG",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "16:26"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Canada Life Centre",
+    "finStats": [
+     {
+      "name": "M. Maccelli",
+      "team": "NYI",
+      "opp": "WPG",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "16:26"
+     }
+    ]
+   }
+  }
+ }
+}
