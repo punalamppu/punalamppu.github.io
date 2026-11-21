@@ -286,6 +286,215 @@
      }
     ]
    }
+  },
+  "2026020360": {
+   "id": 2026020360,
+   "away": "CHI",
+   "home": "CGY",
+   "awayScore": 4,
+   "homeScore": 3,
+   "start": "2026-11-21T20:30:00Z",
+   "final": "JA",
+   "goals": [
+    {
+     "p": "1",
+     "t": "10:45",
+     "team": "CGY",
+     "who": "Ryan Strome",
+     "tag": "",
+     "ast": [
+      "Zayne Parekh",
+      "M. Gridin"
+     ],
+     "fin": false,
+     "clip": "6408710606112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "02:33",
+     "team": "CHI",
+     "who": "Roman Kantserov",
+     "tag": "",
+     "ast": [
+      "P. Kane"
+     ],
+     "fin": false,
+     "clip": "6408710041112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "04:12",
+     "team": "CHI",
+     "who": "Ryan Donato",
+     "tag": "",
+     "ast": [
+      "T. Bertuzzi",
+      "S. Rinzel"
+     ],
+     "fin": false,
+     "clip": "6408710061112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "05:38",
+     "team": "CHI",
+     "who": "Patrick Kane",
+     "tag": "YV",
+     "ast": [
+      "S. Rinzel",
+      "F. Nazar"
+     ],
+     "fin": false,
+     "clip": "6408710063112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "12:39",
+     "team": "CGY",
+     "who": "Jonathan Castagna",
+     "tag": "",
+     "ast": [
+      "M. Backlund",
+      "M. Tsyplakov"
+     ],
+     "fin": false,
+     "clip": "6408711630112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "01:14",
+     "team": "CGY",
+     "who": "Jahor Šaranhovitš",
+     "tag": "YV",
+     "ast": [
+      "R. Strome",
+      "S. Nemec"
+     ],
+     "fin": false,
+     "clip": "6408711954112",
+     "gtd": 5
+    },
+    {
+     "p": "JA",
+     "t": "04:45",
+     "team": "CHI",
+     "who": "Sam Rinzel",
+     "tag": "",
+     "ast": [
+      "P. Kane",
+      "R. Kantserov"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 2
+    }
+   ],
+   "goalies": "Spencer Knight (CHI) 32 torjuntaa · Dustin Wolf (CGY) 29 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "R. Strome",
+     "team": "CGY",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "P. Kane",
+     "team": "CHI",
+     "pos": "R",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Y. Sharangovich",
+     "team": "CGY",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Scotiabank Saddledome",
+   "finStats": [
+    {
+     "name": "T. Teräväinen",
+     "team": "CHI",
+     "opp": "CGY",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 1,
+     "toi": "13:29"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Spencer Knight (CHI) 32 torjuntaa · Dustin Wolf (CGY) 29 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "R. Strome",
+      "team": "CGY",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "P. Kane",
+      "team": "CHI",
+      "pos": "R",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Y. Sharangovich",
+      "team": "CGY",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Scotiabank Saddledome",
+    "finStats": [
+     {
+      "name": "T. Teräväinen",
+      "team": "CHI",
+      "opp": "CGY",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 1,
+      "toi": "13:29"
+     }
+    ]
+   }
   }
  }
 }
