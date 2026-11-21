@@ -1,0 +1,291 @@
+{
+ "gameDate": "2026-11-21",
+ "games": {
+  "2026020359": {
+   "id": 2026020359,
+   "away": "EDM",
+   "home": "CAR",
+   "awayScore": 4,
+   "homeScore": 7,
+   "start": "2026-11-21T18:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "10:38",
+     "team": "EDM",
+     "who": "Owen Michaels",
+     "tag": "",
+     "ast": [
+      "R. Shea",
+      "Devon Levi"
+     ],
+     "fin": false,
+     "clip": "6408707658112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "18:39",
+     "team": "EDM",
+     "who": "Leon Draisaitl",
+     "tag": "YV",
+     "ast": [
+      "C. McDavid",
+      "E. Bouchard"
+     ],
+     "fin": false,
+     "clip": "6408705720112",
+     "gtd": 22
+    },
+    {
+     "p": "2",
+     "t": "01:12",
+     "team": "CAR",
+     "who": "Sean Walker",
+     "tag": "",
+     "ast": [
+      "L. Stankoven"
+     ],
+     "fin": false,
+     "clip": "6408707299112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "04:27",
+     "team": "EDM",
+     "who": "Mathieu Joseph",
+     "tag": "AV",
+     "ast": [],
+     "fin": false,
+     "clip": "6408707212112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "09:29",
+     "team": "CAR",
+     "who": "Jalen Chatfield",
+     "tag": "",
+     "ast": [
+      "J. Martinook",
+      "J. Staal"
+     ],
+     "fin": false,
+     "clip": "6408707699112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "11:51",
+     "team": "CAR",
+     "who": "Taylor Hall",
+     "tag": "",
+     "ast": [
+      "S. Gostisbehere",
+      "L. Stankoven"
+     ],
+     "fin": false,
+     "clip": "6408707230112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "12:34",
+     "team": "CAR",
+     "who": "Andrei Svetšnikov",
+     "tag": "YV",
+     "ast": [
+      "J. Blake",
+      "Sebastian Aho"
+     ],
+     "fin": false,
+     "clip": "6408708964112",
+     "gtd": 12
+    },
+    {
+     "p": "2",
+     "t": "16:55",
+     "team": "EDM",
+     "who": "Vasili Podkolzin",
+     "tag": "YV",
+     "ast": [
+      "L. Draisaitl",
+      "C. McDavid"
+     ],
+     "fin": false,
+     "clip": "6408706425112",
+     "gtd": 13
+    },
+    {
+     "p": "2",
+     "t": "19:34",
+     "team": "CAR",
+     "who": "Sebastian Aho",
+     "tag": "YV",
+     "ast": [
+      "Nikolaj Ehlers",
+      "S. Gostisbehere"
+     ],
+     "fin": true,
+     "clip": "6408709579112",
+     "gtd": 13
+    },
+    {
+     "p": "3",
+     "t": "08:20",
+     "team": "CAR",
+     "who": "Andrei Svetšnikov",
+     "tag": "",
+     "ast": [
+      "W. Carrier",
+      "Sebastian Aho"
+     ],
+     "fin": false,
+     "clip": "6408709022112",
+     "gtd": 13
+    },
+    {
+     "p": "3",
+     "t": "17:57",
+     "team": "CAR",
+     "who": "Alexander Nikishin",
+     "tag": "YV",
+     "ast": [
+      "M. Jankowski",
+      "Taylor Hall"
+     ],
+     "fin": false,
+     "clip": "6408708932112",
+     "gtd": 2
+    }
+   ],
+   "goalies": "Devon Levi (EDM) 29 torjuntaa · Pjotr Kotšetkov (CAR) 11 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Andrei Svetšnikov",
+     "team": "CAR",
+     "pos": "R",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Sebastian Aho",
+     "team": "CAR",
+     "pos": "C",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Taylor Hall",
+     "team": "CAR",
+     "pos": "L",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Lenovo Center",
+   "finStats": [
+    {
+     "name": "K. Kapanen",
+     "team": "EDM",
+     "opp": "CAR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 0,
+     "toi": "19:49"
+    },
+    {
+     "name": "Sebastian Aho",
+     "team": "CAR",
+     "opp": "EDM",
+     "pos": "H",
+     "g": 1,
+     "a": 2,
+     "p": 3,
+     "pm": 0,
+     "sog": 4,
+     "toi": "20:40"
+    }
+   ],
+   "note": "Suomalaiset: Aho 1+2",
+   "recapUrl": "https://www.nhl.com/video/edm-at-car-recap-6408709439112",
+   "videoId": "",
+   "details": {
+    "goalies": "Devon Levi (EDM) 29 torjuntaa · Pjotr Kotšetkov (CAR) 11 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Andrei Svetšnikov",
+      "team": "CAR",
+      "pos": "R",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Sebastian Aho",
+      "team": "CAR",
+      "pos": "C",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Taylor Hall",
+      "team": "CAR",
+      "pos": "L",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Lenovo Center",
+    "finStats": [
+     {
+      "name": "K. Kapanen",
+      "team": "EDM",
+      "opp": "CAR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 0,
+      "toi": "19:49"
+     },
+     {
+      "name": "Sebastian Aho",
+      "team": "CAR",
+      "opp": "EDM",
+      "pos": "H",
+      "g": 1,
+      "a": 2,
+      "p": 3,
+      "pm": 0,
+      "sog": 4,
+      "toi": "20:40"
+     }
+    ]
+   }
+  }
+ }
+}
