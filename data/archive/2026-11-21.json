@@ -925,7 +925,7 @@
       "M. Schaefer"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408721733112",
      "gtd": 10
     },
     {
@@ -952,7 +952,7 @@
       "Anton Johansson"
      ],
      "fin": false,
-     "clip": "6408719864112",
+     "clip": "6408722296112",
      "gtd": 8
     }
    ],
@@ -1005,7 +1005,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/nyi-at-det-recap-6408722015112",
    "videoId": "",
    "details": {
     "goalies": "Ilja Sorokin (NYI) 18 torjuntaa · John Gibson (DET) 18 torjuntaa",
@@ -1054,6 +1054,676 @@
       "pm": 0,
       "sog": 0,
       "toi": "13:54"
+     }
+    ]
+   }
+  },
+  "2026020364": {
+   "id": 2026020364,
+   "away": "CBJ",
+   "home": "TOR",
+   "awayScore": 4,
+   "homeScore": 3,
+   "start": "2026-11-22T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "18:38",
+     "team": "TOR",
+     "who": "Auston Matthews",
+     "tag": "YV",
+     "ast": [
+      "J. Tavares",
+      "D. Raddysh"
+     ],
+     "fin": false,
+     "clip": "6408716789112",
+     "gtd": 14
+    },
+    {
+     "p": "1",
+     "t": "19:43",
+     "team": "CBJ",
+     "who": "Damon Severson",
+     "tag": "",
+     "ast": [
+      "K. Johnson",
+      "L. Del Bel Belluz"
+     ],
+     "fin": false,
+     "clip": "6408718074112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "19:55",
+     "team": "TOR",
+     "who": "Jake McCabe",
+     "tag": "",
+     "ast": [
+      "J. Roslovic",
+      "T. Stecher"
+     ],
+     "fin": false,
+     "clip": "6408717784112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "05:10",
+     "team": "TOR",
+     "who": "Teddy Blueger",
+     "tag": "",
+     "ast": [
+      "Dakota Mermis",
+      "W. Nylander"
+     ],
+     "fin": false,
+     "clip": "6408717750112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "15:26",
+     "team": "CBJ",
+     "who": "Adam Fantilli",
+     "tag": "YV",
+     "ast": [
+      "M. Knies",
+      "Z. Werenski"
+     ],
+     "fin": false,
+     "clip": "6408719545112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "15:40",
+     "team": "CBJ",
+     "who": "Matthew Knies",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "16:32",
+     "team": "CBJ",
+     "who": "Zach Werenski",
+     "tag": "",
+     "ast": [
+      "A. Fantilli"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 5
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Scotiabank Arena",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Scotiabank Arena",
+    "finStats": []
+   }
+  },
+  "2026020365": {
+   "id": 2026020365,
+   "away": "PHI",
+   "home": "MTL",
+   "awayScore": 4,
+   "homeScore": 3,
+   "start": "2026-11-22T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "10:09",
+     "team": "PHI",
+     "who": "Christian Dvorak",
+     "tag": "",
+     "ast": [
+      "Cam York",
+      "T. Konecny"
+     ],
+     "fin": false,
+     "clip": "6408717065112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "10:25",
+     "team": "MTL",
+     "who": "Oliver Kapanen",
+     "tag": "",
+     "ast": [
+      "A. Xhekaj",
+      "B. Berard"
+     ],
+     "fin": false,
+     "clip": "6408717455112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "03:18",
+     "team": "PHI",
+     "who": "Denver Barkey",
+     "tag": "",
+     "ast": [
+      "O. Tippett"
+     ],
+     "fin": false,
+     "clip": "6408717992112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "07:32",
+     "team": "PHI",
+     "who": "Rasmus Ristolainen",
+     "tag": "",
+     "ast": [
+      "Denver Barkey",
+      "O. Tippett"
+     ],
+     "fin": true,
+     "clip": "6408718913112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "04:12",
+     "team": "MTL",
+     "who": "Zachary Bolduc",
+     "tag": "YV",
+     "ast": [
+      "A. Newhook",
+      "K. Dach"
+     ],
+     "fin": false,
+     "clip": "6408719260112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "05:26",
+     "team": "MTL",
+     "who": "Owen Beck",
+     "tag": "",
+     "ast": [
+      "J. Evans"
+     ],
+     "fin": false,
+     "clip": "6408720725112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "19:29",
+     "team": "PHI",
+     "who": "Noah Cates",
+     "tag": "",
+     "ast": [
+      "S. Couturier",
+      "M. Michkov"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Dan Vladar (PHI) 20 torjuntaa · Jacob Fowler (MTL) 16 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "N. Cates",
+     "team": "PHI",
+     "pos": "L",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "O. Tippett",
+     "team": "PHI",
+     "pos": "R",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "L. Hutson",
+     "team": "MTL",
+     "pos": "D",
+     "goals": 0,
+     "assists": 0,
+     "points": 0,
+     "svp": null
+    }
+   ],
+   "venue": "Centre Bell",
+   "finStats": [
+    {
+     "name": "R. Ristolainen",
+     "team": "PHI",
+     "opp": "MTL",
+     "pos": "P",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 1,
+     "sog": 3,
+     "toi": "22:37"
+    }
+   ],
+   "note": "Suomalaiset: Ristolainen 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Dan Vladar (PHI) 20 torjuntaa · Jacob Fowler (MTL) 16 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "N. Cates",
+      "team": "PHI",
+      "pos": "L",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "O. Tippett",
+      "team": "PHI",
+      "pos": "R",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "L. Hutson",
+      "team": "MTL",
+      "pos": "D",
+      "goals": 0,
+      "assists": 0,
+      "points": 0,
+      "svp": null
+     }
+    ],
+    "venue": "Centre Bell",
+    "finStats": [
+     {
+      "name": "R. Ristolainen",
+      "team": "PHI",
+      "opp": "MTL",
+      "pos": "P",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 1,
+      "sog": 3,
+      "toi": "22:37"
+     }
+    ]
+   }
+  },
+  "2026020368": {
+   "id": 2026020368,
+   "away": "NJD",
+   "home": "STL",
+   "awayScore": 6,
+   "homeScore": 9,
+   "start": "2026-11-22T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "01:51",
+     "team": "STL",
+     "who": "Brandon Carlo",
+     "tag": "",
+     "ast": [
+      "J. Neighbours",
+      "R. Thomas"
+     ],
+     "fin": false,
+     "clip": "6408715086112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "02:13",
+     "team": "STL",
+     "who": "Jimmy Snuggerud",
+     "tag": "YV",
+     "ast": [
+      "P. Broberg",
+      "J. Neighbours"
+     ],
+     "fin": false,
+     "clip": "6408714501112",
+     "gtd": 13
+    },
+    {
+     "p": "1",
+     "t": "05:53",
+     "team": "STL",
+     "who": "Robert Thomas",
+     "tag": "",
+     "ast": [
+      "J. Neighbours",
+      "P. Broberg"
+     ],
+     "fin": false,
+     "clip": "6408716361112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "08:15",
+     "team": "NJD",
+     "who": "Jesper Boqvist",
+     "tag": "",
+     "ast": [
+      "L. Hämeenaho",
+      "B. Pesce"
+     ],
+     "fin": false,
+     "clip": "6408715316112",
+     "gtd": 7
+    },
+    {
+     "p": "1",
+     "t": "09:03",
+     "team": "STL",
+     "who": "Philip Broberg",
+     "tag": "",
+     "ast": [
+      "D. Holloway",
+      "L. Mailloux"
+     ],
+     "fin": false,
+     "clip": "6408716666112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "17:06",
+     "team": "NJD",
+     "who": "Timo Meier",
+     "tag": "",
+     "ast": [
+      "B. Pesce",
+      "J. Hughes"
+     ],
+     "fin": false,
+     "clip": "6408717282112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "18:33",
+     "team": "NJD",
+     "who": "Luke Hughes",
+     "tag": "YV",
+     "ast": [
+      "J. Hughes",
+      "N. Hischier"
+     ],
+     "fin": false,
+     "clip": "6408717969112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "03:55",
+     "team": "STL",
+     "who": "Pavel Butšnevitš",
+     "tag": "",
+     "ast": [
+      "B. Carlo"
+     ],
+     "fin": false,
+     "clip": "6408719068112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "04:42",
+     "team": "NJD",
+     "who": "Connor Brown",
+     "tag": "",
+     "ast": [
+      "E. Rodrigues",
+      "A. Lombardi"
+     ],
+     "fin": false,
+     "clip": "6408717910112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "07:40",
+     "team": "STL",
+     "who": "Logan Mailloux",
+     "tag": "",
+     "ast": [
+      "J. Neighbours",
+      "J. Barron"
+     ],
+     "fin": false,
+     "clip": "6408719482112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "08:59",
+     "team": "STL",
+     "who": "Mason McTavish",
+     "tag": "YV",
+     "ast": [
+      "J. Neighbours",
+      "R. Thomas"
+     ],
+     "fin": false,
+     "clip": "6408719294112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "01:07",
+     "team": "STL",
+     "who": "Jonatan Berggren",
+     "tag": "",
+     "ast": [
+      "A. Kaskimäki",
+      "L. Mailloux"
+     ],
+     "fin": false,
+     "clip": "6408719256112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "03:52",
+     "team": "NJD",
+     "who": "Evan Rodrigues",
+     "tag": "",
+     "ast": [
+      "J. Siegenthaler",
+      "A. Lombardi"
+     ],
+     "fin": false,
+     "clip": "6408721311112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "16:41",
+     "team": "NJD",
+     "who": "Declan Chisholm",
+     "tag": "",
+     "ast": [
+      "C. Glass",
+      "J. Boqvist"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "17:43",
+     "team": "STL",
+     "who": "Jonatan Berggren",
+     "tag": "TM",
+     "ast": [
+      "C. Parayko"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Jake Allen (NJD) 12 torjuntaa · Jordan Binnington (STL) 37 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "J. Neighbours",
+     "team": "STL",
+     "pos": "L",
+     "goals": 0,
+     "assists": 5,
+     "points": 5,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "L. Mailloux",
+     "team": "STL",
+     "pos": "D",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "P. Broberg",
+     "team": "STL",
+     "pos": "D",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Enterprise Center",
+   "finStats": [
+    {
+     "name": "L. Hämeenaho",
+     "team": "NJD",
+     "opp": "STL",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 0,
+     "toi": "11:53"
+    },
+    {
+     "name": "A. Kaskimäki",
+     "team": "STL",
+     "opp": "NJD",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 3,
+     "sog": 0,
+     "toi": "16:55"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jake Allen (NJD) 12 torjuntaa · Jordan Binnington (STL) 37 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "J. Neighbours",
+      "team": "STL",
+      "pos": "L",
+      "goals": 0,
+      "assists": 5,
+      "points": 5,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "L. Mailloux",
+      "team": "STL",
+      "pos": "D",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "P. Broberg",
+      "team": "STL",
+      "pos": "D",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Enterprise Center",
+    "finStats": [
+     {
+      "name": "L. Hämeenaho",
+      "team": "NJD",
+      "opp": "STL",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 0,
+      "toi": "11:53"
+     },
+     {
+      "name": "A. Kaskimäki",
+      "team": "STL",
+      "opp": "NJD",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 3,
+      "sog": 0,
+      "toi": "16:55"
      }
     ]
    }
