@@ -1145,7 +1145,7 @@
      "tag": "",
      "ast": [],
      "fin": false,
-     "clip": "",
+     "clip": "6408720854112",
      "gtd": 6
     },
     {
@@ -1158,7 +1158,7 @@
       "A. Fantilli"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408722338112",
      "gtd": 5
     }
    ],
@@ -1278,7 +1278,7 @@
       "M. Michkov"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408721345112",
      "gtd": 4
     }
    ],
@@ -1331,7 +1331,7 @@
     }
    ],
    "note": "Suomalaiset: Ristolainen 1+0",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/phi-at-mtl-recap-6408721634112",
    "videoId": "",
    "details": {
     "goalies": "Dan Vladar (PHI) 20 torjuntaa · Jacob Fowler (MTL) 16 torjuntaa",
@@ -1585,7 +1585,7 @@
       "J. Boqvist"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408721437112",
      "gtd": 3
     },
     {
@@ -1598,7 +1598,7 @@
       "C. Parayko"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408721161112",
      "gtd": 5
     }
    ],
@@ -1724,6 +1724,497 @@
       "pm": 3,
       "sog": 0,
       "toi": "16:55"
+     }
+    ]
+   }
+  },
+  "2026020363": {
+   "id": 2026020363,
+   "away": "WSH",
+   "home": "BOS",
+   "awayScore": 5,
+   "homeScore": 7,
+   "start": "2026-11-22T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "08:03",
+     "team": "WSH",
+     "who": "Tom Wilson",
+     "tag": "",
+     "ast": [
+      "Matt Roy",
+      "B. Jenner"
+     ],
+     "fin": false,
+     "clip": "6408715004112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "12:42",
+     "team": "BOS",
+     "who": "Elias Lindholm",
+     "tag": "YV",
+     "ast": [
+      "D. Pastrnak",
+      "C. McAvoy"
+     ],
+     "fin": false,
+     "clip": "6408716385112",
+     "gtd": 8
+    },
+    {
+     "p": "1",
+     "t": "15:58",
+     "team": "WSH",
+     "who": "Alex Tuch",
+     "tag": "AV",
+     "ast": [],
+     "fin": false,
+     "clip": "6408716126112",
+     "gtd": 14
+    },
+    {
+     "p": "2",
+     "t": "02:01",
+     "team": "BOS",
+     "who": "David Pastrnak",
+     "tag": "",
+     "ast": [
+      "M. Geekie",
+      "E. Lindholm"
+     ],
+     "fin": false,
+     "clip": "6408717715112",
+     "gtd": 11
+    },
+    {
+     "p": "2",
+     "t": "06:23",
+     "team": "BOS",
+     "who": "Tanner Jeannot",
+     "tag": "",
+     "ast": [
+      "C. McAvoy",
+      "S. Kuraly"
+     ],
+     "fin": false,
+     "clip": "6408718004112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "08:54",
+     "team": "BOS",
+     "who": "Elias Lindholm",
+     "tag": "",
+     "ast": [
+      "M. Geekie",
+      "Jeremy Swayman"
+     ],
+     "fin": false,
+     "clip": "6408718505112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "10:50",
+     "team": "WSH",
+     "who": "Pierre-Luc Dubois",
+     "tag": "YV",
+     "ast": [
+      "Ilya Protas",
+      "R. Leonard"
+     ],
+     "fin": false,
+     "clip": "6408718435112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "14:08",
+     "team": "WSH",
+     "who": "Dylan Strome",
+     "tag": "",
+     "ast": [
+      "J. St. Ivany",
+      "Jakob Chychrun"
+     ],
+     "fin": false,
+     "clip": "6408718541112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "18:24",
+     "team": "BOS",
+     "who": "Elias Lindholm",
+     "tag": "",
+     "ast": [
+      "Connor Clifton",
+      "M. Geekie"
+     ],
+     "fin": false,
+     "clip": "6408719538112",
+     "gtd": 10
+    },
+    {
+     "p": "3",
+     "t": "04:07",
+     "team": "BOS",
+     "who": "Elias Lindholm",
+     "tag": "",
+     "ast": [
+      "D. Pastrnak",
+      "C. McAvoy"
+     ],
+     "fin": false,
+     "clip": "6408721895112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "15:28",
+     "team": "WSH",
+     "who": "Jakob Chychrun",
+     "tag": "YV",
+     "ast": [
+      "D. Strome",
+      "A. Ovechkin"
+     ],
+     "fin": false,
+     "clip": "6408722139112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "18:34",
+     "team": "BOS",
+     "who": "Fraser Minten",
+     "tag": "TM",
+     "ast": [
+      "M. Khusnutdinov"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 8
+    }
+   ],
+   "goalies": "Charlie Lindgren (WSH) 16 torjuntaa · Jeremy Swayman (BOS) 30 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "E. Lindholm",
+     "team": "BOS",
+     "pos": "C",
+     "goals": 4,
+     "assists": 1,
+     "points": 5,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "D. Pastrnak",
+     "team": "BOS",
+     "pos": "R",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "C. McAvoy",
+     "team": "BOS",
+     "pos": "D",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "TD Garden",
+   "finStats": [],
+   "note": "Elias Lindholm hattutemppu",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Charlie Lindgren (WSH) 16 torjuntaa · Jeremy Swayman (BOS) 30 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "E. Lindholm",
+      "team": "BOS",
+      "pos": "C",
+      "goals": 4,
+      "assists": 1,
+      "points": 5,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "D. Pastrnak",
+      "team": "BOS",
+      "pos": "R",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "C. McAvoy",
+      "team": "BOS",
+      "pos": "D",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "TD Garden",
+    "finStats": []
+   }
+  },
+  "2026020366": {
+   "id": 2026020366,
+   "away": "LAK",
+   "home": "OTT",
+   "awayScore": 2,
+   "homeScore": 4,
+   "start": "2026-11-22T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "04:18",
+     "team": "LAK",
+     "who": "Mats Zuccarello",
+     "tag": "",
+     "ast": [
+      "D. Doughty"
+     ],
+     "fin": false,
+     "clip": "6408715408112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "19:06",
+     "team": "OTT",
+     "who": "Nick Cousins",
+     "tag": "",
+     "ast": [
+      "J. Spence",
+      "J. Sanderson"
+     ],
+     "fin": false,
+     "clip": "6408718553112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "00:30",
+     "team": "OTT",
+     "who": "Tim Stützle",
+     "tag": "",
+     "ast": [
+      "D. Cozens",
+      "Fabian Zetterlund"
+     ],
+     "fin": false,
+     "clip": "6408720242112",
+     "gtd": 12
+    },
+    {
+     "p": "3",
+     "t": "05:54",
+     "team": "OTT",
+     "who": "Stephen Halliday",
+     "tag": "YV",
+     "ast": [
+      "T. Stützle",
+      "J. Sanderson"
+     ],
+     "fin": false,
+     "clip": "6408721993112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "07:16",
+     "team": "OTT",
+     "who": "Tim Stützle",
+     "tag": "",
+     "ast": [
+      "D. Cozens"
+     ],
+     "fin": false,
+     "clip": "6408720273112",
+     "gtd": 13
+    },
+    {
+     "p": "3",
+     "t": "10:14",
+     "team": "LAK",
+     "who": "Quinton Byfield",
+     "tag": "",
+     "ast": [
+      "K. Fiala"
+     ],
+     "fin": false,
+     "clip": "6408721828112",
+     "gtd": 6
+    }
+   ],
+   "goalies": "Anton Forsberg (LAK) 24 torjuntaa · Linus Ullmark (OTT) 19 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "T. Stützle",
+     "team": "OTT",
+     "pos": "C",
+     "goals": 2,
+     "assists": 1,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Ridly Greig",
+     "team": "OTT",
+     "pos": "C",
+     "goals": 0,
+     "assists": 0,
+     "points": 0,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "D. Cozens",
+     "team": "OTT",
+     "pos": "C",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Canadian Tire Centre",
+   "finStats": [
+    {
+     "name": "J. Armia",
+     "team": "LAK",
+     "opp": "OTT",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 1,
+     "toi": "13:46"
+    },
+    {
+     "name": "Erik Haula",
+     "team": "LAK",
+     "opp": "OTT",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 0,
+     "toi": "13:45"
+    },
+    {
+     "name": "N. Matinpalo",
+     "team": "OTT",
+     "opp": "LAK",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 2,
+     "sog": 1,
+     "toi": "15:29"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Anton Forsberg (LAK) 24 torjuntaa · Linus Ullmark (OTT) 19 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "T. Stützle",
+      "team": "OTT",
+      "pos": "C",
+      "goals": 2,
+      "assists": 1,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Ridly Greig",
+      "team": "OTT",
+      "pos": "C",
+      "goals": 0,
+      "assists": 0,
+      "points": 0,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "D. Cozens",
+      "team": "OTT",
+      "pos": "C",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Canadian Tire Centre",
+    "finStats": [
+     {
+      "name": "J. Armia",
+      "team": "LAK",
+      "opp": "OTT",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 1,
+      "toi": "13:46"
+     },
+     {
+      "name": "Erik Haula",
+      "team": "LAK",
+      "opp": "OTT",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 0,
+      "toi": "13:45"
+     },
+     {
+      "name": "N. Matinpalo",
+      "team": "OTT",
+      "opp": "LAK",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 2,
+      "sog": 1,
+      "toi": "15:29"
      }
     ]
    }
