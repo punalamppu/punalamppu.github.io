@@ -495,6 +495,388 @@
      }
     ]
    }
+  },
+  "2026020361": {
+   "id": 2026020361,
+   "away": "BUF",
+   "home": "FLA",
+   "awayScore": 3,
+   "homeScore": 4,
+   "start": "2026-11-21T23:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "03:00",
+     "team": "FLA",
+     "who": "Sam Bennett",
+     "tag": "",
+     "ast": [
+      "S. Vilmanis",
+      "R. Gudas"
+     ],
+     "fin": false,
+     "clip": "6408712465112",
+     "gtd": 8
+    },
+    {
+     "p": "1",
+     "t": "09:56",
+     "team": "BUF",
+     "who": "Jiri Kulich",
+     "tag": "",
+     "ast": [
+      "Zach Benson",
+      "T. Thompson"
+     ],
+     "fin": false,
+     "clip": "6408713961112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "05:10",
+     "team": "BUF",
+     "who": "Jack Quinn",
+     "tag": "",
+     "ast": [
+      "O. Zellweger",
+      "Z. Metsa"
+     ],
+     "fin": false,
+     "clip": "6408714884112",
+     "gtd": 12
+    },
+    {
+     "p": "2",
+     "t": "05:28",
+     "team": "FLA",
+     "who": "Sam Bennett",
+     "tag": "",
+     "ast": [
+      "E. Luostarinen"
+     ],
+     "fin": false,
+     "clip": "6408714176112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "00:48",
+     "team": "FLA",
+     "who": "Sam Bennett",
+     "tag": "AV",
+     "ast": [
+      "Seth Jones",
+      "S. Reinhart"
+     ],
+     "fin": false,
+     "clip": "6408718867112",
+     "gtd": 10
+    },
+    {
+     "p": "3",
+     "t": "08:49",
+     "team": "BUF",
+     "who": "Tage Thompson",
+     "tag": "",
+     "ast": [
+      "M. Samuelsson"
+     ],
+     "fin": false,
+     "clip": "6408719576112",
+     "gtd": 15
+    },
+    {
+     "p": "3",
+     "t": "16:42",
+     "team": "FLA",
+     "who": "Sandis Vilmanis",
+     "tag": "",
+     "ast": [
+      "S. Bennett",
+      "Seth Jones"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 4
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Amerant Bank Arena",
+   "finStats": [
+    {
+     "name": "A. Lundell",
+     "team": "FLA",
+     "opp": "BUF",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "16:37"
+    },
+    {
+     "name": "E. Luostarinen",
+     "team": "FLA",
+     "opp": "BUF",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 3,
+     "sog": 3,
+     "toi": "19:15"
+    },
+    {
+     "name": "Niko Mikkola",
+     "team": "FLA",
+     "opp": "BUF",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 3,
+     "sog": 1,
+     "toi": "21:16"
+    }
+   ],
+   "note": "Sam Bennett hattutemppu",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Amerant Bank Arena",
+    "finStats": [
+     {
+      "name": "A. Lundell",
+      "team": "FLA",
+      "opp": "BUF",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "16:37"
+     },
+     {
+      "name": "E. Luostarinen",
+      "team": "FLA",
+      "opp": "BUF",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 3,
+      "sog": 3,
+      "toi": "19:15"
+     },
+     {
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "opp": "BUF",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 3,
+      "sog": 1,
+      "toi": "21:16"
+     }
+    ]
+   }
+  },
+  "2026020362": {
+   "id": 2026020362,
+   "away": "PIT",
+   "home": "NSH",
+   "awayScore": 3,
+   "homeScore": 4,
+   "start": "2026-11-21T23:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "03:58",
+     "team": "PIT",
+     "who": "Samuel Girard",
+     "tag": "",
+     "ast": [
+      "T. Novak",
+      "S. Crosby"
+     ],
+     "fin": false,
+     "clip": "6408712760112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "16:18",
+     "team": "PIT",
+     "who": "Andrei Kuzmenko",
+     "tag": "",
+     "ast": [
+      "E. Chinakhov",
+      "B. Kindel"
+     ],
+     "fin": false,
+     "clip": "6408715431112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "17:26",
+     "team": "NSH",
+     "who": "Jonathan Marchessault",
+     "tag": "",
+     "ast": [
+      "Brady Skjei",
+      "N. Perbix"
+     ],
+     "fin": false,
+     "clip": "6408715142112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "02:25",
+     "team": "NSH",
+     "who": "Filip Forsberg",
+     "tag": "",
+     "ast": [
+      "Nicolas Hague",
+      "Jayden Struble"
+     ],
+     "fin": false,
+     "clip": "6408714786112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "06:22",
+     "team": "NSH",
+     "who": "Reid Schaefer",
+     "tag": "",
+     "ast": [
+      "J. Marchessault",
+      "Brady Skjei"
+     ],
+     "fin": false,
+     "clip": "6408715864112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "13:23",
+     "team": "PIT",
+     "who": "Hendrix Lapierre",
+     "tag": "",
+     "ast": [
+      "R. McGroarty",
+      "K. Korczak"
+     ],
+     "fin": false,
+     "clip": "6408715617112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "03:31",
+     "team": "NSH",
+     "who": "Jayden Struble",
+     "tag": "",
+     "ast": [
+      "S. Stamkos",
+      "R. O'Reilly"
+     ],
+     "fin": false,
+     "clip": "6408716522112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Bridgestone Arena",
+   "finStats": [
+    {
+     "name": "V. Koivunen",
+     "team": "PIT",
+     "opp": "NSH",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 0,
+     "toi": "13:18"
+    },
+    {
+     "name": "Justus Annunen",
+     "team": "NSH",
+     "opp": "PIT",
+     "pos": "MV",
+     "saves": 2,
+     "shots": 2,
+     "dec": "",
+     "toi": "02:07"
+    },
+    {
+     "name": "Juuse Saros",
+     "team": "NSH",
+     "opp": "PIT",
+     "pos": "MV",
+     "saves": 20,
+     "shots": 23,
+     "dec": "",
+     "toi": "57:27"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Bridgestone Arena",
+    "finStats": [
+     {
+      "name": "V. Koivunen",
+      "team": "PIT",
+      "opp": "NSH",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 0,
+      "toi": "13:18"
+     },
+     {
+      "name": "Justus Annunen",
+      "team": "NSH",
+      "opp": "PIT",
+      "pos": "MV",
+      "saves": 2,
+      "shots": 2,
+      "dec": "",
+      "toi": "02:07"
+     },
+     {
+      "name": "Juuse Saros",
+      "team": "NSH",
+      "opp": "PIT",
+      "pos": "MV",
+      "saves": 20,
+      "shots": 23,
+      "dec": "",
+      "toi": "57:27"
+     }
+    ]
+   }
   }
  }
 }
