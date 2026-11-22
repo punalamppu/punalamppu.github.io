@@ -1167,7 +1167,7 @@
    "venue": "Scotiabank Arena",
    "finStats": [],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/cbj-at-tor-recap-6408721465112",
    "videoId": "",
    "details": {
     "goalies": "",
@@ -1331,7 +1331,7 @@
     }
    ],
    "note": "Suomalaiset: Ristolainen 1+0",
-   "recapUrl": "https://www.nhl.com/video/phi-at-mtl-recap-6408721634112",
+   "recapUrl": "https://www.nhl.com/video/phi-at-mtl-recap-6408720779112",
    "videoId": "",
    "details": {
     "goalies": "Dan Vladar (PHI) 20 torjuntaa · Jacob Fowler (MTL) 16 torjuntaa",
@@ -1663,7 +1663,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/njd-at-stl-recap-6408721944112",
    "videoId": "",
    "details": {
     "goalies": "Jake Allen (NJD) 12 torjuntaa · Jordan Binnington (STL) 37 torjuntaa",
@@ -1898,7 +1898,7 @@
       "M. Khusnutdinov"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408722245112",
      "gtd": 8
     }
    ],
@@ -1938,7 +1938,7 @@
    "venue": "TD Garden",
    "finStats": [],
    "note": "Elias Lindholm hattutemppu",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/wsh-at-bos-recap-6408722827112",
    "videoId": "",
    "details": {
     "goalies": "Charlie Lindgren (WSH) 16 torjuntaa · Jeremy Swayman (BOS) 30 torjuntaa",
@@ -2142,7 +2142,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/lak-at-ott-recap-6408722254112",
    "videoId": "",
    "details": {
     "goalies": "Anton Forsberg (LAK) 24 torjuntaa · Linus Ullmark (OTT) 19 torjuntaa",
@@ -2217,6 +2217,201 @@
       "toi": "15:29"
      }
     ]
+   }
+  },
+  "2026020369": {
+   "id": 2026020369,
+   "away": "VGK",
+   "home": "WPG",
+   "awayScore": 5,
+   "homeScore": 4,
+   "start": "2026-11-22T00:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "00:29",
+     "team": "WPG",
+     "who": "Adam Lowry",
+     "tag": "",
+     "ast": [
+      "E. Salomonsson",
+      "M. Barron"
+     ],
+     "fin": false,
+     "clip": "6408716445112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "08:18",
+     "team": "VGK",
+     "who": "Brett Howden",
+     "tag": "",
+     "ast": [
+      "J. Eichel"
+     ],
+     "fin": false,
+     "clip": "6408717655112",
+     "gtd": 8
+    },
+    {
+     "p": "1",
+     "t": "09:45",
+     "team": "VGK",
+     "who": "Mitchell Marner",
+     "tag": "",
+     "ast": [
+      "T. Connelly"
+     ],
+     "fin": false,
+     "clip": "6408716591112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "18:33",
+     "team": "WPG",
+     "who": "Viggo Björck",
+     "tag": "",
+     "ast": [
+      "M. Barron",
+      "D. Samberg"
+     ],
+     "fin": false,
+     "clip": "6408716895112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "09:51",
+     "team": "VGK",
+     "who": "Tomas Hertl",
+     "tag": "YV",
+     "ast": [
+      "M. Stone",
+      "J. Eichel"
+     ],
+     "fin": false,
+     "clip": "6408720104112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "14:36",
+     "team": "WPG",
+     "who": "Mark Scheifele",
+     "tag": "",
+     "ast": [
+      "K. Connor",
+      "J. Morrissey"
+     ],
+     "fin": false,
+     "clip": "6408720408112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "04:05",
+     "team": "WPG",
+     "who": "Kyle Connor",
+     "tag": "",
+     "ast": [
+      "N. Pionk"
+     ],
+     "fin": false,
+     "clip": "6408719966112",
+     "gtd": 19
+    },
+    {
+     "p": "3",
+     "t": "16:25",
+     "team": "VGK",
+     "who": "Ivan Barbašov",
+     "tag": "",
+     "ast": [
+      "T. Hertl",
+      "Brett Howden"
+     ],
+     "fin": false,
+     "clip": "6408722342112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Carter Hart (VGK) 26 torjuntaa · Stuart Skinner (WPG) 29 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Brett Howden",
+     "team": "VGK",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "K. Connor",
+     "team": "WPG",
+     "pos": "L",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "M. Scheifele",
+     "team": "WPG",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Canada Life Centre",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Carter Hart (VGK) 26 torjuntaa · Stuart Skinner (WPG) 29 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Brett Howden",
+      "team": "VGK",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "K. Connor",
+      "team": "WPG",
+      "pos": "L",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "M. Scheifele",
+      "team": "WPG",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Canada Life Centre",
+    "finStats": []
    }
   }
  }
