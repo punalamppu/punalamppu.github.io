@@ -877,6 +877,186 @@
      }
     ]
    }
+  },
+  "2026020367": {
+   "id": 2026020367,
+   "away": "NYI",
+   "home": "DET",
+   "awayScore": 3,
+   "homeScore": 2,
+   "start": "2026-11-22T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "08:39",
+     "team": "DET",
+     "who": "Emmitt Finnie",
+     "tag": "",
+     "ast": [
+      "M. Kasper",
+      "Albert Johansson"
+     ],
+     "fin": false,
+     "clip": "6408714512112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "09:10",
+     "team": "NYI",
+     "who": "Ondrej Palat",
+     "tag": "",
+     "ast": [
+      "B. Hutton"
+     ],
+     "fin": false,
+     "clip": "6408716927112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "03:26",
+     "team": "NYI",
+     "who": "Simon Holmström",
+     "tag": "",
+     "ast": [
+      "M. Maccelli",
+      "M. Schaefer"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 10
+    },
+    {
+     "p": "3",
+     "t": "13:21",
+     "team": "NYI",
+     "who": "Ondrej Palat",
+     "tag": "",
+     "ast": [
+      "C. Cizikas",
+      "M. Schaefer"
+     ],
+     "fin": false,
+     "clip": "6408721707112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "13:50",
+     "team": "DET",
+     "who": "Alex DeBrincat",
+     "tag": "",
+     "ast": [
+      "Anton Johansson"
+     ],
+     "fin": false,
+     "clip": "6408719864112",
+     "gtd": 8
+    }
+   ],
+   "goalies": "Ilja Sorokin (NYI) 18 torjuntaa · John Gibson (DET) 18 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "O. Palat",
+     "team": "NYI",
+     "pos": "L",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "S. Holmstrom",
+     "team": "NYI",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "A. DeBrincat",
+     "team": "DET",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Little Caesars Arena",
+   "finStats": [
+    {
+     "name": "M. Maccelli",
+     "team": "NYI",
+     "opp": "DET",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 0,
+     "toi": "13:54"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Ilja Sorokin (NYI) 18 torjuntaa · John Gibson (DET) 18 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "O. Palat",
+      "team": "NYI",
+      "pos": "L",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "S. Holmstrom",
+      "team": "NYI",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "A. DeBrincat",
+      "team": "DET",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Little Caesars Arena",
+    "finStats": [
+     {
+      "name": "M. Maccelli",
+      "team": "NYI",
+      "opp": "DET",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 0,
+      "toi": "13:54"
+     }
+    ]
+   }
   }
  }
 }
