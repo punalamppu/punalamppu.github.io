@@ -2750,6 +2750,135 @@
      }
     ]
    }
+  },
+  "2026020371": {
+   "id": 2026020371,
+   "away": "MIN",
+   "home": "VAN",
+   "awayScore": 3,
+   "homeScore": 4,
+   "start": "2026-11-22T03:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "2",
+     "t": "08:58",
+     "team": "MIN",
+     "who": "Matt Boldy",
+     "tag": "",
+     "ast": [
+      "K. Kaprizov",
+      "D. Spacek"
+     ],
+     "fin": false,
+     "clip": "6408724400112",
+     "gtd": 14
+    },
+    {
+     "p": "2",
+     "t": "13:13",
+     "team": "VAN",
+     "who": "Marco Rossi",
+     "tag": "YV",
+     "ast": [
+      "F. Hronek",
+      "B. Boeser"
+     ],
+     "fin": false,
+     "clip": "6408724782112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "14:25",
+     "team": "MIN",
+     "who": "Jared Spurgeon",
+     "tag": "",
+     "ast": [
+      "K. Kaprizov",
+      "M. Boldy"
+     ],
+     "fin": false,
+     "clip": "6408724680112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "00:30",
+     "team": "VAN",
+     "who": "Zeev Buium",
+     "tag": "",
+     "ast": [
+      "B. Boeser"
+     ],
+     "fin": false,
+     "clip": "6408726944112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "18:02",
+     "team": "MIN",
+     "who": "Nick Foligno",
+     "tag": "",
+     "ast": [
+      "M. Foligno",
+      "R. Hartman"
+     ],
+     "fin": false,
+     "clip": "6408726681112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "18:37",
+     "team": "VAN",
+     "who": "Marco Rossi",
+     "tag": "",
+     "ast": [
+      "B. Boeser",
+      "F. Chytil"
+     ],
+     "fin": false,
+     "clip": "6408726189112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Rogers Arena",
+   "finStats": [
+    {
+     "name": "Leevi Meriläinen",
+     "team": "VAN",
+     "opp": "MIN",
+     "pos": "MV",
+     "saves": 22,
+     "shots": 25,
+     "dec": "",
+     "toi": "64:36"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Rogers Arena",
+    "finStats": [
+     {
+      "name": "Leevi Meriläinen",
+      "team": "VAN",
+      "opp": "MIN",
+      "pos": "MV",
+      "saves": 22,
+      "shots": 25,
+      "dec": "",
+      "toi": "64:36"
+     }
+    ]
+   }
   }
  }
 }
