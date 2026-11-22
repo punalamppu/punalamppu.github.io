@@ -2413,6 +2413,198 @@
     "venue": "Canada Life Centre",
     "finStats": []
    }
+  },
+  "2026020370": {
+   "id": 2026020370,
+   "away": "ANA",
+   "home": "UTA",
+   "awayScore": 2,
+   "homeScore": 3,
+   "start": "2026-11-22T02:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "06:26",
+     "team": "ANA",
+     "who": "Leo Carlsson",
+     "tag": "",
+     "ast": [
+      "C. Gauthier"
+     ],
+     "fin": false,
+     "clip": "6408720172112",
+     "gtd": 7
+    },
+    {
+     "p": "1",
+     "t": "13:08",
+     "team": "UTA",
+     "who": "Vincent Trocheck",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408721430112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "08:23",
+     "team": "UTA",
+     "who": "Andrew Peeke",
+     "tag": "",
+     "ast": [
+      "L. Cooley",
+      "D. But"
+     ],
+     "fin": false,
+     "clip": "6408722067112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "18:43",
+     "team": "UTA",
+     "who": "Logan Cooley",
+     "tag": "TM",
+     "ast": [],
+     "fin": false,
+     "clip": "6408724206112",
+     "gtd": 12
+    },
+    {
+     "p": "3",
+     "t": "19:48",
+     "team": "ANA",
+     "who": "Ian Moore",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "",
+     "gtd": 2
+    }
+   ],
+   "goalies": "Ville Husso (ANA) 9 torjuntaa · Sebastian Cossa (UTA) 29 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Sebastian Cossa",
+     "team": "UTA",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.935
+    },
+    {
+     "star": 2,
+     "name": "A. Peeke",
+     "team": "UTA",
+     "pos": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "V. Trocheck",
+     "team": "UTA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Delta Center",
+   "finStats": [
+    {
+     "name": "M. Granlund",
+     "team": "ANA",
+     "opp": "UTA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 3,
+     "toi": "22:05"
+    },
+    {
+     "name": "Ville Husso",
+     "team": "ANA",
+     "opp": "UTA",
+     "pos": "MV",
+     "saves": 9,
+     "shots": 11,
+     "dec": "L",
+     "toi": "58:38"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Ville Husso (ANA) 9 torjuntaa · Sebastian Cossa (UTA) 29 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Sebastian Cossa",
+      "team": "UTA",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.935
+     },
+     {
+      "star": 2,
+      "name": "A. Peeke",
+      "team": "UTA",
+      "pos": "D",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "V. Trocheck",
+      "team": "UTA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Delta Center",
+    "finStats": [
+     {
+      "name": "M. Granlund",
+      "team": "ANA",
+      "opp": "UTA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 3,
+      "toi": "22:05"
+     },
+     {
+      "name": "Ville Husso",
+      "team": "ANA",
+      "opp": "UTA",
+      "pos": "MV",
+      "saves": 9,
+      "shots": 11,
+      "dec": "L",
+      "toi": "58:38"
+     }
+    ]
+   }
   }
  }
 }
