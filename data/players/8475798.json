@@ -32,34 +32,34 @@
    "subSeason": {
     "assists": 18,
     "gameWinningGoals": 1,
-    "gamesPlayed": 22,
+    "gamesPlayed": 23,
     "goals": 8,
     "otGoals": 1,
     "pim": 2,
-    "plusMinus": -1,
+    "plusMinus": -3,
     "points": 26,
     "powerPlayGoals": 5,
     "powerPlayPoints": 12,
-    "shootingPctg": 0.195122,
+    "shootingPctg": 0.181818,
     "shorthandedGoals": 0,
     "shorthandedPoints": 1,
-    "shots": 41
+    "shots": 44
    },
    "career": {
     "assists": 471,
     "gameWinningGoals": 35,
-    "gamesPlayed": 982,
+    "gamesPlayed": 983,
     "goals": 206,
     "otGoals": 9,
     "pim": 297,
-    "plusMinus": -36,
+    "plusMinus": -38,
     "points": 677,
     "powerPlayGoals": 52,
     "powerPlayPoints": 211,
-    "shootingPctg": 0.1106,
+    "shootingPctg": 0.1105,
     "shorthandedGoals": 9,
     "shorthandedPoints": 14,
-    "shots": 1861
+    "shots": 1864
    }
   }
  },
@@ -67,20 +67,20 @@
   "regularSeason": {
    "assists": 471,
    "avgToi": "18:41",
-   "faceoffWinningPctg": 0.48700000000000004,
+   "faceoffWinningPctg": 0.4865,
    "gameWinningGoals": 35,
-   "gamesPlayed": 982,
+   "gamesPlayed": 983,
    "goals": 206,
    "otGoals": 9,
    "pim": 297,
-   "plusMinus": -36,
+   "plusMinus": -38,
    "points": 677,
    "powerPlayGoals": 52,
    "powerPlayPoints": 211,
-   "shootingPctg": 0.1106,
+   "shootingPctg": 0.1105,
    "shorthandedGoals": 9,
    "shorthandedPoints": 14,
-   "shots": 1861
+   "shots": 1864
   },
   "playoffs": {
    "assists": 31,
@@ -102,6 +102,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-21",
+   "gameId": 2026020370,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "UTA",
+   "pim": 0,
+   "plusMinus": -2,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 24,
+   "shorthandedGoals": 0,
+   "shots": 3,
+   "teamAbbrev": "ANA",
+   "toi": "22:05"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-19",
@@ -173,24 +191,6 @@
    "shots": 1,
    "teamAbbrev": "ANA",
    "toi": "18:01"
-  },
-  {
-   "assists": 1,
-   "gameDate": "2026-11-11",
-   "gameId": 2026020297,
-   "gameTypeId": 2,
-   "goals": 1,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "NSH",
-   "pim": 0,
-   "plusMinus": 1,
-   "points": 2,
-   "powerPlayGoals": 0,
-   "shifts": 25,
-   "shorthandedGoals": 0,
-   "shots": 4,
-   "teamAbbrev": "ANA",
-   "toi": "20:44"
   }
  ],
  "isActive": true,
@@ -1121,25 +1121,25 @@
   },
   {
    "assists": 18,
-   "avgToi": "20:36",
-   "faceoffWinningPctg": 0.502762,
+   "avgToi": "20:40",
+   "faceoffWinningPctg": 0.489474,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 22,
+   "gamesPlayed": 23,
    "goals": 8,
    "leagueAbbrev": "NHL",
    "otGoals": 1,
    "pim": 2,
-   "plusMinus": -1,
+   "plusMinus": -3,
    "points": 26,
    "powerPlayGoals": 5,
    "powerPlayPoints": 12,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.195122,
+   "shootingPctg": 0.181818,
    "shorthandedGoals": 0,
    "shorthandedPoints": 1,
-   "shots": 41,
+   "shots": 44,
    "teamCommonName": {
     "default": "Ducks"
    },
@@ -1245,7 +1245,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-22",
+ "_fetched": "2026-11-23",
  "gameLog": [
   [
    "2026-10-02",

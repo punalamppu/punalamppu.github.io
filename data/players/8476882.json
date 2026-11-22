@@ -38,55 +38,55 @@
    "subSeason": {
     "assists": 6,
     "gameWinningGoals": 1,
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "goals": 2,
     "otGoals": 0,
     "pim": 4,
-    "plusMinus": -6,
+    "plusMinus": -7,
     "points": 8,
     "powerPlayGoals": 0,
     "powerPlayPoints": 2,
-    "shootingPctg": 0.166667,
+    "shootingPctg": 0.153846,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 12
+    "shots": 13
    },
    "career": {
     "assists": 374,
     "gameWinningGoals": 24,
-    "gamesPlayed": 845,
+    "gamesPlayed": 846,
     "goals": 186,
     "otGoals": 2,
     "pim": 148,
-    "plusMinus": 48,
+    "plusMinus": 47,
     "points": 560,
     "powerPlayGoals": 61,
     "powerPlayPoints": 196,
     "shootingPctg": 0.1121,
     "shorthandedGoals": 8,
     "shorthandedPoints": 23,
-    "shots": 1658
+    "shots": 1659
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
    "assists": 374,
-   "avgToi": "16:52",
+   "avgToi": "16:51",
    "faceoffWinningPctg": 0.4451,
    "gameWinningGoals": 24,
-   "gamesPlayed": 845,
+   "gamesPlayed": 846,
    "goals": 186,
    "otGoals": 2,
    "pim": 148,
-   "plusMinus": 48,
+   "plusMinus": 47,
    "points": 560,
    "powerPlayGoals": 61,
    "powerPlayPoints": 196,
    "shootingPctg": 0.1121,
    "shorthandedGoals": 8,
    "shorthandedPoints": 23,
-   "shots": 1658
+   "shots": 1659
   },
   "playoffs": {
    "assists": 27,
@@ -108,6 +108,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-21",
+   "gameId": 2026020360,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "CGY",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 22,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "CHI",
+   "toi": "13:29"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-19",
@@ -179,24 +197,6 @@
    "shots": 1,
    "teamAbbrev": "CHI",
    "toi": "16:24"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-05",
-   "gameId": 2026020253,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "TBL",
-   "pim": 0,
-   "plusMinus": 0,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 19,
-   "shorthandedGoals": 0,
-   "shots": 0,
-   "teamAbbrev": "CHI",
-   "toi": "13:20"
   }
  ],
  "isActive": true,
@@ -896,25 +896,25 @@
   },
   {
    "assists": 6,
-   "avgToi": "14:40",
+   "avgToi": "14:36",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 18,
+   "gamesPlayed": 19,
    "goals": 2,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 4,
-   "plusMinus": -6,
+   "plusMinus": -7,
    "points": 8,
    "powerPlayGoals": 0,
    "powerPlayPoints": 2,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.166667,
+   "shootingPctg": 0.153846,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 12,
+   "shots": 13,
    "teamCommonName": {
     "default": "Blackhawks"
    },
@@ -1050,7 +1050,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-22",
+ "_fetched": "2026-11-23",
  "gameLog": [
   [
    "2026-10-01",

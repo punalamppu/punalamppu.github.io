@@ -8,7 +8,7 @@
  },
  "currentTeamAbbrev": "TOR",
  "position": "C",
- "sweaterNumber": 54,
+ "sweaterNumber": 26,
  "birthDate": "2002-11-14",
  "birthCity": {
   "default": "Oulu",
@@ -500,14 +500,14 @@
    "s": 20262027,
    "lg": "AHL",
    "team": "Toronto Marlies",
-   "gp": 11,
+   "gp": 12,
    "g": 1,
    "a": 5,
    "p": 6,
    "sv": null
   }
  ],
- "_fetched": "2026-11-19",
+ "_fetched": "2026-11-23",
  "gameLog": [
   [
    "2026-10-03",

@@ -29,41 +29,41 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "gamesPlayed": 16,
-    "goalsAgainstAvg": 2.459103,
+    "gamesPlayed": 17,
+    "goalsAgainstAvg": 2.496409,
     "losses": 4,
     "otLosses": 4,
-    "savePctg": 0.918239,
+    "savePctg": 0.916335,
     "shutouts": 1,
-    "wins": 7
+    "wins": 8
    },
    "career": {
-    "gamesPlayed": 483,
-    "goalsAgainstAvg": 2.731421,
+    "gamesPlayed": 484,
+    "goalsAgainstAvg": 2.732209,
     "losses": 176,
     "otLosses": 50,
-    "savePctg": 0.911929,
+    "savePctg": 0.911873,
     "shutouts": 28,
-    "wins": 237
+    "wins": 238
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
    "assists": 8,
-   "gamesPlayed": 483,
-   "gamesStarted": 465,
+   "gamesPlayed": 484,
+   "gamesStarted": 466,
    "goals": 0,
-   "goalsAgainst": 1265,
-   "goalsAgainstAvg": 2.731421,
+   "goalsAgainst": 1268,
+   "goalsAgainstAvg": 2.732209,
    "losses": 176,
    "otLosses": 50,
    "pim": 10,
-   "savePctg": 0.911929,
-   "shotsAgainst": 14352,
+   "savePctg": 0.911873,
+   "shotsAgainst": 14377,
    "shutouts": 28,
-   "timeOnIce": "27787:42",
-   "wins": 237
+   "timeOnIce": "27845:35",
+   "wins": 238
   },
   "playoffs": {
    "assists": 1,
@@ -83,6 +83,21 @@
   }
  },
  "last5Games": [
+  {
+   "decision": "W",
+   "gameDate": "2026-11-21",
+   "gameId": 2026020362,
+   "gameTypeId": 2,
+   "gamesStarted": 1,
+   "goalsAgainst": 3,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "PIT",
+   "penaltyMins": 0,
+   "savePctg": 0.88,
+   "shotsAgainst": 25,
+   "teamAbbrev": "NSH",
+   "toi": "57:53"
+  },
   {
    "gameDate": "2026-11-17",
    "gameId": 2026020340,
@@ -139,21 +154,6 @@
    "penaltyMins": 0,
    "savePctg": 1.0,
    "shotsAgainst": 30,
-   "teamAbbrev": "NSH",
-   "toi": "60:00"
-  },
-  {
-   "decision": "W",
-   "gameDate": "2026-11-07",
-   "gameId": 2026020266,
-   "gameTypeId": 2,
-   "gamesStarted": 1,
-   "goalsAgainst": 1,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "STL",
-   "penaltyMins": 0,
-   "savePctg": 0.96,
-   "shotsAgainst": 25,
    "teamAbbrev": "NSH",
    "toi": "60:00"
   }
@@ -669,19 +669,19 @@
   {
    "assists": 0,
    "gameTypeId": 2,
-   "gamesPlayed": 16,
-   "gamesStarted": 15,
+   "gamesPlayed": 17,
+   "gamesStarted": 16,
    "goals": 0,
-   "goalsAgainst": 39,
-   "goalsAgainstAvg": 2.459103,
+   "goalsAgainst": 42,
+   "goalsAgainstAvg": 2.496409,
    "leagueAbbrev": "NHL",
    "losses": 4,
    "otLosses": 4,
    "pim": 0,
-   "savePctg": 0.918239,
+   "savePctg": 0.916335,
    "season": 20262027,
    "sequence": 1,
-   "shotsAgainst": 477,
+   "shotsAgainst": 502,
    "shutouts": 1,
    "teamCommonName": {
     "default": "Predators"
@@ -694,8 +694,8 @@
     "default": "Nashville",
     "fr": "de Nashville"
    },
-   "timeOnIce": "951:34",
-   "wins": 7
+   "timeOnIce": "1009:27",
+   "wins": 8
   }
  ],
  "preNhl": [
@@ -810,7 +810,7 @@
    "sv": 0.906
   }
  ],
- "_fetched": "2026-11-22",
+ "_fetched": "2026-11-23",
  "gameLog": [
   [
    "2026-10-01",

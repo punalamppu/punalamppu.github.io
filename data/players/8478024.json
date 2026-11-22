@@ -32,20 +32,20 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "gamesPlayed": 8,
-    "goalsAgainstAvg": 3.766163,
-    "losses": 4,
+    "gamesPlayed": 9,
+    "goalsAgainstAvg": 3.545504,
+    "losses": 5,
     "otLosses": 0,
-    "savePctg": 0.856322,
+    "savePctg": 0.854054,
     "shutouts": 0,
     "wins": 3
    },
    "career": {
-    "gamesPlayed": 173,
-    "goalsAgainstAvg": 3.100651,
-    "losses": 58,
+    "gamesPlayed": 174,
+    "goalsAgainstAvg": 3.094301,
+    "losses": 59,
     "otLosses": 21,
-    "savePctg": 0.897938,
+    "savePctg": 0.89776,
     "shutouts": 7,
     "wins": 84
    }
@@ -54,18 +54,18 @@
  "careerTotals": {
   "regularSeason": {
    "assists": 1,
-   "gamesPlayed": 173,
-   "gamesStarted": 163,
+   "gamesPlayed": 174,
+   "gamesStarted": 164,
    "goals": 0,
-   "goalsAgainst": 500,
-   "goalsAgainstAvg": 3.100651,
-   "losses": 58,
+   "goalsAgainst": 502,
+   "goalsAgainstAvg": 3.094301,
+   "losses": 59,
    "otLosses": 21,
    "pim": 6,
-   "savePctg": 0.897938,
-   "shotsAgainst": 4899,
+   "savePctg": 0.89776,
+   "shotsAgainst": 4910,
    "shutouts": 7,
-   "timeOnIce": "9675:23",
+   "timeOnIce": "9734:01",
    "wins": 84
   },
   "playoffs": {
@@ -86,6 +86,21 @@
   }
  },
  "last5Games": [
+  {
+   "decision": "L",
+   "gameDate": "2026-11-21",
+   "gameId": 2026020370,
+   "gameTypeId": 2,
+   "gamesStarted": 1,
+   "goalsAgainst": 2,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "UTA",
+   "penaltyMins": 0,
+   "savePctg": 0.818182,
+   "shotsAgainst": 11,
+   "teamAbbrev": "ANA",
+   "toi": "58:38"
+  },
   {
    "decision": "L",
    "gameDate": "2026-11-17",
@@ -145,21 +160,6 @@
    "shotsAgainst": 31,
    "teamAbbrev": "ANA",
    "toi": "53:34"
-  },
-  {
-   "decision": "L",
-   "gameDate": "2026-10-22",
-   "gameId": 2026020157,
-   "gameTypeId": 2,
-   "gamesStarted": 1,
-   "goalsAgainst": 3,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "NJD",
-   "penaltyMins": 0,
-   "savePctg": 0.888889,
-   "shotsAgainst": 27,
-   "teamAbbrev": "ANA",
-   "toi": "58:01"
   }
  ],
  "isActive": true,
@@ -442,19 +442,19 @@
   {
    "assists": 0,
    "gameTypeId": 2,
-   "gamesPlayed": 8,
-   "gamesStarted": 6,
+   "gamesPlayed": 9,
+   "gamesStarted": 7,
    "goals": 0,
-   "goalsAgainst": 25,
-   "goalsAgainstAvg": 3.766163,
+   "goalsAgainst": 27,
+   "goalsAgainstAvg": 3.545504,
    "leagueAbbrev": "NHL",
-   "losses": 4,
+   "losses": 5,
    "otLosses": 0,
    "pim": 0,
-   "savePctg": 0.856322,
+   "savePctg": 0.854054,
    "season": 20262027,
    "sequence": 1,
-   "shotsAgainst": 174,
+   "shotsAgainst": 185,
    "shutouts": 0,
    "teamCommonName": {
     "default": "Ducks"
@@ -467,7 +467,7 @@
     "default": "Anaheim",
     "fr": "d'Anaheim"
    },
-   "timeOnIce": "398:17",
+   "timeOnIce": "456:55",
    "wins": 3
   }
  ],
@@ -663,7 +663,7 @@
    "sv": 0.903
   }
  ],
- "_fetched": "2026-11-22",
+ "_fetched": "2026-11-23",
  "gameLog": [
   [
    "2026-10-07",

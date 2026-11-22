@@ -30,14 +30,14 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "assists": 8,
+    "assists": 9,
     "gameWinningGoals": 0,
-    "gamesPlayed": 12,
+    "gamesPlayed": 13,
     "goals": 2,
     "otGoals": 0,
     "pim": 2,
     "plusMinus": 4,
-    "points": 10,
+    "points": 11,
     "powerPlayGoals": 0,
     "powerPlayPoints": 4,
     "shootingPctg": 0.105263,
@@ -46,14 +46,14 @@
     "shots": 19
    },
    "career": {
-    "assists": 126,
+    "assists": 127,
     "gameWinningGoals": 5,
-    "gamesPlayed": 307,
+    "gamesPlayed": 308,
     "goals": 53,
     "otGoals": 1,
     "pim": 56,
     "plusMinus": -46,
-    "points": 179,
+    "points": 180,
     "powerPlayGoals": 5,
     "powerPlayPoints": 41,
     "shootingPctg": 0.1244,
@@ -65,16 +65,16 @@
  },
  "careerTotals": {
   "regularSeason": {
-   "assists": 126,
-   "avgToi": "15:05",
+   "assists": 127,
+   "avgToi": "15:04",
    "faceoffWinningPctg": 0.38630000000000003,
    "gameWinningGoals": 5,
-   "gamesPlayed": 307,
+   "gamesPlayed": 308,
    "goals": 53,
    "otGoals": 1,
    "pim": 56,
    "plusMinus": -46,
-   "points": 179,
+   "points": 180,
    "powerPlayGoals": 5,
    "powerPlayPoints": 41,
    "shootingPctg": 0.1244,
@@ -84,6 +84,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 1,
+   "gameDate": "2026-11-21",
+   "gameId": 2026020367,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "DET",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 18,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "NYI",
+   "toi": "13:54"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-19",
@@ -155,24 +173,6 @@
    "shots": 1,
    "teamAbbrev": "NYI",
    "toi": "13:46"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-10-17",
-   "gameId": 2026020125,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "TOR",
-   "pim": 0,
-   "plusMinus": 0,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 7,
-   "shorthandedGoals": 0,
-   "shots": 0,
-   "teamAbbrev": "NYI",
-   "toi": "5:39"
   }
  ],
  "isActive": true,
@@ -344,18 +344,18 @@
    }
   },
   {
-   "assists": 8,
-   "avgToi": "14:50",
+   "assists": 9,
+   "avgToi": "14:46",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 12,
+   "gamesPlayed": 13,
    "goals": 2,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 2,
    "plusMinus": 4,
-   "points": 10,
+   "points": 11,
    "powerPlayGoals": 0,
    "powerPlayPoints": 4,
    "season": 20262027,
@@ -479,7 +479,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-22",
+ "_fetched": "2026-11-23",
  "gameLog": [
   [
    "2026-09-30",

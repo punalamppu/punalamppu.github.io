@@ -32,34 +32,34 @@
    "subSeason": {
     "assists": 2,
     "gameWinningGoals": 0,
-    "gamesPlayed": 9,
-    "goals": 1,
+    "gamesPlayed": 10,
+    "goals": 2,
     "otGoals": 0,
     "pim": 0,
-    "plusMinus": -2,
-    "points": 3,
+    "plusMinus": -1,
+    "points": 4,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
-    "shootingPctg": 0.111111,
+    "shootingPctg": 0.166667,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 9
+    "shots": 12
    },
    "career": {
     "assists": 263,
     "gameWinningGoals": 8,
-    "gamesPlayed": 829,
-    "goals": 58,
+    "gamesPlayed": 830,
+    "goals": 59,
     "otGoals": 5,
     "pim": 399,
-    "plusMinus": -171,
-    "points": 321,
+    "plusMinus": -170,
+    "points": 322,
     "powerPlayGoals": 15,
     "powerPlayPoints": 121,
-    "shootingPctg": 0.0381,
+    "shootingPctg": 0.038599999999999995,
     "shorthandedGoals": 1,
     "shorthandedPoints": 7,
-    "shots": 1522
+    "shots": 1525
    }
   }
  },
@@ -69,18 +69,18 @@
    "avgToi": "22:32",
    "faceoffWinningPctg": 0.5,
    "gameWinningGoals": 8,
-   "gamesPlayed": 829,
-   "goals": 58,
+   "gamesPlayed": 830,
+   "goals": 59,
    "otGoals": 5,
    "pim": 399,
-   "plusMinus": -171,
-   "points": 321,
+   "plusMinus": -170,
+   "points": 322,
    "powerPlayGoals": 15,
    "powerPlayPoints": 121,
-   "shootingPctg": 0.0381,
+   "shootingPctg": 0.038599999999999995,
    "shorthandedGoals": 1,
    "shorthandedPoints": 7,
-   "shots": 1522
+   "shots": 1525
   },
   "playoffs": {
    "assists": 4,
@@ -101,6 +101,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-21",
+   "gameId": 2026020365,
+   "gameTypeId": 2,
+   "goals": 1,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "MTL",
+   "pim": 0,
+   "plusMinus": 1,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 26,
+   "shorthandedGoals": 0,
+   "shots": 3,
+   "teamAbbrev": "PHI",
+   "toi": "22:37"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-19",
@@ -172,24 +190,6 @@
    "shots": 2,
    "teamAbbrev": "PHI",
    "toi": "20:51"
-  },
-  {
-   "assists": 1,
-   "gameDate": "2026-11-11",
-   "gameId": 2026020295,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "EDM",
-   "pim": 0,
-   "plusMinus": 0,
-   "points": 1,
-   "powerPlayGoals": 0,
-   "shifts": 25,
-   "shorthandedGoals": 0,
-   "shots": 1,
-   "teamAbbrev": "PHI",
-   "toi": "18:24"
   }
  ],
  "isActive": true,
@@ -658,25 +658,25 @@
   },
   {
    "assists": 2,
-   "avgToi": "18:03",
+   "avgToi": "18:30",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 9,
-   "goals": 1,
+   "gamesPlayed": 10,
+   "goals": 2,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 0,
-   "plusMinus": -2,
-   "points": 3,
+   "plusMinus": -1,
+   "points": 4,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.111111,
+   "shootingPctg": 0.166667,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 9,
+   "shots": 12,
    "teamCommonName": {
     "default": "Flyers"
    },
@@ -792,7 +792,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-22",
+ "_fetched": "2026-11-23",
  "gameLog": [
   [
    "2026-09-30",
