@@ -2605,6 +2605,151 @@
      }
     ]
    }
+  },
+  "2026020372": {
+   "id": 2026020372,
+   "away": "SEA",
+   "home": "SJS",
+   "awayScore": 3,
+   "homeScore": 4,
+   "start": "2026-11-22T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "05:57",
+     "team": "SEA",
+     "who": "Kaapo Kakko",
+     "tag": "YV",
+     "ast": [
+      "R. Evans",
+      "M. Wood"
+     ],
+     "fin": true,
+     "clip": "6408724128112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "06:26",
+     "team": "SJS",
+     "who": "Michael Misa",
+     "tag": "",
+     "ast": [
+      "D. Orlov"
+     ],
+     "fin": false,
+     "clip": "6408724025112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "10:29",
+     "team": "SJS",
+     "who": "Nolan Allan",
+     "tag": "",
+     "ast": [
+      "I. Stenberg"
+     ],
+     "fin": false,
+     "clip": "6408722967112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "16:31",
+     "team": "SJS",
+     "who": "Macklin Celebrini",
+     "tag": "YV",
+     "ast": [
+      "D. Orlov"
+     ],
+     "fin": false,
+     "clip": "6408723675112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "07:47",
+     "team": "SJS",
+     "who": "Ivar Stenberg",
+     "tag": "YV",
+     "ast": [
+      "D. Orlov",
+      "Macklin Celebrini"
+     ],
+     "fin": false,
+     "clip": "6408724475112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "11:02",
+     "team": "SEA",
+     "who": "Matty Beniers",
+     "tag": "",
+     "ast": [
+      "M. Samoskevich",
+      "K. Kakko"
+     ],
+     "fin": false,
+     "clip": "6408724885112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "16:58",
+     "team": "SEA",
+     "who": "Ryan Winterton",
+     "tag": "",
+     "ast": [
+      "J. Melanson",
+      "B. Montour"
+     ],
+     "fin": false,
+     "clip": "6408725291112",
+     "gtd": 3
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "SAP Center at San Jose",
+   "finStats": [
+    {
+     "name": "K. Kakko",
+     "team": "SEA",
+     "opp": "SJS",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 0,
+     "sog": 4,
+     "toi": "16:07"
+    }
+   ],
+   "note": "Suomalaiset: Kakko 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "SAP Center at San Jose",
+    "finStats": [
+     {
+      "name": "K. Kakko",
+      "team": "SEA",
+      "opp": "SJS",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 0,
+      "sog": 4,
+      "toi": "16:07"
+     }
+    ]
+   }
   }
  }
 }
