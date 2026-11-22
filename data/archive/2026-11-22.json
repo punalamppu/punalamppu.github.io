@@ -1,0 +1,260 @@
+{
+ "gameDate": "2026-11-22",
+ "games": {
+  "2026020373": {
+   "id": 2026020373,
+   "away": "CAR",
+   "home": "NYR",
+   "awayScore": 5,
+   "homeScore": 2,
+   "start": "2026-11-22T17:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "13:00",
+     "team": "CAR",
+     "who": "Eric Robinson",
+     "tag": "AV",
+     "ast": [
+      "J. Staal"
+     ],
+     "fin": false,
+     "clip": "6408739019112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "14:12",
+     "team": "NYR",
+     "who": "Mika Zibanejad",
+     "tag": "YV",
+     "ast": [
+      "A. Fox",
+      "J. Miller"
+     ],
+     "fin": false,
+     "clip": "6408738824112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "13:13",
+     "team": "CAR",
+     "who": "Jackson Blake",
+     "tag": "",
+     "ast": [
+      "Taylor Hall",
+      "L. Stankoven"
+     ],
+     "fin": false,
+     "clip": "6408739651112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "17:46",
+     "team": "CAR",
+     "who": "Alexander Nikishin",
+     "tag": "",
+     "ast": [
+      "S. Gostisbehere",
+      "E. Robinson"
+     ],
+     "fin": false,
+     "clip": "6408740433112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "18:27",
+     "team": "CAR",
+     "who": "Sean Walker",
+     "tag": "",
+     "ast": [
+      "Sebastian Aho",
+      "W. Carrier"
+     ],
+     "fin": false,
+     "clip": "6408739461112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "15:13",
+     "team": "NYR",
+     "who": "J.T. Miller",
+     "tag": "YV",
+     "ast": [
+      "A. Fox"
+     ],
+     "fin": false,
+     "clip": "6408742419112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "17:38",
+     "team": "CAR",
+     "who": "Jordan Martinook",
+     "tag": "TM",
+     "ast": [
+      "S. Jarvis"
+     ],
+     "fin": false,
+     "clip": "6408742148112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Brandon Bussi (CAR) 25 torjuntaa · Dylan Garand (NYR) 36 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "E. Robinson",
+     "team": "CAR",
+     "pos": "L",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "J. Blake",
+     "team": "CAR",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "J. Miller",
+     "team": "NYR",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Madison Square Garden",
+   "finStats": [
+    {
+     "name": "Sebastian Aho",
+     "team": "CAR",
+     "opp": "NYR",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 1,
+     "toi": "17:05"
+    },
+    {
+     "name": "J. Kotkaniemi",
+     "team": "CAR",
+     "opp": "NYR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 0,
+     "toi": "10:07"
+    },
+    {
+     "name": "E. Tolvanen",
+     "team": "NYR",
+     "opp": "CAR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -3,
+     "sog": 0,
+     "toi": "13:18"
+    }
+   ],
+   "note": "Suomalaiset: Aho 0+1",
+   "recapUrl": "https://www.nhl.com/video/car-at-nyr-recap-6408742154112",
+   "videoId": "",
+   "details": {
+    "goalies": "Brandon Bussi (CAR) 25 torjuntaa · Dylan Garand (NYR) 36 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "E. Robinson",
+      "team": "CAR",
+      "pos": "L",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "J. Blake",
+      "team": "CAR",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "J. Miller",
+      "team": "NYR",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Madison Square Garden",
+    "finStats": [
+     {
+      "name": "Sebastian Aho",
+      "team": "CAR",
+      "opp": "NYR",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 1,
+      "toi": "17:05"
+     },
+     {
+      "name": "J. Kotkaniemi",
+      "team": "CAR",
+      "opp": "NYR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 0,
+      "toi": "10:07"
+     },
+     {
+      "name": "E. Tolvanen",
+      "team": "NYR",
+      "opp": "CAR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -3,
+      "sog": 0,
+      "toi": "13:18"
+     }
+    ]
+   }
+  }
+ }
+}
