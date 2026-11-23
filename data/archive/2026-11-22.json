@@ -985,6 +985,260 @@
      }
     ]
    }
+  },
+  "2026020377": {
+   "id": 2026020377,
+   "away": "CHI",
+   "home": "VAN",
+   "awayScore": 6,
+   "homeScore": 3,
+   "start": "2026-11-23T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "00:35",
+     "team": "CHI",
+     "who": "Frank Nazar",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408748178112",
+     "gtd": 12
+    },
+    {
+     "p": "1",
+     "t": "02:48",
+     "team": "CHI",
+     "who": "Tyler Bertuzzi",
+     "tag": "YV",
+     "ast": [
+      "R. Kantserov",
+      "P. Kane"
+     ],
+     "fin": false,
+     "clip": "6408748290112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "11:30",
+     "team": "CHI",
+     "who": "Roman Kantserov",
+     "tag": "YV",
+     "ast": [
+      "T. Bertuzzi",
+      "F. Nazar"
+     ],
+     "fin": false,
+     "clip": "6408748507112",
+     "gtd": 11
+    },
+    {
+     "p": "1",
+     "t": "12:44",
+     "team": "CHI",
+     "who": "Dominic Toninato",
+     "tag": "",
+     "ast": [
+      "J. Greenway",
+      "C. Smith"
+     ],
+     "fin": false,
+     "clip": "6408749182112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "13:27",
+     "team": "VAN",
+     "who": "Zeev Buium",
+     "tag": "",
+     "ast": [
+      "A. Bains",
+      "J. Quillan"
+     ],
+     "fin": false,
+     "clip": "6408748815112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "06:39",
+     "team": "VAN",
+     "who": "Filip Chytil",
+     "tag": "",
+     "ast": [
+      "P. Cotter"
+     ],
+     "fin": false,
+     "clip": "6408748850112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "12:56",
+     "team": "CHI",
+     "who": "Roman Kantserov",
+     "tag": "",
+     "ast": [
+      "A. Vlasic",
+      "R. Donato"
+     ],
+     "fin": false,
+     "clip": "6408750228112",
+     "gtd": 12
+    },
+    {
+     "p": "2",
+     "t": "16:56",
+     "team": "VAN",
+     "who": "Jake DeBrusk",
+     "tag": "",
+     "ast": [
+      "B. Boeser",
+      "F. Hronek"
+     ],
+     "fin": false,
+     "clip": "6408749455112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "11:07",
+     "team": "CHI",
+     "who": "Roman Kantserov",
+     "tag": "YV",
+     "ast": [
+      "T. Bertuzzi",
+      "P. Kane"
+     ],
+     "fin": false,
+     "clip": "6408750134112",
+     "gtd": 13
+    }
+   ],
+   "goalies": "D. Commesso (CHI) 22 torjuntaa · Nikita Tolopilo (VAN) 7 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "R. Kantserov",
+     "team": "CHI",
+     "pos": "R",
+     "goals": 3,
+     "assists": 1,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "T. Bertuzzi",
+     "team": "CHI",
+     "pos": "L",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "F. Nazar",
+     "team": "CHI",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Rogers Arena",
+   "finStats": [
+    {
+     "name": "T. Teräväinen",
+     "team": "CHI",
+     "opp": "VAN",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 2,
+     "toi": "16:35"
+    },
+    {
+     "name": "Kevin Lankinen",
+     "team": "VAN",
+     "opp": "CHI",
+     "pos": "MV",
+     "saves": 17,
+     "shots": 19,
+     "dec": "",
+     "toi": "46:48"
+    }
+   ],
+   "note": "Roman Kantserov hattutemppu",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "D. Commesso (CHI) 22 torjuntaa · Nikita Tolopilo (VAN) 7 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "R. Kantserov",
+      "team": "CHI",
+      "pos": "R",
+      "goals": 3,
+      "assists": 1,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "T. Bertuzzi",
+      "team": "CHI",
+      "pos": "L",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "F. Nazar",
+      "team": "CHI",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Rogers Arena",
+    "finStats": [
+     {
+      "name": "T. Teräväinen",
+      "team": "CHI",
+      "opp": "VAN",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 2,
+      "toi": "16:35"
+     },
+     {
+      "name": "Kevin Lankinen",
+      "team": "VAN",
+      "opp": "CHI",
+      "pos": "MV",
+      "saves": 17,
+      "shots": 19,
+      "dec": "",
+      "toi": "46:48"
+     }
+    ]
+   }
   }
  }
 }
