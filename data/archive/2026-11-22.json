@@ -470,6 +470,276 @@
      }
     ]
    }
+  },
+  "2026020376": {
+   "id": 2026020376,
+   "away": "PIT",
+   "home": "DAL",
+   "awayScore": 0,
+   "homeScore": 1,
+   "start": "2026-11-23T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "12:44",
+     "team": "DAL",
+     "who": "Joel Kiviranta",
+     "tag": "",
+     "ast": [
+      "W. Johnston",
+      "M. Rantanen"
+     ],
+     "fin": true,
+     "clip": "6408746935112",
+     "gtd": 3
+    }
+   ],
+   "goalies": "Arturs Silovs (PIT) 22 torjuntaa · Jake Oettinger (DAL) 33 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Jake Oettinger",
+     "team": "DAL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 1.0
+    },
+    {
+     "star": 2,
+     "name": "J. Kiviranta",
+     "team": "DAL",
+     "pos": "L",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Arturs Silovs",
+     "team": "PIT",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.957
+    }
+   ],
+   "venue": "American Airlines Center",
+   "finStats": [
+    {
+     "name": "V. Koivunen",
+     "team": "PIT",
+     "opp": "DAL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 2,
+     "toi": "15:40"
+    },
+    {
+     "name": "J. Kiviranta",
+     "team": "DAL",
+     "opp": "PIT",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 1,
+     "sog": 1,
+     "toi": "12:07"
+    },
+    {
+     "name": "R. Hintz",
+     "team": "DAL",
+     "opp": "PIT",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 3,
+     "toi": "15:50"
+    },
+    {
+     "name": "A. Hyry",
+     "team": "DAL",
+     "opp": "PIT",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 3,
+     "toi": "15:42"
+    },
+    {
+     "name": "M. Rantanen",
+     "team": "DAL",
+     "opp": "PIT",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 1,
+     "toi": "21:05"
+    },
+    {
+     "name": "M. Heiskanen",
+     "team": "DAL",
+     "opp": "PIT",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 2,
+     "toi": "26:13"
+    },
+    {
+     "name": "Esa Lindell",
+     "team": "DAL",
+     "opp": "PIT",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "24:26"
+    }
+   ],
+   "note": "Suomalaiset: Kiviranta 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Arturs Silovs (PIT) 22 torjuntaa · Jake Oettinger (DAL) 33 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Jake Oettinger",
+      "team": "DAL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 1.0
+     },
+     {
+      "star": 2,
+      "name": "J. Kiviranta",
+      "team": "DAL",
+      "pos": "L",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Arturs Silovs",
+      "team": "PIT",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.957
+     }
+    ],
+    "venue": "American Airlines Center",
+    "finStats": [
+     {
+      "name": "V. Koivunen",
+      "team": "PIT",
+      "opp": "DAL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 2,
+      "toi": "15:40"
+     },
+     {
+      "name": "J. Kiviranta",
+      "team": "DAL",
+      "opp": "PIT",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 1,
+      "sog": 1,
+      "toi": "12:07"
+     },
+     {
+      "name": "R. Hintz",
+      "team": "DAL",
+      "opp": "PIT",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 3,
+      "toi": "15:50"
+     },
+     {
+      "name": "A. Hyry",
+      "team": "DAL",
+      "opp": "PIT",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 3,
+      "toi": "15:42"
+     },
+     {
+      "name": "M. Rantanen",
+      "team": "DAL",
+      "opp": "PIT",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 1,
+      "toi": "21:05"
+     },
+     {
+      "name": "M. Heiskanen",
+      "team": "DAL",
+      "opp": "PIT",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 2,
+      "toi": "26:13"
+     },
+     {
+      "name": "Esa Lindell",
+      "team": "DAL",
+      "opp": "PIT",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "24:26"
+     }
+    ]
+   }
   }
  }
 }
