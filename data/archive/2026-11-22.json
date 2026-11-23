@@ -740,6 +740,251 @@
      }
     ]
    }
+  },
+  "2026020375": {
+   "id": 2026020375,
+   "away": "EDM",
+   "home": "STL",
+   "awayScore": 4,
+   "homeScore": 5,
+   "start": "2026-11-23T00:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "05:56",
+     "team": "EDM",
+     "who": "Kasperi Kapanen",
+     "tag": "",
+     "ast": [
+      "C. Murphy",
+      "C. McDavid"
+     ],
+     "fin": true,
+     "clip": "6408746785112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "09:15",
+     "team": "EDM",
+     "who": "Leon Draisaitl",
+     "tag": "",
+     "ast": [
+      "V. Podkolzin",
+      "M. Joseph"
+     ],
+     "fin": false,
+     "clip": "6408748084112",
+     "gtd": 23
+    },
+    {
+     "p": "2",
+     "t": "17:44",
+     "team": "STL",
+     "who": "Dalibor Dvorsky",
+     "tag": "",
+     "ast": [
+      "M. McTavish"
+     ],
+     "fin": false,
+     "clip": "6408747613112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "18:29",
+     "team": "EDM",
+     "who": "Filip Hallander",
+     "tag": "",
+     "ast": [
+      "K. Kapanen",
+      "E. Bouchard"
+     ],
+     "fin": false,
+     "clip": "6408748490112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "04:40",
+     "team": "EDM",
+     "who": "Colton Dach",
+     "tag": "",
+     "ast": [
+      "J. Dickinson"
+     ],
+     "fin": false,
+     "clip": "6408749396112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "10:27",
+     "team": "STL",
+     "who": "Philip Broberg",
+     "tag": "",
+     "ast": [
+      "L. Mailloux",
+      "J. Snuggerud"
+     ],
+     "fin": false,
+     "clip": "6408749005112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "15:12",
+     "team": "STL",
+     "who": "Pavel Butšnevitš",
+     "tag": "",
+     "ast": [
+      "J. Berggren"
+     ],
+     "fin": false,
+     "clip": "6408749130112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "15:38",
+     "team": "STL",
+     "who": "Jimmy Snuggerud",
+     "tag": "",
+     "ast": [
+      "J. Barron",
+      "R. Thomas"
+     ],
+     "fin": false,
+     "clip": "6408749631112",
+     "gtd": 14
+    }
+   ],
+   "goalies": "Tristan Jarry (EDM) 23 torjuntaa · Joel Hofer (STL) 26 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "J. Snuggerud",
+     "team": "STL",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "P. Broberg",
+     "team": "STL",
+     "pos": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "M. McTavish",
+     "team": "STL",
+     "pos": "C",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Enterprise Center",
+   "finStats": [
+    {
+     "name": "K. Kapanen",
+     "team": "EDM",
+     "opp": "STL",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 0,
+     "sog": 1,
+     "toi": "22:16"
+    },
+    {
+     "name": "A. Kaskimäki",
+     "team": "STL",
+     "opp": "EDM",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 4,
+     "toi": "13:35"
+    }
+   ],
+   "note": "Suomalaiset: Kapanen 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Tristan Jarry (EDM) 23 torjuntaa · Joel Hofer (STL) 26 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "J. Snuggerud",
+      "team": "STL",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "P. Broberg",
+      "team": "STL",
+      "pos": "D",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "M. McTavish",
+      "team": "STL",
+      "pos": "C",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Enterprise Center",
+    "finStats": [
+     {
+      "name": "K. Kapanen",
+      "team": "EDM",
+      "opp": "STL",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 0,
+      "sog": 1,
+      "toi": "22:16"
+     },
+     {
+      "name": "A. Kaskimäki",
+      "team": "STL",
+      "opp": "EDM",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 4,
+      "toi": "13:35"
+     }
+    ]
+   }
   }
  }
 }
