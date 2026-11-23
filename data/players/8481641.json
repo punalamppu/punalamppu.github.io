@@ -25,35 +25,35 @@
   "regularSeason": {
    "subSeason": {
     "assists": 1,
-    "gameWinningGoals": 0,
-    "gamesPlayed": 16,
-    "goals": 2,
+    "gameWinningGoals": 1,
+    "gamesPlayed": 17,
+    "goals": 3,
     "otGoals": 0,
     "pim": 0,
-    "plusMinus": 1,
-    "points": 3,
+    "plusMinus": 2,
+    "points": 4,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
-    "shootingPctg": 0.125,
+    "shootingPctg": 0.176471,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 16
+    "shots": 17
    },
    "career": {
     "assists": 32,
-    "gameWinningGoals": 2,
-    "gamesPlayed": 365,
-    "goals": 40,
+    "gameWinningGoals": 3,
+    "gamesPlayed": 366,
+    "goals": 41,
     "otGoals": 0,
     "pim": 100,
-    "plusMinus": 9,
-    "points": 72,
+    "plusMinus": 10,
+    "points": 73,
     "powerPlayGoals": 1,
     "powerPlayPoints": 1,
-    "shootingPctg": 0.1036,
+    "shootingPctg": 0.1059,
     "shorthandedGoals": 2,
     "shorthandedPoints": 2,
-    "shots": 386
+    "shots": 387
    }
   }
  },
@@ -61,20 +61,20 @@
   "regularSeason": {
    "assists": 32,
    "avgToi": "11:10",
-   "faceoffWinningPctg": 0.3789,
-   "gameWinningGoals": 2,
-   "gamesPlayed": 365,
-   "goals": 40,
+   "faceoffWinningPctg": 0.375,
+   "gameWinningGoals": 3,
+   "gamesPlayed": 366,
+   "goals": 41,
    "otGoals": 0,
    "pim": 100,
-   "plusMinus": 9,
-   "points": 72,
+   "plusMinus": 10,
+   "points": 73,
    "powerPlayGoals": 1,
    "powerPlayPoints": 1,
-   "shootingPctg": 0.1036,
+   "shootingPctg": 0.1059,
    "shorthandedGoals": 2,
    "shorthandedPoints": 2,
-   "shots": 386
+   "shots": 387
   },
   "playoffs": {
    "assists": 7,
@@ -96,6 +96,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-22",
+   "gameId": 2026020376,
+   "gameTypeId": 2,
+   "goals": 1,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "PIT",
+   "pim": 0,
+   "plusMinus": 1,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 15,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "DAL",
+   "toi": "12:07"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-19",
@@ -167,24 +185,6 @@
    "shots": 1,
    "teamAbbrev": "DAL",
    "toi": "12:16"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-05",
-   "gameId": 2026020258,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "CBJ",
-   "pim": 0,
-   "plusMinus": 0,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 17,
-   "shorthandedGoals": 0,
-   "shots": 0,
-   "teamAbbrev": "DAL",
-   "toi": "12:28"
   }
  ],
  "isActive": true,
@@ -620,25 +620,25 @@
   },
   {
    "assists": 1,
-   "avgToi": "11:38",
-   "faceoffWinningPctg": 0.3,
+   "avgToi": "11:40",
+   "faceoffWinningPctg": 0.272727,
    "gameTypeId": 2,
-   "gameWinningGoals": 0,
-   "gamesPlayed": 16,
-   "goals": 2,
+   "gameWinningGoals": 1,
+   "gamesPlayed": 17,
+   "goals": 3,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 0,
-   "plusMinus": 1,
-   "points": 3,
+   "plusMinus": 2,
+   "points": 4,
    "powerPlayGoals": 0,
    "powerPlayPoints": 0,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.125,
+   "shootingPctg": 0.176471,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 16,
+   "shots": 17,
    "teamCommonName": {
     "default": "Stars"
    },
@@ -844,7 +844,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-23",
+ "_fetched": "2026-11-24",
  "gameLog": [
   [
    "2026-10-02",

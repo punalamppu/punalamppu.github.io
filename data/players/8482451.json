@@ -1,0 +1,500 @@
+{
+ "playerId": 8482451,
+ "firstName": {
+  "default": "Mikael"
+ },
+ "lastName": {
+  "default": "Pyyhtia",
+  "cs": "Pyyhtiä",
+  "fi": "Pyyhtiä",
+  "sk": "Pyyhtiä",
+  "sv": "Pyyhtiä"
+ },
+ "currentTeamAbbrev": "CBJ",
+ "position": "L",
+ "sweaterNumber": 82,
+ "birthDate": "2001-12-17",
+ "birthCity": {
+  "default": "Turku",
+  "sv": "Åbo"
+ },
+ "birthStateProvince": null,
+ "birthCountry": "FIN",
+ "heightInCentimeters": 183,
+ "weightInKilograms": 80,
+ "shootsCatches": "L",
+ "draftDetails": {
+  "year": 2020,
+  "teamAbbrev": "CBJ",
+  "round": 4,
+  "pickInRound": 21,
+  "overallPick": 114
+ },
+ "featuredStats": {
+  "season": 20252026,
+  "regularSeason": {
+   "subSeason": {
+    "assists": 0,
+    "gameWinningGoals": 0,
+    "gamesPlayed": 5,
+    "goals": 1,
+    "otGoals": 0,
+    "pim": 0,
+    "plusMinus": -1,
+    "points": 1,
+    "powerPlayGoals": 0,
+    "powerPlayPoints": 0,
+    "shootingPctg": 0.166667,
+    "shorthandedGoals": 0,
+    "shorthandedPoints": 0,
+    "shots": 6
+   },
+   "career": {
+    "assists": 6,
+    "gameWinningGoals": 0,
+    "gamesPlayed": 71,
+    "goals": 5,
+    "otGoals": 0,
+    "pim": 8,
+    "plusMinus": -19,
+    "points": 11,
+    "powerPlayGoals": 0,
+    "powerPlayPoints": 1,
+    "shootingPctg": 0.0806,
+    "shorthandedGoals": 1,
+    "shorthandedPoints": 1,
+    "shots": 62
+   }
+  }
+ },
+ "careerTotals": {
+  "regularSeason": {
+   "assists": 6,
+   "avgToi": "12:16",
+   "faceoffWinningPctg": 0.4285,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 71,
+   "goals": 5,
+   "otGoals": 0,
+   "pim": 8,
+   "plusMinus": -19,
+   "points": 11,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 1,
+   "shootingPctg": 0.0806,
+   "shorthandedGoals": 1,
+   "shorthandedPoints": 1,
+   "shots": 62
+  }
+ },
+ "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-01-15",
+   "gameId": 2025020743,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "VAN",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 13,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "CBJ",
+   "toi": "10:55"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-01-13",
+   "gameId": 2025020728,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "CGY",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 11,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "CBJ",
+   "toi": "7:23"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-01-11",
+   "gameId": 2025020714,
+   "gameTypeId": 2,
+   "goals": 1,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "UTA",
+   "pim": 0,
+   "plusMinus": 1,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 17,
+   "shorthandedGoals": 0,
+   "shots": 3,
+   "teamAbbrev": "CBJ",
+   "toi": "11:54"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-01-10",
+   "gameId": 2025020699,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "COL",
+   "pim": 0,
+   "plusMinus": -2,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 15,
+   "shorthandedGoals": 0,
+   "shots": 2,
+   "teamAbbrev": "CBJ",
+   "toi": "11:39"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-01-08",
+   "gameId": 2025020692,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "VGK",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 12,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "CBJ",
+   "toi": "9:27"
+  }
+ ],
+ "isActive": true,
+ "seasonTotals": [
+  {
+   "assists": 1,
+   "avgToi": "13:32",
+   "faceoffWinningPctg": 0.0,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 2,
+   "goals": 0,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 2,
+   "plusMinus": -2,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 1,
+   "season": 20222023,
+   "sequence": 1,
+   "shootingPctg": 0.0,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 2,
+   "teamCommonName": {
+    "default": "Blue Jackets"
+   },
+   "teamName": {
+    "default": "Columbus Blue Jackets",
+    "fr": "Blue Jackets de Columbus"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Columbus",
+    "fr": "de Columbus"
+   }
+  },
+  {
+   "assists": 2,
+   "avgToi": "13:09",
+   "faceoffWinningPctg": 0.25,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 17,
+   "goals": 0,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 0,
+   "plusMinus": -5,
+   "points": 2,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20232024,
+   "sequence": 1,
+   "shootingPctg": 0.0,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 22,
+   "teamCommonName": {
+    "default": "Blue Jackets"
+   },
+   "teamName": {
+    "default": "Columbus Blue Jackets",
+    "fr": "Blue Jackets de Columbus"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Columbus",
+    "fr": "de Columbus"
+   }
+  },
+  {
+   "assists": 3,
+   "avgToi": "12:06",
+   "faceoffWinningPctg": 0.666667,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 47,
+   "goals": 4,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 6,
+   "plusMinus": -11,
+   "points": 7,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20242025,
+   "sequence": 1,
+   "shootingPctg": 0.125,
+   "shorthandedGoals": 1,
+   "shorthandedPoints": 1,
+   "shots": 32,
+   "teamCommonName": {
+    "default": "Blue Jackets"
+   },
+   "teamName": {
+    "default": "Columbus Blue Jackets",
+    "fr": "Blue Jackets de Columbus"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Columbus",
+    "fr": "de Columbus"
+   }
+  },
+  {
+   "assists": 0,
+   "avgToi": "10:16",
+   "faceoffWinningPctg": 0.0,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 5,
+   "goals": 1,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20252026,
+   "sequence": 1,
+   "shootingPctg": 0.166667,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 6,
+   "teamCommonName": {
+    "default": "Blue Jackets"
+   },
+   "teamName": {
+    "default": "Columbus Blue Jackets",
+    "fr": "Blue Jackets de Columbus"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Columbus",
+    "fr": "de Columbus"
+   }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20162017,
+   "lg": "U16 SM-sarja",
+   "team": "TPS U16",
+   "gp": 16,
+   "g": 7,
+   "a": 7,
+   "p": 14,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U18 SM-sarja",
+   "team": "TPS U18",
+   "gp": 42,
+   "g": 3,
+   "a": 16,
+   "p": 19,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "U18 SM-sarja",
+   "team": "TPS U18",
+   "gp": 19,
+   "g": 6,
+   "a": 13,
+   "p": 19,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "U20 SM-liiga",
+   "team": "TPS U20",
+   "gp": 30,
+   "g": 7,
+   "a": 9,
+   "p": 16,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 2,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U20 SM-liiga",
+   "team": "TPS U20",
+   "gp": 42,
+   "g": 11,
+   "a": 30,
+   "p": 41,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "Spengler Cup",
+   "team": "TPS",
+   "gp": 3,
+   "g": 0,
+   "a": 0,
+   "p": 0,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 35,
+   "g": 3,
+   "a": 4,
+   "p": 7,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "U20 SM-sarja",
+   "team": "TPS U20",
+   "gp": 16,
+   "g": 9,
+   "a": 10,
+   "p": 19,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 56,
+   "g": 21,
+   "a": 14,
+   "p": 35,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Champions HL",
+   "team": "TPS",
+   "gp": 5,
+   "g": 1,
+   "a": 0,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 47,
+   "g": 7,
+   "a": 13,
+   "p": 20,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "Champions HL",
+   "team": "TPS",
+   "gp": 6,
+   "g": 2,
+   "a": 2,
+   "p": 4,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "AHL",
+   "team": "Cleveland Monsters",
+   "gp": 7,
+   "g": 3,
+   "a": 0,
+   "p": 3,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "AHL",
+   "team": "Cleveland Monsters",
+   "gp": 60,
+   "g": 7,
+   "a": 21,
+   "p": 28,
+   "sv": null
+  },
+  {
+   "s": 20242025,
+   "lg": "AHL",
+   "team": "Cleveland Monsters",
+   "gp": 28,
+   "g": 3,
+   "a": 13,
+   "p": 16,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Cleveland Monsters",
+   "gp": 59,
+   "g": 21,
+   "a": 28,
+   "p": 49,
+   "sv": null
+  },
+  {
+   "s": 20262027,
+   "lg": "AHL",
+   "team": "Cleveland Monsters",
+   "gp": 14,
+   "g": 3,
+   "a": 6,
+   "p": 9,
+   "sv": null
+  }
+ ],
+ "_fetched": "2026-11-24"
+}
