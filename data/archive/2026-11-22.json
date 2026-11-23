@@ -255,6 +255,221 @@
      }
     ]
    }
+  },
+  "2026020374": {
+   "id": 2026020374,
+   "away": "BUF",
+   "home": "TBL",
+   "awayScore": 6,
+   "homeScore": 2,
+   "start": "2026-11-22T22:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "03:35",
+     "team": "BUF",
+     "who": "Jiri Kulich",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408743676112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "12:21",
+     "team": "TBL",
+     "who": "Nikita Kutšerov",
+     "tag": "YV",
+     "ast": [
+      "J. Guentzel",
+      "J. Carlson"
+     ],
+     "fin": false,
+     "clip": "6408744061112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "01:22",
+     "team": "BUF",
+     "who": "Jack Quinn",
+     "tag": "",
+     "ast": [
+      "N. Ostlund",
+      "C. Timmins"
+     ],
+     "fin": false,
+     "clip": "6408745653112",
+     "gtd": 13
+    },
+    {
+     "p": "2",
+     "t": "11:05",
+     "team": "BUF",
+     "who": "Tage Thompson",
+     "tag": "YV",
+     "ast": [
+      "Zach Benson",
+      "R. Dahlin"
+     ],
+     "fin": false,
+     "clip": "6408746154112",
+     "gtd": 16
+    },
+    {
+     "p": "2",
+     "t": "16:17",
+     "team": "BUF",
+     "who": "Tage Thompson",
+     "tag": "",
+     "ast": [
+      "Zach Benson"
+     ],
+     "fin": false,
+     "clip": "6408746069112",
+     "gtd": 17
+    },
+    {
+     "p": "3",
+     "t": "05:50",
+     "team": "TBL",
+     "who": "Gage Goncalves",
+     "tag": "",
+     "ast": [
+      "Y. Gourde",
+      "Erik Cernak"
+     ],
+     "fin": false,
+     "clip": "6408747851112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "06:50",
+     "team": "BUF",
+     "who": "Noah Ostlund",
+     "tag": "",
+     "ast": [
+      "Peyton Krebs",
+      "O. Power"
+     ],
+     "fin": false,
+     "clip": "6408746687112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "18:53",
+     "team": "BUF",
+     "who": "Zach Benson",
+     "tag": "TM",
+     "ast": [
+      "J.Kulich"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Ukko-Pekka Luukkonen (BUF) 29 torjuntaa · Dennis Hildeby (TBL) 22 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "T. Thompson",
+     "team": "BUF",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "N. Ostlund",
+     "team": "BUF",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "J. Quinn",
+     "team": "BUF",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Benchmark International Arena",
+   "finStats": [
+    {
+     "name": "Ukko-Pekka Luukkonen",
+     "team": "BUF",
+     "opp": "TBL",
+     "pos": "MV",
+     "saves": 29,
+     "shots": 31,
+     "dec": "W",
+     "toi": "60:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Ukko-Pekka Luukkonen (BUF) 29 torjuntaa · Dennis Hildeby (TBL) 22 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "T. Thompson",
+      "team": "BUF",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "N. Ostlund",
+      "team": "BUF",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "J. Quinn",
+      "team": "BUF",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Benchmark International Arena",
+    "finStats": [
+     {
+      "name": "Ukko-Pekka Luukkonen",
+      "team": "BUF",
+      "opp": "TBL",
+      "pos": "MV",
+      "saves": 29,
+      "shots": 31,
+      "dec": "W",
+      "toi": "60:00"
+     }
+    ]
+   }
   }
  }
 }
