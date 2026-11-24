@@ -335,7 +335,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "https://www.nhl.com/video/tor-at-nyi-recap-6408794492112",
+   "recapUrl": "https://www.nhl.com/video/tor-at-nyi-recap-6408795853112",
    "videoId": "",
    "details": {
     "goalies": "Anthony Stolarz (TOR) 20 torjuntaa · Ilja Sorokin (NYI) 29 torjuntaa",
@@ -498,13 +498,341 @@
    "venue": "Canada Life Centre",
    "finStats": [],
    "note": "Gabriel Vilardi hattutemppu",
-   "recapUrl": "https://www.nhl.com/video/uta-at-wpg-recap-6408796534112",
+   "recapUrl": "https://www.nhl.com/video/uta-at-wpg-recap-6408795671112",
    "videoId": "",
    "details": {
     "goalies": "",
     "threeStars": [],
     "venue": "Canada Life Centre",
     "finStats": []
+   }
+  },
+  "2026020379": {
+   "id": 2026020379,
+   "away": "LAK",
+   "home": "MTL",
+   "awayScore": 2,
+   "homeScore": 1,
+   "start": "2026-11-24T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "14:43",
+     "team": "LAK",
+     "who": "Alex Laferriere",
+     "tag": "YV",
+     "ast": [
+      "Quinton Byfield",
+      "A. Panarin"
+     ],
+     "fin": false,
+     "clip": "6408792437112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "07:28",
+     "team": "MTL",
+     "who": "Alex Newhook",
+     "tag": "",
+     "ast": [
+      "A. Texier",
+      "D. Larkin"
+     ],
+     "fin": false,
+     "clip": "6408792573112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "14:57",
+     "team": "LAK",
+     "who": "Trevor Moore",
+     "tag": "",
+     "ast": [
+      "Erik Haula",
+      "J. Armia"
+     ],
+     "fin": false,
+     "clip": "6408794332112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "Darcy Kuemper (LAK) 29 torjuntaa · Jakub Dobes (MTL) 20 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Darcy Kuemper",
+     "team": "LAK",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.967
+    },
+    {
+     "star": 2,
+     "name": "A. Laferriere",
+     "team": "LAK",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "D. Larkin",
+     "team": "MTL",
+     "pos": "C",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Centre Bell",
+   "finStats": [
+    {
+     "name": "J. Armia",
+     "team": "LAK",
+     "opp": "MTL",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 0,
+     "toi": "12:59"
+    },
+    {
+     "name": "Erik Haula",
+     "team": "LAK",
+     "opp": "MTL",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 0,
+     "toi": "15:54"
+    }
+   ],
+   "note": "Suomalaiset: Haula 0+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Darcy Kuemper (LAK) 29 torjuntaa · Jakub Dobes (MTL) 20 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Darcy Kuemper",
+      "team": "LAK",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.967
+     },
+     {
+      "star": 2,
+      "name": "A. Laferriere",
+      "team": "LAK",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "D. Larkin",
+      "team": "MTL",
+      "pos": "C",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Centre Bell",
+    "finStats": [
+     {
+      "name": "J. Armia",
+      "team": "LAK",
+      "opp": "MTL",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 0,
+      "toi": "12:59"
+     },
+     {
+      "name": "Erik Haula",
+      "team": "LAK",
+      "opp": "MTL",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 0,
+      "toi": "15:54"
+     }
+    ]
+   }
+  },
+  "2026020380": {
+   "id": 2026020380,
+   "away": "CGY",
+   "home": "OTT",
+   "awayScore": 1,
+   "homeScore": 2,
+   "start": "2026-11-24T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "12:16",
+     "team": "OTT",
+     "who": "Michael Amadio",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408792310112",
+     "gtd": 8
+    },
+    {
+     "p": "1",
+     "t": "17:37",
+     "team": "OTT",
+     "who": "Shane Pinto",
+     "tag": "",
+     "ast": [
+      "S. Halliday"
+     ],
+     "fin": false,
+     "clip": "6408791045112",
+     "gtd": 10
+    },
+    {
+     "p": "3",
+     "t": "15:40",
+     "team": "CGY",
+     "who": "Matt Coronato",
+     "tag": "YV",
+     "ast": [
+      "J. Farabee",
+      "S. Nemec"
+     ],
+     "fin": false,
+     "clip": "6408796635112",
+     "gtd": 6
+    }
+   ],
+   "goalies": "Devin Cooley (CGY) 29 torjuntaa · Linus Ullmark (OTT) 35 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Linus Ullmark",
+     "team": "OTT",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.972
+    },
+    {
+     "star": 2,
+     "name": "S. Pinto",
+     "team": "OTT",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Devin Cooley",
+     "team": "CGY",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.935
+    }
+   ],
+   "venue": "Canadian Tire Centre",
+   "finStats": [
+    {
+     "name": "N. Matinpalo",
+     "team": "OTT",
+     "opp": "CGY",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 0,
+     "toi": "14:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Devin Cooley (CGY) 29 torjuntaa · Linus Ullmark (OTT) 35 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Linus Ullmark",
+      "team": "OTT",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.972
+     },
+     {
+      "star": 2,
+      "name": "S. Pinto",
+      "team": "OTT",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Devin Cooley",
+      "team": "CGY",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.935
+     }
+    ],
+    "venue": "Canadian Tire Centre",
+    "finStats": [
+     {
+      "name": "N. Matinpalo",
+      "team": "OTT",
+      "opp": "CGY",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 0,
+      "toi": "14:00"
+     }
+    ]
    }
   }
  }
