@@ -834,6 +834,149 @@
      }
     ]
    }
+  },
+  "2026020383": {
+   "id": 2026020383,
+   "away": "ANA",
+   "home": "SEA",
+   "awayScore": 2,
+   "homeScore": 3,
+   "start": "2026-11-24T02:40:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "3",
+     "t": "02:51",
+     "team": "SEA",
+     "who": "Ben Meyers",
+     "tag": "",
+     "ast": [
+      "M. Wood"
+     ],
+     "fin": false,
+     "clip": "6408798593112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "04:06",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "",
+     "ast": [
+      "J. LaCombe",
+      "R. McQueen"
+     ],
+     "fin": false,
+     "clip": "6408798335112",
+     "gtd": 22
+    },
+    {
+     "p": "3",
+     "t": "10:06",
+     "team": "SEA",
+     "who": "Vince Dunn",
+     "tag": "",
+     "ast": [
+      "J. Eberle",
+      "B. McMann"
+     ],
+     "fin": false,
+     "clip": "6408799100112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "12:35",
+     "team": "ANA",
+     "who": "Sam Colangelo",
+     "tag": "",
+     "ast": [
+      "Frank Vatrano",
+      "S. Solberg"
+     ],
+     "fin": false,
+     "clip": "6408799405112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "17:35",
+     "team": "SEA",
+     "who": "Kaapo Kakko",
+     "tag": "",
+     "ast": [
+      "B. Montour",
+      "M. Samoskevich"
+     ],
+     "fin": true,
+     "clip": "6408800105112",
+     "gtd": 4
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Climate Pledge Arena",
+   "finStats": [
+    {
+     "name": "M. Granlund",
+     "team": "ANA",
+     "opp": "SEA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 4,
+     "toi": "21:12"
+    },
+    {
+     "name": "K. Kakko",
+     "team": "SEA",
+     "opp": "ANA",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 1,
+     "sog": 3,
+     "toi": "14:29"
+    }
+   ],
+   "note": "Suomalaiset: Kakko 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Climate Pledge Arena",
+    "finStats": [
+     {
+      "name": "M. Granlund",
+      "team": "ANA",
+      "opp": "SEA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 4,
+      "toi": "21:12"
+     },
+     {
+      "name": "K. Kakko",
+      "team": "SEA",
+      "opp": "ANA",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 1,
+      "sog": 3,
+      "toi": "14:29"
+     }
+    ]
+   }
   }
  }
 }
