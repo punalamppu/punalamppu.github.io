@@ -977,6 +977,189 @@
      }
     ]
    }
+  },
+  "2026020384": {
+   "id": 2026020384,
+   "away": "MIN",
+   "home": "SJS",
+   "awayScore": 5,
+   "homeScore": 2,
+   "start": "2026-11-24T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "07:37",
+     "team": "MIN",
+     "who": "Kirill Kaprizov",
+     "tag": "YV",
+     "ast": [
+      "M. Boldy",
+      "J. Eriksson Ek"
+     ],
+     "fin": false,
+     "clip": "6408795864112",
+     "gtd": 19
+    },
+    {
+     "p": "1",
+     "t": "10:47",
+     "team": "SJS",
+     "who": "Tyler Toffoli",
+     "tag": "YV",
+     "ast": [
+      "M. Marchment",
+      "Macklin Celebrini"
+     ],
+     "fin": false,
+     "clip": "6408797245112",
+     "gtd": 7
+    },
+    {
+     "p": "1",
+     "t": "17:29",
+     "team": "SJS",
+     "who": "Alexander Wennberg",
+     "tag": "",
+     "ast": [
+      "Macklin Celebrini",
+      "M. Misa"
+     ],
+     "fin": false,
+     "clip": "6408795979112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "19:18",
+     "team": "MIN",
+     "who": "Brock Faber",
+     "tag": "",
+     "ast": [
+      "K. Kaprizov",
+      "M. Boldy"
+     ],
+     "fin": false,
+     "clip": "6408797762112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "00:13",
+     "team": "MIN",
+     "who": "Joel Eriksson Ek",
+     "tag": "",
+     "ast": [
+      "K. Kaprizov",
+      "J. Spurgeon"
+     ],
+     "fin": false,
+     "clip": "6408797790112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "18:24",
+     "team": "MIN",
+     "who": "Blake Coleman",
+     "tag": "TM",
+     "ast": [
+      "M. Kiersted"
+     ],
+     "fin": false,
+     "clip": "6408800134112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "19:06",
+     "team": "MIN",
+     "who": "Joel Eriksson Ek",
+     "tag": "TM",
+     "ast": [
+      "M. Boldy",
+      "K. Kaprizov"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 10
+    }
+   ],
+   "goalies": "F. Gustavsson (MIN) 22 torjuntaa · Yaroslav Askarov (SJS) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "K. Kaprizov",
+     "team": "MIN",
+     "pos": "L",
+     "goals": 1,
+     "assists": 3,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Jakov Trenin",
+     "team": "MIN",
+     "pos": "C",
+     "goals": 0,
+     "assists": 0,
+     "points": 0,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Macklin Celebrini",
+     "team": "SJS",
+     "pos": "C",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "SAP Center at San Jose",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "F. Gustavsson (MIN) 22 torjuntaa · Yaroslav Askarov (SJS) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "K. Kaprizov",
+      "team": "MIN",
+      "pos": "L",
+      "goals": 1,
+      "assists": 3,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Jakov Trenin",
+      "team": "MIN",
+      "pos": "C",
+      "goals": 0,
+      "assists": 0,
+      "points": 0,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Macklin Celebrini",
+      "team": "SJS",
+      "pos": "C",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "SAP Center at San Jose",
+    "finStats": []
+   }
   }
  }
 }
