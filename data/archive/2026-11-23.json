@@ -1,0 +1,185 @@
+{
+ "gameDate": "2026-11-23",
+ "games": {
+  "2026020378": {
+   "id": 2026020378,
+   "away": "CBJ",
+   "home": "NJD",
+   "awayScore": 2,
+   "homeScore": 3,
+   "start": "2026-11-24T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "04:59",
+     "team": "NJD",
+     "who": "Timo Meier",
+     "tag": "",
+     "ast": [
+      "J. Hughes",
+      "C. Brown"
+     ],
+     "fin": false,
+     "clip": "6408787701112",
+     "gtd": 7
+    },
+    {
+     "p": "1",
+     "t": "08:12",
+     "team": "NJD",
+     "who": "Brenden Dillon",
+     "tag": "",
+     "ast": [
+      "A. Lombardi"
+     ],
+     "fin": false,
+     "clip": "6408788021112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "17:19",
+     "team": "CBJ",
+     "who": "Charlie Coyle",
+     "tag": "",
+     "ast": [
+      "Z. Werenski"
+     ],
+     "fin": false,
+     "clip": "6408790096112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "14:41",
+     "team": "NJD",
+     "who": "Connor Brown",
+     "tag": "",
+     "ast": [
+      "D. Hamilton",
+      "J. Siegenthaler"
+     ],
+     "fin": false,
+     "clip": "6408791356112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "19:46",
+     "team": "CBJ",
+     "who": "Mikael Pyyhtiä",
+     "tag": "AV",
+     "ast": [
+      "D. Severson",
+      "J. Williams"
+     ],
+     "fin": true,
+     "clip": "6408792556112",
+     "gtd": 1
+    }
+   ],
+   "goalies": "Cam Talbot (CBJ) 27 torjuntaa · Connor Hellebuyck (NJD) 19 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "C. Brown",
+     "team": "NJD",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "T. Meier",
+     "team": "NJD",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "B. Dillon",
+     "team": "NJD",
+     "pos": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Prudential Center",
+   "finStats": [
+    {
+     "name": "M. Pyyhtiä",
+     "team": "CBJ",
+     "opp": "NJD",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 0,
+     "sog": 2,
+     "toi": "08:38"
+    }
+   ],
+   "note": "Suomalaiset: Pyyhtiä 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Cam Talbot (CBJ) 27 torjuntaa · Connor Hellebuyck (NJD) 19 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "C. Brown",
+      "team": "NJD",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "T. Meier",
+      "team": "NJD",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "B. Dillon",
+      "team": "NJD",
+      "pos": "D",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Prudential Center",
+    "finStats": [
+     {
+      "name": "M. Pyyhtiä",
+      "team": "CBJ",
+      "opp": "NJD",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 0,
+      "sog": 2,
+      "toi": "08:38"
+     }
+    ]
+   }
+  }
+ }
+}
