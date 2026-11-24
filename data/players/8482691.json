@@ -32,7 +32,7 @@
    "subSeason": {
     "assists": 0,
     "gameWinningGoals": 0,
-    "gamesPlayed": 4,
+    "gamesPlayed": 5,
     "goals": 1,
     "otGoals": 0,
     "pim": 2,
@@ -40,15 +40,15 @@
     "points": 1,
     "powerPlayGoals": 0,
     "powerPlayPoints": 0,
-    "shootingPctg": 0.25,
+    "shootingPctg": 0.166667,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 4
+    "shots": 6
    },
    "career": {
     "assists": 15,
     "gameWinningGoals": 1,
-    "gamesPlayed": 118,
+    "gamesPlayed": 119,
     "goals": 14,
     "otGoals": 0,
     "pim": 42,
@@ -56,20 +56,20 @@
     "points": 29,
     "powerPlayGoals": 0,
     "powerPlayPoints": 1,
-    "shootingPctg": 0.1176,
+    "shootingPctg": 0.1157,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 119
+    "shots": 121
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
    "assists": 15,
-   "avgToi": "11:07",
-   "faceoffWinningPctg": 0.5909,
+   "avgToi": "11:09",
+   "faceoffWinningPctg": 0.5928,
    "gameWinningGoals": 1,
-   "gamesPlayed": 118,
+   "gamesPlayed": 119,
    "goals": 14,
    "otGoals": 0,
    "pim": 42,
@@ -77,13 +77,31 @@
    "points": 29,
    "powerPlayGoals": 0,
    "powerPlayPoints": 1,
-   "shootingPctg": 0.1176,
+   "shootingPctg": 0.1157,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 119
+   "shots": 121
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-23",
+   "gameId": 2026020381,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "NYI",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 19,
+   "shorthandedGoals": 0,
+   "shots": 2,
+   "teamAbbrev": "TOR",
+   "toi": "15:32"
+  },
   {
    "assists": 0,
    "gameDate": "2026-10-11",
@@ -323,6 +341,39 @@
     "default": "Vancouver",
     "fr": "de Vancouver"
    }
+  },
+  {
+   "assists": 0,
+   "avgToi": "15:32",
+   "faceoffWinningPctg": 0.769231,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 1,
+   "goals": 0,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20262027,
+   "sequence": 2,
+   "shootingPctg": 0.0,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 2,
+   "teamCommonName": {
+    "default": "Maple Leafs"
+   },
+   "teamName": {
+    "default": "Toronto Maple Leafs",
+    "fr": "Maple Leafs de Toronto"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Toronto",
+    "fr": "de Toronto"
+   }
   }
  ],
  "preNhl": [
@@ -507,7 +558,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-24",
+ "_fetched": "2026-11-25",
  "gameLog": [
   [
    "2026-10-03",
