@@ -249,9 +249,8 @@
  },
  {
   "date": "2026-11-24",
-  "total": 5,
+  "total": 0,
   "players": {
-   "Niko Mikkola": 5,
    "Mikael Granlund": 0,
    "Konsta Helenius": 0,
    "Sebastian Aho": 0,
@@ -260,6 +259,7 @@
    "Artturi Lehkonen": 0,
    "Roope Hintz": 0,
    "Mikko Rantanen": 0,
+   "Niko Mikkola": 0,
    "Kaapo Kakko": 0
   }
  }
