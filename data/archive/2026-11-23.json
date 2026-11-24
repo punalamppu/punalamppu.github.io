@@ -180,6 +180,332 @@
      }
     ]
    }
+  },
+  "2026020381": {
+   "id": 2026020381,
+   "away": "TOR",
+   "home": "NYI",
+   "awayScore": 4,
+   "homeScore": 2,
+   "start": "2026-11-24T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "03:12",
+     "team": "NYI",
+     "who": "Anthony Duclair",
+     "tag": "",
+     "ast": [
+      "M. Kessel",
+      "B. Hutton"
+     ],
+     "fin": false,
+     "clip": "6408791703112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "06:55",
+     "team": "NYI",
+     "who": "Mathew Barzal",
+     "tag": "",
+     "ast": [
+      "B. Schenn",
+      "M. Kessel"
+     ],
+     "fin": false,
+     "clip": "6408792724112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "10:14",
+     "team": "TOR",
+     "who": "Dakota Joshua",
+     "tag": "",
+     "ast": [
+      "J. McCabe",
+      "D. Raddysh"
+     ],
+     "fin": false,
+     "clip": "6408794418112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "03:52",
+     "team": "TOR",
+     "who": "Christopher Tanev",
+     "tag": "",
+     "ast": [
+      "A. Matthews",
+      "Nick Paul"
+     ],
+     "fin": false,
+     "clip": "6408795142112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "08:55",
+     "team": "TOR",
+     "who": "Gavin McKenna",
+     "tag": "",
+     "ast": [
+      "J. McCabe",
+      "D. Raddysh"
+     ],
+     "fin": false,
+     "clip": "6408793172112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "18:07",
+     "team": "TOR",
+     "who": "Easton Cowan",
+     "tag": "TM",
+     "ast": [
+      "Nick Paul"
+     ],
+     "fin": false,
+     "clip": "6408793884112",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Anthony Stolarz (TOR) 20 torjuntaa · Ilja Sorokin (NYI) 29 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "G. McKenna",
+     "team": "TOR",
+     "pos": "L",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "J. McCabe",
+     "team": "TOR",
+     "pos": "D",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "D. Raddysh",
+     "team": "TOR",
+     "pos": "D",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "UBS Arena",
+   "finStats": [
+    {
+     "name": "A. Räty",
+     "team": "TOR",
+     "opp": "NYI",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 2,
+     "toi": "15:32"
+    },
+    {
+     "name": "M. Maccelli",
+     "team": "NYI",
+     "opp": "TOR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 3,
+     "toi": "15:32"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Anthony Stolarz (TOR) 20 torjuntaa · Ilja Sorokin (NYI) 29 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "G. McKenna",
+      "team": "TOR",
+      "pos": "L",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "J. McCabe",
+      "team": "TOR",
+      "pos": "D",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "D. Raddysh",
+      "team": "TOR",
+      "pos": "D",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "UBS Arena",
+    "finStats": [
+     {
+      "name": "A. Räty",
+      "team": "TOR",
+      "opp": "NYI",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 2,
+      "toi": "15:32"
+     },
+     {
+      "name": "M. Maccelli",
+      "team": "NYI",
+      "opp": "TOR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 3,
+      "toi": "15:32"
+     }
+    ]
+   }
+  },
+  "2026020382": {
+   "id": 2026020382,
+   "away": "UTA",
+   "home": "WPG",
+   "awayScore": 2,
+   "homeScore": 4,
+   "start": "2026-11-24T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "05:11",
+     "team": "WPG",
+     "who": "Gabriel Vilardi",
+     "tag": "",
+     "ast": [
+      "K. Connor",
+      "J. Morrissey"
+     ],
+     "fin": false,
+     "clip": "6408791393112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "06:18",
+     "team": "UTA",
+     "who": "Andrew Peeke",
+     "tag": "",
+     "ast": [
+      "D. But",
+      "K. Stenlund"
+     ],
+     "fin": false,
+     "clip": "6408790713112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "07:26",
+     "team": "WPG",
+     "who": "Gabriel Vilardi",
+     "tag": "",
+     "ast": [
+      "K. Connor",
+      "D. Samberg"
+     ],
+     "fin": false,
+     "clip": "6408791798112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "10:22",
+     "team": "UTA",
+     "who": "Lawson Crouse",
+     "tag": "",
+     "ast": [
+      "V. Trocheck",
+      "L. Cooley"
+     ],
+     "fin": false,
+     "clip": "6408792307112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "14:00",
+     "team": "WPG",
+     "who": "Morgan Barron",
+     "tag": "",
+     "ast": [
+      "V. Björck",
+      "Mario Ferraro"
+     ],
+     "fin": false,
+     "clip": "6408792312112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "19:53",
+     "team": "WPG",
+     "who": "Gabriel Vilardi",
+     "tag": "TM",
+     "ast": [
+      "M. Scheifele"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 6
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Canada Life Centre",
+   "finStats": [],
+   "note": "Gabriel Vilardi hattutemppu",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Canada Life Centre",
+    "finStats": []
+   }
   }
  }
 }
