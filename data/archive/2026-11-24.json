@@ -1,0 +1,163 @@
+{
+ "gameDate": "2026-11-24",
+ "games": {
+  "2026020385": {
+   "id": 2026020385,
+   "away": "VGK",
+   "home": "EDM",
+   "awayScore": 5,
+   "homeScore": 3,
+   "start": "2026-11-25T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "06:13",
+     "team": "VGK",
+     "who": "Jack Eichel",
+     "tag": "YV",
+     "ast": [
+      "M. Marner",
+      "Victor Olofsson"
+     ],
+     "fin": false,
+     "clip": "6408849287112",
+     "gtd": 10
+    },
+    {
+     "p": "1",
+     "t": "09:07",
+     "team": "VGK",
+     "who": "Trevor Connelly",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408850179112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "03:03",
+     "team": "EDM",
+     "who": "Colton Dach",
+     "tag": "",
+     "ast": [
+      "E. Bouchard",
+      "M. Joseph"
+     ],
+     "fin": false,
+     "clip": "6408851594112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "19:41",
+     "team": "EDM",
+     "who": "Connor McDavid",
+     "tag": "",
+     "ast": [
+      "K. Kapanen",
+      "E. Bouchard"
+     ],
+     "fin": false,
+     "clip": "6408850544112",
+     "gtd": 14
+    },
+    {
+     "p": "3",
+     "t": "02:08",
+     "team": "VGK",
+     "who": "Nic Dowd",
+     "tag": "",
+     "ast": [
+      "Marc Gatcomb"
+     ],
+     "fin": false,
+     "clip": "6408852120112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "05:29",
+     "team": "VGK",
+     "who": "Jack Eichel",
+     "tag": "",
+     "ast": [
+      "T. Connelly",
+      "Shea Theodore"
+     ],
+     "fin": false,
+     "clip": "6408851824112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "05:45",
+     "team": "EDM",
+     "who": "Vasili Podkolzin",
+     "tag": "",
+     "ast": [
+      "C. Murphy",
+      "R. Shea"
+     ],
+     "fin": false,
+     "clip": "6408853596112",
+     "gtd": 14
+    },
+    {
+     "p": "3",
+     "t": "17:28",
+     "team": "VGK",
+     "who": "Trevor Connelly",
+     "tag": "TM",
+     "ast": [
+      "M. Marner",
+      "William Karlsson"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 9
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Rogers Place",
+   "finStats": [
+    {
+     "name": "K. Kapanen",
+     "team": "EDM",
+     "opp": "VGK",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 0,
+     "toi": "20:43"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Rogers Place",
+    "finStats": [
+     {
+      "name": "K. Kapanen",
+      "team": "EDM",
+      "opp": "VGK",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 0,
+      "toi": "20:43"
+     }
+    ]
+   }
+  }
+ }
+}
