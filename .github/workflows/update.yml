@@ -87,6 +87,23 @@ jobs:
           done
 
       - id: deploy
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      # GitHubin Pages-palvelussa on välillä lyhyitä häiriöitä ("No artifacts named github-pages",
+      # "Deployment failed, try again later"). Yritetään uudelleen kahdesti ennen kuin ajo merkitään epäonnistuneeksi.
+      - name: Odota ennen uutta julkaisuyritystä
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 60
+      - id: deploy2
+        if: steps.deploy.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - name: Odota ennen viimeistä julkaisuyritystä
+        if: steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        run: sleep 180
+      - id: deploy3
+        if: steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         uses: actions/deploy-pages@v4
 
       - name: Julkaise aamukatsaus someen (Bluesky, Telegram, Threads)
