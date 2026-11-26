@@ -1,0 +1,1719 @@
+{
+ "gameDate": "2026-11-25",
+ "games": {
+  "2026020386": {
+   "id": 2026020386,
+   "away": "WPG",
+   "home": "BOS",
+   "awayScore": 4,
+   "homeScore": 2,
+   "start": "2026-11-26T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "01:05",
+     "team": "WPG",
+     "who": "Kyle Connor",
+     "tag": "",
+     "ast": [
+      "M. Scheifele"
+     ],
+     "fin": false,
+     "clip": "6408893933112",
+     "gtd": 20
+    },
+    {
+     "p": "1",
+     "t": "06:11",
+     "team": "BOS",
+     "who": "Morgan Geekie",
+     "tag": "YV",
+     "ast": [
+      "D. Pastrnak",
+      "P. Zacha"
+     ],
+     "fin": false,
+     "clip": "6408892984112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "17:56",
+     "team": "WPG",
+     "who": "Josh Morrissey",
+     "tag": "",
+     "ast": [
+      "K. Connor"
+     ],
+     "fin": false,
+     "clip": "6408896253112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "10:57",
+     "team": "BOS",
+     "who": "Fraser Minten",
+     "tag": "",
+     "ast": [
+      "M. Lohrei",
+      "Hampus Lindholm"
+     ],
+     "fin": false,
+     "clip": "6408897594112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "17:53",
+     "team": "WPG",
+     "who": "Morgan Barron",
+     "tag": "",
+     "ast": [
+      "Mario Ferraro",
+      "D. Mercer"
+     ],
+     "fin": false,
+     "clip": "6408899566112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "18:48",
+     "team": "WPG",
+     "who": "Mark Scheifele",
+     "tag": "TM",
+     "ast": [
+      "K. Connor",
+      "D. Samberg"
+     ],
+     "fin": false,
+     "clip": "6408902384112",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Nico Daws (WPG) 21 torjuntaa · Jeremy Swayman (BOS) 14 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "K. Connor",
+     "team": "WPG",
+     "pos": "L",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Fraser Minten",
+     "team": "BOS",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "J. Morrissey",
+     "team": "WPG",
+     "pos": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "TD Garden",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/wpg-at-bos-recap-6408902506112",
+   "videoId": "",
+   "details": {
+    "goalies": "Nico Daws (WPG) 21 torjuntaa · Jeremy Swayman (BOS) 14 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "K. Connor",
+      "team": "WPG",
+      "pos": "L",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Fraser Minten",
+      "team": "BOS",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "J. Morrissey",
+      "team": "WPG",
+      "pos": "D",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "TD Garden",
+    "finStats": []
+   }
+  },
+  "2026020387": {
+   "id": 2026020387,
+   "away": "NYR",
+   "home": "BUF",
+   "awayScore": 1,
+   "homeScore": 5,
+   "start": "2026-11-26T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "00:17",
+     "team": "BUF",
+     "who": "Rasmus Dahlin",
+     "tag": "",
+     "ast": [
+      "J.Kulich",
+      "T. Thompson"
+     ],
+     "fin": false,
+     "clip": "6408894428112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "02:37",
+     "team": "BUF",
+     "who": "Josh Norris",
+     "tag": "",
+     "ast": [
+      "J. Doan",
+      "Jason Zucker"
+     ],
+     "fin": false,
+     "clip": "6408896963112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "03:10",
+     "team": "BUF",
+     "who": "Zach Benson",
+     "tag": "",
+     "ast": [
+      "R. Dahlin"
+     ],
+     "fin": false,
+     "clip": "6408896882112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "19:14",
+     "team": "NYR",
+     "who": "Vladislav Gavrikov",
+     "tag": "",
+     "ast": [
+      "A. Fox",
+      "T. Raddysh"
+     ],
+     "fin": false,
+     "clip": "6408899584112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "09:16",
+     "team": "BUF",
+     "who": "Jack Quinn",
+     "tag": "",
+     "ast": [
+      "Peyton Krebs",
+      "N. Ostlund"
+     ],
+     "fin": false,
+     "clip": "6408901281112",
+     "gtd": 14
+    },
+    {
+     "p": "3",
+     "t": "11:49",
+     "team": "BUF",
+     "who": "Jiri Kulich",
+     "tag": "",
+     "ast": [
+      "T. Thompson",
+      "Zach Benson"
+     ],
+     "fin": false,
+     "clip": "6408901007112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Joonas Korpisalo (NYR) 25 torjuntaa · Ukko-Pekka Luukkonen (BUF) 29 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "R. Dahlin",
+     "team": "BUF",
+     "pos": "D",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "J.Kulich",
+     "team": "BUF",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Ukko-Pekka Luukkonen",
+     "team": "BUF",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.967
+    }
+   ],
+   "venue": "KeyBank Center",
+   "finStats": [
+    {
+     "name": "E. Tolvanen",
+     "team": "NYR",
+     "opp": "BUF",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 2,
+     "toi": "13:44"
+    },
+    {
+     "name": "Joonas Korpisalo",
+     "team": "NYR",
+     "opp": "BUF",
+     "pos": "MV",
+     "saves": 25,
+     "shots": 30,
+     "dec": "L",
+     "toi": "59:55"
+    },
+    {
+     "name": "Ukko-Pekka Luukkonen",
+     "team": "BUF",
+     "opp": "NYR",
+     "pos": "MV",
+     "saves": 29,
+     "shots": 30,
+     "dec": "W",
+     "toi": "60:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/nyr-at-buf-recap-6408902231112",
+   "videoId": "",
+   "details": {
+    "goalies": "Joonas Korpisalo (NYR) 25 torjuntaa · Ukko-Pekka Luukkonen (BUF) 29 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "R. Dahlin",
+      "team": "BUF",
+      "pos": "D",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "J.Kulich",
+      "team": "BUF",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Ukko-Pekka Luukkonen",
+      "team": "BUF",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.967
+     }
+    ],
+    "venue": "KeyBank Center",
+    "finStats": [
+     {
+      "name": "E. Tolvanen",
+      "team": "NYR",
+      "opp": "BUF",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 2,
+      "toi": "13:44"
+     },
+     {
+      "name": "Joonas Korpisalo",
+      "team": "NYR",
+      "opp": "BUF",
+      "pos": "MV",
+      "saves": 25,
+      "shots": 30,
+      "dec": "L",
+      "toi": "59:55"
+     },
+     {
+      "name": "Ukko-Pekka Luukkonen",
+      "team": "BUF",
+      "opp": "NYR",
+      "pos": "MV",
+      "saves": 29,
+      "shots": 30,
+      "dec": "W",
+      "toi": "60:00"
+     }
+    ]
+   }
+  },
+  "2026020388": {
+   "id": 2026020388,
+   "away": "CAR",
+   "home": "TBL",
+   "awayScore": 3,
+   "homeScore": 1,
+   "start": "2026-11-26T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "00:55",
+     "team": "TBL",
+     "who": "Anthony Cirelli",
+     "tag": "YV",
+     "ast": [
+      "J. Guentzel",
+      "Nikita Kutšerov"
+     ],
+     "fin": false,
+     "clip": "6408897470112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "05:24",
+     "team": "CAR",
+     "who": "Eric Robinson",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408901068112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "07:01",
+     "team": "CAR",
+     "who": "Jaccob Slavin",
+     "tag": "",
+     "ast": [
+      "Sebastian Aho",
+      "S. Jarvis"
+     ],
+     "fin": false,
+     "clip": "6408899134112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "19:25",
+     "team": "CAR",
+     "who": "Jackson Blake",
+     "tag": "TM",
+     "ast": [
+      "J. Staal",
+      "J. Slavin"
+     ],
+     "fin": false,
+     "clip": "6408901214112",
+     "gtd": 8
+    }
+   ],
+   "goalies": "Brandon Bussi (CAR) 32 torjuntaa · Andrei Vasilevski (TBL) 27 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Brandon Bussi",
+     "team": "CAR",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.97
+    },
+    {
+     "star": 2,
+     "name": "Andrei Vasilevski",
+     "team": "TBL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.931
+    },
+    {
+     "star": 3,
+     "name": "J. Slavin",
+     "team": "CAR",
+     "pos": "D",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Benchmark International Arena",
+   "finStats": [
+    {
+     "name": "Sebastian Aho",
+     "team": "CAR",
+     "opp": "TBL",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 2,
+     "toi": "19:21"
+    },
+    {
+     "name": "J. Kotkaniemi",
+     "team": "CAR",
+     "opp": "TBL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 1,
+     "sog": 0,
+     "toi": "09:51"
+    },
+    {
+     "name": "J. Välimäki",
+     "team": "CAR",
+     "opp": "TBL",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "21:53"
+    }
+   ],
+   "note": "Suomalaiset: Aho 0+1",
+   "recapUrl": "https://www.nhl.com/video/car-at-tbl-recap-6408901146112",
+   "videoId": "",
+   "details": {
+    "goalies": "Brandon Bussi (CAR) 32 torjuntaa · Andrei Vasilevski (TBL) 27 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Brandon Bussi",
+      "team": "CAR",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.97
+     },
+     {
+      "star": 2,
+      "name": "Andrei Vasilevski",
+      "team": "TBL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.931
+     },
+     {
+      "star": 3,
+      "name": "J. Slavin",
+      "team": "CAR",
+      "pos": "D",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Benchmark International Arena",
+    "finStats": [
+     {
+      "name": "Sebastian Aho",
+      "team": "CAR",
+      "opp": "TBL",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 2,
+      "toi": "19:21"
+     },
+     {
+      "name": "J. Kotkaniemi",
+      "team": "CAR",
+      "opp": "TBL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 1,
+      "sog": 0,
+      "toi": "09:51"
+     },
+     {
+      "name": "J. Välimäki",
+      "team": "CAR",
+      "opp": "TBL",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "21:53"
+     }
+    ]
+   }
+  },
+  "2026020389": {
+   "id": 2026020389,
+   "away": "OTT",
+   "home": "FLA",
+   "awayScore": 3,
+   "homeScore": 5,
+   "start": "2026-11-26T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "16:16",
+     "team": "FLA",
+     "who": "Eetu Luostarinen",
+     "tag": "",
+     "ast": [
+      "Brad Marchand",
+      "Niko Mikkola"
+     ],
+     "fin": true,
+     "clip": "6408894690112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "01:12",
+     "team": "OTT",
+     "who": "Dylan Cozens",
+     "tag": "",
+     "ast": [
+      "A. Zub",
+      "J. Sanderson"
+     ],
+     "fin": false,
+     "clip": "6408897371112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "01:53",
+     "team": "OTT",
+     "who": "Philip Tomasino",
+     "tag": "",
+     "ast": [
+      "A. Zub",
+      "J. Sanderson"
+     ],
+     "fin": false,
+     "clip": "6408896797112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "08:52",
+     "team": "FLA",
+     "who": "Niko Mikkola",
+     "tag": "",
+     "ast": [
+      "M. Tkachuk",
+      "Seth Jones"
+     ],
+     "fin": true,
+     "clip": "6408898262112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "18:55",
+     "team": "FLA",
+     "who": "Anton Lundell",
+     "tag": "",
+     "ast": [
+      "Brad Marchand",
+      "D. Kulikov"
+     ],
+     "fin": true,
+     "clip": "6408899693112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "09:17",
+     "team": "FLA",
+     "who": "Sam Bennett",
+     "tag": "YV",
+     "ast": [
+      "A. Lundell",
+      "Brad Marchand"
+     ],
+     "fin": false,
+     "clip": "6408901402112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "16:08",
+     "team": "FLA",
+     "who": "Aleksander Barkov",
+     "tag": "TM",
+     "ast": [
+      "G. Forsling",
+      "C. Verhaeghe"
+     ],
+     "fin": true,
+     "clip": "",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "19:09",
+     "team": "OTT",
+     "who": "Michael Amadio",
+     "tag": "",
+     "ast": [
+      "Ridly Greig",
+      "P. Tomasino"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Linus Ullmark (OTT) 27 torjuntaa · Jacob Markström (FLA) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Brad Marchand",
+     "team": "FLA",
+     "pos": "L",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Niko Mikkola",
+     "team": "FLA",
+     "pos": "D",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "A. Lundell",
+     "team": "FLA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Amerant Bank Arena",
+   "finStats": [
+    {
+     "name": "N. Matinpalo",
+     "team": "OTT",
+     "opp": "FLA",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "11:55"
+    },
+    {
+     "name": "A. Lundell",
+     "team": "FLA",
+     "opp": "OTT",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 1,
+     "sog": 4,
+     "toi": "17:08"
+    },
+    {
+     "name": "A. Barkov",
+     "team": "FLA",
+     "opp": "OTT",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 1,
+     "sog": 2,
+     "toi": "18:19"
+    },
+    {
+     "name": "E. Luostarinen",
+     "team": "FLA",
+     "opp": "OTT",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 0,
+     "sog": 1,
+     "toi": "14:16"
+    },
+    {
+     "name": "Niko Mikkola",
+     "team": "FLA",
+     "opp": "OTT",
+     "pos": "P",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 2,
+     "sog": 3,
+     "toi": "22:21"
+    }
+   ],
+   "note": "Suomalaiset: Luostarinen 1+0, Mikkola 1+1, Lundell 1+0, Barkov 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Linus Ullmark (OTT) 27 torjuntaa · Jacob Markström (FLA) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Brad Marchand",
+      "team": "FLA",
+      "pos": "L",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "pos": "D",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "A. Lundell",
+      "team": "FLA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Amerant Bank Arena",
+    "finStats": [
+     {
+      "name": "N. Matinpalo",
+      "team": "OTT",
+      "opp": "FLA",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "11:55"
+     },
+     {
+      "name": "A. Lundell",
+      "team": "FLA",
+      "opp": "OTT",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 1,
+      "sog": 4,
+      "toi": "17:08"
+     },
+     {
+      "name": "A. Barkov",
+      "team": "FLA",
+      "opp": "OTT",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 1,
+      "sog": 2,
+      "toi": "18:19"
+     },
+     {
+      "name": "E. Luostarinen",
+      "team": "FLA",
+      "opp": "OTT",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 0,
+      "sog": 1,
+      "toi": "14:16"
+     },
+     {
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "opp": "OTT",
+      "pos": "P",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 2,
+      "sog": 3,
+      "toi": "22:21"
+     }
+    ]
+   }
+  },
+  "2026020390": {
+   "id": 2026020390,
+   "away": "STL",
+   "home": "NYI",
+   "awayScore": 2,
+   "homeScore": 3,
+   "start": "2026-11-26T00:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "2",
+     "t": "05:37",
+     "team": "NYI",
+     "who": "Jean-Gabriel Pageau",
+     "tag": "",
+     "ast": [
+      "C. Ritchie",
+      "M. Kessel"
+     ],
+     "fin": false,
+     "clip": "6408896698112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "15:24",
+     "team": "STL",
+     "who": "Dylan Holloway",
+     "tag": "",
+     "ast": [
+      "R. Thomas"
+     ],
+     "fin": false,
+     "clip": "6408898773112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "14:00",
+     "team": "STL",
+     "who": "Mason McTavish",
+     "tag": "",
+     "ast": [
+      "L. Mailloux",
+      "O. Stenberg"
+     ],
+     "fin": false,
+     "clip": "6408900531112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "19:57",
+     "team": "NYI",
+     "who": "Victor Eklund",
+     "tag": "",
+     "ast": [
+      "B. Schenn",
+      "Bo Horvat"
+     ],
+     "fin": false,
+     "clip": "6408901524112",
+     "gtd": 8
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "UBS Arena",
+   "finStats": [
+    {
+     "name": "A. Kaskimäki",
+     "team": "STL",
+     "opp": "NYI",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "16:12"
+    },
+    {
+     "name": "M. Maccelli",
+     "team": "NYI",
+     "opp": "STL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "14:59"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "UBS Arena",
+    "finStats": [
+     {
+      "name": "A. Kaskimäki",
+      "team": "STL",
+      "opp": "NYI",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "16:12"
+     },
+     {
+      "name": "M. Maccelli",
+      "team": "NYI",
+      "opp": "STL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "14:59"
+     }
+    ]
+   }
+  },
+  "2026020391": {
+   "id": 2026020391,
+   "away": "CGY",
+   "home": "PIT",
+   "awayScore": 6,
+   "homeScore": 3,
+   "start": "2026-11-26T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "16:20",
+     "team": "PIT",
+     "who": "Tommy Novak",
+     "tag": "",
+     "ast": [
+      "B. Kindel",
+      "K. Korczak"
+     ],
+     "fin": false,
+     "clip": "6408894996112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "00:38",
+     "team": "CGY",
+     "who": "Joel Farabee",
+     "tag": "",
+     "ast": [
+      "A. Klapka",
+      "Z. Whitecloud"
+     ],
+     "fin": false,
+     "clip": "6408896565112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "06:26",
+     "team": "CGY",
+     "who": "Brennan Othmann",
+     "tag": "",
+     "ast": [
+      "J. Hanley",
+      "M. Tsyplakov"
+     ],
+     "fin": false,
+     "clip": "6408897480112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "10:37",
+     "team": "CGY",
+     "who": "Maksim Tsyplakov",
+     "tag": "",
+     "ast": [
+      "Zayne Parekh",
+      "B. Othmann"
+     ],
+     "fin": false,
+     "clip": "6408897972112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "14:53",
+     "team": "PIT",
+     "who": "Jevgeni Malkin",
+     "tag": "YV",
+     "ast": [
+      "E. Karlsson",
+      "R. Rakell"
+     ],
+     "fin": false,
+     "clip": "6408896923112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "15:14",
+     "team": "CGY",
+     "who": "Ryan Strome",
+     "tag": "",
+     "ast": [
+      "J. Farabee",
+      "S. Nemec"
+     ],
+     "fin": false,
+     "clip": "6408898696112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "15:57",
+     "team": "PIT",
+     "who": "Rickard Rakell",
+     "tag": "YV",
+     "ast": [
+      "T. Novak",
+      "E. Malkin"
+     ],
+     "fin": false,
+     "clip": "6408898295112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "09:18",
+     "team": "CGY",
+     "who": "Jonathan Castagna",
+     "tag": "",
+     "ast": [
+      "Z. Whitecloud",
+      "M. Backlund"
+     ],
+     "fin": false,
+     "clip": "6408901109112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "17:41",
+     "team": "CGY",
+     "who": "Jahor Šaranhovitš",
+     "tag": "TM",
+     "ast": [
+      "M. Coronato"
+     ],
+     "fin": false,
+     "clip": "6408901407112",
+     "gtd": 6
+    }
+   ],
+   "goalies": "Dustin Wolf (CGY) 25 torjuntaa · Arturs Silovs (PIT) 21 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "B. Othmann",
+     "team": "CGY",
+     "pos": "L",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "J. Farabee",
+     "team": "CGY",
+     "pos": "L",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "R. Rakell",
+     "team": "PIT",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "PPG Paints Arena",
+   "finStats": [
+    {
+     "name": "V. Koivunen",
+     "team": "PIT",
+     "opp": "CGY",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 2,
+     "toi": "13:47"
+    }
+   ],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/cgy-at-pit-recap-6408902606112",
+   "videoId": "",
+   "details": {
+    "goalies": "Dustin Wolf (CGY) 25 torjuntaa · Arturs Silovs (PIT) 21 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "B. Othmann",
+      "team": "CGY",
+      "pos": "L",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "J. Farabee",
+      "team": "CGY",
+      "pos": "L",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "R. Rakell",
+      "team": "PIT",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "PPG Paints Arena",
+    "finStats": [
+     {
+      "name": "V. Koivunen",
+      "team": "PIT",
+      "opp": "CGY",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 2,
+      "toi": "13:47"
+     }
+    ]
+   }
+  },
+  "2026020392": {
+   "id": 2026020392,
+   "away": "PHI",
+   "home": "WSH",
+   "awayScore": 3,
+   "homeScore": 7,
+   "start": "2026-11-26T00:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "00:17",
+     "team": "PHI",
+     "who": "Travis Konecny",
+     "tag": "",
+     "ast": [
+      "C. Dvorak",
+      "T. Foerster"
+     ],
+     "fin": false,
+     "clip": "6408894139112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "03:33",
+     "team": "WSH",
+     "who": "Ryan Leonard",
+     "tag": "",
+     "ast": [
+      "A. Tuch",
+      "Matt Roy"
+     ],
+     "fin": false,
+     "clip": "6408894760112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "13:13",
+     "team": "WSH",
+     "who": "Cole Hutson",
+     "tag": "YV",
+     "ast": [
+      "A. Tuch",
+      "R. Leonard"
+     ],
+     "fin": false,
+     "clip": "6408898487112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "18:17",
+     "team": "WSH",
+     "who": "Boone Jenner",
+     "tag": "",
+     "ast": [
+      "I. Miroshnichenko"
+     ],
+     "fin": false,
+     "clip": "6408900270112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "01:59",
+     "team": "PHI",
+     "who": "Rasmus Ristolainen",
+     "tag": "",
+     "ast": [
+      "T. Konecny",
+      "T. Foerster"
+     ],
+     "fin": true,
+     "clip": "6408899412112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "17:01",
+     "team": "WSH",
+     "who": "Alex Tuch",
+     "tag": "",
+     "ast": [
+      "T. Liljegren",
+      "Jakob Chychrun"
+     ],
+     "fin": false,
+     "clip": "6408902237112",
+     "gtd": 15
+    },
+    {
+     "p": "3",
+     "t": "17:38",
+     "team": "WSH",
+     "who": "Matt Roy",
+     "tag": "TM",
+     "ast": [],
+     "fin": false,
+     "clip": "6408902604112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "18:48",
+     "team": "WSH",
+     "who": "Ivan Miroshnichenko",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408901158112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "19:18",
+     "team": "PHI",
+     "who": "Cole Knuble",
+     "tag": "",
+     "ast": [
+      "P. Martone"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "19:49",
+     "team": "WSH",
+     "who": "Dylan Strome",
+     "tag": "",
+     "ast": [
+      "Martin Fehervary",
+      "A. Beauvillier"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Joseph Woll (PHI) 28 torjuntaa · Logan Thompson (WSH) 18 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "A. Tuch",
+     "team": "WSH",
+     "pos": "R",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Matt Roy",
+     "team": "WSH",
+     "pos": "D",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "R. Leonard",
+     "team": "WSH",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Capital One Arena",
+   "finStats": [
+    {
+     "name": "R. Ristolainen",
+     "team": "PHI",
+     "opp": "WSH",
+     "pos": "P",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 0,
+     "sog": 2,
+     "toi": "20:53"
+    }
+   ],
+   "note": "Suomalaiset: Ristolainen 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Joseph Woll (PHI) 28 torjuntaa · Logan Thompson (WSH) 18 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "A. Tuch",
+      "team": "WSH",
+      "pos": "R",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Matt Roy",
+      "team": "WSH",
+      "pos": "D",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "R. Leonard",
+      "team": "WSH",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Capital One Arena",
+    "finStats": [
+     {
+      "name": "R. Ristolainen",
+      "team": "PHI",
+      "opp": "WSH",
+      "pos": "P",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 0,
+      "sog": 2,
+      "toi": "20:53"
+     }
+    ]
+   }
+  },
+  "2026020393": {
+   "id": 2026020393,
+   "away": "NJD",
+   "home": "CBJ",
+   "awayScore": 3,
+   "homeScore": 2,
+   "start": "2026-11-26T00:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "08:06",
+     "team": "NJD",
+     "who": "Nico Hischier",
+     "tag": "",
+     "ast": [
+      "J. Bratt",
+      "B. Pesce"
+     ],
+     "fin": false,
+     "clip": "6408894761112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "09:00",
+     "team": "CBJ",
+     "who": "Cole Sillinger",
+     "tag": "",
+     "ast": [
+      "S. Monahan"
+     ],
+     "fin": false,
+     "clip": "6408897286112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "19:23",
+     "team": "NJD",
+     "who": "Evan Rodrigues",
+     "tag": "YV",
+     "ast": [
+      "A. Gritsyuk",
+      "D. Hamilton"
+     ],
+     "fin": false,
+     "clip": "6408899386112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "08:48",
+     "team": "CBJ",
+     "who": "Luca Del Bel Belluz",
+     "tag": "",
+     "ast": [
+      "K. Johnson",
+      "J. Christiansen"
+     ],
+     "fin": false,
+     "clip": "6408900029112",
+     "gtd": 1
+    }
+   ],
+   "goalies": "Connor Hellebuyck (NJD) 23 torjuntaa · Cam Talbot (CBJ) 24 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Connor Hellebuyck",
+     "team": "NJD",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.92
+    },
+    {
+     "star": 2,
+     "name": "L. Del Bel Belluz",
+     "team": "CBJ",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "A. Gritsyuk",
+     "team": "NJD",
+     "pos": "R",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Nationwide Arena",
+   "finStats": [
+    {
+     "name": "M. Pyyhtiä",
+     "team": "CBJ",
+     "opp": "NJD",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "05:47"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Connor Hellebuyck (NJD) 23 torjuntaa · Cam Talbot (CBJ) 24 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Connor Hellebuyck",
+      "team": "NJD",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.92
+     },
+     {
+      "star": 2,
+      "name": "L. Del Bel Belluz",
+      "team": "CBJ",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "A. Gritsyuk",
+      "team": "NJD",
+      "pos": "R",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Nationwide Arena",
+    "finStats": [
+     {
+      "name": "M. Pyyhtiä",
+      "team": "CBJ",
+      "opp": "NJD",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "05:47"
+     }
+    ]
+   }
+  }
+ },
+ "clipTries": 1
+}
