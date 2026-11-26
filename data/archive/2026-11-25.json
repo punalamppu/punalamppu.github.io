@@ -255,7 +255,7 @@
      "tag": "",
      "ast": [
       "T. Thompson",
-      "Zach Benson"
+      "Z. Benson"
      ],
      "fin": false,
      "clip": "6408901007112",
@@ -1375,7 +1375,7 @@
      "who": "Rasmus Ristolainen",
      "tag": "",
      "ast": [
-      "T. Konecny",
+      "Travis Konecny",
       "T. Foerster"
      ],
      "fin": true,
@@ -2212,6 +2212,146 @@
       "toi": "20:28"
      }
     ]
+   }
+  },
+  "2026020396": {
+   "id": 2026020396,
+   "away": "UTA",
+   "home": "MIN",
+   "awayScore": 4,
+   "homeScore": 3,
+   "start": "2026-11-26T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "06:17",
+     "team": "UTA",
+     "who": "Lawson Crouse",
+     "tag": "",
+     "ast": [
+      "V. Trocheck",
+      "A. Peeke"
+     ],
+     "fin": false,
+     "clip": "6408897198112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "02:44",
+     "team": "UTA",
+     "who": "Logan Cooley",
+     "tag": "YV",
+     "ast": [
+      "D. Guenther",
+      "M. Sergachev"
+     ],
+     "fin": false,
+     "clip": "6408901377112",
+     "gtd": 13
+    },
+    {
+     "p": "2",
+     "t": "05:47",
+     "team": "MIN",
+     "who": "Bobby Brink",
+     "tag": "YV",
+     "ast": [],
+     "fin": false,
+     "clip": "6408901489112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "06:31",
+     "team": "UTA",
+     "who": "Dmitri Simashev",
+     "tag": "",
+     "ast": [
+      "D. But"
+     ],
+     "fin": false,
+     "clip": "6408901199112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "08:11",
+     "team": "MIN",
+     "who": "Blake Coleman",
+     "tag": "",
+     "ast": [
+      "J. Brodin",
+      "M. McCarron"
+     ],
+     "fin": false,
+     "clip": "6408900338112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "19:11",
+     "team": "UTA",
+     "who": "Dylan Guenther",
+     "tag": "",
+     "ast": [
+      "L. Cooley",
+      "A. Lee"
+     ],
+     "fin": false,
+     "clip": "6408904017112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "15:56",
+     "team": "MIN",
+     "who": "Blake Coleman",
+     "tag": "",
+     "ast": [
+      "D. Yurov",
+      "Jakov Trenin"
+     ],
+     "fin": false,
+     "clip": "6408905642112",
+     "gtd": 10
+    }
+   ],
+   "goalies": "Karel Vejmelka (UTA) 22 torjuntaa · Jesper Wallstedt (MIN) 16 torjuntaa",
+   "threeStars": [
+    {
+     "star": 3,
+     "name": "B. Coleman",
+     "team": "MIN",
+     "pos": "L",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Grand Casino Arena",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Karel Vejmelka (UTA) 22 torjuntaa · Jesper Wallstedt (MIN) 16 torjuntaa",
+    "threeStars": [
+     {
+      "star": 3,
+      "name": "B. Coleman",
+      "team": "MIN",
+      "pos": "L",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Grand Casino Arena",
+    "finStats": []
    }
   }
  },
