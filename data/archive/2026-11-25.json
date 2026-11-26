@@ -1124,7 +1124,7 @@
      "who": "Maksim Tsyplakov",
      "tag": "",
      "ast": [
-      "Z. Parekh",
+      "Zayne Parekh",
       "B. Othmann"
      ],
      "fin": false,
@@ -1375,7 +1375,7 @@
      "who": "Rasmus Ristolainen",
      "tag": "",
      "ast": [
-      "Travis Konecny",
+      "T. Konecny",
       "T. Foerster"
      ],
      "fin": true,
@@ -2352,6 +2352,140 @@
     ],
     "venue": "Grand Casino Arena",
     "finStats": []
+   }
+  },
+  "2026020397": {
+   "id": 2026020397,
+   "away": "MTL",
+   "home": "COL",
+   "awayScore": 0,
+   "homeScore": 6,
+   "start": "2026-11-26T02:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "09:43",
+     "team": "COL",
+     "who": "Logan O'Connor",
+     "tag": "",
+     "ast": [
+      "A. Beckman",
+      "S. Malinski"
+     ],
+     "fin": false,
+     "clip": "6408902658112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "00:30",
+     "team": "COL",
+     "who": "Artturi Lehkonen",
+     "tag": "",
+     "ast": [
+      "C. Makar",
+      "M. Necas"
+     ],
+     "fin": true,
+     "clip": "6408903978112",
+     "gtd": 16
+    },
+    {
+     "p": "2",
+     "t": "18:21",
+     "team": "COL",
+     "who": "Devon Toews",
+     "tag": "YV",
+     "ast": [
+      "T. Hughes",
+      "B. Nelson"
+     ],
+     "fin": false,
+     "clip": "6408906741112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "19:54",
+     "team": "COL",
+     "who": "Devon Toews",
+     "tag": "",
+     "ast": [
+      "C. Makar",
+      "T. Hughes"
+     ],
+     "fin": false,
+     "clip": "6408907434112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "02:09",
+     "team": "COL",
+     "who": "Martin Necas",
+     "tag": "",
+     "ast": [
+      "A. Lehkonen",
+      "B. Nelson"
+     ],
+     "fin": false,
+     "clip": "6408906196112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "18:06",
+     "team": "COL",
+     "who": "Gabriel Landeskog",
+     "tag": "YV",
+     "ast": [
+      "M. Necas",
+      "C. Makar"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 9
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Ball Arena",
+   "finStats": [
+    {
+     "name": "A. Lehkonen",
+     "team": "COL",
+     "opp": "MTL",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 2,
+     "sog": 2,
+     "toi": "19:50"
+    }
+   ],
+   "note": "Suomalaiset: Lehkonen 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Ball Arena",
+    "finStats": [
+     {
+      "name": "A. Lehkonen",
+      "team": "COL",
+      "opp": "MTL",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 2,
+      "sog": 2,
+      "toi": "19:50"
+     }
+    ]
    }
   }
  },
