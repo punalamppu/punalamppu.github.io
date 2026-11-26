@@ -446,7 +446,7 @@
      "tag": "",
      "ast": [
       "Sebastian Aho",
-      "S. Jarvis"
+      "Seth Jarvis"
      ],
      "fin": false,
      "clip": "6408899134112",
@@ -1124,7 +1124,7 @@
      "who": "Maksim Tsyplakov",
      "tag": "",
      "ast": [
-      "Zayne Parekh",
+      "Z. Parekh",
       "B. Othmann"
      ],
      "fin": false,
@@ -1375,7 +1375,7 @@
      "who": "Rasmus Ristolainen",
      "tag": "",
      "ast": [
-      "T. Konecny",
+      "Travis Konecny",
       "T. Foerster"
      ],
      "fin": true,
@@ -2536,7 +2536,7 @@
       "M. Beniers"
      ],
      "fin": false,
-     "clip": "6408907505112",
+     "clip": "6408907221112",
      "gtd": 7
     },
     {
@@ -2612,7 +2612,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/chi-at-sea-recap-6408907895112",
    "videoId": "",
    "details": {
     "goalies": "Spencer Knight (CHI) 29 torjuntaa · Joey Daccord (SEA) 16 torjuntaa",
@@ -2673,6 +2673,214 @@
       "pm": -1,
       "sog": 1,
       "toi": "17:00"
+     }
+    ]
+   }
+  },
+  "2026020398": {
+   "id": 2026020398,
+   "away": "SJS",
+   "home": "ANA",
+   "awayScore": 0,
+   "homeScore": 7,
+   "start": "2026-11-26T03:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "13:37",
+     "team": "ANA",
+     "who": "Judd Caulfield",
+     "tag": "",
+     "ast": [
+      "J. Malott",
+      "I. Moore"
+     ],
+     "fin": false,
+     "clip": "6408904267112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "14:07",
+     "team": "ANA",
+     "who": "Alex Killorn",
+     "tag": "",
+     "ast": [
+      "M. Granlund",
+      "D. Helleson"
+     ],
+     "fin": false,
+     "clip": "6408905082112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "15:17",
+     "team": "ANA",
+     "who": "Cutter Gauthier",
+     "tag": "YV",
+     "ast": [
+      "J. LaCombe",
+      "M. Granlund"
+     ],
+     "fin": false,
+     "clip": "6408905745112",
+     "gtd": 23
+    },
+    {
+     "p": "2",
+     "t": "10:53",
+     "team": "ANA",
+     "who": "Ian Moore",
+     "tag": "",
+     "ast": [
+      "T. Washe"
+     ],
+     "fin": false,
+     "clip": "6408906382112",
+     "gtd": 3
+    },
+    {
+     "p": "2",
+     "t": "12:47",
+     "team": "ANA",
+     "who": "Roger McQueen",
+     "tag": "",
+     "ast": [
+      "N. Myatovic"
+     ],
+     "fin": false,
+     "clip": "6408908338112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "10:14",
+     "team": "ANA",
+     "who": "Frank Vatrano",
+     "tag": "",
+     "ast": [
+      "S. Colangelo",
+      "D. Helleson"
+     ],
+     "fin": false,
+     "clip": "6408908596112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "14:00",
+     "team": "ANA",
+     "who": "Alex Killorn",
+     "tag": "",
+     "ast": [
+      "M. Granlund",
+      "Pavel Mintjukov"
+     ],
+     "fin": false,
+     "clip": "6408908991112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Alex Nedeljkovic (SJS) 23 torjuntaa · Laurent Brossoit (ANA) 22 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Laurent Brossoit",
+     "team": "ANA",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 1.0
+    },
+    {
+     "star": 2,
+     "name": "A. Killorn",
+     "team": "ANA",
+     "pos": "L",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "M. Granlund",
+     "team": "ANA",
+     "pos": "C",
+     "goals": 0,
+     "assists": 3,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Honda Center",
+   "finStats": [
+    {
+     "name": "M. Granlund",
+     "team": "ANA",
+     "opp": "SJS",
+     "pos": "H",
+     "g": 0,
+     "a": 3,
+     "p": 3,
+     "pm": 2,
+     "sog": 4,
+     "toi": "19:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Alex Nedeljkovic (SJS) 23 torjuntaa · Laurent Brossoit (ANA) 22 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Laurent Brossoit",
+      "team": "ANA",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 1.0
+     },
+     {
+      "star": 2,
+      "name": "A. Killorn",
+      "team": "ANA",
+      "pos": "L",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "M. Granlund",
+      "team": "ANA",
+      "pos": "C",
+      "goals": 0,
+      "assists": 3,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Honda Center",
+    "finStats": [
+     {
+      "name": "M. Granlund",
+      "team": "ANA",
+      "opp": "SJS",
+      "pos": "H",
+      "g": 0,
+      "a": 3,
+      "p": 3,
+      "pm": 2,
+      "sog": 4,
+      "toi": "19:00"
      }
     ]
    }
