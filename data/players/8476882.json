@@ -38,7 +38,7 @@
    "subSeason": {
     "assists": 6,
     "gameWinningGoals": 1,
-    "gamesPlayed": 20,
+    "gamesPlayed": 21,
     "goals": 2,
     "otGoals": 0,
     "pim": 4,
@@ -46,15 +46,15 @@
     "points": 8,
     "powerPlayGoals": 0,
     "powerPlayPoints": 2,
-    "shootingPctg": 0.133333,
+    "shootingPctg": 0.125,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 15
+    "shots": 16
    },
    "career": {
     "assists": 374,
     "gameWinningGoals": 24,
-    "gamesPlayed": 847,
+    "gamesPlayed": 848,
     "goals": 186,
     "otGoals": 2,
     "pim": 148,
@@ -65,7 +65,7 @@
     "shootingPctg": 0.1119,
     "shorthandedGoals": 8,
     "shorthandedPoints": 23,
-    "shots": 1661
+    "shots": 1662
    }
   }
  },
@@ -75,7 +75,7 @@
    "avgToi": "16:51",
    "faceoffWinningPctg": 0.4451,
    "gameWinningGoals": 24,
-   "gamesPlayed": 847,
+   "gamesPlayed": 848,
    "goals": 186,
    "otGoals": 2,
    "pim": 148,
@@ -86,7 +86,7 @@
    "shootingPctg": 0.1119,
    "shorthandedGoals": 8,
    "shorthandedPoints": 23,
-   "shots": 1661
+   "shots": 1662
   },
   "playoffs": {
    "assists": 27,
@@ -108,6 +108,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-25",
+   "gameId": 2026020399,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "SEA",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 20,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "CHI",
+   "toi": "13:03"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-22",
@@ -179,24 +197,6 @@
    "shots": 1,
    "teamAbbrev": "CHI",
    "toi": "14:17"
-  },
-  {
-   "assists": 2,
-   "gameDate": "2026-11-14",
-   "gameId": 2026020312,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "WPG",
-   "pim": 0,
-   "plusMinus": -1,
-   "points": 2,
-   "powerPlayGoals": 0,
-   "shifts": 21,
-   "shorthandedGoals": 0,
-   "shots": 0,
-   "teamAbbrev": "CHI",
-   "toi": "15:59"
   }
  ],
  "isActive": true,
@@ -896,11 +896,11 @@
   },
   {
    "assists": 6,
-   "avgToi": "14:42",
+   "avgToi": "14:37",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 20,
+   "gamesPlayed": 21,
    "goals": 2,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
@@ -911,10 +911,10 @@
    "powerPlayPoints": 2,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.133333,
+   "shootingPctg": 0.125,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 15,
+   "shots": 16,
    "teamCommonName": {
     "default": "Blackhawks"
    },
@@ -1050,7 +1050,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-26",
+ "_fetched": "2026-11-27",
  "gameLog": [
   [
    "2026-10-01",

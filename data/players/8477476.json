@@ -33,57 +33,57 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "assists": 6,
+    "assists": 7,
     "gameWinningGoals": 2,
-    "gamesPlayed": 23,
-    "goals": 15,
+    "gamesPlayed": 24,
+    "goals": 16,
     "otGoals": 0,
     "pim": 4,
-    "plusMinus": 15,
-    "points": 21,
+    "plusMinus": 17,
+    "points": 23,
     "powerPlayGoals": 4,
     "powerPlayPoints": 4,
-    "shootingPctg": 0.3,
+    "shootingPctg": 0.307692,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 50
+    "shots": 52
    },
    "career": {
-    "assists": 177,
+    "assists": 178,
     "gameWinningGoals": 25,
-    "gamesPlayed": 683,
-    "goals": 180,
+    "gamesPlayed": 684,
+    "goals": 181,
     "otGoals": 2,
     "pim": 208,
-    "plusMinus": 101,
-    "points": 357,
+    "plusMinus": 103,
+    "points": 359,
     "powerPlayGoals": 28,
     "powerPlayPoints": 54,
-    "shootingPctg": 0.122,
+    "shootingPctg": 0.1225,
     "shorthandedGoals": 9,
     "shorthandedPoints": 10,
-    "shots": 1475
+    "shots": 1477
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
-   "assists": 177,
+   "assists": 178,
    "avgToi": "16:48",
    "faceoffWinningPctg": 0.3073,
    "gameWinningGoals": 25,
-   "gamesPlayed": 683,
-   "goals": 180,
+   "gamesPlayed": 684,
+   "goals": 181,
    "otGoals": 2,
    "pim": 208,
-   "plusMinus": 101,
-   "points": 357,
+   "plusMinus": 103,
+   "points": 359,
    "powerPlayGoals": 28,
    "powerPlayPoints": 54,
-   "shootingPctg": 0.122,
+   "shootingPctg": 0.1225,
    "shorthandedGoals": 9,
    "shorthandedPoints": 10,
-   "shots": 1475
+   "shots": 1477
   },
   "playoffs": {
    "assists": 24,
@@ -105,6 +105,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 1,
+   "gameDate": "2026-11-25",
+   "gameId": 2026020397,
+   "gameTypeId": 2,
+   "goals": 1,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "MTL",
+   "pim": 0,
+   "plusMinus": 2,
+   "points": 2,
+   "powerPlayGoals": 0,
+   "shifts": 23,
+   "shorthandedGoals": 0,
+   "shots": 2,
+   "teamAbbrev": "COL",
+   "toi": "19:50"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-19",
@@ -176,24 +194,6 @@
    "shots": 1,
    "teamAbbrev": "COL",
    "toi": "21:18"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-10",
-   "gameId": 2026020286,
-   "gameTypeId": 2,
-   "goals": 1,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "TOR",
-   "pim": 0,
-   "plusMinus": 2,
-   "points": 1,
-   "powerPlayGoals": 0,
-   "shifts": 23,
-   "shorthandedGoals": 0,
-   "shots": 4,
-   "teamAbbrev": "COL",
-   "toi": "18:52"
   }
  ],
  "isActive": true,
@@ -826,26 +826,26 @@
    }
   },
   {
-   "assists": 6,
-   "avgToi": "18:40",
+   "assists": 7,
+   "avgToi": "18:43",
    "faceoffWinningPctg": 0.142857,
    "gameTypeId": 2,
    "gameWinningGoals": 2,
-   "gamesPlayed": 23,
-   "goals": 15,
+   "gamesPlayed": 24,
+   "goals": 16,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 4,
-   "plusMinus": 15,
-   "points": 21,
+   "plusMinus": 17,
+   "points": 23,
    "powerPlayGoals": 4,
    "powerPlayPoints": 4,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.3,
+   "shootingPctg": 0.307692,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 50,
+   "shots": 52,
    "teamCommonName": {
     "default": "Avalanche"
    },
@@ -981,7 +981,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-26",
+ "_fetched": "2026-11-27",
  "gameLog": [
   [
    "2026-09-30",

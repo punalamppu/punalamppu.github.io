@@ -32,55 +32,55 @@
    "subSeason": {
     "assists": 11,
     "gameWinningGoals": 1,
-    "gamesPlayed": 21,
+    "gamesPlayed": 22,
     "goals": 4,
     "otGoals": 0,
     "pim": 2,
-    "plusMinus": 4,
+    "plusMinus": 3,
     "points": 15,
     "powerPlayGoals": 0,
     "powerPlayPoints": 3,
-    "shootingPctg": 0.16,
+    "shootingPctg": 0.153846,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 25
+    "shots": 26
    },
    "career": {
     "assists": 128,
     "gameWinningGoals": 14,
-    "gamesPlayed": 465,
+    "gamesPlayed": 466,
     "goals": 88,
     "otGoals": 1,
     "pim": 120,
-    "plusMinus": 20,
+    "plusMinus": 19,
     "points": 216,
     "powerPlayGoals": 12,
     "powerPlayPoints": 41,
-    "shootingPctg": 0.12789999999999999,
+    "shootingPctg": 0.1277,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 688
+    "shots": 689
    }
   }
  },
  "careerTotals": {
   "regularSeason": {
    "assists": 128,
-   "avgToi": "14:40",
+   "avgToi": "14:41",
    "faceoffWinningPctg": 0.46270000000000006,
    "gameWinningGoals": 14,
-   "gamesPlayed": 465,
+   "gamesPlayed": 466,
    "goals": 88,
    "otGoals": 1,
    "pim": 120,
-   "plusMinus": 20,
+   "plusMinus": 19,
    "points": 216,
    "powerPlayGoals": 12,
    "powerPlayPoints": 41,
-   "shootingPctg": 0.12789999999999999,
+   "shootingPctg": 0.1277,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 688
+   "shots": 689
   },
   "playoffs": {
    "assists": 5,
@@ -102,6 +102,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-25",
+   "gameId": 2026020399,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "CHI",
+   "pim": 0,
+   "plusMinus": -1,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 21,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "SEA",
+   "toi": "17:00"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-23",
@@ -173,24 +191,6 @@
    "shots": 0,
    "teamAbbrev": "SEA",
    "toi": "13:03"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-12",
-   "gameId": 2026020309,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "CAR",
-   "pim": 0,
-   "plusMinus": -1,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 18,
-   "shorthandedGoals": 0,
-   "shots": 1,
-   "teamAbbrev": "SEA",
-   "toi": "14:58"
   }
  ],
  "isActive": true,
@@ -593,25 +593,25 @@
   },
   {
    "assists": 11,
-   "avgToi": "14:25",
+   "avgToi": "14:32",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 21,
+   "gamesPlayed": 22,
    "goals": 4,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
    "pim": 2,
-   "plusMinus": 4,
+   "plusMinus": 3,
    "points": 15,
    "powerPlayGoals": 0,
    "powerPlayPoints": 3,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.16,
+   "shootingPctg": 0.153846,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 25,
+   "shots": 26,
    "teamCommonName": {
     "default": "Kraken"
    },
@@ -707,7 +707,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-26",
+ "_fetched": "2026-11-27",
  "gameLog": [
   [
    "2026-10-01",

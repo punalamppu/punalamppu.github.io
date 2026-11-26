@@ -1,0 +1,585 @@
+{
+ "playerId": 8481704,
+ "firstName": {
+  "default": "Juuso"
+ },
+ "lastName": {
+  "default": "Parssinen",
+  "cs": "Pärssinen",
+  "fi": "Pärssinen",
+  "sk": "Pärssinen",
+  "sv": "Pärssinen"
+ },
+ "currentTeamAbbrev": "NYR",
+ "position": "C",
+ "sweaterNumber": 71,
+ "birthDate": "2001-02-01",
+ "birthCity": {
+  "default": "Hameenlinna"
+ },
+ "birthStateProvince": null,
+ "birthCountry": "FIN",
+ "heightInCentimeters": 188,
+ "weightInKilograms": 96,
+ "shootsCatches": "L",
+ "draftDetails": {
+  "year": 2019,
+  "teamAbbrev": "NSH",
+  "round": 7,
+  "pickInRound": 24,
+  "overallPick": 210
+ },
+ "featuredStats": {
+  "season": 20252026,
+  "regularSeason": {
+   "subSeason": {
+    "assists": 1,
+    "gameWinningGoals": 0,
+    "gamesPlayed": 20,
+    "goals": 2,
+    "otGoals": 0,
+    "pim": 10,
+    "plusMinus": 4,
+    "points": 3,
+    "powerPlayGoals": 0,
+    "powerPlayPoints": 0,
+    "shootingPctg": 0.125,
+    "shorthandedGoals": 0,
+    "shorthandedPoints": 0,
+    "shots": 16
+   },
+   "career": {
+    "assists": 34,
+    "gameWinningGoals": 3,
+    "gamesPlayed": 157,
+    "goals": 22,
+    "otGoals": 1,
+    "pim": 56,
+    "plusMinus": -8,
+    "points": 56,
+    "powerPlayGoals": 3,
+    "powerPlayPoints": 12,
+    "shootingPctg": 0.1476,
+    "shorthandedGoals": 0,
+    "shorthandedPoints": 0,
+    "shots": 149
+   }
+  }
+ },
+ "careerTotals": {
+  "regularSeason": {
+   "assists": 34,
+   "avgToi": "12:33",
+   "faceoffWinningPctg": 0.4567,
+   "gameWinningGoals": 3,
+   "gamesPlayed": 157,
+   "goals": 22,
+   "otGoals": 1,
+   "pim": 56,
+   "plusMinus": -8,
+   "points": 56,
+   "powerPlayGoals": 3,
+   "powerPlayPoints": 12,
+   "shootingPctg": 0.1476,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 149
+  },
+  "playoffs": {
+   "assists": 0,
+   "avgToi": "15:11",
+   "gameWinningGoals": 0,
+   "gamesPlayed": 1,
+   "goals": 0,
+   "otGoals": 0,
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "shootingPctg": 0.0,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 1
+  }
+ },
+ "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-03-23",
+   "gameId": 2025021119,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "OTT",
+   "pim": 2,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 14,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "NYR",
+   "toi": "6:51"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-03-12",
+   "gameId": 2025021036,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "WPG",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 12,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "NYR",
+   "toi": "9:30"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-03-10",
+   "gameId": 2025021017,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "CGY",
+   "pim": 2,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 12,
+   "shorthandedGoals": 0,
+   "shots": 1,
+   "teamAbbrev": "NYR",
+   "toi": "7:31"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-03-09",
+   "gameId": 2025021008,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "PHI",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 14,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "NYR",
+   "toi": "11:49"
+  },
+  {
+   "assists": 0,
+   "gameDate": "2026-03-07",
+   "gameId": 2025020991,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "NJD",
+   "pim": 2,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 10,
+   "shorthandedGoals": 0,
+   "shots": 2,
+   "teamAbbrev": "NYR",
+   "toi": "6:48"
+  }
+ ],
+ "isActive": true,
+ "seasonTotals": [
+  {
+   "assists": 19,
+   "avgToi": "14:20",
+   "faceoffWinningPctg": 0.501608,
+   "gameTypeId": 2,
+   "gameWinningGoals": 3,
+   "gamesPlayed": 45,
+   "goals": 6,
+   "leagueAbbrev": "NHL",
+   "otGoals": 1,
+   "pim": 15,
+   "plusMinus": -1,
+   "points": 25,
+   "powerPlayGoals": 1,
+   "powerPlayPoints": 8,
+   "season": 20222023,
+   "sequence": 1,
+   "shootingPctg": 0.122449,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 49,
+   "teamCommonName": {
+    "default": "Predators"
+   },
+   "teamName": {
+    "default": "Nashville Predators",
+    "fr": "Predators de Nashville"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Nashville",
+    "fr": "de Nashville"
+   }
+  },
+  {
+   "assists": 4,
+   "avgToi": "14:36",
+   "faceoffWinningPctg": 0.375,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 44,
+   "goals": 8,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 12,
+   "plusMinus": -6,
+   "points": 12,
+   "powerPlayGoals": 2,
+   "powerPlayPoints": 3,
+   "season": 20232024,
+   "sequence": 1,
+   "shootingPctg": 0.148148,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 54,
+   "teamCommonName": {
+    "default": "Predators"
+   },
+   "teamName": {
+    "default": "Nashville Predators",
+    "fr": "Predators de Nashville"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Nashville",
+    "fr": "de Nashville"
+   }
+  },
+  {
+   "assists": 0,
+   "avgToi": "15:11",
+   "faceoffWinningPctg": 0.0,
+   "gameTypeId": 3,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 1,
+   "goals": 0,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20232024,
+   "sequence": 1,
+   "shootingPctg": 0.0,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 1,
+   "teamCommonName": {
+    "default": "Predators"
+   },
+   "teamName": {
+    "default": "Nashville Predators",
+    "fr": "Predators de Nashville"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Nashville",
+    "fr": "de Nashville"
+   }
+  },
+  {
+   "assists": 3,
+   "avgToi": "12:13",
+   "faceoffWinningPctg": 0.467532,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 15,
+   "goals": 2,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 0,
+   "plusMinus": -8,
+   "points": 5,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 1,
+   "season": 20242025,
+   "sequence": 1,
+   "shootingPctg": 0.181818,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 11,
+   "teamCommonName": {
+    "default": "Predators"
+   },
+   "teamName": {
+    "default": "Nashville Predators",
+    "fr": "Predators de Nashville"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Nashville",
+    "fr": "de Nashville"
+   }
+  },
+  {
+   "assists": 4,
+   "avgToi": "9:47",
+   "faceoffWinningPctg": 0.557692,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 22,
+   "goals": 2,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 8,
+   "plusMinus": 2,
+   "points": 6,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20242025,
+   "sequence": 2,
+   "shootingPctg": 0.133333,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 15,
+   "teamCommonName": {
+    "default": "Avalanche"
+   },
+   "teamName": {
+    "default": "Colorado Avalanche",
+    "fr": "Avalanche du Colorado"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "Colorado",
+    "fr": "du Colorado"
+   }
+  },
+  {
+   "assists": 3,
+   "avgToi": "9:46",
+   "faceoffWinningPctg": 0.402985,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 11,
+   "goals": 2,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 11,
+   "plusMinus": 1,
+   "points": 5,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20242025,
+   "sequence": 3,
+   "shootingPctg": 0.5,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 4,
+   "teamCommonName": {
+    "default": "Rangers"
+   },
+   "teamName": {
+    "default": "New York Rangers",
+    "fr": "Rangers de New York"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "New York",
+    "fr": "de New York"
+   }
+  },
+  {
+   "assists": 1,
+   "avgToi": "8:51",
+   "faceoffWinningPctg": 0.466667,
+   "gameTypeId": 2,
+   "gameWinningGoals": 0,
+   "gamesPlayed": 20,
+   "goals": 2,
+   "leagueAbbrev": "NHL",
+   "otGoals": 0,
+   "pim": 10,
+   "plusMinus": 4,
+   "points": 3,
+   "powerPlayGoals": 0,
+   "powerPlayPoints": 0,
+   "season": 20252026,
+   "sequence": 1,
+   "shootingPctg": 0.125,
+   "shorthandedGoals": 0,
+   "shorthandedPoints": 0,
+   "shots": 16,
+   "teamCommonName": {
+    "default": "Rangers"
+   },
+   "teamName": {
+    "default": "New York Rangers",
+    "fr": "Rangers de New York"
+   },
+   "teamPlaceNameWithPreposition": {
+    "default": "New York",
+    "fr": "de New York"
+   }
+  }
+ ],
+ "preNhl": [
+  {
+   "s": 20162017,
+   "lg": "U16 SM-sarja",
+   "team": "TPS U16",
+   "gp": 7,
+   "g": 3,
+   "a": 7,
+   "p": 10,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U18 SM-sarja",
+   "team": "TPS U18",
+   "gp": 28,
+   "g": 14,
+   "a": 22,
+   "p": 36,
+   "sv": null
+  },
+  {
+   "s": 20172018,
+   "lg": "U20 SM-liiga",
+   "team": "TPS U20",
+   "gp": 16,
+   "g": 4,
+   "a": 4,
+   "p": 8,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "U20 SM-liiga",
+   "team": "TPS U20",
+   "gp": 36,
+   "g": 13,
+   "a": 9,
+   "p": 22,
+   "sv": null
+  },
+  {
+   "s": 20182019,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 7,
+   "g": 1,
+   "a": 0,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 31,
+   "g": 5,
+   "a": 7,
+   "p": 12,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "U20 SM-liiga",
+   "team": "TPS U20",
+   "gp": 20,
+   "g": 7,
+   "a": 14,
+   "p": 21,
+   "sv": null
+  },
+  {
+   "s": 20192020,
+   "lg": "Spengler Cup",
+   "team": "TPS",
+   "gp": 4,
+   "g": 0,
+   "a": 1,
+   "p": 1,
+   "sv": null
+  },
+  {
+   "s": 20202021,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 55,
+   "g": 8,
+   "a": 34,
+   "p": 42,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Liiga",
+   "team": "TPS",
+   "gp": 41,
+   "g": 9,
+   "a": 23,
+   "p": 32,
+   "sv": null
+  },
+  {
+   "s": 20212022,
+   "lg": "Champions HL",
+   "team": "TPS",
+   "gp": 3,
+   "g": 0,
+   "a": 2,
+   "p": 2,
+   "sv": null
+  },
+  {
+   "s": 20222023,
+   "lg": "AHL",
+   "team": "Milwaukee Admirals",
+   "gp": 10,
+   "g": 2,
+   "a": 7,
+   "p": 9,
+   "sv": null
+  },
+  {
+   "s": 20232024,
+   "lg": "AHL",
+   "team": "Milwaukee Admirals",
+   "gp": 36,
+   "g": 7,
+   "a": 18,
+   "p": 25,
+   "sv": null
+  },
+  {
+   "s": 20252026,
+   "lg": "AHL",
+   "team": "Hartford Wolf Pack",
+   "gp": 15,
+   "g": 5,
+   "a": 2,
+   "p": 7,
+   "sv": null
+  },
+  {
+   "s": 20262027,
+   "lg": "AHL",
+   "team": "Hartford Wolf Pack",
+   "gp": 21,
+   "g": 5,
+   "a": 8,
+   "p": 13,
+   "sv": null
+  }
+ ],
+ "_fetched": "2026-11-27"
+}

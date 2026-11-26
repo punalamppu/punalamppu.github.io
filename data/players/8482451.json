@@ -36,7 +36,7 @@
    "subSeason": {
     "assists": 0,
     "gameWinningGoals": 0,
-    "gamesPlayed": 1,
+    "gamesPlayed": 2,
     "goals": 1,
     "otGoals": 0,
     "pim": 0,
@@ -52,7 +52,7 @@
    "career": {
     "assists": 6,
     "gameWinningGoals": 0,
-    "gamesPlayed": 72,
+    "gamesPlayed": 73,
     "goals": 6,
     "otGoals": 0,
     "pim": 8,
@@ -70,10 +70,10 @@
  "careerTotals": {
   "regularSeason": {
    "assists": 6,
-   "avgToi": "12:13",
+   "avgToi": "12:07",
    "faceoffWinningPctg": 0.4285,
    "gameWinningGoals": 0,
-   "gamesPlayed": 72,
+   "gamesPlayed": 73,
    "goals": 6,
    "otGoals": 0,
    "pim": 8,
@@ -88,6 +88,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 0,
+   "gameDate": "2026-11-25",
+   "gameId": 2026020393,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "H",
+   "opponentAbbrev": "NJD",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 9,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "CBJ",
+   "toi": "5:47"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-23",
@@ -243,11 +261,11 @@
   },
   {
    "assists": 0,
-   "avgToi": "8:38",
+   "avgToi": "7:13",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 0,
-   "gamesPlayed": 1,
+   "gamesPlayed": 2,
    "goals": 1,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
@@ -457,5 +475,5 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-26"
+ "_fetched": "2026-11-27"
 }
