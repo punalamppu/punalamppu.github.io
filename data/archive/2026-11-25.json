@@ -331,7 +331,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "https://www.nhl.com/video/nyr-at-buf-recap-6408902231112",
+   "recapUrl": "https://www.nhl.com/video/nyr-at-buf-recap-6408901662112",
    "videoId": "",
    "details": {
     "goalies": "Joonas Korpisalo (NYR) 25 torjuntaa · Ukko-Pekka Luukkonen (BUF) 29 torjuntaa",
@@ -721,7 +721,7 @@
       "C. Verhaeghe"
      ],
      "fin": true,
-     "clip": "",
+     "clip": "6408903006112",
      "gtd": 1
     },
     {
@@ -735,7 +735,7 @@
       "P. Tomasino"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408903018112",
      "gtd": 9
     }
    ],
@@ -836,7 +836,7 @@
     }
    ],
    "note": "Suomalaiset: Luostarinen 1+0, Mikkola 1+1, Lundell 1+0, Barkov 1+0",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/ott-at-fla-recap-6408902755112",
    "videoId": "",
    "details": {
     "goalies": "Linus Ullmark (OTT) 27 torjuntaa · Jacob Markström (FLA) 25 torjuntaa",
@@ -1032,7 +1032,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/stl-at-nyi-recap-6408903531112",
    "videoId": "",
    "details": {
     "goalies": "",
@@ -1194,7 +1194,8 @@
      "who": "Jahor Šaranhovitš",
      "tag": "TM",
      "ast": [
-      "M. Coronato"
+      "M. Coronato",
+      "J. Middleton"
      ],
      "fin": false,
      "clip": "6408901407112",
@@ -1250,7 +1251,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "https://www.nhl.com/video/cgy-at-pit-recap-6408902606112",
+   "recapUrl": "https://www.nhl.com/video/cgy-at-pit-recap-6408901428112",
    "videoId": "",
    "details": {
     "goalies": "Dustin Wolf (CGY) 25 torjuntaa · Arturs Silovs (PIT) 21 torjuntaa",
@@ -1412,7 +1413,10 @@
      "team": "WSH",
      "who": "Ivan Miroshnichenko",
      "tag": "",
-     "ast": [],
+     "ast": [
+      "B. Jenner",
+      "J. Sourdif"
+     ],
      "fin": false,
      "clip": "6408901158112",
      "gtd": 2
@@ -1427,7 +1431,7 @@
       "P. Martone"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408901440112",
      "gtd": 5
     },
     {
@@ -1441,7 +1445,7 @@
       "A. Beauvillier"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408901758112",
      "gtd": 5
     }
    ],
@@ -1494,7 +1498,7 @@
     }
    ],
    "note": "Suomalaiset: Ristolainen 1+0",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/phi-at-wsh-recap-6408901971112",
    "videoId": "",
    "details": {
     "goalies": "Joseph Woll (PHI) 28 torjuntaa · Logan Thompson (WSH) 18 torjuntaa",
@@ -1661,7 +1665,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/njd-at-cbj-recap-6408902642112",
    "videoId": "",
    "details": {
     "goalies": "Connor Hellebuyck (NJD) 23 torjuntaa · Cam Talbot (CBJ) 24 torjuntaa",
@@ -1710,6 +1714,195 @@
       "pm": 0,
       "sog": 0,
       "toi": "05:47"
+     }
+    ]
+   }
+  },
+  "2026020394": {
+   "id": 2026020394,
+   "away": "VAN",
+   "home": "DET",
+   "awayScore": 1,
+   "homeScore": 5,
+   "start": "2026-11-26T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "01:16",
+     "team": "DET",
+     "who": "Emmitt Finnie",
+     "tag": "",
+     "ast": [
+      "V. Arvidsson"
+     ],
+     "fin": false,
+     "clip": "6408895258112",
+     "gtd": 9
+    },
+    {
+     "p": "1",
+     "t": "04:05",
+     "team": "DET",
+     "who": "Emmitt Finnie",
+     "tag": "",
+     "ast": [
+      "M. Kasper"
+     ],
+     "fin": false,
+     "clip": "6408895582112",
+     "gtd": 10
+    },
+    {
+     "p": "1",
+     "t": "19:03",
+     "team": "DET",
+     "who": "Lucas Raymond",
+     "tag": "YV",
+     "ast": [
+      "M. Seider",
+      "V. Arvidsson"
+     ],
+     "fin": false,
+     "clip": "6408896313112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "06:24",
+     "team": "DET",
+     "who": "J.T. Compher",
+     "tag": "",
+     "ast": [
+      "M. Brandsegg-Nygård"
+     ],
+     "fin": false,
+     "clip": "6408900184112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "07:26",
+     "team": "VAN",
+     "who": "Paul Cotter",
+     "tag": "",
+     "ast": [
+      "C. Reinhardt",
+      "J. Quillan"
+     ],
+     "fin": false,
+     "clip": "6408901663112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "08:08",
+     "team": "DET",
+     "who": "Viktor Arvidsson",
+     "tag": "",
+     "ast": [
+      "M. Seider",
+      "E. Finnie"
+     ],
+     "fin": false,
+     "clip": "6408903396112",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Leevi Meriläinen (VAN) 21 torjuntaa · Daniil Tarasov (DET) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "E. Finnie",
+     "team": "DET",
+     "pos": "C",
+     "goals": 2,
+     "assists": 1,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "V. Arvidsson",
+     "team": "DET",
+     "pos": "L",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "M. Seider",
+     "team": "DET",
+     "pos": "D",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Little Caesars Arena",
+   "finStats": [
+    {
+     "name": "Leevi Meriläinen",
+     "team": "VAN",
+     "opp": "DET",
+     "pos": "MV",
+     "saves": 21,
+     "shots": 26,
+     "dec": "L",
+     "toi": "59:30"
+    }
+   ],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/van-at-det-recap-6408904812112",
+   "videoId": "",
+   "details": {
+    "goalies": "Leevi Meriläinen (VAN) 21 torjuntaa · Daniil Tarasov (DET) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "E. Finnie",
+      "team": "DET",
+      "pos": "C",
+      "goals": 2,
+      "assists": 1,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "V. Arvidsson",
+      "team": "DET",
+      "pos": "L",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "M. Seider",
+      "team": "DET",
+      "pos": "D",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Little Caesars Arena",
+    "finStats": [
+     {
+      "name": "Leevi Meriläinen",
+      "team": "VAN",
+      "opp": "DET",
+      "pos": "MV",
+      "saves": 21,
+      "shots": 26,
+      "dec": "L",
+      "toi": "59:30"
      }
     ]
    }
