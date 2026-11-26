@@ -1856,7 +1856,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "https://www.nhl.com/video/van-at-det-recap-6408904812112",
+   "recapUrl": "https://www.nhl.com/video/van-at-det-recap-6408904923112",
    "videoId": "",
    "details": {
     "goalies": "Leevi Meriläinen (VAN) 21 torjuntaa · Daniil Tarasov (DET) 25 torjuntaa",
@@ -1903,6 +1903,313 @@
       "shots": 26,
       "dec": "L",
       "toi": "59:30"
+     }
+    ]
+   }
+  },
+  "2026020395": {
+   "id": 2026020395,
+   "away": "NSH",
+   "home": "DAL",
+   "awayScore": 3,
+   "homeScore": 1,
+   "start": "2026-11-26T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "19:02",
+     "team": "NSH",
+     "who": "Mavrik Bourque",
+     "tag": "",
+     "ast": [
+      "Brady Skjei",
+      "R. O'Reilly"
+     ],
+     "fin": false,
+     "clip": "6408898515112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "18:39",
+     "team": "NSH",
+     "who": "Ross Colton",
+     "tag": "TM",
+     "ast": [
+      "F. Forsberg",
+      "Jayden Struble"
+     ],
+     "fin": false,
+     "clip": "6408904341112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "19:25",
+     "team": "DAL",
+     "who": "Wyatt Johnston",
+     "tag": "",
+     "ast": [
+      "T. Seguin"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "19:45",
+     "team": "NSH",
+     "who": "Jack Drury",
+     "tag": "TM",
+     "ast": [
+      "R. O'Reilly",
+      "R. Josi"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 3
+    }
+   ],
+   "goalies": "Juuse Saros (NSH) 20 torjuntaa · Jake Oettinger (DAL) 24 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Juuse Saros",
+     "team": "NSH",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.952
+    },
+    {
+     "star": 2,
+     "name": "M. Bourque",
+     "team": "NSH",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Jake Oettinger",
+     "team": "DAL",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.96
+    }
+   ],
+   "venue": "American Airlines Center",
+   "finStats": [
+    {
+     "name": "Juuse Saros",
+     "team": "NSH",
+     "opp": "DAL",
+     "pos": "MV",
+     "saves": 20,
+     "shots": 21,
+     "dec": "W",
+     "toi": "60:00"
+    },
+    {
+     "name": "J. Kiviranta",
+     "team": "DAL",
+     "opp": "NSH",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "10:20"
+    },
+    {
+     "name": "R. Hintz",
+     "team": "DAL",
+     "opp": "NSH",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 1,
+     "toi": "17:20"
+    },
+    {
+     "name": "A. Hyry",
+     "team": "DAL",
+     "opp": "NSH",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 2,
+     "toi": "12:27"
+    },
+    {
+     "name": "M. Rantanen",
+     "team": "DAL",
+     "opp": "NSH",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 2,
+     "toi": "21:42"
+    },
+    {
+     "name": "M. Heiskanen",
+     "team": "DAL",
+     "opp": "NSH",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 2,
+     "toi": "28:22"
+    },
+    {
+     "name": "Esa Lindell",
+     "team": "DAL",
+     "opp": "NSH",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "20:28"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Juuse Saros (NSH) 20 torjuntaa · Jake Oettinger (DAL) 24 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Juuse Saros",
+      "team": "NSH",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.952
+     },
+     {
+      "star": 2,
+      "name": "M. Bourque",
+      "team": "NSH",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Jake Oettinger",
+      "team": "DAL",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.96
+     }
+    ],
+    "venue": "American Airlines Center",
+    "finStats": [
+     {
+      "name": "Juuse Saros",
+      "team": "NSH",
+      "opp": "DAL",
+      "pos": "MV",
+      "saves": 20,
+      "shots": 21,
+      "dec": "W",
+      "toi": "60:00"
+     },
+     {
+      "name": "J. Kiviranta",
+      "team": "DAL",
+      "opp": "NSH",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "10:20"
+     },
+     {
+      "name": "R. Hintz",
+      "team": "DAL",
+      "opp": "NSH",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 1,
+      "toi": "17:20"
+     },
+     {
+      "name": "A. Hyry",
+      "team": "DAL",
+      "opp": "NSH",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 2,
+      "toi": "12:27"
+     },
+     {
+      "name": "M. Rantanen",
+      "team": "DAL",
+      "opp": "NSH",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 2,
+      "toi": "21:42"
+     },
+     {
+      "name": "M. Heiskanen",
+      "team": "DAL",
+      "opp": "NSH",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 2,
+      "toi": "28:22"
+     },
+     {
+      "name": "Esa Lindell",
+      "team": "DAL",
+      "opp": "NSH",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "20:28"
      }
     ]
    }
