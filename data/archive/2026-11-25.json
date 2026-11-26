@@ -446,7 +446,7 @@
      "tag": "",
      "ast": [
       "Sebastian Aho",
-      "S. Jarvis"
+      "Seth Jarvis"
      ],
      "fin": false,
      "clip": "6408899134112",
@@ -1124,7 +1124,7 @@
      "who": "Maksim Tsyplakov",
      "tag": "",
      "ast": [
-      "Zayne Parekh",
+      "Z. Parekh",
       "B. Othmann"
      ],
      "fin": false,
@@ -1375,7 +1375,7 @@
      "who": "Rasmus Ristolainen",
      "tag": "",
      "ast": [
-      "T. Konecny",
+      "Travis Konecny",
       "T. Foerster"
      ],
      "fin": true,
@@ -2444,7 +2444,7 @@
       "C. Makar"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408908971112",
      "gtd": 9
     }
    ],
@@ -2484,6 +2484,195 @@
       "pm": 2,
       "sog": 2,
       "toi": "19:50"
+     }
+    ]
+   }
+  },
+  "2026020399": {
+   "id": 2026020399,
+   "away": "CHI",
+   "home": "SEA",
+   "awayScore": 3,
+   "homeScore": 1,
+   "start": "2026-11-26T02:40:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "3",
+     "t": "05:58",
+     "team": "CHI",
+     "who": "Cole Smith",
+     "tag": "",
+     "ast": [
+      "E. Del Mastro",
+      "J. Greenway"
+     ],
+     "fin": false,
+     "clip": "6408907280112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "07:32",
+     "team": "CHI",
+     "who": "Roman Kantserov",
+     "tag": "YV",
+     "ast": [
+      "S. Rinzel",
+      "P. Kane"
+     ],
+     "fin": false,
+     "clip": "6408907868112",
+     "gtd": 14
+    },
+    {
+     "p": "3",
+     "t": "16:59",
+     "team": "SEA",
+     "who": "Jordan Eberle",
+     "tag": "",
+     "ast": [
+      "B. Catton",
+      "M. Beniers"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "19:40",
+     "team": "CHI",
+     "who": "Roman Kantserov",
+     "tag": "TM",
+     "ast": [],
+     "fin": false,
+     "clip": "",
+     "gtd": 15
+    }
+   ],
+   "goalies": "Spencer Knight (CHI) 29 torjuntaa · Joey Daccord (SEA) 16 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "R. Kantserov",
+     "team": "CHI",
+     "pos": "R",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Spencer Knight",
+     "team": "CHI",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.967
+    },
+    {
+     "star": 3,
+     "name": "C. Smith",
+     "team": "CHI",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Climate Pledge Arena",
+   "finStats": [
+    {
+     "name": "T. Teräväinen",
+     "team": "CHI",
+     "opp": "SEA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "13:03"
+    },
+    {
+     "name": "K. Kakko",
+     "team": "SEA",
+     "opp": "CHI",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 1,
+     "toi": "17:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Spencer Knight (CHI) 29 torjuntaa · Joey Daccord (SEA) 16 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "R. Kantserov",
+      "team": "CHI",
+      "pos": "R",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Spencer Knight",
+      "team": "CHI",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.967
+     },
+     {
+      "star": 3,
+      "name": "C. Smith",
+      "team": "CHI",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Climate Pledge Arena",
+    "finStats": [
+     {
+      "name": "T. Teräväinen",
+      "team": "CHI",
+      "opp": "SEA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "13:03"
+     },
+     {
+      "name": "K. Kakko",
+      "team": "SEA",
+      "opp": "CHI",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 1,
+      "toi": "17:00"
      }
     ]
    }
