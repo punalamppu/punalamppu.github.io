@@ -1031,7 +1031,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/det-at-cbj-recap-6408966207112",
    "videoId": "",
    "details": {
     "goalies": "",
@@ -1376,7 +1376,7 @@
       "R. Ristolainen"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408967861112",
      "gtd": 2
     }
    ],
@@ -1439,7 +1439,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/van-at-phi-recap-6408966587112",
    "videoId": "",
    "details": {
     "goalies": "Leevi Meriläinen (VAN) 24 torjuntaa · Dan Vladar (PHI) 18 torjuntaa",
@@ -1498,6 +1498,260 @@
       "pm": 1,
       "sog": 0,
       "toi": "19:57"
+     }
+    ]
+   }
+  },
+  "2026020406": {
+   "id": 2026020406,
+   "away": "FLA",
+   "home": "WSH",
+   "awayScore": 3,
+   "homeScore": 2,
+   "start": "2026-11-27T20:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "10:26",
+     "team": "WSH",
+     "who": "Cole Hutson",
+     "tag": "YV",
+     "ast": [
+      "R. Leonard",
+      "P. Dubois"
+     ],
+     "fin": false,
+     "clip": "6408962425112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "04:51",
+     "team": "FLA",
+     "who": "Aaron Ekblad",
+     "tag": "YV",
+     "ast": [
+      "B. Tkachuk",
+      "M. Tkachuk"
+     ],
+     "fin": false,
+     "clip": "6408963348112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "13:06",
+     "team": "WSH",
+     "who": "Cole Hutson",
+     "tag": "",
+     "ast": [
+      "I. Miroshnichenko",
+      "J. Sourdif"
+     ],
+     "fin": false,
+     "clip": "6408967651112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "15:42",
+     "team": "FLA",
+     "who": "Eetu Luostarinen",
+     "tag": "",
+     "ast": [
+      "Brad Marchand",
+      "A. Lundell"
+     ],
+     "fin": true,
+     "clip": "6408967176112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "19:36",
+     "team": "FLA",
+     "who": "Sam Bennett",
+     "tag": "",
+     "ast": [
+      "M. Tkachuk",
+      "B. Tkachuk"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 12
+    }
+   ],
+   "goalies": "Jacob Markström (FLA) 24 torjuntaa · Logan Thompson (WSH) 28 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "S. Bennett",
+     "team": "FLA",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "C. Hutson",
+     "team": "WSH",
+     "pos": "D",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "M. Tkachuk",
+     "team": "FLA",
+     "pos": "L",
+     "goals": 0,
+     "assists": 2,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Capital One Arena",
+   "finStats": [
+    {
+     "name": "A. Lundell",
+     "team": "FLA",
+     "opp": "WSH",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 0,
+     "toi": "15:49"
+    },
+    {
+     "name": "A. Barkov",
+     "team": "FLA",
+     "opp": "WSH",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 2,
+     "toi": "18:43"
+    },
+    {
+     "name": "E. Luostarinen",
+     "team": "FLA",
+     "opp": "WSH",
+     "pos": "H",
+     "g": 1,
+     "a": 0,
+     "p": 1,
+     "pm": 0,
+     "sog": 1,
+     "toi": "15:33"
+    },
+    {
+     "name": "Niko Mikkola",
+     "team": "FLA",
+     "opp": "WSH",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 2,
+     "toi": "20:41"
+    }
+   ],
+   "note": "Suomalaiset: Luostarinen 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Jacob Markström (FLA) 24 torjuntaa · Logan Thompson (WSH) 28 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "S. Bennett",
+      "team": "FLA",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "C. Hutson",
+      "team": "WSH",
+      "pos": "D",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "M. Tkachuk",
+      "team": "FLA",
+      "pos": "L",
+      "goals": 0,
+      "assists": 2,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Capital One Arena",
+    "finStats": [
+     {
+      "name": "A. Lundell",
+      "team": "FLA",
+      "opp": "WSH",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 0,
+      "toi": "15:49"
+     },
+     {
+      "name": "A. Barkov",
+      "team": "FLA",
+      "opp": "WSH",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 2,
+      "toi": "18:43"
+     },
+     {
+      "name": "E. Luostarinen",
+      "team": "FLA",
+      "opp": "WSH",
+      "pos": "H",
+      "g": 1,
+      "a": 0,
+      "p": 1,
+      "pm": 0,
+      "sog": 1,
+      "toi": "15:33"
+     },
+     {
+      "name": "Niko Mikkola",
+      "team": "FLA",
+      "opp": "WSH",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 2,
+      "toi": "20:41"
      }
     ]
    }
