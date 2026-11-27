@@ -26,7 +26,7 @@
    "subSeason": {
     "assists": 1,
     "gameWinningGoals": 1,
-    "gamesPlayed": 18,
+    "gamesPlayed": 19,
     "goals": 3,
     "otGoals": 0,
     "pim": 0,
@@ -98,6 +98,24 @@
  "last5Games": [
   {
    "assists": 0,
+   "gameDate": "2026-11-27",
+   "gameId": 2026020403,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "STL",
+   "pim": 0,
+   "plusMinus": 0,
+   "points": 0,
+   "powerPlayGoals": 0,
+   "shifts": 13,
+   "shorthandedGoals": 0,
+   "shots": 0,
+   "teamAbbrev": "DAL",
+   "toi": "9:13"
+  },
+  {
+   "assists": 0,
    "gameDate": "2026-11-25",
    "gameId": 2026020395,
    "gameTypeId": 2,
@@ -167,24 +185,6 @@
    "shots": 0,
    "teamAbbrev": "DAL",
    "toi": "9:27"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-12",
-   "gameId": 2026020306,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "H",
-   "opponentAbbrev": "WPG",
-   "pim": 0,
-   "plusMinus": 0,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 19,
-   "shorthandedGoals": 0,
-   "shots": 0,
-   "teamAbbrev": "DAL",
-   "toi": "11:49"
   }
  ],
  "isActive": true,
@@ -620,11 +620,11 @@
   },
   {
    "assists": 1,
-   "avgToi": "11:35",
-   "faceoffWinningPctg": 0.25,
+   "avgToi": "11:28",
+   "faceoffWinningPctg": 0.230769,
    "gameTypeId": 2,
    "gameWinningGoals": 1,
-   "gamesPlayed": 18,
+   "gamesPlayed": 19,
    "goals": 3,
    "leagueAbbrev": "NHL",
    "otGoals": 0,
@@ -844,7 +844,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-27",
+ "_fetched": "2026-11-28",
  "gameLog": [
   [
    "2026-10-02",

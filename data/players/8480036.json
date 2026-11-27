@@ -30,20 +30,20 @@
   "season": 20262027,
   "regularSeason": {
    "subSeason": {
-    "assists": 8,
+    "assists": 9,
     "gameWinningGoals": 2,
-    "gamesPlayed": 19,
+    "gamesPlayed": 20,
     "goals": 5,
     "otGoals": 1,
     "pim": 10,
-    "plusMinus": 2,
-    "points": 13,
+    "plusMinus": 0,
+    "points": 14,
     "powerPlayGoals": 0,
-    "powerPlayPoints": 3,
-    "shootingPctg": 0.15625,
+    "powerPlayPoints": 4,
+    "shootingPctg": 0.147059,
     "shorthandedGoals": 0,
     "shorthandedPoints": 0,
-    "shots": 32
+    "shots": 34
    },
    "career": {
     "assists": 287,
@@ -100,6 +100,24 @@
   }
  },
  "last5Games": [
+  {
+   "assists": 1,
+   "gameDate": "2026-11-27",
+   "gameId": 2026020403,
+   "gameTypeId": 2,
+   "goals": 0,
+   "homeRoadFlag": "R",
+   "opponentAbbrev": "STL",
+   "pim": 0,
+   "plusMinus": -2,
+   "points": 1,
+   "powerPlayGoals": 0,
+   "shifts": 25,
+   "shorthandedGoals": 0,
+   "shots": 2,
+   "teamAbbrev": "DAL",
+   "toi": "27:59"
+  },
   {
    "assists": 0,
    "gameDate": "2026-11-25",
@@ -171,24 +189,6 @@
    "shots": 1,
    "teamAbbrev": "DAL",
    "toi": "26:44"
-  },
-  {
-   "assists": 0,
-   "gameDate": "2026-11-03",
-   "gameId": 2026020243,
-   "gameTypeId": 2,
-   "goals": 0,
-   "homeRoadFlag": "R",
-   "opponentAbbrev": "WSH",
-   "pim": 0,
-   "plusMinus": 0,
-   "points": 0,
-   "powerPlayGoals": 0,
-   "shifts": 8,
-   "shorthandedGoals": 0,
-   "shots": 0,
-   "teamAbbrev": "DAL",
-   "toi": "9:41"
   }
  ],
  "isActive": true,
@@ -689,26 +689,26 @@
    }
   },
   {
-   "assists": 8,
-   "avgToi": "25:27",
+   "assists": 9,
+   "avgToi": "25:35",
    "faceoffWinningPctg": 0.0,
    "gameTypeId": 2,
    "gameWinningGoals": 2,
-   "gamesPlayed": 19,
+   "gamesPlayed": 20,
    "goals": 5,
    "leagueAbbrev": "NHL",
    "otGoals": 1,
    "pim": 10,
-   "plusMinus": 2,
-   "points": 13,
+   "plusMinus": 0,
+   "points": 14,
    "powerPlayGoals": 0,
-   "powerPlayPoints": 3,
+   "powerPlayPoints": 4,
    "season": 20262027,
    "sequence": 1,
-   "shootingPctg": 0.15625,
+   "shootingPctg": 0.147059,
    "shorthandedGoals": 0,
    "shorthandedPoints": 0,
-   "shots": 32,
+   "shots": 34,
    "teamCommonName": {
     "default": "Stars"
    },
@@ -824,7 +824,7 @@
    "sv": null
   }
  ],
- "_fetched": "2026-11-27",
+ "_fetched": "2026-11-28",
  "gameLog": [
   [
    "2026-10-02",

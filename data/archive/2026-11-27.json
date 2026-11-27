@@ -556,7 +556,7 @@
     }
    ],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/uta-at-nsh-recap-6408963720112",
    "videoId": "",
    "details": {
     "goalies": "Karel Vejmelka (UTA) 16 torjuntaa · Juuse Saros (NSH) 30 torjuntaa",
@@ -603,6 +603,374 @@
       "shots": 35,
       "dec": "O",
       "toi": "65:00"
+     }
+    ]
+   }
+  },
+  "2026020403": {
+   "id": 2026020403,
+   "away": "DAL",
+   "home": "STL",
+   "awayScore": 3,
+   "homeScore": 5,
+   "start": "2026-11-27T19:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "00:26",
+     "team": "STL",
+     "who": "Philip Broberg",
+     "tag": "",
+     "ast": [
+      "A. Kaskimäki",
+      "Pavel Butšnevitš"
+     ],
+     "fin": false,
+     "clip": "6408959297112",
+     "gtd": 8
+    },
+    {
+     "p": "1",
+     "t": "12:19",
+     "team": "STL",
+     "who": "Robert Thomas",
+     "tag": "",
+     "ast": [
+      "J. Neighbours",
+      "D. Holloway"
+     ],
+     "fin": false,
+     "clip": "6408959035112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "08:38",
+     "team": "DAL",
+     "who": "Roope Hintz",
+     "tag": "YV",
+     "ast": [
+      "J. Robertson",
+      "M. Rantanen"
+     ],
+     "fin": true,
+     "clip": "6408962700112",
+     "gtd": 9
+    },
+    {
+     "p": "2",
+     "t": "09:44",
+     "team": "DAL",
+     "who": "Jason Robertson",
+     "tag": "YV",
+     "ast": [
+      "W. Johnston",
+      "M. Heiskanen"
+     ],
+     "fin": false,
+     "clip": "6408962422112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "01:06",
+     "team": "DAL",
+     "who": "Jason Robertson",
+     "tag": "",
+     "ast": [
+      "A. Hyry",
+      "R. Hintz"
+     ],
+     "fin": false,
+     "clip": "6408964018112",
+     "gtd": 12
+    },
+    {
+     "p": "3",
+     "t": "06:18",
+     "team": "STL",
+     "who": "Dylan Holloway",
+     "tag": "YV",
+     "ast": [
+      "R. Thomas",
+      "J. Neighbours"
+     ],
+     "fin": false,
+     "clip": "6408964320112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "09:47",
+     "team": "STL",
+     "who": "Aleksanteri Kaskimäki",
+     "tag": "",
+     "ast": [
+      "Pavel Butšnevitš",
+      "J. Berggren"
+     ],
+     "fin": true,
+     "clip": "6408964627112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "19:05",
+     "team": "STL",
+     "who": "Dylan Holloway",
+     "tag": "TM",
+     "ast": [
+      "J. Neighbours",
+      "R. Thomas"
+     ],
+     "fin": false,
+     "clip": "6408965242112",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Casey DeSmith (DAL) 15 torjuntaa · Joel Hofer (STL) 25 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "D. Holloway",
+     "team": "STL",
+     "pos": "L",
+     "goals": 2,
+     "assists": 1,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "A. Kaskimaki",
+     "team": "STL",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "R. Thomas",
+     "team": "STL",
+     "pos": "C",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    }
+   ],
+   "venue": "Enterprise Center",
+   "finStats": [
+    {
+     "name": "J. Kiviranta",
+     "team": "DAL",
+     "opp": "STL",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "09:13"
+    },
+    {
+     "name": "R. Hintz",
+     "team": "DAL",
+     "opp": "STL",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": -3,
+     "sog": 2,
+     "toi": "18:24"
+    },
+    {
+     "name": "A. Hyry",
+     "team": "DAL",
+     "opp": "STL",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 2,
+     "toi": "12:36"
+    },
+    {
+     "name": "M. Rantanen",
+     "team": "DAL",
+     "opp": "STL",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": -3,
+     "sog": 3,
+     "toi": "21:46"
+    },
+    {
+     "name": "M. Heiskanen",
+     "team": "DAL",
+     "opp": "STL",
+     "pos": "P",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": -2,
+     "sog": 2,
+     "toi": "27:59"
+    },
+    {
+     "name": "Esa Lindell",
+     "team": "DAL",
+     "opp": "STL",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 1,
+     "toi": "21:32"
+    },
+    {
+     "name": "A. Kaskimäki",
+     "team": "STL",
+     "opp": "DAL",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 2,
+     "sog": 1,
+     "toi": "13:41"
+    }
+   ],
+   "note": "Suomalaiset: Hintz 1+0, Kaskimäki 1+0",
+   "recapUrl": "https://www.nhl.com/video/dal-at-stl-recap-6408965729112",
+   "videoId": "",
+   "details": {
+    "goalies": "Casey DeSmith (DAL) 15 torjuntaa · Joel Hofer (STL) 25 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "D. Holloway",
+      "team": "STL",
+      "pos": "L",
+      "goals": 2,
+      "assists": 1,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "A. Kaskimaki",
+      "team": "STL",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "R. Thomas",
+      "team": "STL",
+      "pos": "C",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     }
+    ],
+    "venue": "Enterprise Center",
+    "finStats": [
+     {
+      "name": "J. Kiviranta",
+      "team": "DAL",
+      "opp": "STL",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "09:13"
+     },
+     {
+      "name": "R. Hintz",
+      "team": "DAL",
+      "opp": "STL",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": -3,
+      "sog": 2,
+      "toi": "18:24"
+     },
+     {
+      "name": "A. Hyry",
+      "team": "DAL",
+      "opp": "STL",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 2,
+      "toi": "12:36"
+     },
+     {
+      "name": "M. Rantanen",
+      "team": "DAL",
+      "opp": "STL",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": -3,
+      "sog": 3,
+      "toi": "21:46"
+     },
+     {
+      "name": "M. Heiskanen",
+      "team": "DAL",
+      "opp": "STL",
+      "pos": "P",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": -2,
+      "sog": 2,
+      "toi": "27:59"
+     },
+     {
+      "name": "Esa Lindell",
+      "team": "DAL",
+      "opp": "STL",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 1,
+      "toi": "21:32"
+     },
+     {
+      "name": "A. Kaskimäki",
+      "team": "STL",
+      "opp": "DAL",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 2,
+      "sog": 1,
+      "toi": "13:41"
      }
     ]
    }
