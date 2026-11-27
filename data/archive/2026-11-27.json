@@ -1052,6 +1052,455 @@
      }
     ]
    }
+  },
+  "2026020404": {
+   "id": 2026020404,
+   "away": "OTT",
+   "home": "TBL",
+   "awayScore": 6,
+   "homeScore": 2,
+   "start": "2026-11-27T20:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "03:37",
+     "team": "OTT",
+     "who": "Ridly Greig",
+     "tag": "",
+     "ast": [
+      "T. Chabot"
+     ],
+     "fin": false,
+     "clip": "6408962081112",
+     "gtd": 4
+    },
+    {
+     "p": "1",
+     "t": "12:47",
+     "team": "OTT",
+     "who": "Tim Stützle",
+     "tag": "AV",
+     "ast": [
+      "M. Amadio"
+     ],
+     "fin": false,
+     "clip": "6408962528112",
+     "gtd": 14
+    },
+    {
+     "p": "2",
+     "t": "06:20",
+     "team": "OTT",
+     "who": "Michael Amadio",
+     "tag": "",
+     "ast": [
+      "C. Giroux",
+      "Ridly Greig"
+     ],
+     "fin": false,
+     "clip": "6408963557112",
+     "gtd": 10
+    },
+    {
+     "p": "2",
+     "t": "17:37",
+     "team": "OTT",
+     "who": "Tim Stützle",
+     "tag": "",
+     "ast": [
+      "Fabian Zetterlund",
+      "D. Cozens"
+     ],
+     "fin": false,
+     "clip": "6408966641112",
+     "gtd": 15
+    },
+    {
+     "p": "3",
+     "t": "06:17",
+     "team": "OTT",
+     "who": "Artjom Zub",
+     "tag": "",
+     "ast": [
+      "J. Sanderson",
+      "N. Cousins"
+     ],
+     "fin": false,
+     "clip": "6408965599112",
+     "gtd": 1
+    },
+    {
+     "p": "3",
+     "t": "07:55",
+     "team": "OTT",
+     "who": "Claude Giroux",
+     "tag": "",
+     "ast": [
+      "M. Amadio",
+      "T. Kleven"
+     ],
+     "fin": false,
+     "clip": "6408967426112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "09:04",
+     "team": "TBL",
+     "who": "Jake Guentzel",
+     "tag": "",
+     "ast": [
+      "B. Hagel"
+     ],
+     "fin": false,
+     "clip": "6408965601112",
+     "gtd": 14
+    },
+    {
+     "p": "3",
+     "t": "13:49",
+     "team": "TBL",
+     "who": "Jake Guentzel",
+     "tag": "",
+     "ast": [
+      "M. Crozier"
+     ],
+     "fin": false,
+     "clip": "6408967148112",
+     "gtd": 15
+    }
+   ],
+   "goalies": "Linus Ullmark (OTT) 18 torjuntaa · Dennis Hildeby (TBL) 15 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "M. Amadio",
+     "team": "OTT",
+     "pos": "R",
+     "goals": 1,
+     "assists": 2,
+     "points": 3,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "T. Stützle",
+     "team": "OTT",
+     "pos": "C",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Ridly Greig",
+     "team": "OTT",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Benchmark International Arena",
+   "finStats": [
+    {
+     "name": "N. Matinpalo",
+     "team": "OTT",
+     "opp": "TBL",
+     "pos": "P",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -2,
+     "sog": 0,
+     "toi": "16:20"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Linus Ullmark (OTT) 18 torjuntaa · Dennis Hildeby (TBL) 15 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "M. Amadio",
+      "team": "OTT",
+      "pos": "R",
+      "goals": 1,
+      "assists": 2,
+      "points": 3,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "T. Stützle",
+      "team": "OTT",
+      "pos": "C",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Ridly Greig",
+      "team": "OTT",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Benchmark International Arena",
+    "finStats": [
+     {
+      "name": "N. Matinpalo",
+      "team": "OTT",
+      "opp": "TBL",
+      "pos": "P",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -2,
+      "sog": 0,
+      "toi": "16:20"
+     }
+    ]
+   }
+  },
+  "2026020405": {
+   "id": 2026020405,
+   "away": "VAN",
+   "home": "PHI",
+   "awayScore": 2,
+   "homeScore": 5,
+   "start": "2026-11-27T20:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "04:55",
+     "team": "PHI",
+     "who": "Tyson Foerster",
+     "tag": "YV",
+     "ast": [
+      "T. Konecny",
+      "D.Jiricek"
+     ],
+     "fin": false,
+     "clip": "6408960244112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "03:45",
+     "team": "PHI",
+     "who": "Noah Cates",
+     "tag": "",
+     "ast": [
+      "S. Benoit",
+      "N. Seeler"
+     ],
+     "fin": false,
+     "clip": "6408962467112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "10:37",
+     "team": "PHI",
+     "who": "Porter Martone",
+     "tag": "YV",
+     "ast": [
+      "Denver Barkey",
+      "J. Drysdale"
+     ],
+     "fin": false,
+     "clip": "6408965321112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "12:05",
+     "team": "VAN",
+     "who": "Filip Hronek",
+     "tag": "",
+     "ast": [
+      "L. Ohgren",
+      "Z. Buium"
+     ],
+     "fin": false,
+     "clip": "6408965711112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "02:22",
+     "team": "VAN",
+     "who": "Jake DeBrusk",
+     "tag": "",
+     "ast": [
+      "J. Lekkerimäki",
+      "L. Schenn"
+     ],
+     "fin": false,
+     "clip": "6408964888112",
+     "gtd": 9
+    },
+    {
+     "p": "3",
+     "t": "06:02",
+     "team": "PHI",
+     "who": "Travis Konecny",
+     "tag": "YV",
+     "ast": [
+      "C. Dvorak",
+      "T. Foerster"
+     ],
+     "fin": false,
+     "clip": "6408966544112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "18:40",
+     "team": "PHI",
+     "who": "Sean Couturier",
+     "tag": "TM",
+     "ast": [
+      "R. Ristolainen"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 2
+    }
+   ],
+   "goalies": "Leevi Meriläinen (VAN) 24 torjuntaa · Dan Vladar (PHI) 18 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "T. Foerster",
+     "team": "PHI",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "T. Konecny",
+     "team": "PHI",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "Dan Vladar",
+     "team": "PHI",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.9
+    }
+   ],
+   "venue": "Xfinity Mobile Arena",
+   "finStats": [
+    {
+     "name": "Leevi Meriläinen",
+     "team": "VAN",
+     "opp": "PHI",
+     "pos": "MV",
+     "saves": 24,
+     "shots": 28,
+     "dec": "L",
+     "toi": "58:39"
+    },
+    {
+     "name": "R. Ristolainen",
+     "team": "PHI",
+     "opp": "VAN",
+     "pos": "P",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 1,
+     "sog": 0,
+     "toi": "19:57"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Leevi Meriläinen (VAN) 24 torjuntaa · Dan Vladar (PHI) 18 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "T. Foerster",
+      "team": "PHI",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "T. Konecny",
+      "team": "PHI",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "Dan Vladar",
+      "team": "PHI",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.9
+     }
+    ],
+    "venue": "Xfinity Mobile Arena",
+    "finStats": [
+     {
+      "name": "Leevi Meriläinen",
+      "team": "VAN",
+      "opp": "PHI",
+      "pos": "MV",
+      "saves": 24,
+      "shots": 28,
+      "dec": "L",
+      "toi": "58:39"
+     },
+     {
+      "name": "R. Ristolainen",
+      "team": "PHI",
+      "opp": "VAN",
+      "pos": "P",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 1,
+      "sog": 0,
+      "toi": "19:57"
+     }
+    ]
+   }
   }
  }
 }
