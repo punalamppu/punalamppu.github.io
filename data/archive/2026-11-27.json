@@ -974,6 +974,84 @@
      }
     ]
    }
+  },
+  "2026020407": {
+   "id": 2026020407,
+   "away": "DET",
+   "home": "CBJ",
+   "awayScore": 2,
+   "homeScore": 0,
+   "start": "2026-11-27T20:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "11:51",
+     "team": "DET",
+     "who": "J.T. Compher",
+     "tag": "",
+     "ast": [
+      "B. Chiarot",
+      "M. Seider"
+     ],
+     "fin": false,
+     "clip": "6408960554112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "04:37",
+     "team": "DET",
+     "who": "Alex DeBrincat",
+     "tag": "",
+     "ast": [
+      "L. Raymond",
+      "Albert Johansson"
+     ],
+     "fin": false,
+     "clip": "6408965279112",
+     "gtd": 9
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Nationwide Arena",
+   "finStats": [
+    {
+     "name": "M. Pyyhtiä",
+     "team": "CBJ",
+     "opp": "DET",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "07:33"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Nationwide Arena",
+    "finStats": [
+     {
+      "name": "M. Pyyhtiä",
+      "team": "CBJ",
+      "opp": "DET",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "07:33"
+     }
+    ]
+   }
   }
  }
 }
