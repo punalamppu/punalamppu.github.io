@@ -1,0 +1,611 @@
+{
+ "gameDate": "2026-11-27",
+ "games": {
+  "2026020400": {
+   "id": 2026020400,
+   "away": "TOR",
+   "home": "BOS",
+   "awayScore": 3,
+   "homeScore": 1,
+   "start": "2026-11-27T18:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "06:31",
+     "team": "BOS",
+     "who": "Casey Mittelstadt",
+     "tag": "YV",
+     "ast": [
+      "M. Lohrei",
+      "JJ Peterka"
+     ],
+     "fin": false,
+     "clip": "6408957964112",
+     "gtd": 9
+    },
+    {
+     "p": "1",
+     "t": "16:53",
+     "team": "TOR",
+     "who": "Morgan Rielly",
+     "tag": "",
+     "ast": [
+      "T. Stecher",
+      "B. Duhaime"
+     ],
+     "fin": false,
+     "clip": "6408957725112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "17:56",
+     "team": "TOR",
+     "who": "Morgan Rielly",
+     "tag": "",
+     "ast": [
+      "E. Cowan",
+      "C. Sissons"
+     ],
+     "fin": false,
+     "clip": "6408959800112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "07:24",
+     "team": "TOR",
+     "who": "Colton Sissons",
+     "tag": "",
+     "ast": [
+      "G. McKenna"
+     ],
+     "fin": false,
+     "clip": "6408961810112",
+     "gtd": 3
+    }
+   ],
+   "goalies": "Anthony Stolarz (TOR) 28 torjuntaa · Jeremy Swayman (BOS) 15 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Morgan Rielly",
+     "team": "TOR",
+     "pos": "D",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "Anthony Stolarz",
+     "team": "TOR",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.966
+    },
+    {
+     "star": 3,
+     "name": "C. Sissons",
+     "team": "TOR",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "TD Garden",
+   "finStats": [
+    {
+     "name": "A. Räty",
+     "team": "TOR",
+     "opp": "BOS",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 1,
+     "toi": "13:27"
+    }
+   ],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/tor-at-bos-recap-6408963499112",
+   "videoId": "",
+   "details": {
+    "goalies": "Anthony Stolarz (TOR) 28 torjuntaa · Jeremy Swayman (BOS) 15 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Morgan Rielly",
+      "team": "TOR",
+      "pos": "D",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "Anthony Stolarz",
+      "team": "TOR",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.966
+     },
+     {
+      "star": 3,
+      "name": "C. Sissons",
+      "team": "TOR",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "TD Garden",
+    "finStats": [
+     {
+      "name": "A. Räty",
+      "team": "TOR",
+      "opp": "BOS",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 1,
+      "toi": "13:27"
+     }
+    ]
+   }
+  },
+  "2026020401": {
+   "id": 2026020401,
+   "away": "CGY",
+   "home": "NJD",
+   "awayScore": 3,
+   "homeScore": 5,
+   "start": "2026-11-27T18:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "16:37",
+     "team": "CGY",
+     "who": "Joel Hanley",
+     "tag": "",
+     "ast": [
+      "S. Nemec",
+      "Y. Sharangovich"
+     ],
+     "fin": false,
+     "clip": "6408958682112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "00:56",
+     "team": "NJD",
+     "who": "Luke Hughes",
+     "tag": "",
+     "ast": [
+      "D. Hamilton",
+      "J. Hughes"
+     ],
+     "fin": false,
+     "clip": "6408959373112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "01:08",
+     "team": "NJD",
+     "who": "Timo Meier",
+     "tag": "",
+     "ast": [
+      "J. Hughes"
+     ],
+     "fin": false,
+     "clip": "6408959376112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "12:24",
+     "team": "CGY",
+     "who": "Matt Coronato",
+     "tag": "",
+     "ast": [
+      "M. Frost",
+      "Aydar Suniev"
+     ],
+     "fin": false,
+     "clip": "6408958817112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "18:06",
+     "team": "CGY",
+     "who": "Zach Whitecloud",
+     "tag": "",
+     "ast": [
+      "Y. Sharangovich",
+      "S. Nemec"
+     ],
+     "fin": false,
+     "clip": "6408960873112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "07:35",
+     "team": "NJD",
+     "who": "Jack Hughes",
+     "tag": "",
+     "ast": [
+      "A. Gritsyuk",
+      "D. Hamilton"
+     ],
+     "fin": false,
+     "clip": "6408961982112",
+     "gtd": 11
+    },
+    {
+     "p": "3",
+     "t": "16:02",
+     "team": "NJD",
+     "who": "Connor Brown",
+     "tag": "",
+     "ast": [
+      "T. Meier",
+      "J. Hughes"
+     ],
+     "fin": false,
+     "clip": "6408961920112",
+     "gtd": 8
+    },
+    {
+     "p": "3",
+     "t": "19:49",
+     "team": "NJD",
+     "who": "Luke Hughes",
+     "tag": "TM",
+     "ast": [
+      "N. Hischier"
+     ],
+     "fin": false,
+     "clip": "6408962045112",
+     "gtd": 9
+    }
+   ],
+   "goalies": "Devin Cooley (CGY) 29 torjuntaa · Jake Allen (NJD) 26 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "J. Hughes",
+     "team": "NJD",
+     "pos": "C",
+     "goals": 1,
+     "assists": 3,
+     "points": 4,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "T. Meier",
+     "team": "NJD",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "C. Brown",
+     "team": "NJD",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Prudential Center",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "https://www.nhl.com/video/cgy-at-njd-recap-6408963495112",
+   "videoId": "",
+   "details": {
+    "goalies": "Devin Cooley (CGY) 29 torjuntaa · Jake Allen (NJD) 26 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "J. Hughes",
+      "team": "NJD",
+      "pos": "C",
+      "goals": 1,
+      "assists": 3,
+      "points": 4,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "T. Meier",
+      "team": "NJD",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "C. Brown",
+      "team": "NJD",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Prudential Center",
+    "finStats": []
+   }
+  },
+  "2026020402": {
+   "id": 2026020402,
+   "away": "UTA",
+   "home": "NSH",
+   "awayScore": 6,
+   "homeScore": 5,
+   "start": "2026-11-27T18:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "00:52",
+     "team": "NSH",
+     "who": "Filip Forsberg",
+     "tag": "",
+     "ast": [
+      "N. Hoglander",
+      "S. Wright"
+     ],
+     "fin": false,
+     "clip": "6408958546112",
+     "gtd": 10
+    },
+    {
+     "p": "1",
+     "t": "16:43",
+     "team": "NSH",
+     "who": "Roman Josi",
+     "tag": "AV",
+     "ast": [
+      "A. Edstrom",
+      "J. Drury"
+     ],
+     "fin": false,
+     "clip": "6408958970112",
+     "gtd": 3
+    },
+    {
+     "p": "1",
+     "t": "18:33",
+     "team": "UTA",
+     "who": "Clayton Keller",
+     "tag": "",
+     "ast": [
+      "M. Weegar",
+      "V. Trocheck"
+     ],
+     "fin": false,
+     "clip": "6408959672112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "19:54",
+     "team": "UTA",
+     "who": "Mihail Sergatšov",
+     "tag": "",
+     "ast": [
+      "M. Weegar",
+      "C. Keller"
+     ],
+     "fin": false,
+     "clip": "6408958788112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "18:19",
+     "team": "UTA",
+     "who": "Anders Lee",
+     "tag": "",
+     "ast": [
+      "Dmitri Simashev",
+      "M. Sergachev"
+     ],
+     "fin": false,
+     "clip": "6408960783112",
+     "gtd": 4
+    },
+    {
+     "p": "3",
+     "t": "02:40",
+     "team": "NSH",
+     "who": "Alexander Kerfoot",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408960598112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "06:58",
+     "team": "UTA",
+     "who": "Lawson Crouse",
+     "tag": "",
+     "ast": [
+      "L. Cooley",
+      "M. Weegar"
+     ],
+     "fin": false,
+     "clip": "6408959833112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "07:47",
+     "team": "NSH",
+     "who": "Ross Colton",
+     "tag": "",
+     "ast": [
+      "A. Wilsby"
+     ],
+     "fin": false,
+     "clip": "6408960612112",
+     "gtd": 7
+    },
+    {
+     "p": "3",
+     "t": "11:46",
+     "team": "NSH",
+     "who": "Mavrik Bourque",
+     "tag": "",
+     "ast": [
+      "R. O'Reilly",
+      "Nicolas Hague"
+     ],
+     "fin": false,
+     "clip": "6408961830112",
+     "gtd": 2
+    },
+    {
+     "p": "3",
+     "t": "16:05",
+     "team": "UTA",
+     "who": "Anders Lee",
+     "tag": "",
+     "ast": [
+      "D. Guenther"
+     ],
+     "fin": false,
+     "clip": "6408963490112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Karel Vejmelka (UTA) 16 torjuntaa · Juuse Saros (NSH) 30 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "A. Lee",
+     "team": "UTA",
+     "pos": "L",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "A. Kerfoot",
+     "team": "NSH",
+     "pos": "C",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "M. Sergachev",
+     "team": "UTA",
+     "pos": "D",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "Bridgestone Arena",
+   "finStats": [
+    {
+     "name": "Juuse Saros",
+     "team": "NSH",
+     "opp": "UTA",
+     "pos": "MV",
+     "saves": 30,
+     "shots": 35,
+     "dec": "O",
+     "toi": "65:00"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Karel Vejmelka (UTA) 16 torjuntaa · Juuse Saros (NSH) 30 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "A. Lee",
+      "team": "UTA",
+      "pos": "L",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "A. Kerfoot",
+      "team": "NSH",
+      "pos": "C",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "M. Sergachev",
+      "team": "UTA",
+      "pos": "D",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "Bridgestone Arena",
+    "finStats": [
+     {
+      "name": "Juuse Saros",
+      "team": "NSH",
+      "opp": "UTA",
+      "pos": "MV",
+      "saves": 30,
+      "shots": 35,
+      "dec": "O",
+      "toi": "65:00"
+     }
+    ]
+   }
+  }
+ }
+}
