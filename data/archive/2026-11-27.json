@@ -1755,6 +1755,371 @@
      }
     ]
    }
+  },
+  "2026020409": {
+   "id": 2026020409,
+   "away": "LAK",
+   "home": "ANA",
+   "awayScore": 5,
+   "homeScore": 3,
+   "start": "2026-11-27T21:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "14:20",
+     "team": "ANA",
+     "who": "Stian Solberg",
+     "tag": "",
+     "ast": [
+      "M. Granlund",
+      "A. Killorn"
+     ],
+     "fin": false,
+     "clip": "6408965342112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "15:36",
+     "team": "ANA",
+     "who": "Stian Solberg",
+     "tag": "",
+     "ast": [
+      "T. Luneau",
+      "Frank Vatrano"
+     ],
+     "fin": false,
+     "clip": "6408964485112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "01:18",
+     "team": "LAK",
+     "who": "Mats Zuccarello",
+     "tag": "",
+     "ast": [
+      "K. Fiala",
+      "B. Dumoulin"
+     ],
+     "fin": false,
+     "clip": "6408966054112",
+     "gtd": 4
+    },
+    {
+     "p": "2",
+     "t": "05:30",
+     "team": "LAK",
+     "who": "Mats Zuccarello",
+     "tag": "",
+     "ast": [
+      "K. Fiala",
+      "D. Doughty"
+     ],
+     "fin": false,
+     "clip": "6408966838112",
+     "gtd": 5
+    },
+    {
+     "p": "2",
+     "t": "08:49",
+     "team": "LAK",
+     "who": "Adrian Kempe",
+     "tag": "",
+     "ast": [
+      "J. Edmundson",
+      "A. Panarin"
+     ],
+     "fin": false,
+     "clip": "6408966274112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "12:32",
+     "team": "ANA",
+     "who": "Beckett Sennecke",
+     "tag": "YV",
+     "ast": [
+      "M. Granlund",
+      "J. LaCombe"
+     ],
+     "fin": false,
+     "clip": "6408966470112",
+     "gtd": 13
+    },
+    {
+     "p": "3",
+     "t": "02:16",
+     "team": "LAK",
+     "who": "Andre Lee",
+     "tag": "",
+     "ast": [
+      "B. Dumoulin",
+      "A. Turcotte"
+     ],
+     "fin": false,
+     "clip": "6408967010112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "18:39",
+     "team": "LAK",
+     "who": "Trevor Moore",
+     "tag": "TM",
+     "ast": [
+      "Erik Haula"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 5
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Honda Center",
+   "finStats": [
+    {
+     "name": "J. Armia",
+     "team": "LAK",
+     "opp": "ANA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 2,
+     "toi": "12:40"
+    },
+    {
+     "name": "Erik Haula",
+     "team": "LAK",
+     "opp": "ANA",
+     "pos": "H",
+     "g": 0,
+     "a": 1,
+     "p": 1,
+     "pm": 0,
+     "sog": 2,
+     "toi": "16:36"
+    },
+    {
+     "name": "M. Granlund",
+     "team": "ANA",
+     "opp": "LAK",
+     "pos": "H",
+     "g": 0,
+     "a": 2,
+     "p": 2,
+     "pm": 0,
+     "sog": 1,
+     "toi": "21:31"
+    }
+   ],
+   "note": "Suomalaiset: Haula 0+1",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Honda Center",
+    "finStats": [
+     {
+      "name": "J. Armia",
+      "team": "LAK",
+      "opp": "ANA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 2,
+      "toi": "12:40"
+     },
+     {
+      "name": "Erik Haula",
+      "team": "LAK",
+      "opp": "ANA",
+      "pos": "H",
+      "g": 0,
+      "a": 1,
+      "p": 1,
+      "pm": 0,
+      "sog": 2,
+      "toi": "16:36"
+     },
+     {
+      "name": "M. Granlund",
+      "team": "ANA",
+      "opp": "LAK",
+      "pos": "H",
+      "g": 0,
+      "a": 2,
+      "p": 2,
+      "pm": 0,
+      "sog": 1,
+      "toi": "21:31"
+     }
+    ]
+   }
+  },
+  "2026020410": {
+   "id": 2026020410,
+   "away": "VGK",
+   "home": "SJS",
+   "awayScore": 1,
+   "homeScore": 4,
+   "start": "2026-11-27T21:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "2",
+     "t": "15:51",
+     "team": "SJS",
+     "who": "Michael Misa",
+     "tag": "",
+     "ast": [
+      "A. Wennberg",
+      "T. Toffoli"
+     ],
+     "fin": false,
+     "clip": "6408967672112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "05:22",
+     "team": "SJS",
+     "who": "Adam Gaudette",
+     "tag": "",
+     "ast": [
+      "D. Orlov",
+      "Macklin Celebrini"
+     ],
+     "fin": false,
+     "clip": "6408968192112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "10:35",
+     "team": "VGK",
+     "who": "Jack Eichel",
+     "tag": "YV",
+     "ast": [
+      "M. Marner",
+      "T. Hertl"
+     ],
+     "fin": false,
+     "clip": "6408969854112",
+     "gtd": 12
+    },
+    {
+     "p": "3",
+     "t": "14:04",
+     "team": "SJS",
+     "who": "Zack Ostapchuk",
+     "tag": "",
+     "ast": [
+      "C. Graf",
+      "B. Goodrow"
+     ],
+     "fin": false,
+     "clip": "6408970359112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "17:49",
+     "team": "SJS",
+     "who": "Macklin Celebrini",
+     "tag": "TM",
+     "ast": [
+      "I. Stenberg",
+      "A. Gaudette"
+     ],
+     "fin": false,
+     "clip": "",
+     "gtd": 11
+    }
+   ],
+   "goalies": "Carter Hart (VGK) 29 torjuntaa · Yaroslav Askarov (SJS) 27 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "Yaroslav Askarov",
+     "team": "SJS",
+     "pos": "G",
+     "goals": null,
+     "assists": null,
+     "points": null,
+     "svp": 0.964
+    },
+    {
+     "star": 2,
+     "name": "A. Gaudette",
+     "team": "SJS",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "B. Goodrow",
+     "team": "SJS",
+     "pos": "C",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "SAP Center at San Jose",
+   "finStats": [],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Carter Hart (VGK) 29 torjuntaa · Yaroslav Askarov (SJS) 27 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "Yaroslav Askarov",
+      "team": "SJS",
+      "pos": "G",
+      "goals": null,
+      "assists": null,
+      "points": null,
+      "svp": 0.964
+     },
+     {
+      "star": 2,
+      "name": "A. Gaudette",
+      "team": "SJS",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "B. Goodrow",
+      "team": "SJS",
+      "pos": "C",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "SAP Center at San Jose",
+    "finStats": []
+   }
   }
  }
 }
