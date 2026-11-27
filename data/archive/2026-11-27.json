@@ -1873,7 +1873,7 @@
       "Erik Haula"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408970971112",
      "gtd": 5
     }
    ],
@@ -2041,7 +2041,7 @@
       "A. Gaudette"
      ],
      "fin": false,
-     "clip": "",
+     "clip": "6408970965112",
      "gtd": 11
     }
    ],
@@ -2081,7 +2081,7 @@
    "venue": "SAP Center at San Jose",
    "finStats": [],
    "note": "",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/vgk-at-sjs-recap-6408970871112",
    "videoId": "",
    "details": {
     "goalies": "Carter Hart (VGK) 29 torjuntaa · Yaroslav Askarov (SJS) 27 torjuntaa",
@@ -2119,6 +2119,138 @@
     ],
     "venue": "SAP Center at San Jose",
     "finStats": []
+   }
+  },
+  "2026020408": {
+   "id": 2026020408,
+   "away": "COL",
+   "home": "MIN",
+   "awayScore": 4,
+   "homeScore": 3,
+   "start": "2026-11-27T21:00:00Z",
+   "final": "VL",
+   "goals": [
+    {
+     "p": "1",
+     "t": "07:49",
+     "team": "MIN",
+     "who": "Joel Eriksson Ek",
+     "tag": "",
+     "ast": [
+      "M. Boldy"
+     ],
+     "fin": false,
+     "clip": "6408965520112",
+     "gtd": 11
+    },
+    {
+     "p": "1",
+     "t": "12:36",
+     "team": "MIN",
+     "who": "Blake Coleman",
+     "tag": "",
+     "ast": [
+      "J. Brodin",
+      "Z. Bogosian"
+     ],
+     "fin": false,
+     "clip": "6408964354112",
+     "gtd": 11
+    },
+    {
+     "p": "2",
+     "t": "19:16",
+     "team": "MIN",
+     "who": "Joel Eriksson Ek",
+     "tag": "",
+     "ast": [
+      "B. Faber",
+      "B. Coleman"
+     ],
+     "fin": false,
+     "clip": "6408966980112",
+     "gtd": 12
+    },
+    {
+     "p": "3",
+     "t": "13:37",
+     "team": "COL",
+     "who": "Devon Toews",
+     "tag": "",
+     "ast": [
+      "B. Nelson",
+      "T. Hughes"
+     ],
+     "fin": false,
+     "clip": "6408970054112",
+     "gtd": 10
+    },
+    {
+     "p": "3",
+     "t": "16:01",
+     "team": "COL",
+     "who": "Artturi Lehkonen",
+     "tag": "",
+     "ast": [
+      "C. Makar",
+      "N. Kadri"
+     ],
+     "fin": true,
+     "clip": "6408970367112",
+     "gtd": 17
+    },
+    {
+     "p": "3",
+     "t": "19:00",
+     "team": "COL",
+     "who": "T.J. Hughes",
+     "tag": "",
+     "ast": [
+      "A. Lehkonen"
+     ],
+     "fin": false,
+     "clip": "6408969211112",
+     "gtd": 3
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "Grand Casino Arena",
+   "finStats": [
+    {
+     "name": "A. Lehkonen",
+     "team": "COL",
+     "opp": "MIN",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 1,
+     "sog": 5,
+     "toi": "22:50"
+    }
+   ],
+   "note": "Suomalaiset: Lehkonen 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "Grand Casino Arena",
+    "finStats": [
+     {
+      "name": "A. Lehkonen",
+      "team": "COL",
+      "opp": "MIN",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 1,
+      "sog": 5,
+      "toi": "22:50"
+     }
+    ]
    }
   }
  }
