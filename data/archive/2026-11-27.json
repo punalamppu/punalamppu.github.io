@@ -2253,6 +2253,121 @@
      }
     ]
    }
+  },
+  "2026020411": {
+   "id": 2026020411,
+   "away": "NYR",
+   "home": "CHI",
+   "awayScore": 1,
+   "homeScore": 2,
+   "start": "2026-11-27T22:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "04:23",
+     "team": "CHI",
+     "who": "Andrew Mangiapane",
+     "tag": "YV",
+     "ast": [
+      "O. Moore"
+     ],
+     "fin": false,
+     "clip": "6408968950112",
+     "gtd": 1
+    },
+    {
+     "p": "1",
+     "t": "17:41",
+     "team": "NYR",
+     "who": "Mika Zibanejad",
+     "tag": "YV",
+     "ast": [
+      "J. Miller",
+      "A. Fox"
+     ],
+     "fin": false,
+     "clip": "6408967401112",
+     "gtd": 7
+    },
+    {
+     "p": "1",
+     "t": "19:07",
+     "team": "CHI",
+     "who": "Andrew Mangiapane",
+     "tag": "YV",
+     "ast": [
+      "R. Donato",
+      "O. Moore"
+     ],
+     "fin": false,
+     "clip": "6408967610112",
+     "gtd": 2
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "United Center",
+   "finStats": [
+    {
+     "name": "E. Tolvanen",
+     "team": "NYR",
+     "opp": "CHI",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 3,
+     "toi": "13:05"
+    },
+    {
+     "name": "T. Teräväinen",
+     "team": "CHI",
+     "opp": "NYR",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 0,
+     "toi": "17:08"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "United Center",
+    "finStats": [
+     {
+      "name": "E. Tolvanen",
+      "team": "NYR",
+      "opp": "CHI",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 3,
+      "toi": "13:05"
+     },
+     {
+      "name": "T. Teräväinen",
+      "team": "CHI",
+      "opp": "NYR",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 0,
+      "toi": "17:08"
+     }
+    ]
+   }
   }
  }
 }
