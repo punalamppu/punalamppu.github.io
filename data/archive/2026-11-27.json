@@ -2626,7 +2626,7 @@
     }
    ],
    "note": "Suomalaiset: Kakko 2+0",
-   "recapUrl": "",
+   "recapUrl": "https://www.nhl.com/video/sea-at-edm-recap-6408976255112",
    "videoId": "",
    "details": {
     "goalies": "Joey Daccord (SEA) 9 torjuntaa · Tristan Jarry (EDM) 27 torjuntaa",
@@ -2687,6 +2687,259 @@
       "pm": 0,
       "sog": 4,
       "toi": "22:14"
+     }
+    ]
+   }
+  },
+  "2026020413": {
+   "id": 2026020413,
+   "away": "PIT",
+   "home": "BUF",
+   "awayScore": 6,
+   "homeScore": 3,
+   "start": "2026-11-28T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "00:31",
+     "team": "BUF",
+     "who": "Jiri Kulich",
+     "tag": "",
+     "ast": [
+      "R. Dahlin",
+      "J. Doan"
+     ],
+     "fin": false,
+     "clip": "6408972805112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "07:42",
+     "team": "PIT",
+     "who": "Ben Kindel",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408972919112",
+     "gtd": 5
+    },
+    {
+     "p": "1",
+     "t": "09:19",
+     "team": "BUF",
+     "who": "Rasmus Dahlin",
+     "tag": "YV",
+     "ast": [
+      "J. Quinn",
+      "T. Thompson"
+     ],
+     "fin": false,
+     "clip": "6408971963112",
+     "gtd": 6
+    },
+    {
+     "p": "1",
+     "t": "19:20",
+     "team": "PIT",
+     "who": "Kris Letang",
+     "tag": "",
+     "ast": [
+      "E. Malkin",
+      "B. Kindel"
+     ],
+     "fin": false,
+     "clip": "6408972165112",
+     "gtd": 2
+    },
+    {
+     "p": "2",
+     "t": "00:30",
+     "team": "PIT",
+     "who": "Rutger McGroarty",
+     "tag": "",
+     "ast": [
+      "V. Koivunen",
+      "K. Korczak"
+     ],
+     "fin": false,
+     "clip": "6408972630112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "03:15",
+     "team": "PIT",
+     "who": "Blake Lizotte",
+     "tag": "",
+     "ast": [
+      "E. Karlsson",
+      "C. Dewar"
+     ],
+     "fin": false,
+     "clip": "6408973047112",
+     "gtd": 1
+    },
+    {
+     "p": "2",
+     "t": "12:11",
+     "team": "BUF",
+     "who": "Josh Norris",
+     "tag": "",
+     "ast": [
+      "M. Samuelsson",
+      "R. McLeod"
+     ],
+     "fin": false,
+     "clip": "6408975019112",
+     "gtd": 6
+    },
+    {
+     "p": "2",
+     "t": "18:44",
+     "team": "PIT",
+     "who": "Ville Koivunen",
+     "tag": "",
+     "ast": [
+      "R. McGroarty"
+     ],
+     "fin": true,
+     "clip": "6408974358112",
+     "gtd": 3
+    },
+    {
+     "p": "3",
+     "t": "17:59",
+     "team": "PIT",
+     "who": "Jevgeni Malkin",
+     "tag": "TM",
+     "ast": [
+      "D. Carlile"
+     ],
+     "fin": false,
+     "clip": "6408976732112",
+     "gtd": 8
+    }
+   ],
+   "goalies": "Sergei Murashov (PIT) 20 torjuntaa · Ukko-Pekka Luukkonen (BUF) 6 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "V. Koivunen",
+     "team": "PIT",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "R. McGroarty",
+     "team": "PIT",
+     "pos": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "B. Kindel",
+     "team": "PIT",
+     "pos": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "svp": null
+    }
+   ],
+   "venue": "KeyBank Center",
+   "finStats": [
+    {
+     "name": "V. Koivunen",
+     "team": "PIT",
+     "opp": "BUF",
+     "pos": "H",
+     "g": 1,
+     "a": 1,
+     "p": 2,
+     "pm": 2,
+     "sog": 2,
+     "toi": "11:44"
+    },
+    {
+     "name": "Ukko-Pekka Luukkonen",
+     "team": "BUF",
+     "opp": "PIT",
+     "pos": "MV",
+     "saves": 6,
+     "shots": 10,
+     "dec": "L",
+     "toi": "23:15"
+    }
+   ],
+   "note": "Suomalaiset: Koivunen 1+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Sergei Murashov (PIT) 20 torjuntaa · Ukko-Pekka Luukkonen (BUF) 6 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "V. Koivunen",
+      "team": "PIT",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "R. McGroarty",
+      "team": "PIT",
+      "pos": "R",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "B. Kindel",
+      "team": "PIT",
+      "pos": "C",
+      "goals": 1,
+      "assists": 1,
+      "points": 2,
+      "svp": null
+     }
+    ],
+    "venue": "KeyBank Center",
+    "finStats": [
+     {
+      "name": "V. Koivunen",
+      "team": "PIT",
+      "opp": "BUF",
+      "pos": "H",
+      "g": 1,
+      "a": 1,
+      "p": 2,
+      "pm": 2,
+      "sog": 2,
+      "toi": "11:44"
+     },
+     {
+      "name": "Ukko-Pekka Luukkonen",
+      "team": "BUF",
+      "opp": "PIT",
+      "pos": "MV",
+      "saves": 6,
+      "shots": 10,
+      "dec": "L",
+      "toi": "23:15"
      }
     ]
    }
