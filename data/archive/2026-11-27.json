@@ -2474,6 +2474,222 @@
      }
     ]
    }
+  },
+  "2026020414": {
+   "id": 2026020414,
+   "away": "SEA",
+   "home": "EDM",
+   "awayScore": 4,
+   "homeScore": 2,
+   "start": "2026-11-28T01:00:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "11:21",
+     "team": "SEA",
+     "who": "Jordan Eberle",
+     "tag": "",
+     "ast": [],
+     "fin": false,
+     "clip": "6408972144112",
+     "gtd": 8
+    },
+    {
+     "p": "2",
+     "t": "04:57",
+     "team": "EDM",
+     "who": "Connor McDavid",
+     "tag": "YV",
+     "ast": [
+      "E. Bouchard",
+      "R. Nugent-Hopkins"
+     ],
+     "fin": false,
+     "clip": "6408973532112",
+     "gtd": 15
+    },
+    {
+     "p": "2",
+     "t": "13:07",
+     "team": "EDM",
+     "who": "Leon Draisaitl",
+     "tag": "",
+     "ast": [
+      "V. Podkolzin",
+      "M. Ekholm"
+     ],
+     "fin": false,
+     "clip": "6408974226112",
+     "gtd": 24
+    },
+    {
+     "p": "3",
+     "t": "12:48",
+     "team": "SEA",
+     "who": "Kaapo Kakko",
+     "tag": "",
+     "ast": [
+      "M. Samoskevich",
+      "M. Beniers"
+     ],
+     "fin": true,
+     "clip": "6408974473112",
+     "gtd": 5
+    },
+    {
+     "p": "3",
+     "t": "14:48",
+     "team": "SEA",
+     "who": "Kaapo Kakko",
+     "tag": "",
+     "ast": [
+      "M. Beniers"
+     ],
+     "fin": true,
+     "clip": "6408976718112",
+     "gtd": 6
+    },
+    {
+     "p": "3",
+     "t": "18:38",
+     "team": "SEA",
+     "who": "Vince Dunn",
+     "tag": "TM",
+     "ast": [
+      "F. Gaudreau",
+      "C. Stephenson"
+     ],
+     "fin": false,
+     "clip": "6408977026112",
+     "gtd": 5
+    }
+   ],
+   "goalies": "Joey Daccord (SEA) 9 torjuntaa · Tristan Jarry (EDM) 27 torjuntaa",
+   "threeStars": [
+    {
+     "star": 1,
+     "name": "K. Kakko",
+     "team": "SEA",
+     "pos": "R",
+     "goals": 2,
+     "assists": 0,
+     "points": 2,
+     "svp": null
+    },
+    {
+     "star": 2,
+     "name": "J. Eberle",
+     "team": "SEA",
+     "pos": "R",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "svp": null
+    },
+    {
+     "star": 3,
+     "name": "V. Podkolzin",
+     "team": "EDM",
+     "pos": "R",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "svp": null
+    }
+   ],
+   "venue": "Rogers Place",
+   "finStats": [
+    {
+     "name": "K. Kakko",
+     "team": "SEA",
+     "opp": "EDM",
+     "pos": "H",
+     "g": 2,
+     "a": 0,
+     "p": 2,
+     "pm": 1,
+     "sog": 2,
+     "toi": "12:36"
+    },
+    {
+     "name": "K. Kapanen",
+     "team": "EDM",
+     "opp": "SEA",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": 0,
+     "sog": 4,
+     "toi": "22:14"
+    }
+   ],
+   "note": "Suomalaiset: Kakko 2+0",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "Joey Daccord (SEA) 9 torjuntaa · Tristan Jarry (EDM) 27 torjuntaa",
+    "threeStars": [
+     {
+      "star": 1,
+      "name": "K. Kakko",
+      "team": "SEA",
+      "pos": "R",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "svp": null
+     },
+     {
+      "star": 2,
+      "name": "J. Eberle",
+      "team": "SEA",
+      "pos": "R",
+      "goals": 1,
+      "assists": 0,
+      "points": 1,
+      "svp": null
+     },
+     {
+      "star": 3,
+      "name": "V. Podkolzin",
+      "team": "EDM",
+      "pos": "R",
+      "goals": 0,
+      "assists": 1,
+      "points": 1,
+      "svp": null
+     }
+    ],
+    "venue": "Rogers Place",
+    "finStats": [
+     {
+      "name": "K. Kakko",
+      "team": "SEA",
+      "opp": "EDM",
+      "pos": "H",
+      "g": 2,
+      "a": 0,
+      "p": 2,
+      "pm": 1,
+      "sog": 2,
+      "toi": "12:36"
+     },
+     {
+      "name": "K. Kapanen",
+      "team": "EDM",
+      "opp": "SEA",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": 0,
+      "sog": 4,
+      "toi": "22:14"
+     }
+    ]
+   }
   }
  }
 }
