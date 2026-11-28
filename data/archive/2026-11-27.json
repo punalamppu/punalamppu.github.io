@@ -2368,6 +2368,112 @@
      }
     ]
    }
+  },
+  "2026020412": {
+   "id": 2026020412,
+   "away": "WPG",
+   "home": "NYI",
+   "awayScore": 3,
+   "homeScore": 1,
+   "start": "2026-11-28T00:30:00Z",
+   "final": "",
+   "goals": [
+    {
+     "p": "1",
+     "t": "17:04",
+     "team": "WPG",
+     "who": "Kyle Connor",
+     "tag": "",
+     "ast": [
+      "J. Morrissey",
+      "D. Samberg"
+     ],
+     "fin": false,
+     "clip": "6408971853112",
+     "gtd": 21
+    },
+    {
+     "p": "2",
+     "t": "01:16",
+     "team": "WPG",
+     "who": "Gabriel Vilardi",
+     "tag": "",
+     "ast": [
+      "M. Scheifele",
+      "K. Connor"
+     ],
+     "fin": false,
+     "clip": "6408971959112",
+     "gtd": 7
+    },
+    {
+     "p": "2",
+     "t": "15:36",
+     "team": "WPG",
+     "who": "Kyle Connor",
+     "tag": "YV",
+     "ast": [
+      "J. Morrissey",
+      "G. Vilardi"
+     ],
+     "fin": false,
+     "clip": "6408974108112",
+     "gtd": 22
+    },
+    {
+     "p": "3",
+     "t": "05:07",
+     "team": "NYI",
+     "who": "Logan Stanley",
+     "tag": "",
+     "ast": [
+      "A. Duclair",
+      "B. Schenn"
+     ],
+     "fin": false,
+     "clip": "6408973460112",
+     "gtd": 1
+    }
+   ],
+   "goalies": "",
+   "threeStars": [],
+   "venue": "UBS Arena",
+   "finStats": [
+    {
+     "name": "M. Maccelli",
+     "team": "NYI",
+     "opp": "WPG",
+     "pos": "H",
+     "g": 0,
+     "a": 0,
+     "p": 0,
+     "pm": -1,
+     "sog": 2,
+     "toi": "14:47"
+    }
+   ],
+   "note": "",
+   "recapUrl": "",
+   "videoId": "",
+   "details": {
+    "goalies": "",
+    "threeStars": [],
+    "venue": "UBS Arena",
+    "finStats": [
+     {
+      "name": "M. Maccelli",
+      "team": "NYI",
+      "opp": "WPG",
+      "pos": "H",
+      "g": 0,
+      "a": 0,
+      "p": 0,
+      "pm": -1,
+      "sog": 2,
+      "toi": "14:47"
+     }
+    ]
+   }
   }
  }
 }
